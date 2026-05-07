@@ -1,0 +1,126 @@
+1 Adamant Will (FDN) 488
+1 Aggressive Mammoth (FDN) 551
+1 Ajani's Pridemate (FDN) 135
+1 Ancestor Dragon (FDN) 489
+1 Angelic Edict (FDN) 490
+1 Arcane Epiphany (FDN) 29
+1 Battle-Rattle Shaman (FDN) 533
+1 Bear Cub (FDN) 552
+1 Beast-Kin Ranger (FDN) 100
+1 Bigfin Bouncer (FDN) 31
+1 Biogenic Upgrade (FDN) 553
+1 Bishop's Soldier (FDN) 491
+1 Bite Down (FDN) 212
+1 Bloodtithe Collector (FDN) 516
+1 Brineborn Cutthroat (FDN) 152
+1 Broken Wings (FDN) 214
+1 Burrog Befuddler (FDN) 504
+1 Cancel (FDN) 505
+1 Carnelian Orb of Dragonkind (FDN) 534
+1 Cemetery Recruitment (FDN) 517
+1 Clinquant Skymage (FDN) 33
+1 Corsair Captain (FDN) 506
+1 Crossway Troublemakers (FDN) 518
+1 Crow of Dark Tidings (FDN) 519
+1 Dazzling Angel (FDN) 9
+1 Deadly Plot (FDN) 520
+1 Deadly Riposte (FDN) 492
+1 Death Baron (FDN) 521
+1 Diregraf Ghoul (FDN) 171
+1 Dragon Fodder (FDN) 535
+1 Dragonlord's Servant (FDN) 536
+1 Dropkick Bomber (FDN) 537
+1 Druid of the Cowl (FDN) 554
+1 Dwynen's Elite (FDN) 218
+1 Eaten Alive (FDN) 172
+1 Eaten by Piranhas (FDN) 507
+1 Elspeth's Smite (FDN) 493
+1 Elvish Archdruid (FDN) 219
+1 Elvish Regrower (FDN) 104
+1 Erudite Wizard (FDN) 37
+1 Exclusion Mage (FDN) 508
+1 Felidar Savior (FDN) 12
+1 Felling Blow (FDN) 105
+1 Fiery Annihilation (FDN) 86
+1 Fire Elemental (FDN) 538
+1 Firespitter Whelp (FDN) 197
+1 Fleeting Distraction (FDN) 155
+15 Forest (FDN) 280
+1 Frenzied Goblin (FDN) 199
+1 Giant Growth (FDN) 223
+1 Goblin Firebomb (FDN) 562
+1 Goblin Oriflamme (FDN) 539
+1 Goblin Smuggler (FDN) 540
+1 Helpful Hunter (FDN) 16
+1 Herald of Faith (FDN) 494
+1 Hero's Downfall (FDN) 175
+1 Highborn Vampire (FDN) 522
+1 Hinterland Sanctifier (FDN) 730
+1 Hungry Ghoul (FDN) 62
+1 Icewind Elemental (FDN) 42
+1 Incinerating Blast (FDN) 90
+1 Ingenious Leonin (FDN) 495
+1 Inspiring Overseer (FDN) 496
+1 Into the Roil (FDN) 509
+14 Island (FDN) 274
+1 Jazal Goldmane (FDN) 497
+1 Joraga Invocation (FDN) 555
+1 Kargan Dragonrider (FDN) 541
+1 Kindled Fury (FDN) 542
+1 Kitesail Corsair (FDN) 510
+1 Leonin Skyhunter (FDN) 498
+1 Leonin Vanguard (FDN) 499
+1 Llanowar Elves (FDN) 227
+1 Maalfeld Twins (FDN) 523
+1 Magnigoth Sentry (FDN) 556
+1 Mild-Mannered Librarian (FDN) 228
+1 Mischievous Mystic (FDN) 47
+1 Moment of Craving (FDN) 524
+1 Moment of Triumph (FDN) 500
+15 Mountain (FDN) 278
+1 Mystic Archaeologist (FDN) 511
+1 New Horizons (FDN) 557
+1 Offer Immortality (FDN) 525
+1 Opt (FDN) 512
+1 Pacifism (FDN) 501
+1 Pirate's Cutlass (FDN) 563
+8 Plains (FDN) 272
+6 Plains (FDN) 273
+1 Prayer of Binding (FDN) 502
+1 Prideful Parent (FDN) 21
+1 Quick Study (FDN) 513
+1 Quick-Draw Katana (FDN) 130
+1 Raging Redcap (FDN) 543
+1 Rapacious Dragon (FDN) 544
+1 Reassembling Skeleton (FDN) 182
+1 Savannah Lions (FDN) 146
+1 Scorching Dragonfire (FDN) 545
+1 Seize the Spoils (FDN) 546
+1 Skeleton Archer (FDN) 526
+1 Skyraker Giant (FDN) 547
+1 Skyship Buccaneer (FDN) 50
+1 Snakeskin Veil (FDN) 233
+1 Spectral Sailor (FDN) 164
+1 Starlight Snare (FDN) 514
+1 Storm Fleet Spy (FDN) 515
+1 Stromkirk Bloodthief (FDN) 185
+1 Suspicious Shambler (FDN) 527
+1 Swab Goblin (FDN) 548
+3 Swamp (FDN) 277
+11 Swamp (FDN) 276
+1 Tajuru Pathwarden (FDN) 558
+1 Terror of Mount Velus (FDN) 549
+1 Thornweald Archer (FDN) 559
+1 Thrashing Brontodon (FDN) 560
+1 Tolarian Terror (FDN) 167
+1 Twinblade Paladin (FDN) 503
+10 Uncharted Haven (FDN) 564
+1 Undying Malice (FDN) 528
+1 Untamed Hunger (FDN) 529
+1 Vampire Interloper (FDN) 530
+1 Vampire Neonate (FDN) 531
+1 Vampire Spawn (FDN) 532
+1 Vengeful Bloodwitch (FDN) 76
+1 Volley Veteran (FDN) 550
+1 Wildheart Invoker (FDN) 561
+1 Wildwood Scourge (FDN) 236
