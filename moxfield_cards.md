@@ -3,514 +3,514 @@
 Generated: 2026-05-07T23:30:50.4109211+01:00
 
 ## All cards (table)
-|Name|Edition|Count|Tradelist Count|Condition|Language|Foil|Tags|Last Modified|Collector Number|Alter|Proxy|Purchase Price|Precon|Duplicate|
-|---|---|---:|---:|---|---|---|---|---|---|---|---|---:|---|---:|
-|Abrade|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|234|False|False||PrismariArtistry||
-|Abstract Performance|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|17|False|False||PrismariArtistry||
-|Academy Manufactor|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|264|False|False||SquirreledAway||
-|Adamant Will|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|488|False|False||Foundations BeginnerBox||
-|Adarkar Wastes|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|147|False|False||CounterIntelligence||
-|Aether Gale|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|186|False|False||PrismariArtistry||
-|Aether Syphon|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|38|False|False|0.12|||
-|Aggressive Mammoth|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|551|False|False||Foundations BeginnerBox||
-|Ajani's Pridemate|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|135|False|False||Foundations BeginnerBox||
-|Alania, Divergent Storm|blb|1|1|Near Mint|English|||2026-05-03 23:10:15.600000|204|False|False||OtterLimits||
-|Alania's Pathmaker|blb|3|3|Near Mint|English|||2026-05-03 23:10:15.600000|123|False|False||OtterLimits||
-|Alibou, Ancient Witness|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|113|False|False||CounterIntelligence||
-|Amy Rose|sld|1|1|Near Mint|English|||2026-05-03 23:10:41.487000|2083|False|False||SonictheHedgehog FriendsandFoes||
-|Ancestor Dragon|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|489|False|False||Foundations BeginnerBox||
-|Ancient Den|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|148|False|False||CounterIntelligence||
-|Angel of the Ruins|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|63|False|False||CounterIntelligence||
-|Angelic Edict|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|490|False|False||Foundations BeginnerBox||
-|Arasta of the Endless Web|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|205|False|False||SquirreledAway||
-|Arcane Denial|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|187|False|False||PrismariArtistry||
-|Arcane Epiphany|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|29|False|False||Foundations BeginnerBox||
-|Arcane Signet|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|127|False|False||CounterIntelligence; PrismariArtistry; SquirreledAway||
-|Arcane Signet|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|127|False|False||CounterIntelligence; PrismariArtistry; SquirreledAway||
-|Arcane Signet|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|53|False|False||CounterIntelligence; PrismariArtistry; SquirreledAway||
-|Archmage Emeritus|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|188|False|False||PrismariArtistry||
-|Astral Cornucopia|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|131|False|False||CounterIntelligence||
-|Autarch Mammoth|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|153|False|False|0.10|||
-|Avishkar Raceway|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|249|False|False|0.09|||
-|Barren Moor|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|292|False|False||SquirreledAway||
-|Bastion of Remembrance|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|179|False|False||SquirreledAway||
-|Battlefield Forge|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|58|False|False||CounterIntelligence||
-|Battle-Rattle Shaman|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|533|False|False||Foundations BeginnerBox||
-|Bear Cub|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|552|False|False||Foundations BeginnerBox||
-|Beast-Kin Ranger|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|100|False|False||Foundations BeginnerBox||
-|Beastmaster Ascension|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|118|False|False||SquirreledAway||
-|Beledros Witherbloom|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|247|False|False||SquirreledAway||
-|Bellowing Crier|blb|3|3|Near Mint|English|||2026-05-03 23:10:15.600000|42|False|False||OtterLimits||
-|Big Score|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|237|False|False||PrismariArtistry||
-|Bigfin Bouncer|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|31|False|False||Foundations BeginnerBox||
-|Binding the Old Gods|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|248|False|False||SquirreledAway||
-|Biogenic Upgrade|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|553|False|False||Foundations BeginnerBox||
-|Bishop's Soldier|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|491|False|False||Foundations BeginnerBox||
-|Bite Down|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|212|False|False||Foundations BeginnerBox||
-|Blasphemous Act|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|238|False|False||PrismariArtistry||
-|Bloodtithe Collector|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|516|False|False||Foundations BeginnerBox||
-|Blossoming Sands|blb|4|4|Near Mint|English|||2026-05-03 23:10:07.997000|396|False|False||HareRaising||
-|Bogslither's Embrace|ecl|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|94|False|False|0.08|||
-|Bojuka Bog|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|294|False|False||SquirreledAway||
-|Brazen Borrower // Petty Theft|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|190|False|False||||
-|Bria, Riptide Rogue|blb|1|1|Near Mint|English|foil||2026-05-03 23:10:15.600000|379|False|False||||
-|Brineborn Cutthroat|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|152|False|False||Foundations BeginnerBox||
-|Broken Wings|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|214|False|False||Foundations BeginnerBox||
-|Brudiclad, Telchor Engineer|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|299|False|False||PrismariArtistry||
-|Bulwark Ox|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|7|False|False|0.26|||
-|Buried Ruin|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|150|False|False||CounterIntelligence||
-|Burrog Befuddler|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|504|False|False||Foundations BeginnerBox||
-|Burrowguard Mentor|blb|2|2|Near Mint|English|||2026-05-03 23:10:07.997000|206|False|False||HareRaising||
-|Byrke, Long Ear of the Law|blb|1|1|Near Mint|English|foil||2026-05-03 23:10:07.997000|380|False|False||||
-|Cache Grab|blb|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|167|False|False||SquirreledAway||
-|Caelorna, Coral Tyrant|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|40|False|False|0.19|||
-|Cancel|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|505|False|False||Foundations BeginnerBox||
-|Canyon Vaulter|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|8|False|False|0.11|||
-|Carnelian Orb of Dragonkind|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|534|False|False||Foundations BeginnerBox||
-|Carrot Cake|blb|2|2|Near Mint|English|||2026-05-03 23:10:07.997000|7|False|False||HareRaising||
-|Cascade Bluffs|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|153|False|False||CounterIntelligence; PrismariArtistry||
-|Cascade Bluffs|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|364|False|False||CounterIntelligence; PrismariArtistry||
-|Casualties of War|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|125|False|False||SquirreledAway||
-|Cemetery Recruitment|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|517|False|False||Foundations BeginnerBox||
-|Chain Reaction|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|87|False|False||CounterIntelligence; PrismariArtistry||
-|Chain Reaction|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|121|False|False||CounterIntelligence; PrismariArtistry||
-|Chaos Spewer|ecl|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|210|False|False|0.06|||
-|Chaos Warp|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|239|False|False||CounterIntelligence; PrismariArtistry||
-|Chaos Warp|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|49|False|False||CounterIntelligence; PrismariArtistry||
-|Charmed Sleep|blb|2|2|Near Mint|English|||2026-05-03 23:10:15.600000|388|False|False||OtterLimits||
-|Chatterfang, Squirrel General|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|209|False|False||SquirreledAway||
-|Chatterstorm|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|210|False|False||SquirreledAway||
-|Chitin Gravestalker|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|79|False|False|0.14|||
-|Chittering Witch|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|180|False|False||SquirreledAway||
-|Chitterspitter|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|211|False|False||SquirreledAway||
-|Chrome Host Seedshark|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|68|False|False||CounterIntelligence||
-|Clifftop Lookout|blb|2|2|Near Mint|English|||2026-05-03 23:10:07.997000|168|False|False||HareRaising||
-|Clifftop Retreat|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|155|False|False||CounterIntelligence||
-|Clinquant Skymage|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|33|False|False||Foundations BeginnerBox||
-|Cloud Key|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|54|False|False||CounterIntelligence||
-|Coastal Peak|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|52|False|False||PrismariArtistry||
-|Colossification|blb|1|1|Near Mint|English|||2026-05-03 23:10:07.997000|392|False|False||HareRaising||
-|Command Tower|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|129|False|False||CounterIntelligence; PrismariArtistry; SquirreledAway||
-|Command Tower|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|130|False|False||CounterIntelligence; PrismariArtistry; SquirreledAway||
-|Command Tower|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|59|False|False||CounterIntelligence; PrismariArtistry; SquirreledAway||
-|Coretapper|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|132|False|False||CounterIntelligence||
-|Corsair Captain|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|506|False|False||Foundations BeginnerBox||
-|Coruscation Mage|blb|2|2|Near Mint|English|||2026-05-03 23:10:15.600000|131|False|False||OtterLimits||
-|Count on Luck|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|118|False|False|0.27|||
-|Creative Technique|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|241|False|False||PrismariArtistry||
-|Crossway Troublemakers|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|518|False|False||Foundations BeginnerBox||
-|Crow of Dark Tidings|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|519|False|False||Foundations BeginnerBox||
-|Crystalline Crawler|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|133|False|False||CounterIntelligence||
-|Curiosity Crafter|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|191|False|False||PrismariArtistry||
-|Cursed Mirror|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|242|False|False||PrismariArtistry||
-|Cyberdrive Awakener|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|69|False|False||CounterIntelligence||
-|Dance with Calamity|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|243|False|False||PrismariArtistry||
-|Darksteel Reactor|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|134|False|False||CounterIntelligence||
-|Dazzling Angel|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|9|False|False||Foundations BeginnerBox||
-|Deadly Dispute|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|181|False|False||SonictheHedgehog ChasingAdventure; SquirreledAway||
-|Deadly Dispute|sld|1|1|Near Mint|English|||2026-05-03 23:10:32.010000|2091|False|False||SonictheHedgehog ChasingAdventure; SquirreledAway||
-|Deadly Plot|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|520|False|False||Foundations BeginnerBox||
-|Deadly Riposte|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|492|False|False||Foundations BeginnerBox||
-|Death Baron|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|521|False|False||Foundations BeginnerBox||
-|Decree of Pain|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|182|False|False||SquirreledAway||
-|Deep Analysis|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|194|False|False||PrismariArtistry||
-|Deep Forest Hermit|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|213|False|False||SquirreledAway||
-|Deepglow Skate|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|70|False|False||CounterIntelligence||
-|Depthshaker Titan|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|9|False|False||CounterIntelligence||
-|Determined Iteration|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|122|False|False||PrismariArtistry||
-|Dewdrop Cure|blb|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|10|False|False|0.09|||
-|Dig Through Time|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|195|False|False||PrismariArtistry||
-|Diregraf Ghoul|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|171|False|False||Foundations BeginnerBox||
-|Dirgur Focusmage // Braingeyser|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|18|False|False||||
-|Dispatch|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|64|False|False||CounterIntelligence||
-|Dr. Eggman|sld|1|1|Near Mint|English|||2026-05-03 23:10:41.487000|2084|False|False||SonictheHedgehog FriendsandFoes||
-|Dragon Fodder|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|535|False|False||Foundations BeginnerBox||
-|Dragonlord's Servant|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|536|False|False||Foundations BeginnerBox||
-|Dropkick Bomber|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|537|False|False||Foundations BeginnerBox||
-|Druid of the Cowl|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|554|False|False||Foundations BeginnerBox||
-|Druid of the Spade|blb|3|3|Near Mint|English|||2026-05-03 23:10:07.997000|170|False|False||HareRaising||
-|Dwynen's Elite|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|218|False|False||Foundations BeginnerBox||
-|Eaten Alive|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|172|False|False||Foundations BeginnerBox||
-|Eaten by Piranhas|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|507|False|False||Foundations BeginnerBox||
-|Eclipsed Boggart|ecl|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|217|False|False|0.11|||
-|Elder Auntie|ecl|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|133|False|False|0.08|||
-|Elspeth's Smite|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|493|False|False||Foundations BeginnerBox||
-|Elvish Archdruid|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|219|False|False||Foundations BeginnerBox||
-|Elvish Regrower|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|104|False|False||Foundations BeginnerBox||
-|Empowered Autogenerator|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|135|False|False||CounterIntelligence||
-|Emry, Lurker of the Loch|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|71|False|False||CounterIntelligence||
-|End-Raze Forerunners|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|214|False|False||SquirreledAway||
-|Endrider Catalyzer|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|124|False|False|0.07|||
-|Enthusiastic Mechanaut|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|114|False|False||CounterIntelligence||
-|Erudite Wizard|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|37|False|False||Foundations BeginnerBox||
-|Etched Oracle|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|136|False|False||CounterIntelligence||
-|Etherium Sculptor|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|72|False|False||CounterIntelligence||
-|Everflowing Chalice|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|137|False|False||CounterIntelligence||
-|Evolving Wilds|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|302|False|False||CounterIntelligence; SquirreledAway||
-|Evolving Wilds|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|158|False|False||CounterIntelligence; SquirreledAway||
-|Exclusion Mage|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|508|False|False||Foundations BeginnerBox||
-|Exotic Orchard|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|131|False|False||CounterIntelligence; PrismariArtistry; SquirreledAway||
-|Exotic Orchard|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|369|False|False||CounterIntelligence; PrismariArtistry; SquirreledAway||
-|Exotic Orchard|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|159|False|False||CounterIntelligence; PrismariArtistry; SquirreledAway||
-|Experimental Augury|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|73|False|False||CounterIntelligence||
-|Explosive Getaway|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|202|False|False|0.13|||
-|Expressive Iteration|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|309|False|False||PrismariArtistry||
-|Fabled Passage|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|130|False|False||PrismariArtistry||
-|Fabricate|sld|1|1|Near Mint|English|||2026-05-03 23:10:32.010000|2090|False|False||SonictheHedgehog ChasingAdventure||
-|Faerie Mastermind|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|114|False|False||PrismariArtistry||
-|Fecund Greenshell|blb|1|1|Near Mint|English|||2026-05-03 23:10:07.997000|171|False|False||HareRaising||
-|Feisty Spikeling|ecl|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|223|False|False|0.04|||
-|Felidar Savior|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|12|False|False||Foundations BeginnerBox||
-|Felling Blow|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|105|False|False||Foundations BeginnerBox||
-|Fellwar Stone|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|347|False|False||PrismariArtistry||
-|Ferrous Lake|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|370|False|False||PrismariArtistry||
-|Fiery Annihilation|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|86|False|False||Foundations BeginnerBox||
-|Finneas, Ace Archer|blb|1|1|Near Mint|English|||2026-05-03 23:10:07.997000|212|False|False||HareRaising||
-|Fire Elemental|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|538|False|False||Foundations BeginnerBox||
-|Firespitter Whelp|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|197|False|False||Foundations BeginnerBox||
-|Flame Lash|blb|3|3|Near Mint|English|||2026-05-03 23:10:15.600000|391|False|False||OtterLimits||
-|Fleeting Distraction|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|155|False|False||Foundations BeginnerBox||
-|Forest|blb|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|378|False|False|0.18|Foundations BeginnerBox; HareRaising; SquirreledAway|Yes (3)|
-|Forest|blb|9|9|Near Mint|English|||2026-05-03 23:10:57.657000|378|False|False||Foundations BeginnerBox; HareRaising; SquirreledAway|Yes (3)|
-|Forest|blb|11|11|Near Mint|English|||2026-05-03 23:10:57.657000|377|False|False||Foundations BeginnerBox; HareRaising; SquirreledAway|Yes (3)|
-|Forest|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|290|False|False|0.08|Foundations BeginnerBox; HareRaising; SquirreledAway||
-|Forest|fdn|15|15|Near Mint|English|||2026-05-03 23:09:59.423000|280|False|False||Foundations BeginnerBox; HareRaising; SquirreledAway||
-|Frenzied Goblin|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|199|False|False||Foundations BeginnerBox||
-|Frostboil Snarl|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|374|False|False||PrismariArtistry||
-|Fuel the Flames|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|126|False|False|0.18|||
-|Fumigate|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|65|False|False||CounterIntelligence||
-|Furygale Flocking|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|32|False|False||PrismariArtistry||
-|Galazeth Prismari|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|311|False|False||PrismariArtistry||
-|Garruk, Cursed Huntsman|blc|1|1|Near Mint|English|foil||2026-05-03 23:10:57.657000|99|False|False||||
-|Gavel of the Righteous|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|55|False|False||CounterIntelligence||
-|Generous Gift|sld|1|1|Near Mint|English|||2026-05-03 23:10:32.010000|2088|False|False||SonictheHedgehog ChasingAdventure||
-|Giant Growth|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|223|False|False||Foundations BeginnerBox; HareRaising||
-|Giant Growth|blb|2|2|Near Mint|English|||2026-05-03 23:10:07.997000|393|False|False||Foundations BeginnerBox; HareRaising||
-|Gilded Goose|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|221|False|False||SquirreledAway||
-|Glacial Fortress|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|160|False|False||CounterIntelligence||
-|Glittering Massif|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|22|False|False||CounterIntelligence||
-|Goblin Firebomb|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|562|False|False||Foundations BeginnerBox||
-|Goblin Oriflamme|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|539|False|False||Foundations BeginnerBox||
-|Goblin Smuggler|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|540|False|False||Foundations BeginnerBox||
-|Goblin Surveyor|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|131|False|False|0.04|||
-|Goldspan Dragon|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|245|False|False||PrismariArtistry||
-|Golem Foundry|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|138|False|False||CounterIntelligence||
-|Golgari Rot Farm|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|308|False|False||SquirreledAway||
-|Golgari Signet|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|272|False|False||SquirreledAway||
-|Goliath Daydreamer|ecl|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|143|False|False|0.23|||
-|Gourmand's Talent|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|31|False|False||SquirreledAway||
-|Great Furnace|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|161|False|False||CounterIntelligence||
-|Grim Backwoods|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|309|False|False||SquirreledAway||
-|Guidelight Matrix|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|233|False|False|0.07|||
-|Guidelight Optimizer|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|45|False|False|0.06|||
-|Guidelight Synergist|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|16|False|False|0.09|||
-|Hall of Oracles|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|378|False|False||PrismariArtistry||
-|Hammer of Nazahn|sld|1|1|Near Mint|English|||2026-05-03 23:10:50.113000|2098|False|False||||
-|Hangarback Walker|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|139|False|False||CounterIntelligence||
-|Harmonic Prodigy|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|123|False|False||PrismariArtistry||
-|Haunted Mire|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|311|False|False||SquirreledAway||
-|Haywire Mite|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|274|False|False||SquirreledAway||
-|Hazel of the Rootbloom|blc|1|1|Near Mint|English|foil||2026-05-03 23:10:57.657000|2|False|False||||
-|Hazel's Brewmaster|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|17|False|False||SquirreledAway||
-|Helpful Hunter|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|16|False|False||Foundations BeginnerBox||
-|Herald of Faith|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|494|False|False||Foundations BeginnerBox||
-|Hero's Downfall|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|175|False|False||Foundations BeginnerBox||
-|Highborn Vampire|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|522|False|False||Foundations BeginnerBox||
-|Hinterland Sanctifier|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|730|False|False||Foundations BeginnerBox||
-|Honored Dreyleader|blb|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|178|False|False||SquirreledAway||
-|Hop to It|blb|2|2|Near Mint|English|||2026-05-03 23:10:07.997000|16|False|False||HareRaising||
-|Hungry Ghoul|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|62|False|False||Foundations BeginnerBox||
-|Icewind Elemental|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|42|False|False||Foundations BeginnerBox||
-|Idol of Oblivion|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|277|False|False||SquirreledAway||
-|Incinerating Blast|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|90|False|False||Foundations BeginnerBox||
-|Ingenious Leonin|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|495|False|False||Foundations BeginnerBox||
-|Insatiable Frugivore|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|18|False|False||SquirreledAway||
-|Insight Engine|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|6|False|False||CounterIntelligence||
-|Inspired Skypainter // Maestro's Gift|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|48|False|False||||
-|Inspiring Overseer|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|496|False|False||Foundations BeginnerBox||
-|Inspirit, Flagship Vessel|eoc|1|1|Near Mint|English|foil||2026-05-03 23:09:49.723000|2|False|False||||
-|Into the Roil|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|509|False|False||Foundations BeginnerBox||
-|Irrigated Farmland|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|162|False|False||CounterIntelligence||
-|Island|ecl|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|270|False|False|0.10|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry||
-|Island|eoe|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|270|False|False||CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry|Yes (2)|
-|Island|eoe|2|2|Near Mint|English|||2026-05-03 23:09:49.723000|269|False|False||CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry|Yes (2)|
-|Island|sos|8|8|Near Mint|English|||2026-05-03 23:10:23.627000|275|False|False||CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry||
-|Island|blb|6|6|Near Mint|English|||2026-05-03 23:10:15.600000|371|False|False||CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry|Yes (2)|
-|Island|blb|5|5|Near Mint|English|||2026-05-03 23:10:15.600000|372|False|False||CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry|Yes (2)|
-|Island|fdn|14|14|Near Mint|English|||2026-05-03 23:09:59.423000|274|False|False||CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry||
-|Jazal Goldmane|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|497|False|False||Foundations BeginnerBox||
-|Jhoira, Weatherlight Captain|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|118|False|False||CounterIntelligence||
-|Joraga Invocation|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|555|False|False||Foundations BeginnerBox||
-|Jungle Hollow|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|313|False|False||SquirreledAway||
-|Kalakscion, Hunger Tyrant|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|93|False|False|0.17|||
-|Kappa Cannoneer|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|74|False|False||CounterIntelligence||
-|Kargan Dragonrider|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|541|False|False||Foundations BeginnerBox||
-|Karn's Bastion|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|163|False|False||CounterIntelligence||
-|Keen Buccaneer|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|48|False|False|0.04|||
-|Kilo, Apogee Mind|eoc|1|1|Near Mint|English|foil||2026-05-03 23:09:49.723000|3|False|False||||
-|Kindled Fury|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|542|False|False||Foundations BeginnerBox||
-|Kitesail Corsair|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|510|False|False||Foundations BeginnerBox||
-|Knuckles the Echidna|sld|1|1|Near Mint|English|||2026-05-03 23:10:41.487000|2082|False|False||SonictheHedgehog FriendsandFoes||
-|Lasting Tarfire|ecl|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|149|False|False|0.10|||
-|Leitmotif Composer|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|20|False|False||PrismariArtistry||
-|Leonin Skyhunter|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|498|False|False||Foundations BeginnerBox||
-|Leonin Vanguard|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|499|False|False||Foundations BeginnerBox||
-|Lightning Greaves|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|350|False|False||PrismariArtistry||
-|Lightning Greaves|sld|1|1|Near Mint|English|||2026-05-03 23:10:50.113000|2099|False|False||PrismariArtistry||
-|Llanowar Elves|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|227|False|False||Foundations BeginnerBox||
-|Llanowar Wastes|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|315|False|False||SquirreledAway||
-|Lonely Sandbar|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|166|False|False||CounterIntelligence||
-|Long-Range Sensor|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|11|False|False||CounterIntelligence||
-|Lux Artillery|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|140|False|False||CounterIntelligence||
-|Lux Cannon|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|141|False|False||CounterIntelligence||
-|Maalfeld Twins|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|523|False|False||Foundations BeginnerBox||
-|Mabel, Heir to Cragflame|blb|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|336|False|False|0.93|||
-|Maelstrom Pulse|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|126|False|False||SquirreledAway||
-|Magma Opus|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|318|False|False||PrismariArtistry||
-|Magnigoth Sentry|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|556|False|False||Foundations BeginnerBox||
-|Mana Geyser|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|247|False|False||PrismariArtistry||
-|Manaform Hellkite|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|248|False|False||PrismariArtistry||
-|Maskwood Nexus|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|279|False|False||SquirreledAway||
-|Migrating Ketradon|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|170|False|False|0.04|||
-|Mild-Mannered Librarian|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|228|False|False||Foundations BeginnerBox||
-|Miles "Tails" Prower|sld|1|1|Near Mint|English|||2026-05-03 23:10:41.487000|2085|False|False||SonictheHedgehog FriendsandFoes||
-|Mind Spring|blb|1|1|Near Mint|English|||2026-05-03 23:10:15.600000|389|False|False||OtterLimits||
-|Mindless Automaton|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|142|False|False||CounterIntelligence||
-|Mirrorwing Dragon|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|249|False|False||PrismariArtistry||
-|Mischievous Mystic|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|47|False|False||Foundations BeginnerBox||
-|Mockingbird|blb|1|1|Near Mint|English|||2026-05-03 23:10:15.600000|61|False|False||OtterLimits||
-|Moldervine Reclamation|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|255|False|False||SquirreledAway||
-|Molten Tributary|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|387|False|False||PrismariArtistry||
-|Moment of Craving|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|524|False|False||Foundations BeginnerBox||
-|Moment of Triumph|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|500|False|False||Foundations BeginnerBox||
-|Moonlit Meditation|eoe|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|69|False|False|0.35|||
-|Moonstone Eulogist|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|19|False|False||SquirreledAway||
-|Morbid Opportunist|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|183|False|False||SquirreledAway||
-|Mountain|blb|6|6|Near Mint|English|||2026-05-03 23:10:15.600000|376|False|False||CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry|Yes (2)|
-|Mountain|blb|6|6|Near Mint|English|||2026-05-03 23:10:15.600000|375|False|False||CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry|Yes (2)|
-|Mountain|eoe|2|2|Near Mint|English|||2026-05-03 23:09:49.723000|273|False|False||CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry|Yes (2)|
-|Mountain|eoe|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|274|False|False||CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry|Yes (2)|
-|Mountain|fdn|15|15|Near Mint|English|||2026-05-03 23:09:59.423000|278|False|False||CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry||
-|Mountain|sos|7|7|Near Mint|English|||2026-05-03 23:10:23.627000|279|False|False||CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry||
-|Mouth of the Storm|eoe|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|70|False|False|0.05|||
-|Moxite Refinery|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|17|False|False||CounterIntelligence||
-|Muddle, the Ever-Changing|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|5|False|False||PrismariArtistry||
-|Mutant Surveyor|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|98|False|False|0.07|||
-|Myr|sld|1|1|Near Mint|English|||2026-05-03 23:10:50.113000|2101|False|False||||
-|Myr Battlesphere|sld|1|1|Near Mint|English|||2026-05-03 23:10:50.113000|2097|False|False||||
-|Mystic Archaeologist|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|511|False|False||Foundations BeginnerBox||
-|Mystic Monastery|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|170|False|False||CounterIntelligence||
-|Mystic Sanctuary|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|388|False|False||PrismariArtistry||
-|Nadier's Nightblade|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|184|False|False||SquirreledAway||
-|Necroblossom Snarl|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|319|False|False||SquirreledAway||
-|Nested Shambler|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|185|False|False||SquirreledAway||
-|New Horizons|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|557|False|False||Foundations BeginnerBox||
-|Nightmare Sower|ecl|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|114|False|False|0.10|||
-|Offer Immortality|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|525|False|False||Foundations BeginnerBox||
-|Ogre Slumlord|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|186|False|False||SquirreledAway||
-|Ooze Patrol|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|172|False|False|0.14|||
-|Open the Armory|sld|1|1|Near Mint|English|||2026-05-03 23:10:32.010000|2089|False|False||SonictheHedgehog ChasingAdventure||
-|Opt|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|512|False|False||Foundations BeginnerBox||
-|Oran-Rief, the Vastwood|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|320|False|False||SquirreledAway||
-|Organic Extinction|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|66|False|False||CounterIntelligence||
-|Pacifism|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|501|False|False||Foundations BeginnerBox||
-|Path of Ancestry|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|322|False|False||PrismariArtistry; SquirreledAway||
-|Path of Ancestry|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|393|False|False||PrismariArtistry; SquirreledAway||
-|Patrolling Peacemaker|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|5|False|False||CounterIntelligence||
-|Pearl of Wisdom|blb|3|3|Near Mint|English|||2026-05-03 23:10:15.600000|64|False|False||OtterLimits||
-|Pentad Prism|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|56|False|False||CounterIntelligence||
-|Phyrexian Metamorph|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|75|False|False||CounterIntelligence||
-|Pileated Provisioner|blb|3|3|Near Mint|English|||2026-05-03 23:10:07.997000|25|False|False||HareRaising||
-|Pirate's Cutlass|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|563|False|False||Foundations BeginnerBox||
-|Plaguecrafter|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|187|False|False||SquirreledAway||
-|Plains|fdn|8|8|Near Mint|English|||2026-05-03 23:09:59.423000|272|False|False||CounterIntelligence; Foundations BeginnerBox; HareRaising|Yes (2)|
-|Plains|fdn|6|6|Near Mint|English|||2026-05-03 23:09:59.423000|273|False|False||CounterIntelligence; Foundations BeginnerBox; HareRaising|Yes (2)|
-|Plains|blb|6|6|Near Mint|English|||2026-05-03 23:10:07.997000|370|False|False||CounterIntelligence; Foundations BeginnerBox; HareRaising|Yes (2)|
-|Plains|blb|6|6|Near Mint|English|||2026-05-03 23:10:07.997000|369|False|False||CounterIntelligence; Foundations BeginnerBox; HareRaising|Yes (2)|
-|Plains|eoe|2|2|Near Mint|English|||2026-05-03 23:09:49.723000|267|False|False||CounterIntelligence; Foundations BeginnerBox; HareRaising|Yes (2)|
-|Plains|eoe|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|268|False|False||CounterIntelligence; Foundations BeginnerBox; HareRaising|Yes (2)|
-|Plargg and Nassari|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|250|False|False||PrismariArtistry||
-|Plumb the Forbidden|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|188|False|False||SquirreledAway||
-|Poison-Tip Archer|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|256|False|False||SquirreledAway||
-|Prayer of Binding|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|502|False|False||Foundations BeginnerBox||
-|Prideful Parent|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|21|False|False||Foundations BeginnerBox||
-|Prismari Campus|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|394|False|False||PrismariArtistry||
-|Prismari Charm|sos|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|211|False|False||PrismariArtistry||
-|Prismari Command|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|323|False|False||PrismariArtistry||
-|Prismari Pianist|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|34|False|False||PrismariArtistry||
-|Prosperous Innkeeper|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|121|False|False||SquirreledAway||
-|Pull from Tomorrow|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|76|False|False||CounterIntelligence||
-|Putrefy|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|257|False|False||SquirreledAway||
-|Quaketusk Boar|blb|2|2|Near Mint|English|||2026-05-03 23:10:15.600000|146|False|False||OtterLimits||
-|Quick Study|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|513|False|False||Foundations BeginnerBox||
-|Quick-Draw Katana|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|130|False|False||Foundations BeginnerBox||
-|Rabbit Response|blb|2|2|Near Mint|English|||2026-05-03 23:10:07.997000|26|False|False||HareRaising||
-|Rabid Bite|blb|2|2|Near Mint|English|||2026-05-03 23:10:07.997000|394|False|False||HareRaising||
-|Rabid Gnaw|blb|2|2|Near Mint|English|||2026-05-03 23:10:15.600000|147|False|False||OtterLimits||
-|Radiant Summit|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|23|False|False||CounterIntelligence||
-|Raging Redcap|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|543|False|False||Foundations BeginnerBox||
-|Rapacious Dragon|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|544|False|False||Foundations BeginnerBox||
-|Ravenous Squirrel|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|258|False|False||SquirreledAway||
-|Razortide Bridge|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|171|False|False||CounterIntelligence||
-|Reality Shift|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|199|False|False||PrismariArtistry||
-|Reassembling Skeleton|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|182|False|False||Foundations BeginnerBox||
-|Redoubled Stormsinger|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|251|False|False||PrismariArtistry||
-|Reliquary Tower|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|398|False|False||PrismariArtistry||
-|Renegade Bull|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|36|False|False||PrismariArtistry||
-|Repel Calamity|blb|2|2|Near Mint|English|||2026-05-03 23:10:07.997000|27|False|False||HareRaising||
-|Replication Technique|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|200|False|False||PrismariArtistry||
-|Resculpt|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|201|False|False||PrismariArtistry||
-|Resourceful Defense|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|67|False|False||CounterIntelligence||
-|Restless Spire|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|399|False|False||PrismariArtistry||
-|Ride's End|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|25|False|False|0.10|||
-|Rimekin Recluse|ecl|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|66|False|False|0.07|||
-|Rionya, Fire Dancer|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|252|False|False||PrismariArtistry||
-|Ripples of Potential|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|77|False|False||CounterIntelligence||
-|Rite of Replication|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|202|False|False||PrismariArtistry||
-|Rootcast Apprenticeship|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|32|False|False||SquirreledAway||
-|Rootha, Mastering the Moment|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|8|False|False||PrismariArtistry||
-|Rootha, Mercurial Artist|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|329|False|False||PrismariArtistry||
-|Rousing Refrain|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|253|False|False||PrismariArtistry||
-|Rugged Highlands|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|262|False|False|0.03|||
-|Rugged Prairie|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|174|False|False||CounterIntelligence||
-|Run Away Together|ecl|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|67|False|False|0.04|||
-|Run Over|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|179|False|False|0.08|||
-|Rustvale Bridge|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|175|False|False||CounterIntelligence||
-|Safewright Cavalry|ecl|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|191|False|False|0.03|||
-|Savannah Lions|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|146|False|False||Foundations BeginnerBox||
-|Saw in Half|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|113|False|False||SquirreledAway||
-|Scorched Geyser|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|54|False|False||PrismariArtistry||
-|Scorching Dragonfire|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|545|False|False||Foundations BeginnerBox||
-|Scurry of Squirrels|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|33|False|False||SquirreledAway||
-|Seat of the Synod|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|176|False|False||CounterIntelligence||
-|Secluded Steppe|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|177|False|False||CounterIntelligence||
-|Second Harvest|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|123|False|False||SquirreledAway||
-|Seize the Spoils|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|546|False|False||Foundations BeginnerBox||
-|Serra Redeemer|blb|1|1|Near Mint|English|||2026-05-03 23:10:07.997000|387|False|False||HareRaising||
-|Shadow the Hedgehog|sld|1|1|Near Mint|English|||2026-05-03 23:10:41.487000|2086|False|False||SonictheHedgehog FriendsandFoes||
-|Shamanic Revelation|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|237|False|False||SquirreledAway||
-|Shivan Reef|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|404|False|False||CounterIntelligence; PrismariArtistry||
-|Shivan Reef|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|179|False|False||CounterIntelligence; PrismariArtistry||
-|Shore Lurker|ecl|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|34|False|False|0.06|||
-|Silken Strength|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|180|False|False|0.07|||
-|Silverbluff Bridge|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|180|False|False||CounterIntelligence||
-|Skeleton Archer|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|526|False|False||Foundations BeginnerBox||
-|Skullclamp|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|283|False|False||SquirreledAway||
-|Skycloud Expanse|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|181|False|False||CounterIntelligence||
-|Skyfisher Spider|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|261|False|False||SquirreledAway||
-|Skyraker Giant|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|547|False|False||Foundations BeginnerBox||
-|Skyship Buccaneer|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|50|False|False||Foundations BeginnerBox||
-|Snakeskin Veil|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|233|False|False||Foundations BeginnerBox||
-|Sol Ring|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|129|False|False||CounterIntelligence; PrismariArtistry; SonictheHedgehog ChasingAdventure; SquirreledAway||
-|Sol Ring|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|57|False|False||CounterIntelligence; PrismariArtistry; SonictheHedgehog ChasingAdventure; SquirreledAway||
-|Sol Ring|sld|1|1|Near Mint|English|||2026-05-03 23:10:32.010000|2093|False|False||CounterIntelligence; PrismariArtistry; SonictheHedgehog ChasingAdventure; SquirreledAway||
-|Sol Ring|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|128|False|False||CounterIntelligence; PrismariArtistry; SonictheHedgehog ChasingAdventure; SquirreledAway||
-|Solar Array|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|18|False|False||CounterIntelligence||
-|Solemn Simulacrum|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|355|False|False||PrismariArtistry||
-|Sonic the Hedgehog|sld|1|1|Near Mint|English|||2026-05-03 23:10:41.487000|2087|False|False||SonictheHedgehog FriendsandFoes||
-|Soul-Guide Lantern|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|143|False|False||CounterIntelligence||
-|Spectacle Summit|sos|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|262|False|False||PrismariArtistry||
-|Spectral Sailor|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|164|False|False||Foundations BeginnerBox||
-|Spire of Industry|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|183|False|False||CounterIntelligence||
-|Squirrel Nest|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|239|False|False||SquirreledAway||
-|Squirrel Sovereign|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|240|False|False||SquirreledAway||
-|Starlight Snare|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|514|False|False||Foundations BeginnerBox||
-|Starting Column|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|244|False|False|0.07|||
-|Steel Overseer|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|144|False|False||CounterIntelligence||
-|Storm Fleet Spy|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|515|False|False||Foundations BeginnerBox||
-|Stormcatch Mentor|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|331|False|False||OtterLimits; PrismariArtistry||
-|Stormcatch Mentor|blb|2|2|Near Mint|English|||2026-05-03 23:10:15.600000|234|False|False||OtterLimits; PrismariArtistry||
-|Storm-Kiln Artist|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|255|False|False||PrismariArtistry||
-|Stromkirk Bloodthief|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|185|False|False||Foundations BeginnerBox||
-|Study Hall|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|407|False|False||PrismariArtistry||
-|Sulfur Falls|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|184|False|False||CounterIntelligence; PrismariArtistry||
-|Sulfur Falls|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|408|False|False||CounterIntelligence; PrismariArtistry||
-|Super State|sld|1|1|Near Mint|English|||2026-05-03 23:10:41.487000|2081|False|False||SonictheHedgehog FriendsandFoes||
-|Surge Conductor|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|19|False|False||CounterIntelligence||
-|Surge to Victory|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|256|False|False||PrismariArtistry||
-|Suspicious Shambler|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|527|False|False||Foundations BeginnerBox||
-|Swab Goblin|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|548|False|False||Foundations BeginnerBox||
-|Swamp|blb|4|4|Near Mint|English|||2026-05-03 23:10:57.657000|374|False|False||Foundations BeginnerBox; SquirreledAway|Yes (2)|
-|Swamp|blb|4|4|Near Mint|English|||2026-05-03 23:10:57.657000|373|False|False||Foundations BeginnerBox; SquirreledAway|Yes (2)|
-|Swamp|fdn|11|11|Near Mint|English|||2026-05-03 23:09:59.423000|276|False|False||Foundations BeginnerBox; SquirreledAway|Yes (2)|
-|Swamp|fdn|3|3|Near Mint|English|||2026-05-03 23:09:59.423000|277|False|False||Foundations BeginnerBox; SquirreledAway|Yes (2)|
-|Swan Song|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|46|False|False||CounterIntelligence||
-|Swarmyard|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|133|False|False||SquirreledAway||
-|Swarmyard Massacre|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|20|False|False||SquirreledAway||
-|Swiftfoot Boots|sld|1|1|Near Mint|English|||2026-05-03 23:10:50.113000|2096|False|False||||
-|Swiftwater Cliffs|blb|4|4|Near Mint|English|||2026-05-03 23:10:15.600000|397|False|False||OtterLimits||
-|Swiftwing Assailant|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|32|False|False|0.05|||
-|Sword of the Squeak|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|40|False|False||SquirreledAway||
-|Sword of Vengeance|blb|1|1|Near Mint|English|||2026-05-03 23:10:15.600000|395|False|False||OtterLimits||
-|Swords to Plowshares|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|45|False|False||CounterIntelligence||
-|Tainted Wood|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|337|False|False||SquirreledAway||
-|Tajuru Pathwarden|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|558|False|False||Foundations BeginnerBox||
-|Talisman of Creativity|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|357|False|False||PrismariArtistry||
-|Talisman of Resilience|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|288|False|False||SquirreledAway||
-|Tear Asunder|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|241|False|False||SquirreledAway||
-|Tekuthal, Inquiry Dominus|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|78|False|False||CounterIntelligence||
-|Temple of Enlightenment|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|186|False|False||CounterIntelligence||
-|Temple of Epiphany|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|187|False|False||CounterIntelligence; PrismariArtistry||
-|Temple of Epiphany|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|412|False|False||CounterIntelligence; PrismariArtistry||
-|Temple of Malady|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|341|False|False||SquirreledAway||
-|Temple of the False God|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|416|False|False||PrismariArtistry||
-|Temple of Triumph|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|188|False|False||CounterIntelligence||
-|Terramorphic Expanse|sos|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|265|False|False||PrismariArtistry; SquirreledAway||
-|Terramorphic Expanse|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|345|False|False||PrismariArtistry; SquirreledAway||
-|Terror of Mount Velus|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|549|False|False||Foundations BeginnerBox||
-|Tezzeret's Gambit|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|47|False|False||CounterIntelligence||
-|The Mycosynth Gardens|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|168|False|False||CounterIntelligence||
-|The Odd Acorn Gang|blc|1|1|Near Mint|English|foil||2026-05-03 23:10:57.657000|7|False|False||||
-|The Reaver Cleaver|sld|1|1|Near Mint|English|||2026-05-03 23:10:50.113000|2095|False|False||||
-|Thieving Otter|blb|3|3|Near Mint|English|||2026-05-03 23:10:15.600000|390|False|False||OtterLimits||
-|Thirst for Knowledge|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|48|False|False||CounterIntelligence||
-|Thornweald Archer|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|559|False|False||Foundations BeginnerBox||
-|Thought Monitor|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|79|False|False||CounterIntelligence||
-|Thrashing Brontodon|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|560|False|False||Foundations BeginnerBox||
-|Threefold Thunderhulk|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|145|False|False||CounterIntelligence||
-|Throes of Chaos|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|257|False|False||PrismariArtistry||
-|Thrummingbird|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|80|False|False||CounterIntelligence||
-|Thunderclap Drake|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|204|False|False||PrismariArtistry||
-|Tireless Provisioner|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|243|False|False||SquirreledAway||
-|Titan Forge|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|146|False|False||CounterIntelligence||
-|Tolarian Terror|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|167|False|False||Foundations BeginnerBox||
-|Toski, Bearer of Secrets|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|244|False|False||SquirreledAway||
-|Tranquil Thicket|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|350|False|False||SquirreledAway||
-|Treasure|sld|1|1|Near Mint|English|||2026-05-03 23:10:32.010000|2094|False|False||SonictheHedgehog ChasingAdventure||
-|Treasure Cruise|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|205|False|False||PrismariArtistry||
-|Treeguard Duo|blb|3|3|Near Mint|English|||2026-05-03 23:10:07.997000|200|False|False||HareRaising||
-|Turbulent Springs|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|57|False|False||PrismariArtistry||
-|Twilight Mire|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|351|False|False||SquirreledAway||
-|Twinblade Paladin|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|503|False|False||Foundations BeginnerBox||
-|Twinflame|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|258|False|False||PrismariArtistry||
-|Uncharted Haven|fdn|10|10|Near Mint|English|||2026-05-03 23:09:59.423000|564|False|False||Foundations BeginnerBox||
-|Undying Malice|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|528|False|False||Foundations BeginnerBox||
-|Unexpected Windfall|sld|1|1|Near Mint|English|||2026-05-03 23:10:32.010000|2092|False|False||SonictheHedgehog ChasingAdventure||
-|Universal Surveillance|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|81|False|False||CounterIntelligence||
-|Untamed Hunger|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|529|False|False||Foundations BeginnerBox||
-|Uthros Research Craft|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|7|False|False||CounterIntelligence||
-|Vampire Interloper|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|530|False|False||Foundations BeginnerBox||
-|Vampire Neonate|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|531|False|False||Foundations BeginnerBox||
-|Vampire Spawn|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|532|False|False||Foundations BeginnerBox||
-|Vengeful Bloodwitch|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|76|False|False||Foundations BeginnerBox||
-|Veyran, Voice of Duality|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|337|False|False||PrismariArtistry||
-|Viridescent Bog|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|352|False|False||SquirreledAway||
-|Volcanic Salvo|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|259|False|False||PrismariArtistry||
-|Volcanic Torrent|soc|1|1|Near Mint|English|||2026-05-03 23:10:23.627000|260|False|False||PrismariArtistry||
-|Volley Veteran|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|550|False|False||Foundations BeginnerBox||
-|Wake the Past|eoc|1|1|Near Mint|English|||2026-05-03 23:09:49.723000|128|False|False||CounterIntelligence||
-|Walking Sarcophagus|dft|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|246|False|False|0.07|||
-|Wanderbrine Trapper|ecl|1|1|Near Mint|English|||2026-05-03 23:08:48.333000|42|False|False|0.06|||
-|Warren Elder|blb|3|3|Near Mint|English|||2026-05-03 23:10:07.997000|37|False|False||HareRaising||
-|Waterspout Warden|blb|3|3|Near Mint|English|||2026-05-03 23:10:15.600000|80|False|False||OtterLimits||
-|Weatherlight|sld|1|1|Near Mint|English|||2026-05-03 23:10:50.113000|2100|False|False||||
-|Wildheart Invoker|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|561|False|False||Foundations BeginnerBox||
-|Wildwood Scourge|fdn|1|1|Near Mint|English|||2026-05-03 23:09:59.423000|236|False|False||Foundations BeginnerBox||
-|Windgrace's Judgment|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|263|False|False||SquirreledAway||
-|Woe Strider|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|189|False|False||SquirreledAway||
-|Wolfwillow Haven|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|246|False|False||SquirreledAway||
-|Woodland Cemetery|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|354|False|False||SquirreledAway||
-|Zulaport Cutthroat|blc|1|1|Near Mint|English|||2026-05-03 23:10:57.657000|190|False|False||SquirreledAway||
+|Name|Edition|Count|Precon|Duplicate|
+|---|---|---:|---|---|
+|Abrade|soc|1|PrismariArtistry||
+|Abstract Performance|soc|1|PrismariArtistry||
+|Academy Manufactor|blc|1|SquirreledAway||
+|Adamant Will|fdn|1|Foundations BeginnerBox||
+|Adarkar Wastes|eoc|1|CounterIntelligence||
+|Aether Gale|soc|1|PrismariArtistry||
+|Aether Syphon|dft|1|||
+|Aggressive Mammoth|fdn|1|Foundations BeginnerBox||
+|Ajani's Pridemate|fdn|1|Foundations BeginnerBox||
+|Alania, Divergent Storm|blb|1|OtterLimits||
+|Alania's Pathmaker|blb|3|OtterLimits||
+|Alibou, Ancient Witness|eoc|1|CounterIntelligence||
+|Amy Rose|sld|1|SonictheHedgehog FriendsandFoes||
+|Ancestor Dragon|fdn|1|Foundations BeginnerBox||
+|Ancient Den|eoc|1|CounterIntelligence||
+|Angel of the Ruins|eoc|1|CounterIntelligence||
+|Angelic Edict|fdn|1|Foundations BeginnerBox||
+|Arasta of the Endless Web|blc|1|SquirreledAway||
+|Arcane Denial|soc|1|PrismariArtistry||
+|Arcane Epiphany|fdn|1|Foundations BeginnerBox||
+|Arcane Signet|soc|1|CounterIntelligence; PrismariArtistry; SquirreledAway||
+|Arcane Signet|blc|1|CounterIntelligence; PrismariArtistry; SquirreledAway||
+|Arcane Signet|eoc|1|CounterIntelligence; PrismariArtistry; SquirreledAway||
+|Archmage Emeritus|soc|1|PrismariArtistry||
+|Astral Cornucopia|eoc|1|CounterIntelligence||
+|Autarch Mammoth|dft|1|||
+|Avishkar Raceway|dft|1|||
+|Barren Moor|blc|1|SquirreledAway||
+|Bastion of Remembrance|blc|1|SquirreledAway||
+|Battlefield Forge|eoc|1|CounterIntelligence||
+|Battle-Rattle Shaman|fdn|1|Foundations BeginnerBox||
+|Bear Cub|fdn|1|Foundations BeginnerBox||
+|Beast-Kin Ranger|fdn|1|Foundations BeginnerBox||
+|Beastmaster Ascension|blc|1|SquirreledAway||
+|Beledros Witherbloom|blc|1|SquirreledAway||
+|Bellowing Crier|blb|3|OtterLimits||
+|Big Score|soc|1|PrismariArtistry||
+|Bigfin Bouncer|fdn|1|Foundations BeginnerBox||
+|Binding the Old Gods|blc|1|SquirreledAway||
+|Biogenic Upgrade|fdn|1|Foundations BeginnerBox||
+|Bishop's Soldier|fdn|1|Foundations BeginnerBox||
+|Bite Down|fdn|1|Foundations BeginnerBox||
+|Blasphemous Act|soc|1|PrismariArtistry||
+|Bloodtithe Collector|fdn|1|Foundations BeginnerBox||
+|Blossoming Sands|blb|4|HareRaising||
+|Bogslither's Embrace|ecl|1|||
+|Bojuka Bog|blc|1|SquirreledAway||
+|Brazen Borrower // Petty Theft|soc|1|||
+|Bria, Riptide Rogue|blb|1|||
+|Brineborn Cutthroat|fdn|1|Foundations BeginnerBox||
+|Broken Wings|fdn|1|Foundations BeginnerBox||
+|Brudiclad, Telchor Engineer|soc|1|PrismariArtistry||
+|Bulwark Ox|dft|1|||
+|Buried Ruin|eoc|1|CounterIntelligence||
+|Burrog Befuddler|fdn|1|Foundations BeginnerBox||
+|Burrowguard Mentor|blb|2|HareRaising||
+|Byrke, Long Ear of the Law|blb|1|||
+|Cache Grab|blb|1|SquirreledAway||
+|Caelorna, Coral Tyrant|dft|1|||
+|Cancel|fdn|1|Foundations BeginnerBox||
+|Canyon Vaulter|dft|1|||
+|Carnelian Orb of Dragonkind|fdn|1|Foundations BeginnerBox||
+|Carrot Cake|blb|2|HareRaising||
+|Cascade Bluffs|eoc|1|CounterIntelligence; PrismariArtistry||
+|Cascade Bluffs|soc|1|CounterIntelligence; PrismariArtistry||
+|Casualties of War|blc|1|SquirreledAway||
+|Cemetery Recruitment|fdn|1|Foundations BeginnerBox||
+|Chain Reaction|eoc|1|CounterIntelligence; PrismariArtistry||
+|Chain Reaction|soc|1|CounterIntelligence; PrismariArtistry||
+|Chaos Spewer|ecl|1|||
+|Chaos Warp|soc|1|CounterIntelligence; PrismariArtistry||
+|Chaos Warp|eoc|1|CounterIntelligence; PrismariArtistry||
+|Charmed Sleep|blb|2|OtterLimits||
+|Chatterfang, Squirrel General|blc|1|SquirreledAway||
+|Chatterstorm|blc|1|SquirreledAway||
+|Chitin Gravestalker|dft|1|||
+|Chittering Witch|blc|1|SquirreledAway||
+|Chitterspitter|blc|1|SquirreledAway||
+|Chrome Host Seedshark|eoc|1|CounterIntelligence||
+|Clifftop Lookout|blb|2|HareRaising||
+|Clifftop Retreat|eoc|1|CounterIntelligence||
+|Clinquant Skymage|fdn|1|Foundations BeginnerBox||
+|Cloud Key|eoc|1|CounterIntelligence||
+|Coastal Peak|soc|1|PrismariArtistry||
+|Colossification|blb|1|HareRaising||
+|Command Tower|soc|1|CounterIntelligence; PrismariArtistry; SquirreledAway||
+|Command Tower|blc|1|CounterIntelligence; PrismariArtistry; SquirreledAway||
+|Command Tower|eoc|1|CounterIntelligence; PrismariArtistry; SquirreledAway||
+|Coretapper|eoc|1|CounterIntelligence||
+|Corsair Captain|fdn|1|Foundations BeginnerBox||
+|Coruscation Mage|blb|2|OtterLimits||
+|Count on Luck|dft|1|||
+|Creative Technique|soc|1|PrismariArtistry||
+|Crossway Troublemakers|fdn|1|Foundations BeginnerBox||
+|Crow of Dark Tidings|fdn|1|Foundations BeginnerBox||
+|Crystalline Crawler|eoc|1|CounterIntelligence||
+|Curiosity Crafter|soc|1|PrismariArtistry||
+|Cursed Mirror|soc|1|PrismariArtistry||
+|Cyberdrive Awakener|eoc|1|CounterIntelligence||
+|Dance with Calamity|soc|1|PrismariArtistry||
+|Darksteel Reactor|eoc|1|CounterIntelligence||
+|Dazzling Angel|fdn|1|Foundations BeginnerBox||
+|Deadly Dispute|blc|1|SonictheHedgehog ChasingAdventure; SquirreledAway||
+|Deadly Dispute|sld|1|SonictheHedgehog ChasingAdventure; SquirreledAway||
+|Deadly Plot|fdn|1|Foundations BeginnerBox||
+|Deadly Riposte|fdn|1|Foundations BeginnerBox||
+|Death Baron|fdn|1|Foundations BeginnerBox||
+|Decree of Pain|blc|1|SquirreledAway||
+|Deep Analysis|soc|1|PrismariArtistry||
+|Deep Forest Hermit|blc|1|SquirreledAway||
+|Deepglow Skate|eoc|1|CounterIntelligence||
+|Depthshaker Titan|eoc|1|CounterIntelligence||
+|Determined Iteration|soc|1|PrismariArtistry||
+|Dewdrop Cure|blb|1|||
+|Dig Through Time|soc|1|PrismariArtistry||
+|Diregraf Ghoul|fdn|1|Foundations BeginnerBox||
+|Dirgur Focusmage // Braingeyser|soc|1|||
+|Dispatch|eoc|1|CounterIntelligence||
+|Dr. Eggman|sld|1|SonictheHedgehog FriendsandFoes||
+|Dragon Fodder|fdn|1|Foundations BeginnerBox||
+|Dragonlord's Servant|fdn|1|Foundations BeginnerBox||
+|Dropkick Bomber|fdn|1|Foundations BeginnerBox||
+|Druid of the Cowl|fdn|1|Foundations BeginnerBox||
+|Druid of the Spade|blb|3|HareRaising||
+|Dwynen's Elite|fdn|1|Foundations BeginnerBox||
+|Eaten Alive|fdn|1|Foundations BeginnerBox||
+|Eaten by Piranhas|fdn|1|Foundations BeginnerBox||
+|Eclipsed Boggart|ecl|1|||
+|Elder Auntie|ecl|1|||
+|Elspeth's Smite|fdn|1|Foundations BeginnerBox||
+|Elvish Archdruid|fdn|1|Foundations BeginnerBox||
+|Elvish Regrower|fdn|1|Foundations BeginnerBox||
+|Empowered Autogenerator|eoc|1|CounterIntelligence||
+|Emry, Lurker of the Loch|eoc|1|CounterIntelligence||
+|End-Raze Forerunners|blc|1|SquirreledAway||
+|Endrider Catalyzer|dft|1|||
+|Enthusiastic Mechanaut|eoc|1|CounterIntelligence||
+|Erudite Wizard|fdn|1|Foundations BeginnerBox||
+|Etched Oracle|eoc|1|CounterIntelligence||
+|Etherium Sculptor|eoc|1|CounterIntelligence||
+|Everflowing Chalice|eoc|1|CounterIntelligence||
+|Evolving Wilds|blc|1|CounterIntelligence; SquirreledAway||
+|Evolving Wilds|eoc|1|CounterIntelligence; SquirreledAway||
+|Exclusion Mage|fdn|1|Foundations BeginnerBox||
+|Exotic Orchard|blc|1|CounterIntelligence; PrismariArtistry; SquirreledAway||
+|Exotic Orchard|soc|1|CounterIntelligence; PrismariArtistry; SquirreledAway||
+|Exotic Orchard|eoc|1|CounterIntelligence; PrismariArtistry; SquirreledAway||
+|Experimental Augury|eoc|1|CounterIntelligence||
+|Explosive Getaway|dft|1|||
+|Expressive Iteration|soc|1|PrismariArtistry||
+|Fabled Passage|soc|1|PrismariArtistry||
+|Fabricate|sld|1|SonictheHedgehog ChasingAdventure||
+|Faerie Mastermind|soc|1|PrismariArtistry||
+|Fecund Greenshell|blb|1|HareRaising||
+|Feisty Spikeling|ecl|1|||
+|Felidar Savior|fdn|1|Foundations BeginnerBox||
+|Felling Blow|fdn|1|Foundations BeginnerBox||
+|Fellwar Stone|soc|1|PrismariArtistry||
+|Ferrous Lake|soc|1|PrismariArtistry||
+|Fiery Annihilation|fdn|1|Foundations BeginnerBox||
+|Finneas, Ace Archer|blb|1|HareRaising||
+|Fire Elemental|fdn|1|Foundations BeginnerBox||
+|Firespitter Whelp|fdn|1|Foundations BeginnerBox||
+|Flame Lash|blb|3|OtterLimits||
+|Fleeting Distraction|fdn|1|Foundations BeginnerBox||
+|Forest|blb|1|Foundations BeginnerBox; HareRaising; SquirreledAway|Yes (3)|
+|Forest|blb|9|Foundations BeginnerBox; HareRaising; SquirreledAway|Yes (3)|
+|Forest|blb|11|Foundations BeginnerBox; HareRaising; SquirreledAway|Yes (3)|
+|Forest|dft|1|Foundations BeginnerBox; HareRaising; SquirreledAway||
+|Forest|fdn|15|Foundations BeginnerBox; HareRaising; SquirreledAway||
+|Frenzied Goblin|fdn|1|Foundations BeginnerBox||
+|Frostboil Snarl|soc|1|PrismariArtistry||
+|Fuel the Flames|dft|1|||
+|Fumigate|eoc|1|CounterIntelligence||
+|Furygale Flocking|soc|1|PrismariArtistry||
+|Galazeth Prismari|soc|1|PrismariArtistry||
+|Garruk, Cursed Huntsman|blc|1|||
+|Gavel of the Righteous|eoc|1|CounterIntelligence||
+|Generous Gift|sld|1|SonictheHedgehog ChasingAdventure||
+|Giant Growth|fdn|1|Foundations BeginnerBox; HareRaising||
+|Giant Growth|blb|2|Foundations BeginnerBox; HareRaising||
+|Gilded Goose|blc|1|SquirreledAway||
+|Glacial Fortress|eoc|1|CounterIntelligence||
+|Glittering Massif|eoc|1|CounterIntelligence||
+|Goblin Firebomb|fdn|1|Foundations BeginnerBox||
+|Goblin Oriflamme|fdn|1|Foundations BeginnerBox||
+|Goblin Smuggler|fdn|1|Foundations BeginnerBox||
+|Goblin Surveyor|dft|1|||
+|Goldspan Dragon|soc|1|PrismariArtistry||
+|Golem Foundry|eoc|1|CounterIntelligence||
+|Golgari Rot Farm|blc|1|SquirreledAway||
+|Golgari Signet|blc|1|SquirreledAway||
+|Goliath Daydreamer|ecl|1|||
+|Gourmand's Talent|blc|1|SquirreledAway||
+|Great Furnace|eoc|1|CounterIntelligence||
+|Grim Backwoods|blc|1|SquirreledAway||
+|Guidelight Matrix|dft|1|||
+|Guidelight Optimizer|dft|1|||
+|Guidelight Synergist|dft|1|||
+|Hall of Oracles|soc|1|PrismariArtistry||
+|Hammer of Nazahn|sld|1|||
+|Hangarback Walker|eoc|1|CounterIntelligence||
+|Harmonic Prodigy|soc|1|PrismariArtistry||
+|Haunted Mire|blc|1|SquirreledAway||
+|Haywire Mite|blc|1|SquirreledAway||
+|Hazel of the Rootbloom|blc|1|||
+|Hazel's Brewmaster|blc|1|SquirreledAway||
+|Helpful Hunter|fdn|1|Foundations BeginnerBox||
+|Herald of Faith|fdn|1|Foundations BeginnerBox||
+|Hero's Downfall|fdn|1|Foundations BeginnerBox||
+|Highborn Vampire|fdn|1|Foundations BeginnerBox||
+|Hinterland Sanctifier|fdn|1|Foundations BeginnerBox||
+|Honored Dreyleader|blb|1|SquirreledAway||
+|Hop to It|blb|2|HareRaising||
+|Hungry Ghoul|fdn|1|Foundations BeginnerBox||
+|Icewind Elemental|fdn|1|Foundations BeginnerBox||
+|Idol of Oblivion|blc|1|SquirreledAway||
+|Incinerating Blast|fdn|1|Foundations BeginnerBox||
+|Ingenious Leonin|fdn|1|Foundations BeginnerBox||
+|Insatiable Frugivore|blc|1|SquirreledAway||
+|Insight Engine|eoc|1|CounterIntelligence||
+|Inspired Skypainter // Maestro's Gift|soc|1|||
+|Inspiring Overseer|fdn|1|Foundations BeginnerBox||
+|Inspirit, Flagship Vessel|eoc|1|||
+|Into the Roil|fdn|1|Foundations BeginnerBox||
+|Irrigated Farmland|eoc|1|CounterIntelligence||
+|Island|ecl|1|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry||
+|Island|eoe|1|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry|Yes (2)|
+|Island|eoe|2|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry|Yes (2)|
+|Island|sos|8|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry||
+|Island|blb|6|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry|Yes (2)|
+|Island|blb|5|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry|Yes (2)|
+|Island|fdn|14|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry||
+|Jazal Goldmane|fdn|1|Foundations BeginnerBox||
+|Jhoira, Weatherlight Captain|eoc|1|CounterIntelligence||
+|Joraga Invocation|fdn|1|Foundations BeginnerBox||
+|Jungle Hollow|blc|1|SquirreledAway||
+|Kalakscion, Hunger Tyrant|dft|1|||
+|Kappa Cannoneer|eoc|1|CounterIntelligence||
+|Kargan Dragonrider|fdn|1|Foundations BeginnerBox||
+|Karn's Bastion|eoc|1|CounterIntelligence||
+|Keen Buccaneer|dft|1|||
+|Kilo, Apogee Mind|eoc|1|||
+|Kindled Fury|fdn|1|Foundations BeginnerBox||
+|Kitesail Corsair|fdn|1|Foundations BeginnerBox||
+|Knuckles the Echidna|sld|1|SonictheHedgehog FriendsandFoes||
+|Lasting Tarfire|ecl|1|||
+|Leitmotif Composer|soc|1|PrismariArtistry||
+|Leonin Skyhunter|fdn|1|Foundations BeginnerBox||
+|Leonin Vanguard|fdn|1|Foundations BeginnerBox||
+|Lightning Greaves|soc|1|PrismariArtistry||
+|Lightning Greaves|sld|1|PrismariArtistry||
+|Llanowar Elves|fdn|1|Foundations BeginnerBox||
+|Llanowar Wastes|blc|1|SquirreledAway||
+|Lonely Sandbar|eoc|1|CounterIntelligence||
+|Long-Range Sensor|eoc|1|CounterIntelligence||
+|Lux Artillery|eoc|1|CounterIntelligence||
+|Lux Cannon|eoc|1|CounterIntelligence||
+|Maalfeld Twins|fdn|1|Foundations BeginnerBox||
+|Mabel, Heir to Cragflame|blb|1|||
+|Maelstrom Pulse|blc|1|SquirreledAway||
+|Magma Opus|soc|1|PrismariArtistry||
+|Magnigoth Sentry|fdn|1|Foundations BeginnerBox||
+|Mana Geyser|soc|1|PrismariArtistry||
+|Manaform Hellkite|soc|1|PrismariArtistry||
+|Maskwood Nexus|blc|1|SquirreledAway||
+|Migrating Ketradon|dft|1|||
+|Mild-Mannered Librarian|fdn|1|Foundations BeginnerBox||
+|Miles "Tails" Prower|sld|1|SonictheHedgehog FriendsandFoes||
+|Mind Spring|blb|1|OtterLimits||
+|Mindless Automaton|eoc|1|CounterIntelligence||
+|Mirrorwing Dragon|soc|1|PrismariArtistry||
+|Mischievous Mystic|fdn|1|Foundations BeginnerBox||
+|Mockingbird|blb|1|OtterLimits||
+|Moldervine Reclamation|blc|1|SquirreledAway||
+|Molten Tributary|soc|1|PrismariArtistry||
+|Moment of Craving|fdn|1|Foundations BeginnerBox||
+|Moment of Triumph|fdn|1|Foundations BeginnerBox||
+|Moonlit Meditation|eoe|1|||
+|Moonstone Eulogist|blc|1|SquirreledAway||
+|Morbid Opportunist|blc|1|SquirreledAway||
+|Mountain|blb|6|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry|Yes (2)|
+|Mountain|blb|6|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry|Yes (2)|
+|Mountain|eoe|2|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry|Yes (2)|
+|Mountain|eoe|1|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry|Yes (2)|
+|Mountain|fdn|15|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry||
+|Mountain|sos|7|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry||
+|Mouth of the Storm|eoe|1|||
+|Moxite Refinery|eoc|1|CounterIntelligence||
+|Muddle, the Ever-Changing|soc|1|PrismariArtistry||
+|Mutant Surveyor|dft|1|||
+|Myr|sld|1|||
+|Myr Battlesphere|sld|1|||
+|Mystic Archaeologist|fdn|1|Foundations BeginnerBox||
+|Mystic Monastery|eoc|1|CounterIntelligence||
+|Mystic Sanctuary|soc|1|PrismariArtistry||
+|Nadier's Nightblade|blc|1|SquirreledAway||
+|Necroblossom Snarl|blc|1|SquirreledAway||
+|Nested Shambler|blc|1|SquirreledAway||
+|New Horizons|fdn|1|Foundations BeginnerBox||
+|Nightmare Sower|ecl|1|||
+|Offer Immortality|fdn|1|Foundations BeginnerBox||
+|Ogre Slumlord|blc|1|SquirreledAway||
+|Ooze Patrol|dft|1|||
+|Open the Armory|sld|1|SonictheHedgehog ChasingAdventure||
+|Opt|fdn|1|Foundations BeginnerBox||
+|Oran-Rief, the Vastwood|blc|1|SquirreledAway||
+|Organic Extinction|eoc|1|CounterIntelligence||
+|Pacifism|fdn|1|Foundations BeginnerBox||
+|Path of Ancestry|blc|1|PrismariArtistry; SquirreledAway||
+|Path of Ancestry|soc|1|PrismariArtistry; SquirreledAway||
+|Patrolling Peacemaker|eoc|1|CounterIntelligence||
+|Pearl of Wisdom|blb|3|OtterLimits||
+|Pentad Prism|eoc|1|CounterIntelligence||
+|Phyrexian Metamorph|eoc|1|CounterIntelligence||
+|Pileated Provisioner|blb|3|HareRaising||
+|Pirate's Cutlass|fdn|1|Foundations BeginnerBox||
+|Plaguecrafter|blc|1|SquirreledAway||
+|Plains|fdn|8|CounterIntelligence; Foundations BeginnerBox; HareRaising|Yes (2)|
+|Plains|fdn|6|CounterIntelligence; Foundations BeginnerBox; HareRaising|Yes (2)|
+|Plains|blb|6|CounterIntelligence; Foundations BeginnerBox; HareRaising|Yes (2)|
+|Plains|blb|6|CounterIntelligence; Foundations BeginnerBox; HareRaising|Yes (2)|
+|Plains|eoe|2|CounterIntelligence; Foundations BeginnerBox; HareRaising|Yes (2)|
+|Plains|eoe|1|CounterIntelligence; Foundations BeginnerBox; HareRaising|Yes (2)|
+|Plargg and Nassari|soc|1|PrismariArtistry||
+|Plumb the Forbidden|blc|1|SquirreledAway||
+|Poison-Tip Archer|blc|1|SquirreledAway||
+|Prayer of Binding|fdn|1|Foundations BeginnerBox||
+|Prideful Parent|fdn|1|Foundations BeginnerBox||
+|Prismari Campus|soc|1|PrismariArtistry||
+|Prismari Charm|sos|1|PrismariArtistry||
+|Prismari Command|soc|1|PrismariArtistry||
+|Prismari Pianist|soc|1|PrismariArtistry||
+|Prosperous Innkeeper|blc|1|SquirreledAway||
+|Pull from Tomorrow|eoc|1|CounterIntelligence||
+|Putrefy|blc|1|SquirreledAway||
+|Quaketusk Boar|blb|2|OtterLimits||
+|Quick Study|fdn|1|Foundations BeginnerBox||
+|Quick-Draw Katana|fdn|1|Foundations BeginnerBox||
+|Rabbit Response|blb|2|HareRaising||
+|Rabid Bite|blb|2|HareRaising||
+|Rabid Gnaw|blb|2|OtterLimits||
+|Radiant Summit|eoc|1|CounterIntelligence||
+|Raging Redcap|fdn|1|Foundations BeginnerBox||
+|Rapacious Dragon|fdn|1|Foundations BeginnerBox||
+|Ravenous Squirrel|blc|1|SquirreledAway||
+|Razortide Bridge|eoc|1|CounterIntelligence||
+|Reality Shift|soc|1|PrismariArtistry||
+|Reassembling Skeleton|fdn|1|Foundations BeginnerBox||
+|Redoubled Stormsinger|soc|1|PrismariArtistry||
+|Reliquary Tower|soc|1|PrismariArtistry||
+|Renegade Bull|soc|1|PrismariArtistry||
+|Repel Calamity|blb|2|HareRaising||
+|Replication Technique|soc|1|PrismariArtistry||
+|Resculpt|soc|1|PrismariArtistry||
+|Resourceful Defense|eoc|1|CounterIntelligence||
+|Restless Spire|soc|1|PrismariArtistry||
+|Ride's End|dft|1|||
+|Rimekin Recluse|ecl|1|||
+|Rionya, Fire Dancer|soc|1|PrismariArtistry||
+|Ripples of Potential|eoc|1|CounterIntelligence||
+|Rite of Replication|soc|1|PrismariArtistry||
+|Rootcast Apprenticeship|blc|1|SquirreledAway||
+|Rootha, Mastering the Moment|soc|1|PrismariArtistry||
+|Rootha, Mercurial Artist|soc|1|PrismariArtistry||
+|Rousing Refrain|soc|1|PrismariArtistry||
+|Rugged Highlands|dft|1|||
+|Rugged Prairie|eoc|1|CounterIntelligence||
+|Run Away Together|ecl|1|||
+|Run Over|dft|1|||
+|Rustvale Bridge|eoc|1|CounterIntelligence||
+|Safewright Cavalry|ecl|1|||
+|Savannah Lions|fdn|1|Foundations BeginnerBox||
+|Saw in Half|blc|1|SquirreledAway||
+|Scorched Geyser|soc|1|PrismariArtistry||
+|Scorching Dragonfire|fdn|1|Foundations BeginnerBox||
+|Scurry of Squirrels|blc|1|SquirreledAway||
+|Seat of the Synod|eoc|1|CounterIntelligence||
+|Secluded Steppe|eoc|1|CounterIntelligence||
+|Second Harvest|blc|1|SquirreledAway||
+|Seize the Spoils|fdn|1|Foundations BeginnerBox||
+|Serra Redeemer|blb|1|HareRaising||
+|Shadow the Hedgehog|sld|1|SonictheHedgehog FriendsandFoes||
+|Shamanic Revelation|blc|1|SquirreledAway||
+|Shivan Reef|soc|1|CounterIntelligence; PrismariArtistry||
+|Shivan Reef|eoc|1|CounterIntelligence; PrismariArtistry||
+|Shore Lurker|ecl|1|||
+|Silken Strength|dft|1|||
+|Silverbluff Bridge|eoc|1|CounterIntelligence||
+|Skeleton Archer|fdn|1|Foundations BeginnerBox||
+|Skullclamp|blc|1|SquirreledAway||
+|Skycloud Expanse|eoc|1|CounterIntelligence||
+|Skyfisher Spider|blc|1|SquirreledAway||
+|Skyraker Giant|fdn|1|Foundations BeginnerBox||
+|Skyship Buccaneer|fdn|1|Foundations BeginnerBox||
+|Snakeskin Veil|fdn|1|Foundations BeginnerBox||
+|Sol Ring|blc|1|CounterIntelligence; PrismariArtistry; SonictheHedgehog ChasingAdventure; SquirreledAway||
+|Sol Ring|eoc|1|CounterIntelligence; PrismariArtistry; SonictheHedgehog ChasingAdventure; SquirreledAway||
+|Sol Ring|sld|1|CounterIntelligence; PrismariArtistry; SonictheHedgehog ChasingAdventure; SquirreledAway||
+|Sol Ring|soc|1|CounterIntelligence; PrismariArtistry; SonictheHedgehog ChasingAdventure; SquirreledAway||
+|Solar Array|eoc|1|CounterIntelligence||
+|Solemn Simulacrum|soc|1|PrismariArtistry||
+|Sonic the Hedgehog|sld|1|SonictheHedgehog FriendsandFoes||
+|Soul-Guide Lantern|eoc|1|CounterIntelligence||
+|Spectacle Summit|sos|1|PrismariArtistry||
+|Spectral Sailor|fdn|1|Foundations BeginnerBox||
+|Spire of Industry|eoc|1|CounterIntelligence||
+|Squirrel Nest|blc|1|SquirreledAway||
+|Squirrel Sovereign|blc|1|SquirreledAway||
+|Starlight Snare|fdn|1|Foundations BeginnerBox||
+|Starting Column|dft|1|||
+|Steel Overseer|eoc|1|CounterIntelligence||
+|Storm Fleet Spy|fdn|1|Foundations BeginnerBox||
+|Stormcatch Mentor|soc|1|OtterLimits; PrismariArtistry||
+|Stormcatch Mentor|blb|2|OtterLimits; PrismariArtistry||
+|Storm-Kiln Artist|soc|1|PrismariArtistry||
+|Stromkirk Bloodthief|fdn|1|Foundations BeginnerBox||
+|Study Hall|soc|1|PrismariArtistry||
+|Sulfur Falls|eoc|1|CounterIntelligence; PrismariArtistry||
+|Sulfur Falls|soc|1|CounterIntelligence; PrismariArtistry||
+|Super State|sld|1|SonictheHedgehog FriendsandFoes||
+|Surge Conductor|eoc|1|CounterIntelligence||
+|Surge to Victory|soc|1|PrismariArtistry||
+|Suspicious Shambler|fdn|1|Foundations BeginnerBox||
+|Swab Goblin|fdn|1|Foundations BeginnerBox||
+|Swamp|blb|4|Foundations BeginnerBox; SquirreledAway|Yes (2)|
+|Swamp|blb|4|Foundations BeginnerBox; SquirreledAway|Yes (2)|
+|Swamp|fdn|11|Foundations BeginnerBox; SquirreledAway|Yes (2)|
+|Swamp|fdn|3|Foundations BeginnerBox; SquirreledAway|Yes (2)|
+|Swan Song|eoc|1|CounterIntelligence||
+|Swarmyard|blc|1|SquirreledAway||
+|Swarmyard Massacre|blc|1|SquirreledAway||
+|Swiftfoot Boots|sld|1|||
+|Swiftwater Cliffs|blb|4|OtterLimits||
+|Swiftwing Assailant|dft|1|||
+|Sword of the Squeak|blc|1|SquirreledAway||
+|Sword of Vengeance|blb|1|OtterLimits||
+|Swords to Plowshares|eoc|1|CounterIntelligence||
+|Tainted Wood|blc|1|SquirreledAway||
+|Tajuru Pathwarden|fdn|1|Foundations BeginnerBox||
+|Talisman of Creativity|soc|1|PrismariArtistry||
+|Talisman of Resilience|blc|1|SquirreledAway||
+|Tear Asunder|blc|1|SquirreledAway||
+|Tekuthal, Inquiry Dominus|eoc|1|CounterIntelligence||
+|Temple of Enlightenment|eoc|1|CounterIntelligence||
+|Temple of Epiphany|eoc|1|CounterIntelligence; PrismariArtistry||
+|Temple of Epiphany|soc|1|CounterIntelligence; PrismariArtistry||
+|Temple of Malady|blc|1|SquirreledAway||
+|Temple of the False God|soc|1|PrismariArtistry||
+|Temple of Triumph|eoc|1|CounterIntelligence||
+|Terramorphic Expanse|sos|1|PrismariArtistry; SquirreledAway||
+|Terramorphic Expanse|blc|1|PrismariArtistry; SquirreledAway||
+|Terror of Mount Velus|fdn|1|Foundations BeginnerBox||
+|Tezzeret's Gambit|eoc|1|CounterIntelligence||
+|The Mycosynth Gardens|eoc|1|CounterIntelligence||
+|The Odd Acorn Gang|blc|1|||
+|The Reaver Cleaver|sld|1|||
+|Thieving Otter|blb|3|OtterLimits||
+|Thirst for Knowledge|eoc|1|CounterIntelligence||
+|Thornweald Archer|fdn|1|Foundations BeginnerBox||
+|Thought Monitor|eoc|1|CounterIntelligence||
+|Thrashing Brontodon|fdn|1|Foundations BeginnerBox||
+|Threefold Thunderhulk|eoc|1|CounterIntelligence||
+|Throes of Chaos|soc|1|PrismariArtistry||
+|Thrummingbird|eoc|1|CounterIntelligence||
+|Thunderclap Drake|soc|1|PrismariArtistry||
+|Tireless Provisioner|blc|1|SquirreledAway||
+|Titan Forge|eoc|1|CounterIntelligence||
+|Tolarian Terror|fdn|1|Foundations BeginnerBox||
+|Toski, Bearer of Secrets|blc|1|SquirreledAway||
+|Tranquil Thicket|blc|1|SquirreledAway||
+|Treasure|sld|1|SonictheHedgehog ChasingAdventure||
+|Treasure Cruise|soc|1|PrismariArtistry||
+|Treeguard Duo|blb|3|HareRaising||
+|Turbulent Springs|soc|1|PrismariArtistry||
+|Twilight Mire|blc|1|SquirreledAway||
+|Twinblade Paladin|fdn|1|Foundations BeginnerBox||
+|Twinflame|soc|1|PrismariArtistry||
+|Uncharted Haven|fdn|10|Foundations BeginnerBox||
+|Undying Malice|fdn|1|Foundations BeginnerBox||
+|Unexpected Windfall|sld|1|SonictheHedgehog ChasingAdventure||
+|Universal Surveillance|eoc|1|CounterIntelligence||
+|Untamed Hunger|fdn|1|Foundations BeginnerBox||
+|Uthros Research Craft|eoc|1|CounterIntelligence||
+|Vampire Interloper|fdn|1|Foundations BeginnerBox||
+|Vampire Neonate|fdn|1|Foundations BeginnerBox||
+|Vampire Spawn|fdn|1|Foundations BeginnerBox||
+|Vengeful Bloodwitch|fdn|1|Foundations BeginnerBox||
+|Veyran, Voice of Duality|soc|1|PrismariArtistry||
+|Viridescent Bog|blc|1|SquirreledAway||
+|Volcanic Salvo|soc|1|PrismariArtistry||
+|Volcanic Torrent|soc|1|PrismariArtistry||
+|Volley Veteran|fdn|1|Foundations BeginnerBox||
+|Wake the Past|eoc|1|CounterIntelligence||
+|Walking Sarcophagus|dft|1|||
+|Wanderbrine Trapper|ecl|1|||
+|Warren Elder|blb|3|HareRaising||
+|Waterspout Warden|blb|3|OtterLimits||
+|Weatherlight|sld|1|||
+|Wildheart Invoker|fdn|1|Foundations BeginnerBox||
+|Wildwood Scourge|fdn|1|Foundations BeginnerBox||
+|Windgrace's Judgment|blc|1|SquirreledAway||
+|Woe Strider|blc|1|SquirreledAway||
+|Wolfwillow Haven|blc|1|SquirreledAway||
+|Woodland Cemetery|blc|1|SquirreledAway||
+|Zulaport Cutthroat|blc|1|SquirreledAway||
 
 ## Cards not assigned to precons
 - Aether Syphon — Edition: dft
