@@ -1,7 +1,7 @@
-1 Air Shoes (SLD) 2096
-1 Egg Hammer (SLD) 2097
-1 Egg Pawn (SLD) 2101
-1 Knuckles's Gloves (SLD) 2095
-1 Piko Piko Hammer (SLD) 2098
-1 Power Sneakers (SLD) 2099
-1 Tornado, Sonic's Biplane (SLD) 2100
+1 Air Shoes (SLD) 2096 [Switch Boots (BorderLess)]
+1 Egg Hammer (SLD) 2097 [Myr BattleSphere (Borderless)]
+1 Egg Pawn (SLD) 2101 [Myr]
+1 Knuckles's Gloves (SLD) 2095 [The Reaver Cleaver (Borderless)]
+1 Piko Piko Hammer (SLD) 2098 [Hammer of Nazahn (Borderless)]
+1 Power Sneakers (SLD) 2099 [Lightning Greaves (Borderless)]
+1 Tornado, Sonic's Biplane (SLD) 2100 [Weatherlight (Borderless)]

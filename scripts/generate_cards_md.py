@@ -72,12 +72,17 @@ def parse_deck_file(path: str):
         if br:
             alt_text = br.group(1)
             # split on common separators
-            parts = re.split(r"[;,|]\\s*", alt_text)
+            parts = re.split(r"[;,|]\s*", alt_text)
             alt_names = [p.strip() for p in parts if p.strip()]
             # remove bracketed part from the main card name
             main_name = re.sub(r"\s*\[.*?\]", "", card_text).strip()
         else:
             main_name = card_text
+        # remove foil markers like *F* and (F) and stray ' F' markers first
+        main_name = re.sub(r"\*F\*|\(F\)|\s+F\s*$", "", main_name).strip()
+        # strip trailing set/collector info like "(SLD) 2099" or trailing numbers (handles cases where foil markers were present)
+        main_name = re.sub(r"\s*\([A-Za-z0-9\-\s]*\)\s*\d+\s*$", "", main_name).strip()
+        main_name = re.sub(r"\s+\d{2,5}\s*$", "", main_name).strip()
         norm = normalize_name(main_name)
         alt_norms = [normalize_name(a) for a in alt_names]
         cards.append({'name': main_name, 'norm': norm, 'qty': qty, 'alts': alt_norms, 'raw': ln})
@@ -244,25 +249,12 @@ def write_md(outpath, rows, decks, heuristic, ambiguous):
             expected_total = sum(info['qty'] for info in cmap.values())
             fh.write(f"Expected total quantity (from decklist): {expected_total}\n")
             # matched total: exact matches + heuristics/ambiguous
+            # count any CSV rows that were assigned this precon (exact, alt, heuristic, ambiguous)
             matched = 0
-            # exact
-            for norm, info in cmap.items():
-                csv_idxs = []
-                # gather rows matching norm
-                for idx, r in enumerate(rows):
-                    if normalize_name(r.get('Name','')) == norm:
-                        matched += int(r.get('Count', 0) or 0)
-            # heuristics
-            for h in heuristic.get(pre, []):
-                best_norm = h[2]
-                for idx, r in enumerate(rows):
-                    if normalize_name(r.get('Name','')) == best_norm:
-                        matched += int(r.get('Count',0) or 0)
-            for a in ambiguous.get(pre, []):
-                best_norm = a[2]
-                for idx, r in enumerate(rows):
-                    if normalize_name(r.get('Name','')) == best_norm:
-                        matched += int(r.get('Count',0) or 0)
+            for r in rows:
+                assigned = r.get('Precon','') or ''
+                if assigned and pre in assigned:
+                    matched += int(r.get('Count',0) or 0)
 
             fh.write(f"Matched total quantity in CSV (exact + heuristics): {matched}\n\n")
             fh.write("### Heuristic matches (auto-assigned):\n")
@@ -318,3 +310,26 @@ def write_md(outpath, rows, decks, heuristic, ambiguous):
             else:
                 for e in extras:
                     fh.write(f"- {e}\n")
+
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description='Generate moxfield_cards.md from CSV and Precons')
+    parser.add_argument('--csv', default='moxfield_latest.csv')
+    parser.add_argument('--precons', default='Precons')
+    parser.add_argument('--out', default='moxfield_cards.md')
+    parser.add_argument('--auto-threshold', type=float, default=0.90)
+    parser.add_argument('--ambiguous-threshold', type=float, default=0.75)
+    args = parser.parse_args()
+
+    if not os.path.isfile(args.csv):
+        print(f"CSV not found: {args.csv}")
+        sys.exit(1)
+    if not os.path.isdir(args.precons):
+        print(f"Precons directory not found: {args.precons}")
+        sys.exit(1)
+
+    decks = read_precons(args.precons)
+    rows = read_csv(args.csv)
+    rows, heuristic, ambiguous = assign_precons(decks, rows, auto_thresh=args.auto_threshold, ambig_thresh=args.ambiguous_threshold)
+    write_md(args.out, rows, decks, heuristic, ambiguous)
+    print(f"WROTE {args.out}")
