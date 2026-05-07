@@ -12,6 +12,7 @@ Usage:
 
 Behavior:
 - Parses Precons/*.txt (one card per line, optional leading quantity, optional first-line title)
+- Supports alternative names in square brackets, e.g. "Main Name [Alt Name]"
 - Normalizes names and matches exactly against CSV names, then applies fuzzy matching (difflib) for unmatched cards
 - Produces a markdown with table columns: Name, Edition, Count, Precon, Duplicate, and per-precon summaries
 
@@ -40,6 +41,10 @@ def normalize_name(name: str) -> str:
 
 
 def parse_deck_file(path: str):
+    """Parse a deck file. Returns (precon_name, list of entries)
+
+    Each entry is a dict: { name, norm, qty, alts } where alts is a list of alt normalized names.
+    """
     lines = []
     with open(path, encoding="utf-8") as fh:
         for ln in fh:
@@ -57,12 +62,25 @@ def parse_deck_file(path: str):
         m = re.match(r"^(\d+)\s+(.+)$", ln)
         if m:
             qty = int(m.group(1))
-            card = m.group(2).strip()
+            card_text = m.group(2).strip()
         else:
             qty = 1
-            card = ln
-        norm = normalize_name(card)
-        cards.append((card, norm, qty))
+            card_text = ln
+        # detect alternative names in square brackets, e.g. "Main Name [Alt1; Alt2]"
+        alt_names = []
+        br = re.search(r"\[(.*?)\]", card_text)
+        if br:
+            alt_text = br.group(1)
+            # split on common separators
+            parts = re.split(r"[;,|]\\s*", alt_text)
+            alt_names = [p.strip() for p in parts if p.strip()]
+            # remove bracketed part from the main card name
+            main_name = re.sub(r"\s*\[.*?\]", "", card_text).strip()
+        else:
+            main_name = card_text
+        norm = normalize_name(main_name)
+        alt_norms = [normalize_name(a) for a in alt_names]
+        cards.append({'name': main_name, 'norm': norm, 'qty': qty, 'alts': alt_norms, 'raw': ln})
     return name, cards
 
 
@@ -75,13 +93,14 @@ def read_precons(dirpath: str):
         if not os.path.isfile(full):
             continue
         precon_name, cards = parse_deck_file(full)
-        # aggregate by normalized name
+        # aggregate by normalized name, keep alt norms in list
         d = {}
-        for card, norm, qty in cards:
+        for entry in cards:
+            norm = entry['norm']
             if norm in d:
-                d[norm]['qty'] += qty
+                d[norm]['qty'] += entry['qty']
             else:
-                d[norm] = {'name': card, 'norm': norm, 'qty': qty}
+                d[norm] = {'name': entry['name'], 'norm': norm, 'qty': entry['qty'], 'alts': entry['alts']}
         decks[precon_name] = d
     return decks
 
@@ -123,15 +142,36 @@ def assign_precons(decks, rows, auto_thresh=0.90, ambig_thresh=0.75):
                         rows[idx]['Precon'] += '; ' + pre
                     else:
                         rows[idx]['Precon'] = pre
+            else:
+                # if original norm not found, try exact match on alts
+                for alt in info.get('alts', []):
+                    if alt in csv_index:
+                        for idx in csv_index[alt]:
+                            append = pre + ' (alt)'
+                            if rows[idx]['Precon']:
+                                rows[idx]['Precon'] += '; ' + append
+                            else:
+                                rows[idx]['Precon'] = append
+                        break
 
     heuristic = defaultdict(list)
     ambiguous = defaultdict(list)
 
-    # fuzzy match for norms not in csv_index
+    # fuzzy match for norms not in csv_index (only if not matched by alt exact)
     for pre, cmap in decks.items():
         for norm, info in cmap.items():
+            # skip if already matched exactly or via alt
+            already_matched = False
             if norm in csv_index:
+                already_matched = True
+            else:
+                for alt in info.get('alts', []):
+                    if alt in csv_index:
+                        already_matched = True
+                        break
+            if already_matched:
                 continue
+            # find best fuzzy match among csv_norms
             best = None
             best_score = 0.0
             for cn in csv_norms:
@@ -139,6 +179,14 @@ def assign_precons(decks, rows, auto_thresh=0.90, ambig_thresh=0.75):
                 if score > best_score:
                     best_score = score
                     best = cn
+            # if fuzzy fails on original, try fuzzy on alts (choose best alt fuzzy)
+            if (not best or best_score < ambig_thresh) and info.get('alts'):
+                for alt in info.get('alts', []):
+                    for cn in csv_norms:
+                        score = levenshtein_ratio(alt, cn)
+                        if score > best_score:
+                            best_score = score
+                            best = cn
             if best and best_score >= auto_thresh:
                 heuristic[pre].append((info['name'], norm, best, best_score))
                 for idx in csv_index[best]:
@@ -270,29 +318,3 @@ def write_md(outpath, rows, decks, heuristic, ambiguous):
             else:
                 for e in extras:
                     fh.write(f"- {e}\n")
-
-
-def main():
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--csv', default='moxfield_latest.csv')
-    parser.add_argument('--precons', default='Precons')
-    parser.add_argument('--out', default='moxfield_cards.md')
-    parser.add_argument('--auto-threshold', type=float, default=0.90)
-    parser.add_argument('--ambiguous-threshold', type=float, default=0.75)
-    args = parser.parse_args()
-
-    if not os.path.isfile(args.csv):
-        print('CSV file not found:', args.csv, file=sys.stderr)
-        sys.exit(2)
-    if not os.path.isdir(args.precons):
-        print('Precons dir not found:', args.precons, file=sys.stderr)
-        sys.exit(2)
-
-    decks = read_precons(args.precons)
-    rows = read_csv(args.csv)
-    rows, heuristic, ambiguous = assign_precons(decks, rows, auto_thresh=args.auto_threshold, ambig_thresh=args.ambiguous_threshold)
-    write_md(args.out, rows, decks, heuristic, ambiguous)
-    print('WROTE', args.out)
-
-if __name__ == '__main__':
-    main()
