@@ -374,17 +374,22 @@ def read_existing_card_details(path: str) -> set:
     return names
 
 
-def read_existing_raw_responses(path: str) -> set:
-    """Read card names already in scryfall_raw_responses.md (lines starting with ##)"""
-    names = set()
+def read_successful_raw_responses(path: str) -> set:
+    """Read card names with SUCCESS status from scryfall_raw_responses.md"""
+    successful = set()
     if not os.path.isfile(path):
-        return names
+        return successful
     with open(path, encoding='utf-8') as fh:
+        current_card = None
         for ln in fh:
+            # detect card header
             m = re.match(r"^##\s+(.*)", ln)
             if m:
-                names.add(m.group(1).strip())
-    return names
+                current_card = m.group(1).strip()
+            # check for success status
+            elif current_card and re.match(r"^\*\*Status:\*\*\s+Success", ln):
+                successful.add(current_card)
+    return successful
 
 
 def scryfall_lookup(name: str, cache: dict) -> tuple:
@@ -398,37 +403,55 @@ def scryfall_lookup(name: str, cache: dict) -> tuple:
         # legacy raw cached response
         return entry, []
     attempted = []
-    # build URLs by quoting the name so spaces become %20 (use exact then fuzzy)
-    q_exact = urllib.parse.quote(name, safe='')
+    # build URL using fuzzy search only (one call per card)
     q_fuzzy = urllib.parse.quote(name, safe='')
-    urls = [f"https://api.scryfall.com/cards/named?exact={q_exact}", f"https://api.scryfall.com/cards/named?fuzzy={q_fuzzy}"]
+    url = f"https://api.scryfall.com/cards/named?fuzzy={q_fuzzy}"
     headers = {'User-Agent': 'MagicDecks/1.0', 'Accept': 'application/json'}
-    for url in urls:
-        try:
-            req = urllib.request.Request(url, headers=headers)
-            with urllib.request.urlopen(req, timeout=15) as resp:
-                code = resp.getcode()
-                if code != 200:
-                    raise Exception(f"HTTP {code}")
-                data = json.load(resp)
-            attempted.append({'url': url, 'success': True, 'status_code': code, 'error': None})
-            cache[name] = {'data': data, 'urls': attempted}
-            time.sleep(0.12)
-            return data, attempted
-        except Exception as e:
-            attempted.append({'url': url, 'success': False, 'status_code': getattr(e, 'code', None), 'error': str(e)})
-            time.sleep(0.12)
-            continue
-    cache[name] = {'data': None, 'urls': attempted}
-    return None, attempted
+    try:
+        req = urllib.request.Request(url, headers=headers)
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            code = resp.getcode()
+            if code != 200:
+                raise Exception(f"HTTP {code}")
+            data = json.load(resp)
+        attempted.append({'url': url, 'success': True, 'status_code': code, 'error': None})
+        cache[name] = {'data': data, 'urls': attempted}
+        return data, attempted
+    except Exception as e:
+        attempted.append({'url': url, 'success': False, 'status_code': getattr(e, 'code', None), 'error': str(e)})
+        cache[name] = {'data': None, 'urls': attempted}
+        return None, attempted
 
 
 def append_raw_response(path: str, name: str, data: dict, urls: list):
-    """Append a single card's raw Scryfall response to a file as it comes back."""
-    mode = 'a' if os.path.isfile(path) else 'w'
-    with open(path, mode, encoding='utf-8') as fh:
-        if mode == 'w':
+    """Append a single card's raw Scryfall response to a file as it comes back.
+    Removes any existing entry for this card first to avoid duplicates."""
+    
+    # Read entire file and filter out the card if it exists
+    existing_lines = []
+    if os.path.isfile(path):
+        with open(path, encoding='utf-8') as fh:
+            lines = fh.readlines()
+        in_card = False
+        for line in lines:
+            # Check if this is the start of our card section
+            if re.match(rf"^##\s+{re.escape(name)}\s*$", line):
+                in_card = True
+                continue
+            # Check if this is a new card section
+            if in_card and re.match(r"^##\s+", line):
+                in_card = False
+            # Keep line if not in our card's section
+            if not in_card:
+                existing_lines.append(line)
+    
+    # Write back without the old card entry, then append new one
+    with open(path, 'w', encoding='utf-8') as fh:
+        # write header if new file
+        if not existing_lines:
             fh.write('# Raw Scryfall API Responses\n\n')
+        else:
+            fh.writelines(existing_lines)
         
         fh.write(f"## {name}\n\n")
         
@@ -601,9 +624,7 @@ if __name__ == "__main__":
     # fetch card details from Scryfall and write responses incrementally to a raw responses file
     card_details_path = args.card_details
     raw_responses_path = 'scryfall_raw_responses.md'
-    existing_in_details = read_existing_card_details(card_details_path)
-    existing_in_raw = read_existing_raw_responses(raw_responses_path)
-    existing = existing_in_details | existing_in_raw  # union of both
+    successful_in_raw = read_successful_raw_responses(raw_responses_path)
     cache = {}
     if os.path.isfile(args.cache):
         try:
@@ -612,12 +633,12 @@ if __name__ == "__main__":
         except Exception:
             cache = {}
     unique_names = sorted({r.get('Name','') for r in rows})
-    # fetch names not already in either file
-    to_fetch = [n for n in unique_names if n not in existing]
+    # fetch names that are new OR have failed (not in successful list)
+    to_fetch = [n for n in unique_names if n not in successful_in_raw]
     not_found = []
     
     if to_fetch:
-        print(f"Fetching {len(to_fetch)} cards from Scryfall (skipping {len(existing)} already present)...")
+        print(f"Fetching {len(to_fetch)} cards from Scryfall (skipping {len(successful_in_raw)} with successful prior fetches)...")
         for idx, name in enumerate(to_fetch, 1):
             print(f"  [{idx}/{len(to_fetch)}] {name}...")
             data, urls = scryfall_lookup(name, cache)
@@ -625,10 +646,12 @@ if __name__ == "__main__":
                 not_found.append(name)
             # write response incrementally as it comes back
             append_raw_response(raw_responses_path, name, data, urls)
+            # 1 second delay between requests to avoid rate limiting
+            time.sleep(1.0)
         
         print(f"WROTE {raw_responses_path}")
     else:
-        print("All cards already present in scryfall_raw_responses.md or card_details.md. Skipping Scryfall fetch.")
+        print("All cards already fetched successfully from Scryfall. Skipping fetch.")
     
     # save cache
     os.makedirs(os.path.dirname(args.cache), exist_ok=True)

@@ -71,6 +71,402 @@
 | Sol Ring | https://api.scryfall.com/cards/870ec754-a76c-40ea-9b81-81b3dca1f62c | https://scryfall.com/card/soc/128/sol-ring?utm_source=api | 1 generic | Artifact | {T}: Add {C}{C}. |  |  | Colorless or None | Colorless or None | https://api.scryfall.com/cards/named?exact=Sol%20Ring (OK 200) |
 | Solar Array | https://api.scryfall.com/cards/03c45b66-ddc7-43f8-95d0-fe2ad743b3a4 | https://scryfall.com/card/eoc/18/solar-array?utm_source=api | 3 generic | Artifact | {T}: Add one mana of any color. When you next cast an artifact spell this turn, that spell gains sunburst. (If it's a creature, it enters with a +1/+1 counter on it for each color of mana spent to cast it. Otherwise, it enters with that many charge counters on it.) |  |  | Colorless or None | Colorless or None | https://api.scryfall.com/cards/named?exact=Solar%20Array (OK 200) |
 | Solemn Simulacrum | https://api.scryfall.com/cards/29fae212-b757-4e5f-ad9b-06cd09782f9f | https://scryfall.com/card/soc/355/solemn-simulacrum?utm_source=api | 4 generic | Artifact Creature — Golem | When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle. When this creature dies, you may draw a card. | 2 | 2 | Colorless or None | Colorless or None | https://api.scryfall.com/cards/named?exact=Solemn%20Simulacrum (OK 200) |
+
+# Not found or errors
+
+- Arcane Signet
+- Archmage Emeritus
+- Astral Cornucopia
+- Autarch Mammoth
+- Avishkar Raceway
+- Barren Moor
+- Bastion of Remembrance
+- Battle-Rattle Shaman
+- Battlefield Forge
+- Bear Cub
+- Beast-Kin Ranger
+- Beastmaster Ascension
+- Beledros Witherbloom
+- Bellowing Crier
+- Big Score
+- Bigfin Bouncer
+- Binding the Old Gods
+- Biogenic Upgrade
+- Bishop's Soldier
+- Bite Down
+- Blasphemous Act
+- Bloodtithe Collector
+- Blossoming Sands
+- Bogslither's Embrace
+- Bojuka Bog
+- Brazen Borrower // Petty Theft
+- Bria, Riptide Rogue
+- Brineborn Cutthroat
+- Broken Wings
+- Brudiclad, Telchor Engineer
+- Bulwark Ox
+- Buried Ruin
+- Burrog Befuddler
+- Burrowguard Mentor
+- Byrke, Long Ear of the Law
+- Cache Grab
+- Caelorna, Coral Tyrant
+- Cancel
+- Canyon Vaulter
+- Carnelian Orb of Dragonkind
+- Carrot Cake
+- Cascade Bluffs
+- Casualties of War
+- Cemetery Recruitment
+- Chain Reaction
+- Chaos Spewer
+- Chaos Warp
+- Charmed Sleep
+- Chatterfang, Squirrel General
+- Chatterstorm
+- Chitin Gravestalker
+- Chittering Witch
+- Chitterspitter
+- Chrome Host Seedshark
+- Clifftop Lookout
+- Clifftop Retreat
+- Clinquant Skymage
+- Cloud Key
+- Coastal Peak
+- Colossification
+- Command Tower
+- Coretapper
+- Corsair Captain
+- Coruscation Mage
+- Count on Luck
+- Creative Technique
+- Crossway Troublemakers
+- Crow of Dark Tidings
+- Crystalline Crawler
+- Curiosity Crafter
+- Cursed Mirror
+- Cyberdrive Awakener
+- Dance with Calamity
+- Darksteel Reactor
+- Dazzling Angel
+- Deadly Dispute
+- Deadly Plot
+- Deadly Riposte
+- Death Baron
+- Decree of Pain
+- Deep Analysis
+- Deep Forest Hermit
+- Deepglow Skate
+- Depthshaker Titan
+- Determined Iteration
+- Dewdrop Cure
+- Dig Through Time
+- Diregraf Ghoul
+- Dirgur Focusmage // Braingeyser
+- Dispatch
+- Dr. Eggman
+- Dragon Fodder
+- Dragonlord's Servant
+- Dropkick Bomber
+- Druid of the Cowl
+- Druid of the Spade
+- Dwynen's Elite
+- Eaten Alive
+- Eaten by Piranhas
+- Eclipsed Boggart
+- Elder Auntie
+- Elspeth's Smite
+- Elvish Archdruid
+- Elvish Regrower
+- Empowered Autogenerator
+- Emry, Lurker of the Loch
+- End-Raze Forerunners
+- Endrider Catalyzer
+- Enthusiastic Mechanaut
+- Erudite Wizard
+- Etched Oracle
+- Etherium Sculptor
+- Everflowing Chalice
+- Evolving Wilds
+- Exclusion Mage
+- Exotic Orchard
+- Experimental Augury
+- Explosive Getaway
+- Expressive Iteration
+- Fabled Passage
+- Fabricate
+- Faerie Mastermind
+- Fecund Greenshell
+- Feisty Spikeling
+- Felidar Savior
+- Felling Blow
+- Fellwar Stone
+- Ferrous Lake
+- Fiery Annihilation
+- Finneas, Ace Archer
+- Fire Elemental
+- Firespitter Whelp
+- Flame Lash
+- Fleeting Distraction
+- Forest
+- Frenzied Goblin
+- Frostboil Snarl
+- Fuel the Flames
+- Fumigate
+- Furygale Flocking
+- Galazeth Prismari
+- Garruk, Cursed Huntsman
+- Gavel of the Righteous
+- Generous Gift
+- Giant Growth
+- Gilded Goose
+- Glacial Fortress
+- Glittering Massif
+- Goblin Firebomb
+- Goblin Oriflamme
+- Goblin Smuggler
+- Helpful Hunter
+- Herald of Faith
+- Hero's Downfall
+- Highborn Vampire
+- Hinterland Sanctifier
+- Honored Dreyleader
+- Hop to It
+- Hungry Ghoul
+- Icewind Elemental
+- Idol of Oblivion
+- Incinerating Blast
+- Ingenious Leonin
+- Insatiable Frugivore
+- Insight Engine
+- Inspired Skypainter // Maestro's Gift
+- Inspiring Overseer
+- Inspirit, Flagship Vessel
+- Into the Roil
+- Irrigated Farmland
+- Island
+- Jazal Goldmane
+- Jhoira, Weatherlight Captain
+- Joraga Invocation
+- Jungle Hollow
+- Kalakscion, Hunger Tyrant
+- Kappa Cannoneer
+- Kargan Dragonrider
+- Karn's Bastion
+- Keen Buccaneer
+- Kilo, Apogee Mind
+- Kindled Fury
+- Kitesail Corsair
+- Knuckles the Echidna
+- Lasting Tarfire
+- Leitmotif Composer
+- Leonin Skyhunter
+- Leonin Vanguard
+- Lightning Greaves
+- Llanowar Elves
+- Llanowar Wastes
+- Lonely Sandbar
+- Long-Range Sensor
+- Lux Artillery
+- Lux Cannon
+- Maalfeld Twins
+- Mabel, Heir to Cragflame
+- Maelstrom Pulse
+- Magma Opus
+- Magnigoth Sentry
+- Mana Geyser
+- Manaform Hellkite
+- Maskwood Nexus
+- Migrating Ketradon
+- Mild-Mannered Librarian
+- Miles "Tails" Prower
+- Mind Spring
+- Mindless Automaton
+- Mirrorwing Dragon
+- Mischievous Mystic
+- Mockingbird
+- Moldervine Reclamation
+- Molten Tributary
+- Moment of Craving
+- Moment of Triumph
+- Moonlit Meditation
+- Moonstone Eulogist
+- Morbid Opportunist
+- Mountain
+- Mouth of the Storm
+- Moxite Refinery
+- Muddle, the Ever-Changing
+- Mutant Surveyor
+- Myr
+- Myr Battlesphere
+- Mystic Archaeologist
+- Mystic Monastery
+- Mystic Sanctuary
+- Nadier's Nightblade
+- Necroblossom Snarl
+- Nested Shambler
+- New Horizons
+- Nightmare Sower
+- Offer Immortality
+- Ogre Slumlord
+- Ooze Patrol
+- Open the Armory
+- Opt
+- Oran-Rief, the Vastwood
+- Organic Extinction
+- Pacifism
+- Path of Ancestry
+- Patrolling Peacemaker
+- Pearl of Wisdom
+- Pentad Prism
+- Phyrexian Metamorph
+- Pileated Provisioner
+- Pirate's Cutlass
+- Plaguecrafter
+- Plains
+- Plargg and Nassari
+- Plumb the Forbidden
+- Poison-Tip Archer
+- Prayer of Binding
+- Prideful Parent
+- Prismari Campus
+- Prismari Charm
+- Prismari Command
+- Prismari Pianist
+- Prosperous Innkeeper
+- Pull from Tomorrow
+- Putrefy
+- Quaketusk Boar
+- Quick Study
+- Quick-Draw Katana
+- Rabbit Response
+- Rabid Bite
+- Rabid Gnaw
+- Radiant Summit
+- Raging Redcap
+- Rapacious Dragon
+- Ravenous Squirrel
+- Razortide Bridge
+- Reality Shift
+- Reassembling Skeleton
+- Redoubled Stormsinger
+- Reliquary Tower
+- Renegade Bull
+- Repel Calamity
+- Replication Technique
+- Resculpt
+- Resourceful Defense
+- Restless Spire
+- Ride's End
+- Rimekin Recluse
+- Rionya, Fire Dancer
+- Ripples of Potential
+- Rite of Replication
+- Rootcast Apprenticeship
+- Rootha, Mastering the Moment
+- Rootha, Mercurial Artist
+- Rousing Refrain
+- Rugged Highlands
+- Rugged Prairie
+- Run Away Together
+- Sonic the Hedgehog
+- Soul-Guide Lantern
+- Spectacle Summit
+- Spectral Sailor
+- Spire of Industry
+- Squirrel Nest
+- Squirrel Sovereign
+- Starlight Snare
+- Starting Column
+- Steel Overseer
+- Storm Fleet Spy
+- Storm-Kiln Artist
+- Stormcatch Mentor
+- Stromkirk Bloodthief
+- Study Hall
+- Sulfur Falls
+- Super State
+- Surge Conductor
+- Surge to Victory
+- Suspicious Shambler
+- Swab Goblin
+- Swamp
+- Swan Song
+- Swarmyard
+- Swarmyard Massacre
+- Swiftfoot Boots
+- Swiftwater Cliffs
+- Swiftwing Assailant
+- Sword of Vengeance
+- Sword of the Squeak
+- Swords to Plowshares
+- Tainted Wood
+- Tajuru Pathwarden
+- Talisman of Creativity
+- Talisman of Resilience
+- Tear Asunder
+- Tekuthal, Inquiry Dominus
+- Temple of Enlightenment
+- Temple of Epiphany
+- Temple of Malady
+- Temple of Triumph
+- Temple of the False God
+- Terramorphic Expanse
+- Terror of Mount Velus
+- Tezzeret's Gambit
+- The Mycosynth Gardens
+- The Odd Acorn Gang
+- The Reaver Cleaver
+- Thieving Otter
+- Thirst for Knowledge
+- Thornweald Archer
+- Thought Monitor
+- Thrashing Brontodon
+- Threefold Thunderhulk
+- Throes of Chaos
+- Thrummingbird
+- Thunderclap Drake
+- Tireless Provisioner
+- Titan Forge
+- Tolarian Terror
+- Toski, Bearer of Secrets
+- Tranquil Thicket
+- Treasure
+- Treasure Cruise
+- Treeguard Duo
+- Turbulent Springs
+- Twilight Mire
+- Twinblade Paladin
+- Twinflame
+- Uncharted Haven
+- Undying Malice
+- Unexpected Windfall
+- Universal Surveillance
+- Untamed Hunger
+- Uthros Research Craft
+- Vampire Interloper
+- Vampire Neonate
+- Vampire Spawn
+- Vengeful Bloodwitch
+- Veyran, Voice of Duality
+- Viridescent Bog
+- Volcanic Salvo
+- Volcanic Torrent
+- Volley Veteran
+- Wake the Past
+- Walking Sarcophagus
+- Wanderbrine Trapper
+- Warren Elder
+- Waterspout Warden
+- Weatherlight
+- Wildheart Invoker
+- Wildwood Scourge
+- Windgrace's Judgment
+- Woe Strider
+- Wolfwillow Haven
+- Woodland Cemetery
+- Zulaport Cutthroat
+
 ## Abrade
 
 - uri: https://api.scryfall.com/cards/1add1757-c1f8-448a-b279-c6940fb7ad5f

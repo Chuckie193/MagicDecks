@@ -1,7 +1,5 @@
-# Card details (fetched from Scryfall)
+# Raw Scryfall API Responses
 
-| Name | uri | scryfall_uri | mana_cost | type_line | oracle_text | power | toughness | colors | color_identity | Tried URLs |
-|---|---|---|---|---|---|---|---|---|---|---|
 ## Abrade
 
 **Status:** Success
