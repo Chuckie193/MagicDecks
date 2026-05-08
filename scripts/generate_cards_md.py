@@ -26,6 +26,10 @@ import sys
 from collections import defaultdict
 from difflib import SequenceMatcher
 from datetime import datetime, timezone
+import json
+import urllib.request
+import urllib.parse
+import time
 
 RE_PAREN = re.compile(r"\s*\([^\)]*\)")
 RE_NOT_ALNUM = re.compile(r"[^a-z0-9\s]")
@@ -312,6 +316,218 @@ def write_md(outpath, rows, decks, heuristic, ambiguous):
                     fh.write(f"- {e}\n")
 
 
+def mana_cost_to_text(mana_cost: str) -> str:
+    # convert Scryfall mana cost like '{2}{U}{R}' to plain English
+    if not mana_cost:
+        return '0 (no mana cost)'
+    tokens = re.findall(r"\{([^}]+)\}", mana_cost)
+    parts = []
+    generic = 0
+    for t in tokens:
+        if t.isdigit():
+            generic += int(t)
+        elif t.upper() == 'X':
+            parts.append('X (variable)')
+        else:
+            # handle hybrid symbols like '2/R' or 'W/U' by splitting on '/'
+            if '/' in t:
+                subs = [symbol_to_word(s) for s in t.split('/')]
+                parts.append('/'.join(subs))
+            else:
+                parts.append(symbol_to_word(t))
+    if generic:
+        parts.insert(0, f"{generic} generic")
+    return ', '.join(parts) if parts else '0'
+
+
+def symbol_to_word(sym: str) -> str:
+    s = sym.strip().upper()
+    mapping = {
+        'W': 'White',
+        'U': 'Blue',
+        'B': 'Black',
+        'R': 'Red',
+        'G': 'Green',
+        'C': 'Colorless',
+        'S': 'Snow',
+        'P': 'Phyrexian',
+        'X': 'X (variable)'
+    }
+    return mapping.get(s, s)
+
+
+def colors_to_text(colors_list) -> str:
+    if not colors_list:
+        return 'Colorless or None'
+    return ', '.join(symbol_to_word(c) for c in colors_list)
+
+
+def read_existing_card_details(path: str) -> set:
+    names = set()
+    if not os.path.isfile(path):
+        return names
+    with open(path, encoding='utf-8') as fh:
+        for ln in fh:
+            m = re.match(r"^##\s+(.*)", ln)
+            if m:
+                names.add(m.group(1).strip())
+    return names
+
+
+def scryfall_lookup(name: str, cache: dict) -> tuple:
+    # uses cache dict to avoid repeated network calls; returns (data, urls_info)
+    if name in cache:
+        entry = cache[name]
+        if entry is None:
+            return None, [{'url': None, 'success': False, 'status_code': None, 'error': 'cached-missing'}]
+        if isinstance(entry, dict) and 'data' in entry:
+            return entry.get('data'), entry.get('urls', [])
+        # legacy raw cached response
+        return entry, []
+    attempted = []
+    # build URLs by quoting the name so spaces become %20 (use exact then fuzzy)
+    q_exact = urllib.parse.quote(name, safe='')
+    q_fuzzy = urllib.parse.quote(name, safe='')
+    urls = [f"https://api.scryfall.com/cards/named?exact={q_exact}", f"https://api.scryfall.com/cards/named?fuzzy={q_fuzzy}"]
+    headers = {'User-Agent': 'MagicDecks/1.0', 'Accept': 'application/json'}
+    for url in urls:
+        try:
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=15) as resp:
+                code = resp.getcode()
+                if code != 200:
+                    raise Exception(f"HTTP {code}")
+                data = json.load(resp)
+            attempted.append({'url': url, 'success': True, 'status_code': code, 'error': None})
+            cache[name] = {'data': data, 'urls': attempted}
+            time.sleep(0.12)
+            return data, attempted
+        except Exception as e:
+            attempted.append({'url': url, 'success': False, 'status_code': getattr(e, 'code', None), 'error': str(e)})
+            time.sleep(0.12)
+            continue
+    cache[name] = None
+    return None, attempted
+
+
+def append_card_details(path: str, cache_dict: dict, not_found: list):
+    """
+    Write a complete card_details.md file (overwrites) using the current cache dict.
+    The file will contain a markdown table of found cards and a "Not found" list below.
+    Also include per-card detailed sections with constructed URLs and tried URL results.
+    """
+    # always rewrite the file to keep table and details consistent
+    with open(path, 'w', encoding='utf-8') as fh:
+        fh.write('# Card details (fetched from Scryfall)\n\n')
+        # table header
+        fh.write('| Name | uri | scryfall_uri | mana_cost | type_line | oracle_text | power | toughness | colors | color_identity | Tried URLs |\n')
+        fh.write('|---|---|---|---|---|---|---|---|---|---|---|\n')
+
+        # populate table rows for entries that have data
+        for name in sorted(cache_dict.keys()):
+            entry = cache_dict.get(name)
+            if not entry or not isinstance(entry, dict) or not entry.get('data'):
+                continue
+            data = entry.get('data')
+            urls = entry.get('urls') or []
+            # sanitize fields to avoid breaking table
+            def s(x):
+                if x is None:
+                    return ''
+                txt = str(x)
+                txt = txt.replace('\n', ' ').replace('\r', ' ').replace('|', '\\|')
+                return txt
+            uri = s(data.get('uri'))
+            scryfall_uri = s(data.get('scryfall_uri'))
+            mana_cost = s(mana_cost_to_text(data.get('mana_cost','')))
+            type_line = s(data.get('type_line',''))
+            oracle_text = s(data.get('oracle_text',''))
+            power = s(data.get('power') or '')
+            toughness = s(data.get('toughness') or '')
+            colors = s(colors_to_text(data.get('colors',[])))
+            color_identity = s(colors_to_text(data.get('color_identity',[])))
+            # join tried URLs into a single cell
+            tried = []
+            for u in urls:
+                url = u.get('url') or ''
+                succ = u.get('success')
+                sc = u.get('status_code')
+                err = u.get('error')
+                if succ:
+                    tried.append(f"{url} (OK {sc})")
+                else:
+                    tried.append(f"{url} (ERR {err})")
+            tried_cell = s('; '.join(tried))
+            fh.write(f"| {s(name)} | {uri} | {scryfall_uri} | {mana_cost} | {type_line} | {oracle_text} | {power} | {toughness} | {colors} | {color_identity} | {tried_cell} |\n")
+
+        # list not found below the table as requested
+        if not_found:
+            fh.write('\n# Not found or errors\n\n')
+            for n in not_found:
+                fh.write(f"- {n}\n")
+            fh.write('\n')
+
+        # append detailed per-card sections (constructed urls and tried urls)
+        for name in sorted(cache_dict.keys()):
+            entry = cache_dict.get(name)
+            fh.write(f"## {name}\n\n")
+            data = None
+            urls = []
+            if isinstance(entry, dict):
+                data = entry.get('data')
+                urls = entry.get('urls') or []
+            else:
+                data = entry
+            if not data:
+                fh.write('- Not found on Scryfall or error occurred.\n\n')
+            else:
+                uri = data.get('uri')
+                scryfall_uri = data.get('scryfall_uri')
+                mana_cost = mana_cost_to_text(data.get('mana_cost',''))
+                type_line = data.get('type_line','')
+                oracle_text = data.get('oracle_text','')
+                power = data.get('power') or ''
+                toughness = data.get('toughness') or ''
+                colors = colors_to_text(data.get('colors',[]))
+                color_identity = colors_to_text(data.get('color_identity',[]))
+                fh.write(f"- uri: {uri}\n")
+                fh.write(f"- scryfall_uri: {scryfall_uri}\n")
+                fh.write(f"- mana_cost: {mana_cost}\n")
+                fh.write(f"- type_line: {type_line}\n")
+                fh.write(f"- oracle_text: {oracle_text}\n")
+                if power or toughness:
+                    fh.write(f"- power/toughness: {power}/{toughness}\n")
+                fh.write(f"- colors: {colors}\n")
+                fh.write(f"- color_identity: {color_identity}\n\n")
+
+            # always show the constructed request URLs so it's clear what would be called
+            try:
+                q_exact = urllib.parse.quote(name, safe='')
+                q_fuzzy = urllib.parse.quote(name, safe='')
+                constructed = [f"https://api.scryfall.com/cards/named?exact={q_exact}", f"https://api.scryfall.com/cards/named?fuzzy={q_fuzzy}"]
+                fh.write('### Constructed request URLs\n\n')
+                for cu in constructed:
+                    fh.write(f"- {cu}\n")
+                fh.write('\n')
+            except Exception:
+                # fallback - shouldn't happen
+                pass
+
+            # write tried urls if present (show results of actual HTTP attempts)
+            if urls:
+                fh.write('### Tried URLs (results)\n\n')
+                for u in urls:
+                    url_str = u.get('url')
+                    succ = u.get('success')
+                    sc = u.get('status_code')
+                    err = u.get('error')
+                    if succ:
+                        fh.write(f"- {url_str} -> success (HTTP {sc})\n")
+                    else:
+                        fh.write(f"- {url_str} -> failed ({err})\n")
+                fh.write('\n')
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Generate moxfield_cards.md from CSV and Precons')
     parser.add_argument('--csv', default='moxfield_latest.csv')
@@ -319,6 +535,8 @@ if __name__ == "__main__":
     parser.add_argument('--out', default='moxfield_cards.md')
     parser.add_argument('--auto-threshold', type=float, default=0.90)
     parser.add_argument('--ambiguous-threshold', type=float, default=0.75)
+    parser.add_argument('--card-details', default='card_details.md')
+    parser.add_argument('--cache', default='scripts/cards_cache.json')
     args = parser.parse_args()
 
     if not os.path.isfile(args.csv):
@@ -333,3 +551,34 @@ if __name__ == "__main__":
     rows, heuristic, ambiguous = assign_precons(decks, rows, auto_thresh=args.auto_threshold, ambig_thresh=args.ambiguous_threshold)
     write_md(args.out, rows, decks, heuristic, ambiguous)
     print(f"WROTE {args.out}")
+
+    # fetch card details from Scryfall and append to card_details.md if missing
+    card_details_path = args.card_details
+    existing = read_existing_card_details(card_details_path)
+    cache = {}
+    if os.path.isfile(args.cache):
+        try:
+            with open(args.cache, encoding='utf-8') as fh:
+                cache = json.load(fh)
+        except Exception:
+            cache = {}
+    unique_names = sorted({r.get('Name','') for r in rows})
+    # fetch names not already in card_details, or re-fetch if cache explicitly has None (previous failures)
+    to_fetch = [n for n in unique_names if (n not in existing) or (n in cache and cache.get(n) is None)]
+    fetched = {}
+    not_found = []
+    for name in to_fetch:
+        data, urls = scryfall_lookup(name, cache)
+        if data is None:
+            not_found.append(name)
+        fetched[name] = {'data': data, 'urls': urls}
+    # save cache
+    os.makedirs(os.path.dirname(args.cache), exist_ok=True)
+    try:
+        with open(args.cache, 'w', encoding='utf-8') as fh:
+            json.dump(fetched, fh, ensure_ascii=False, indent=2)
+    except Exception:
+        pass
+    # append/overwrite details using the cache we just saved
+    append_card_details(card_details_path, fetched, not_found)
+    print(f"WROTE/UPDATED {card_details_path}")
