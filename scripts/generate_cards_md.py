@@ -351,7 +351,9 @@ def symbol_to_word(sym: str) -> str:
         'C': 'Colorless',
         'S': 'Snow',
         'P': 'Phyrexian',
-        'X': 'X (variable)'
+        'X': 'X (variable)',
+        'T': 'Tap',
+        'Q': 'Untap',
     }
     return mapping.get(s, s)
 
@@ -360,6 +362,30 @@ def colors_to_text(colors_list) -> str:
     if not colors_list:
         return 'Colorless or None'
     return ', '.join(symbol_to_word(c) for c in colors_list)
+
+
+def convert_oracle_text(oracle_text: str) -> str:
+    """Convert MTG symbols and newlines in oracle text to readable format."""
+    if not oracle_text:
+        return ''
+    
+    # Replace {SYMBOL} with [Keyword] for readability
+    # Handle multi-char symbols like {2/R}, {W/U}, etc.
+    def replace_symbol(match):
+        content = match.group(1)
+        # Split on / for hybrid mana
+        if '/' in content:
+            parts = [symbol_to_word(p.strip()) for p in content.split('/')]
+            return '[' + '/'.join(parts) + ']'
+        else:
+            # Try to convert single symbol
+            word = symbol_to_word(content)
+            return '[' + word + ']'
+    
+    text = re.sub(r'\{([^}]+)\}', replace_symbol, oracle_text)
+    # Replace literal \n with actual newlines
+    text = text.replace('\\n', '\n')
+    return text
 
 
 def read_existing_card_details(path: str) -> set:
@@ -510,7 +536,7 @@ def append_card_details(path: str, cache_dict: dict, not_found: list):
             scryfall_uri = s(data.get('scryfall_uri'))
             mana_cost = s(mana_cost_to_text(data.get('mana_cost','')))
             type_line = s(data.get('type_line',''))
-            oracle_text = s(data.get('oracle_text',''))
+            oracle_text = s(convert_oracle_text(data.get('oracle_text','')))
             power = s(data.get('power') or '')
             toughness = s(data.get('toughness') or '')
             colors = s(colors_to_text(data.get('colors',[])))
@@ -554,7 +580,7 @@ def append_card_details(path: str, cache_dict: dict, not_found: list):
                 scryfall_uri = data.get('scryfall_uri')
                 mana_cost = mana_cost_to_text(data.get('mana_cost',''))
                 type_line = data.get('type_line','')
-                oracle_text = data.get('oracle_text','')
+                oracle_text = convert_oracle_text(data.get('oracle_text',''))
                 power = data.get('power') or ''
                 toughness = data.get('toughness') or ''
                 colors = colors_to_text(data.get('colors',[]))
