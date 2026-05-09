@@ -80,7 +80,18 @@ The skill uses a versioning system to preserve approved decks while allowing ite
    - Warn if collection lacks sufficient cards for the request
    - Suggest missing staples (categories that are underrepresented)
 
-7. **Output Format**: Create a markdown file in `Custom Decks/` with this structure (see existing deck for reference):
+7. **Suggested Deck Names**: Before writing the file, generate 4 creative name candidates for the deck. Include them in a "Suggested Deck Names" section near the bottom of the file (after Next Steps, before the version footer). Use the file name as a working title (e.g., `Bria_Riptide_Rogue_Deck`) until the user picks one.
+
+   **Good names work on multiple levels** — flavor, mechanic, and feel. Draw from:
+   - The commander's name, backstory, or flavor text
+   - The deck's signature plays or win conditions (e.g., a cascade chain, an unblockable swing)
+   - The color pair's personality (Izzet = chaotic brilliance; Dimir = secrecy; Gruul = fury)
+   - MTG idioms or real-world phrases that double as deck descriptions
+   - Key card names or interactions that define the deck's identity
+
+   Aim for 2–4 words. Avoid generic phrases like "Spellslinger Deck" or "[Commander Name]'s Deck". One of the four should be a punchy two-word option.
+
+8. **Output Format**: Create a markdown file in `Custom Decks/` with this structure (see existing deck for reference):
 
 ```markdown
 # [Deck Name] — [Theme] Commander
@@ -164,6 +175,15 @@ Analysis
 Next steps (optional suggestions)
 - [Suggestion for tweaking/testing]
 - [Alternative cards if user acquires more]
+
+---
+
+## Suggested Deck Names
+
+- **[Name 1]** — [One sentence on why it fits: the flavor angle, mechanic it references, or feeling it captures]
+- **[Name 2]** — [Explanation]
+- **[Name 3]** — [Explanation]
+- **[Name 4]** — [Explanation]
 
 ---
 Deck created from cards in your moxfield collection (moxfield_latest.csv & card_details.md).

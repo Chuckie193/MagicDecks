@@ -235,6 +235,15 @@ Average CMC (nonland): ~3.2; effectively ~2.4 with cost reducers active.
 
 ---
 
+## Suggested Deck Names
+
+- **Rogue Wave** — A rogue wave is a massive, unpredictable surge that overwhelms without warning; ties to Bria (*Riptide Rogue*), the combat turns where you chain five spells and swing unblocked out of nowhere, and the chaotic Izzet energy underneath it all.
+- **Through the Breach** — The whole deck is about forcing creatures through: Bria granting unblockable each spell, Surge to Victory opening lanes, Furygale Flocking flooding past blockers. Punchy and aggressive.
+- **The Unstoppable Torrent** — Leans into Volcanic Torrent + the cascade/spell-chain game plan; describes both the flood of instants/sorceries and the combat wave that follows.
+- **Chain Reaction** — You literally run the card, and the name describes the entire game plan: one spell triggers Archmage, which draws into another, which funds the next — an accelerating chain nobody can stop.
+
+---
+
 *Deck created from cards in moxfield_latest.csv & card_details.md.*
 
 **Version**: Draft | **Status**: Working version
