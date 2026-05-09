@@ -275,14 +275,14 @@ Average CMC (nonland): ~3.2; effectively ~2.4 with cost reducers active.
 | Stormcatch Mentor | Creature | Otter Limits; Prismari Artistry |
 | Tolarian Terror | Creature | Foundations Beginner Box |
 | Veyran, Voice of Duality | Creature | Prismari Artistry |
+| Air Shoes (Swiftfoot Boots) | Artifact | Sonic: Turbo Gear |
 | Arcane Signet | Artifact | Counter Intelligence; Prismari Artistry; Squirreled Away |
 | Cloud Key | Artifact | Counter Intelligence |
 | Cursed Mirror | Artifact | Prismari Artistry |
 | Everflowing Chalice | Artifact | Counter Intelligence |
 | Fellwar Stone | Artifact | Prismari Artistry |
-| Lightning Greaves | Artifact | Prismari Artistry; Sonic: Turbo Gear |
+| Power Sneakers (Lightning Greaves) | Artifact | Prismari Artistry; Sonic: Turbo Gear |
 | Sol Ring | Artifact | Counter Intelligence; Prismari Artistry; Sonic: Chasing Adventure; Squirreled Away |
-| Swiftfoot Boots | Artifact | Sonic: Turbo Gear |
 | Talisman of Creativity | Artifact | Prismari Artistry |
 | Count on Luck | Enchantment | — |
 | Determined Iteration | Enchantment | Prismari Artistry |

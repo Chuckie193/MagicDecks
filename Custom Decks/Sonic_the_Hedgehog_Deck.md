@@ -26,6 +26,7 @@ Commander: Sonic the Hedgehog (1URW, White/Blue/Red)
 - **Manaform Hellkite** — 4/4 flying for 2RR; whenever you cast a noncreature spell, create an X/X red Dragon Illusion token with flying and haste, where X = mana spent on that spell. Every instant or sorcery creates a haste token that triggers Sonic's counter ability on the next attack.
 - **Rionya, Fire Dancer** — 3/4 for 3RR; at the beginning of combat, create X hasted token copies of another creature you control, where X = 1 plus instants/sorceries cast this turn. Cast 2 spells, get 3 copies of Kilo or Knuckles for one massive swing.
 - **Mirrorwing Dragon** — 4/5 flying for 3RR; when any player targets Mirrorwing with an instant or sorcery, that player copies it for each other creature they own that the spell could target. Point any buff at Mirrorwing and it propagates to all your creatures — also makes opponents think twice about targeted removal.
+- **Brudiclad, Telchor Engineer** — 4/4 for 4UR; creature tokens you control have haste. At the beginning of combat, creates a 2/1 Myr token, then may copy it for all other tokens. Every token Sonic generates (Manaform Hellkite dragons, Seedshark incubators) gets haste — and Sonic's counter trigger fires on all of them every attack.
 
 **Flash Creatures (Sonic's Direct Beneficiaries)**
 - **Brazen Borrower // Petty Theft** — 3/1 flash flying for 2UUU; the Petty Theft adventure (1U: return any nonland permanent) is the key play — an instant-speed trigger + interaction. The creature gets Sonic's counter on the next attack.
@@ -290,17 +291,17 @@ Average CMC (nonland): ~3.4; effectively ~2.8 with cost reducers and delve.
 | Stormcatch Mentor | Creature | Otter Limits; Prismari Artistry |
 | Tekuthal, Inquiry Dominus | Creature | Counter Intelligence |
 | Thrummingbird | Creature | Counter Intelligence |
+| Air Shoes (Swiftfoot Boots) | Artifact | Sonic: Turbo Gear |
 | Arcane Signet | Artifact | Counter Intelligence; Prismari Artistry; Squirreled Away |
 | Astral Cornucopia | Artifact | Counter Intelligence |
 | Everflowing Chalice | Artifact | Counter Intelligence |
 | Fellwar Stone | Artifact | Prismari Artistry |
-| Lightning Greaves | Artifact | Prismari Artistry; Sonic: Turbo Gear |
+| Knuckles's Gloves (The Reaver Cleaver) | Artifact | Sonic: Turbo Gear |
 | Pentad Prism | Artifact | Counter Intelligence |
+| Power Sneakers (Lightning Greaves) | Artifact | Prismari Artistry; Sonic: Turbo Gear |
 | Sol Ring | Artifact | Counter Intelligence; Prismari Artistry; Sonic: Chasing Adventure; Squirreled Away |
-| Swiftfoot Boots | Artifact | Sonic: Turbo Gear |
 | Sword of Vengeance | Artifact | Otter Limits |
 | Talisman of Creativity | Artifact | Prismari Artistry |
-| The Reaver Cleaver | Artifact | Sonic: Turbo Gear |
 | Prayer of Binding | Enchantment | Foundations Beginner Box |
 | Resourceful Defense | Enchantment | Counter Intelligence |
 | Big Score | Instant | Prismari Artistry |

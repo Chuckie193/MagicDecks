@@ -222,9 +222,11 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
    ```
 
    **Guidelines**:
-   - Category order: Commander → Creature → Artifact → Enchantment → Instant → Sorcery → Planeswalker → Land
-   - Sort cards alphabetically within each category (except Commander which is always first)
-   - **Alt names**: Check the `Alt Name(s)` column in `moxfield_cards.md` for each card. If a non-empty value is present, display the card as `"Alt Name (Original Name)"` — e.g., `Air Shoes (Swiftfoot Boots)`. Sort alphabetically by the alt name. This lets the player match the physical card art to the list.
+   - **Commander row is always first.**
+   - **Sort by precon group**: Group all remaining cards by which precon they came from. Order the groups by how many deck cards each precon contributes — largest first. Break ties by alphabetising the precon name. Cards with no precon (`—`) form a final group after all named precon groups.
+   - **Cards in multiple precons**: A card listed under several precons belongs to the group of whichever precon contributes the most cards to the deck. If tied, use the first precon name listed in its Precon(s) column.
+   - **Within each precon group, sort by card type**: Creature → Artifact → Enchantment → Instant → Sorcery → Planeswalker → Land. Within the same type, sort alphabetically (by alt name where one exists, otherwise by card name).
+   - **Alt names**: Check the `Alt Name(s)` column in `moxfield_cards.md` for each card. If a non-empty value is present, display the card as `"Alt Name (Original Name)"` — e.g., `Air Shoes (Swiftfoot Boots)`. Sort alphabetically by the alt name within its type group. This lets the player match the physical card art to the list.
    - For basic lands with multiple copies (e.g., `Island (x7)`), list as a single row
    - For multiple copies of the same nonbasic land (e.g., `Cascade Bluffs (x2)`), list as a single row
    - If a card appears in multiple precon rows in moxfield_cards.md (different editions), combine and deduplicate the precon names
