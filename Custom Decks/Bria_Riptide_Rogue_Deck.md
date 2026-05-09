@@ -239,3 +239,98 @@ Average CMC (nonland): ~3.2; effectively ~2.4 with cost reducers active.
 
 **Version**: Draft | **Status**: Working version
 *Generated: 2026-05-09*
+
+---
+
+## Card Collection Origin
+
+| Card | Category | Precon(s) |
+|------|----------|-----------|
+| Bria, Riptide Rogue | Commander | Otter Limits |
+| Archmage Emeritus | Creature | Prismari Artistry |
+| Brazen Borrower | Creature | Prismari Artistry |
+| Brudiclad, Telchor Engineer | Creature | Prismari Artistry |
+| Chrome Host Seedshark | Creature | Counter Intelligence |
+| Coruscation Mage | Creature | Otter Limits |
+| Faerie Mastermind | Creature | Prismari Artistry |
+| Galazeth Prismari | Creature | Prismari Artistry |
+| Goldspan Dragon | Creature | Prismari Artistry |
+| Harmonic Prodigy | Creature | Prismari Artistry |
+| Manaform Hellkite | Creature | Prismari Artistry |
+| Plargg and Nassari | Creature | Prismari Artistry |
+| Redoubled Stormsinger | Creature | Prismari Artistry |
+| Rionya, Fire Dancer | Creature | Prismari Artistry |
+| Rootha, Mastering the Moment | Creature | Prismari Artistry |
+| Solemn Simulacrum | Creature | Prismari Artistry |
+| Storm-Kiln Artist | Creature | Prismari Artistry |
+| Stormcatch Mentor | Creature | Otter Limits; Prismari Artistry |
+| Tolarian Terror | Creature | Foundations Beginner Box |
+| Veyran, Voice of Duality | Creature | Prismari Artistry |
+| Arcane Signet | Artifact | Counter Intelligence; Prismari Artistry; Squirreled Away |
+| Cloud Key | Artifact | Counter Intelligence |
+| Cursed Mirror | Artifact | Prismari Artistry |
+| Everflowing Chalice | Artifact | Counter Intelligence |
+| Fellwar Stone | Artifact | Prismari Artistry |
+| Lightning Greaves | Artifact | Prismari Artistry; Sonic: Turbo Gear |
+| Sol Ring | Artifact | Counter Intelligence; Prismari Artistry; Sonic: Chasing Adventure; Squirreled Away |
+| Swiftfoot Boots | Artifact | — |
+| Talisman of Creativity | Artifact | Prismari Artistry |
+| Count on Luck | Enchantment | — |
+| Determined Iteration | Enchantment | Prismari Artistry |
+| Arcane Denial | Instant | Prismari Artistry |
+| Big Score | Instant | Prismari Artistry |
+| Cancel | Instant | Foundations Beginner Box |
+| Chaos Warp | Instant | Counter Intelligence; Prismari Artistry |
+| Dig Through Time | Instant | Prismari Artistry |
+| Fleeting Distraction | Instant | Foundations Beginner Box |
+| Into the Roil | Instant | Foundations Beginner Box |
+| Magma Opus | Instant | Prismari Artistry |
+| Opt | Instant | Foundations Beginner Box |
+| Prismari Command | Instant | Prismari Artistry |
+| Quick Study | Instant | Foundations Beginner Box |
+| Reality Shift | Instant | Prismari Artistry |
+| Resculpt | Instant | Prismari Artistry |
+| Swan Song | Instant | Counter Intelligence |
+| Thirst for Knowledge | Instant | Counter Intelligence |
+| Treasure Cruise | Instant | Prismari Artistry |
+| Unexpected Windfall | Instant | Sonic: Chasing Adventure |
+| Blasphemous Act | Sorcery | Prismari Artistry |
+| Chain Reaction | Sorcery | Counter Intelligence; Prismari Artistry |
+| Creative Technique | Sorcery | Prismari Artistry |
+| Dance with Calamity | Sorcery | Prismari Artistry |
+| Deep Analysis | Sorcery | Prismari Artistry |
+| Expressive Iteration | Sorcery | Prismari Artistry |
+| Fabricate | Sorcery | Sonic: Chasing Adventure |
+| Furygale Flocking | Sorcery | Prismari Artistry |
+| Mana Geyser | Sorcery | Prismari Artistry |
+| Replication Technique | Sorcery | Prismari Artistry |
+| Rite of Replication | Sorcery | Prismari Artistry |
+| Rousing Refrain | Sorcery | Prismari Artistry |
+| Surge to Victory | Sorcery | Prismari Artistry |
+| Throes of Chaos | Sorcery | Prismari Artistry |
+| Twinflame | Sorcery | Prismari Artistry |
+| Volcanic Torrent | Sorcery | Prismari Artistry |
+| Buried Ruin | Land | Counter Intelligence |
+| Cascade Bluffs | Land | Counter Intelligence; Prismari Artistry |
+| Coastal Peak | Land | Prismari Artistry |
+| Command Tower | Land | Counter Intelligence; Prismari Artistry; Squirreled Away |
+| Evolving Wilds | Land | Counter Intelligence; Squirreled Away |
+| Exotic Orchard | Land | Counter Intelligence; Prismari Artistry; Squirreled Away |
+| Fabled Passage | Land | Prismari Artistry |
+| Ferrous Lake | Land | Prismari Artistry |
+| Frostboil Snarl | Land | Prismari Artistry |
+| Island (x7) | Land | Counter Intelligence; Foundations Beginner Box; Otter Limits; Prismari Artistry |
+| Molten Tributary | Land | Prismari Artistry |
+| Mountain (x7) | Land | Counter Intelligence; Foundations Beginner Box; Otter Limits; Prismari Artistry |
+| Mystic Sanctuary | Land | Prismari Artistry |
+| Prismari Campus | Land | Prismari Artistry |
+| Reliquary Tower | Land | Prismari Artistry |
+| Restless Spire | Land | Prismari Artistry |
+| Shivan Reef | Land | Counter Intelligence; Prismari Artistry |
+| Study Hall | Land | Prismari Artistry |
+| Sulfur Falls | Land | Counter Intelligence; Prismari Artistry |
+| Swiftwater Cliffs | Land | Otter Limits |
+| Temple of Epiphany | Land | Counter Intelligence; Prismari Artistry |
+| Temple of the False God | Land | Prismari Artistry |
+| Terramorphic Expanse | Land | Prismari Artistry; Squirreled Away |
+| Turbulent Springs | Land | Prismari Artistry |

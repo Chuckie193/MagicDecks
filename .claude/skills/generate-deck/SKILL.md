@@ -169,6 +169,15 @@ Next steps (optional suggestions)
 Deck created from cards in your moxfield collection (moxfield_latest.csv & card_details.md).
 
 **Version**: [Draft/v1/v1.1/etc.] | **Status**: [Draft/Locked]
+
+---
+
+## Card Collection Origin
+
+| Card | Category | Precon(s) |
+|------|----------|-----------|
+| [Card Name] | [Commander/Creature/Artifact/Enchantment/Instant/Sorcery/Land] | [Precon name(s) or "—" if not from a precon] |
+...
 ```
 
 **Version Footer**:
@@ -176,7 +185,42 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
 - For locked decks: `**Version**: v1 | **Status**: Locked`
 - Include generation timestamp in the deck
 
-8. **Versioning and Naming**:
+8. **Card Collection Origin Table**:
+
+   At the bottom of every generated deck file, append a "Card Collection Origin" table listing every card in the deck (all 100), sorted by category then alphabetically within category. Use `moxfield_cards.md` as the data source (the `Precon` column contains semicolon-separated precon names, or is blank if the card is not from a precon).
+
+   **Table format**:
+   ```
+   ## Card Collection Origin
+
+   | Card | Category | Precon(s) |
+   |------|----------|-----------|
+   | Bria, Riptide Rogue | Commander | Otter Limits |
+   | Archmage Emeritus | Creature | Prismari Artistry |
+   | Sol Ring | Artifact | Counter Intelligence; Prismari Artistry; Squirreled Away |
+   | Island (x7) | Land | Counter Intelligence; Foundations Beginner Box; Otter Limits; Prismari Artistry |
+   ```
+
+   **Guidelines**:
+   - Category order: Commander → Creature → Artifact → Enchantment → Instant → Sorcery → Planeswalker → Land
+   - Sort cards alphabetically within each category (except Commander which is always first)
+   - For basic lands with multiple copies (e.g., `Island (x7)`), list as a single row
+   - For multiple copies of the same nonbasic land (e.g., `Cascade Bluffs (x2)`), list as a single row
+   - If a card appears in multiple precon rows in moxfield_cards.md (different editions), combine and deduplicate the precon names
+   - Use human-readable precon names (e.g., "Prismari Artistry" not "PrismariArtistry", "Otter Limits" not "OtterLimits")
+   - If the Precon column is blank (card not from any precon), use `—` (em-dash)
+   - Look up each card by name in moxfield_cards.md; if not found, use `—`
+
+   **Verification (required before writing the file)**:
+   After drafting the table, perform a cross-check against the decklist to ensure consistency:
+   1. Build a set of card names from the decklist (Commander + all sections). Basic lands count as one entry each (e.g., "Island", "Mountain").
+   2. Build a set of card names from the table rows (strip the copy-count suffix, e.g., "Island (x7)" → "Island").
+   3. Check: every card in the decklist must appear in the table — report any missing cards.
+   4. Check: every card in the table must appear in the decklist — report any extra cards.
+   5. Check: the category assigned to each card in the table must match the section it appears in within the decklist (e.g., a card listed under ### Creatures must be categorized as "Creature" in the table, not "Artifact").
+   6. Only write the deck file once all three checks pass. If any mismatch is found, fix the table before writing.
+
+9. **Versioning and Naming**:
 
    **Version Control Rules**:
    - Draft/working decks have no version suffix: `Custom Decks/[Deck Name].md`
