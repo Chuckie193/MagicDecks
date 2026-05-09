@@ -224,6 +224,7 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
    **Guidelines**:
    - Category order: Commander → Creature → Artifact → Enchantment → Instant → Sorcery → Planeswalker → Land
    - Sort cards alphabetically within each category (except Commander which is always first)
+   - **Alt names**: Check the `Alt Name(s)` column in `moxfield_cards.md` for each card. If a non-empty value is present, display the card as `"Alt Name (Original Name)"` — e.g., `Air Shoes (Swiftfoot Boots)`. Sort alphabetically by the alt name. This lets the player match the physical card art to the list.
    - For basic lands with multiple copies (e.g., `Island (x7)`), list as a single row
    - For multiple copies of the same nonbasic land (e.g., `Cascade Bluffs (x2)`), list as a single row
    - If a card appears in multiple precon rows in moxfield_cards.md (different editions), combine and deduplicate the precon names
@@ -232,13 +233,22 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
    - Look up each card by name in moxfield_cards.md; if not found, use `—`
 
    **Verification (required before writing the file)**:
-   After drafting the table, perform a cross-check against the decklist to ensure consistency:
+   After drafting the decklist and table, perform these checks in order:
    1. Build a set of card names from the decklist (Commander + all sections). Basic lands count as one entry each (e.g., "Island", "Mountain").
    2. Build a set of card names from the table rows (strip the copy-count suffix, e.g., "Island (x7)" → "Island").
    3. Check: every card in the decklist must appear in the table — report any missing cards.
    4. Check: every card in the table must appear in the decklist — report any extra cards.
    5. Check: the category assigned to each card in the table must match the section it appears in within the decklist (e.g., a card listed under ### Creatures must be categorized as "Creature" in the table, not "Artifact").
-   6. Only write the deck file once all three checks pass. If any mismatch is found, fix the table before writing.
+   6. **Type-line check**: For every non-land card in the decklist, look up its `type_line` in `card_details.md` and confirm the section it was placed in is correct:
+      - Creatures section → type_line must contain "Creature"
+      - Artifacts & Mana section → type_line must contain "Artifact"
+      - Instants section → type_line must contain "Instant" — never "Sorcery"
+      - Sorceries section → type_line must contain "Sorcery" — never "Instant"
+      - Enchantments section → type_line must contain "Enchantment"
+      - Planeswalkers section → type_line must contain "Planeswalker"
+
+      Report any card whose section contradicts its type_line and correct the placement before continuing. (This catches errors like Treasure Cruise appearing under Instants when it is a Sorcery.)
+   7. Only write the deck file once all six checks pass. If any mismatch is found, fix it before writing.
 
 9. **Versioning and Naming**:
 

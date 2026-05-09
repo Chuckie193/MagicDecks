@@ -62,7 +62,7 @@ Commander: Bria, Riptide Rogue (2UR, Blue/Red)
 
 ---
 
-### Instants (17)
+### Instants (16)
 
 **Cantrips & Cheap Triggers (1 mana)**
 - **Opt** — U instant; scry 1, draw 1. The cheapest prowess/Bria trigger; chains into more spells.
@@ -84,14 +84,14 @@ Commander: Bria, Riptide Rogue (2UR, Blue/Red)
 **High-Impact Payoffs**
 - **Magma Opus** — 4UR instant; deal 4 damage divided among any targets, tap two permanents, create a 4/4 blue/red Elemental token, draw 2 cards. Six mana buys you everything: removal, disruption, a body, and gas. High CMC means Manaform Hellkite creates a massive Dragon token when cast.
 - **Dig Through Time** — 6UU instant (delve); look at top 7, keep 2. With a graveyard full of spent cantrips and spells, this typically costs UU–1UU. The best late-game selection in the deck.
-- **Treasure Cruise** — 7U instant (delve); draw 3. Usually 1U or less with a fueled graveyard. Refuels the hand after a big spell turn.
 - **Cancel** — 1UU instant; counter any spell. Reliable backup counterspell; less elegant than Swan Song but works universally.
 
 ---
 
-### Sorceries (16)
+### Sorceries (17)
 
 **Card Selection & Draw**
+- **Treasure Cruise** — 7U sorcery (delve); draw 3. Usually 1U or less with a fueled graveyard. Refuels the hand after a big spell turn.
 - **Expressive Iteration** — UR sorcery; look at top 3, one to hand, one exile (play this turn), one to bottom. Nets two cards of selection for 2 mana; best card-selection in Izzet.
 - **Deep Analysis** — 3U sorcery (flashback 1U + 3 life); draw 2 twice over two casts. The flashback fills the graveyard for Tolarian Terror and delve spells.
 - **Fabricate** — 2U sorcery; tutor for any artifact and put it in hand. Finds Sol Ring, Cloud Key, Greaves, Everflowing Chalice, or Cursed Mirror situationally.
@@ -282,7 +282,7 @@ Average CMC (nonland): ~3.2; effectively ~2.4 with cost reducers active.
 | Fellwar Stone | Artifact | Prismari Artistry |
 | Lightning Greaves | Artifact | Prismari Artistry; Sonic: Turbo Gear |
 | Sol Ring | Artifact | Counter Intelligence; Prismari Artistry; Sonic: Chasing Adventure; Squirreled Away |
-| Swiftfoot Boots | Artifact | — |
+| Swiftfoot Boots | Artifact | Sonic: Turbo Gear |
 | Talisman of Creativity | Artifact | Prismari Artistry |
 | Count on Luck | Enchantment | — |
 | Determined Iteration | Enchantment | Prismari Artistry |
@@ -301,7 +301,7 @@ Average CMC (nonland): ~3.2; effectively ~2.4 with cost reducers active.
 | Resculpt | Instant | Prismari Artistry |
 | Swan Song | Instant | Counter Intelligence |
 | Thirst for Knowledge | Instant | Counter Intelligence |
-| Treasure Cruise | Instant | Prismari Artistry |
+| Treasure Cruise | Sorcery | Prismari Artistry |
 | Unexpected Windfall | Instant | Sonic: Chasing Adventure |
 | Blasphemous Act | Sorcery | Prismari Artistry |
 | Chain Reaction | Sorcery | Counter Intelligence; Prismari Artistry |

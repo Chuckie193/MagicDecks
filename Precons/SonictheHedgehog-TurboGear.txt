@@ -1,4 +1,4 @@
-1 Air Shoes (SLD) 2096 [Switch Boots (BorderLess)]
+1 Air Shoes (SLD) 2096 [Swiftfoot Boots (BorderLess)]
 1 Egg Hammer (SLD) 2097 [Myr BattleSphere (Borderless)]
 1 Egg Pawn (SLD) 2101 [Myr]
 1 Knuckles's Gloves (SLD) 2095 [The Reaver Cleaver (Borderless)]

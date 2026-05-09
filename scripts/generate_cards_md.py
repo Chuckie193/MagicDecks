@@ -139,6 +139,7 @@ def assign_precons(decks, rows, auto_thresh=0.90, ambig_thresh=0.75):
         norm = normalize_name(r.get('Name', ''))
         csv_index[norm].append(i)
     csv_norms = list(csv_index.keys())
+    alt_name_map = defaultdict(set)  # {csv_card_name: set of (precon_name, themed_name)}
 
     # initial exact matches
     for i, r in enumerate(rows):
@@ -161,6 +162,7 @@ def assign_precons(decks, rows, auto_thresh=0.90, ambig_thresh=0.75):
                                 rows[idx]['Precon'] += '; ' + append
                             else:
                                 rows[idx]['Precon'] = append
+                            alt_name_map[rows[idx].get('Name', '')].add((pre, info['name']))
                         break
 
     heuristic = defaultdict(list)
@@ -212,10 +214,11 @@ def assign_precons(decks, rows, auto_thresh=0.90, ambig_thresh=0.75):
                         rows[idx]['Precon'] += '; ' + append
                     else:
                         rows[idx]['Precon'] = append
-    return rows, heuristic, ambiguous
+    return rows, heuristic, ambiguous, alt_name_map
 
 
-def write_md(outpath, rows, decks, heuristic, ambiguous):
+def write_md(outpath, rows, decks, heuristic, ambiguous, alt_name_map=None):
+    alt_name_map = alt_name_map or {}
     # compute duplicates
     dup_counts = defaultdict(int)
     for r in rows:
@@ -225,18 +228,21 @@ def write_md(outpath, rows, decks, heuristic, ambiguous):
     with open(outpath, 'w', encoding='utf-8') as fh:
         fh.write(f"# Moxfield Latest — Cards with Precon Assignments (generated {datetime.now(timezone.utc).isoformat()}Z)\n\n")
         fh.write("## All cards (table)\n\n")
-        fh.write("|Name|Edition|Count|Precon|Duplicate|\n")
-        fh.write("|---|---|---:|---|---:|\n")
+        fh.write("|Name|Edition|Count|Precon|Alt Name(s)|Duplicate|\n")
+        fh.write("|---|---|---:|---|---|---:|\n")
         for r in rows:
             name = r.get('Name','').replace('|','&#124;')
             edition = r.get('Edition','')
             count = r.get('Count','')
             precon = r.get('Precon','')
+            csv_name = r.get('Name', '')
+            alts = sorted(alt_name_map.get(csv_name, set()))
+            alt_cell = '; '.join(f"{themed} ({pre})" for pre, themed in alts) if alts else ''
             dup = ''
             key = f"{r.get('Name','')}|{r.get('Edition','')}"
             if dup_counts.get(key,0) > 1:
                 dup = f"Yes ({dup_counts[key]})"
-            fh.write(f"|{name}|{edition}|{count}|{precon}|{dup}|\n")
+            fh.write(f"|{name}|{edition}|{count}|{precon}|{alt_cell}|{dup}|\n")
 
         fh.write('\n## Cards not assigned to precons\n\n')
         unassigned = [r for r in rows if not r.get('Precon')]
@@ -505,7 +511,7 @@ def append_raw_response(path: str, name: str, data: dict, urls: list):
         fh.write('\n')
 
 
-def append_card_details(path: str, cache_dict: dict, not_found: list):
+def append_card_details(path: str, cache_dict: dict, not_found: list, alt_name_map=None):
     """
     Write a complete card_details.md file (overwrites) using the current cache dict.
     The file will contain a markdown table of found cards and a "Not found" list below.
@@ -514,9 +520,10 @@ def append_card_details(path: str, cache_dict: dict, not_found: list):
     # always rewrite the file to keep table and details consistent
     with open(path, 'w', encoding='utf-8') as fh:
         fh.write('# Card details (fetched from Scryfall)\n\n')
+        _alt_name_map = alt_name_map or {}
         # table header
-        fh.write('| Name | uri | scryfall_uri | mana_cost | type_line | oracle_text | power | toughness | colors | color_identity | Tried URLs |\n')
-        fh.write('|---|---|---|---|---|---|---|---|---|---|---|\n')
+        fh.write('| Name | uri | scryfall_uri | mana_cost | type_line | oracle_text | power | toughness | colors | color_identity | alt_names | Tried URLs |\n')
+        fh.write('|---|---|---|---|---|---|---|---|---|---|---|---|\n')
 
         # populate table rows for entries that have data
         for name in sorted(cache_dict.keys()):
@@ -553,7 +560,9 @@ def append_card_details(path: str, cache_dict: dict, not_found: list):
                 else:
                     tried.append(f"{url} (ERR {err})")
             tried_cell = s('; '.join(tried))
-            fh.write(f"| {s(name)} | {uri} | {scryfall_uri} | {mana_cost} | {type_line} | {oracle_text} | {power} | {toughness} | {colors} | {color_identity} | {tried_cell} |\n")
+            card_alts = sorted(_alt_name_map.get(name, set()))
+            alt_cell = s('; '.join(f"{themed} ({pre})" for pre, themed in card_alts))
+            fh.write(f"| {s(name)} | {uri} | {scryfall_uri} | {mana_cost} | {type_line} | {oracle_text} | {power} | {toughness} | {colors} | {color_identity} | {alt_cell} | {tried_cell} |\n")
 
         # list not found below the table as requested
         if not_found:
@@ -593,7 +602,12 @@ def append_card_details(path: str, cache_dict: dict, not_found: list):
                 if power or toughness:
                     fh.write(f"- power/toughness: {power}/{toughness}\n")
                 fh.write(f"- colors: {colors}\n")
-                fh.write(f"- color_identity: {color_identity}\n\n")
+                fh.write(f"- color_identity: {color_identity}\n")
+                card_alts = sorted(_alt_name_map.get(name, set()))
+                if card_alts:
+                    alt_str = '; '.join(f"{themed} ({pre})" for pre, themed in card_alts)
+                    fh.write(f"- alt_names: {alt_str}\n")
+                fh.write('\n')
 
             # always show the constructed request URLs so it's clear what would be called
             try:
@@ -643,8 +657,8 @@ if __name__ == "__main__":
 
     decks = read_precons(args.precons)
     rows = read_csv(args.csv)
-    rows, heuristic, ambiguous = assign_precons(decks, rows, auto_thresh=args.auto_threshold, ambig_thresh=args.ambiguous_threshold)
-    write_md(args.out, rows, decks, heuristic, ambiguous)
+    rows, heuristic, ambiguous, alt_name_map = assign_precons(decks, rows, auto_thresh=args.auto_threshold, ambig_thresh=args.ambiguous_threshold)
+    write_md(args.out, rows, decks, heuristic, ambiguous, alt_name_map)
     print(f"WROTE {args.out}")
 
     # fetch card details from Scryfall and write responses incrementally to a raw responses file
@@ -688,5 +702,5 @@ if __name__ == "__main__":
         pass
     
     # now create card_details.md from the cache
-    append_card_details(card_details_path, cache, not_found)
+    append_card_details(card_details_path, cache, not_found, alt_name_map)
     print(f"WROTE/UPDATED {card_details_path}")
