@@ -631,7 +631,7 @@ if __name__ == "__main__":
     parser.add_argument('--auto-threshold', type=float, default=0.90)
     parser.add_argument('--ambiguous-threshold', type=float, default=0.75)
     parser.add_argument('--card-details', default='card_details.md')
-    parser.add_argument('--cache', default='scripts/cards_cache.json')
+    parser.add_argument('--cache', default='scripts/cache/cards_cache.json')
     args = parser.parse_args()
 
     if not os.path.isfile(args.csv):
@@ -649,7 +649,7 @@ if __name__ == "__main__":
 
     # fetch card details from Scryfall and write responses incrementally to a raw responses file
     card_details_path = args.card_details
-    raw_responses_path = 'scryfall_raw_responses.md'
+    raw_responses_path = 'scripts/cache/scryfall_raw_responses.md'
     successful_in_raw = read_successful_raw_responses(raw_responses_path)
     cache = {}
     if os.path.isfile(args.cache):
