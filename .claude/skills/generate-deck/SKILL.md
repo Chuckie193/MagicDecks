@@ -307,7 +307,7 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
 
    **Rules**:
    - Commander is always the first line, tagged with `*CMDR*` — e.g., `1 Bria, Riptide Rogue *CMDR*`
-   - Use the **real card name**, not the alt name — e.g., `Swiftfoot Boots` not `Air Shoes`; `Lightning Greaves` not `Power Sneakers`
+   - Use the **alt name** if one exists (check the `Alt Name(s)` column in `moxfield_cards.md`) — e.g., `Air Shoes` not `Swiftfoot Boots`; `Power Sneakers` not `Lightning Greaves`; if no alt name exists, use the real card name
    - Every non-basic card in a Commander deck is singleton: count is `1`
    - Basic lands use their actual quantity — e.g., `7 Island`, `7 Mountain`
    - Order: commander first → remaining non-land cards (alphabetically) → basic lands (alphabetically)

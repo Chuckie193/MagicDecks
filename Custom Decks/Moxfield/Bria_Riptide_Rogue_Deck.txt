@@ -30,7 +30,7 @@
 1 Goldspan Dragon
 1 Harmonic Prodigy
 1 Into the Roil
-1 Lightning Greaves
+1 Power Sneakers
 1 Magma Opus
 1 Mana Geyser
 1 Manaform Hellkite
@@ -52,7 +52,7 @@
 1 Stormcatch Mentor
 1 Surge to Victory
 1 Swan Song
-1 Swiftfoot Boots
+1 Air Shoes
 1 Talisman of Creativity
 1 Thirst for Knowledge
 1 Throes of Chaos

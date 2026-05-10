@@ -27,7 +27,7 @@
 1 Into the Roil
 1 Kilo, Apogee Mind
 1 Knuckles the Echidna
-1 Lightning Greaves
+1 Power Sneakers
 1 Manaform Hellkite
 1 Miles "Tails" Prower
 1 Mirrorwing Dragon
@@ -51,13 +51,13 @@
 1 Steel Overseer
 1 Stormcatch Mentor
 1 Swan Song
-1 Swiftfoot Boots
+1 Air Shoes
 1 Sword of Vengeance
 1 Swords to Plowshares
 1 Talisman of Creativity
 1 Tekuthal, Inquiry Dominus
 1 Tezzeret's Gambit
-1 The Reaver Cleaver
+1 Knuckles's Gloves
 1 Thirst for Knowledge
 1 Thrummingbird
 1 Treasure Cruise
