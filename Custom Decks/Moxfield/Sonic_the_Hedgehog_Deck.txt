@@ -1,0 +1,91 @@
+1 Sonic the Hedgehog *CMDR*
+1 Arcane Signet
+1 Astral Cornucopia
+1 Big Score
+1 Blasphemous Act
+1 Brazen Borrower
+1 Brineborn Cutthroat
+1 Brudiclad, Telchor Engineer
+1 Chain Reaction
+1 Chaos Warp
+1 Chrome Host Seedshark
+1 Crystalline Crawler
+1 Cyberdrive Awakener
+1 Deepglow Skate
+1 Dig Through Time
+1 Dispatch
+1 Everflowing Chalice
+1 Experimental Augury
+1 Expressive Iteration
+1 Fabricate
+1 Faerie Mastermind
+1 Fellwar Stone
+1 Fumigate
+1 Generous Gift
+1 Goblin Smuggler
+1 Goldspan Dragon
+1 Into the Roil
+1 Kilo, Apogee Mind
+1 Knuckles the Echidna
+1 Lightning Greaves
+1 Manaform Hellkite
+1 Miles "Tails" Prower
+1 Mirrorwing Dragon
+1 Muddle, the Ever-Changing
+1 Open the Armory
+1 Opt
+1 Pentad Prism
+1 Phyrexian Metamorph
+1 Prayer of Binding
+1 Prismari Command
+1 Quick Study
+1 Reality Shift
+1 Replication Technique
+1 Resculpt
+1 Resourceful Defense
+1 Rionya, Fire Dancer
+1 Run Away Together
+1 Sol Ring
+1 Solemn Simulacrum
+1 Spectral Sailor
+1 Steel Overseer
+1 Stormcatch Mentor
+1 Swan Song
+1 Swiftfoot Boots
+1 Sword of Vengeance
+1 Swords to Plowshares
+1 Talisman of Creativity
+1 Tekuthal, Inquiry Dominus
+1 Tezzeret's Gambit
+1 The Reaver Cleaver
+1 Thirst for Knowledge
+1 Thrummingbird
+1 Treasure Cruise
+1 Wake the Past
+1 Adarkar Wastes
+1 Battlefield Forge
+1 Buried Ruin
+1 Clifftop Retreat
+1 Command Tower
+1 Evolving Wilds
+1 Exotic Orchard
+1 Fabled Passage
+1 Glacial Fortress
+1 Irrigated Farmland
+1 Karn's Bastion
+1 Mystic Monastery
+1 Path of Ancestry
+1 Razortide Bridge
+1 Reliquary Tower
+1 Rugged Prairie
+1 Spire of Industry
+1 Study Hall
+1 Sulfur Falls
+1 Temple of Enlightenment
+1 Temple of Epiphany
+1 Temple of the False God
+1 Temple of Triumph
+1 Terramorphic Expanse
+4 Island
+4 Mountain
+4 Plains

@@ -172,6 +172,24 @@ Commander: Bria, Riptide Rogue (2UR, Blue/Red)
 
 ---
 
+## Tokens Generated
+
+| Token | P/T | Color | Type | Abilities | Created By |
+|-------|-----|-------|------|-----------|------------|
+| Bird | 2/2 | Blue | Creature — Bird | Flying *(opponent receives)* | Swan Song |
+| Dragon Illusion | X/X | Red | Creature — Dragon Illusion | Flying, Haste *(exiled at next end step)* | Manaform Hellkite |
+| Elemental | X/X | Blue, Red | Creature — Elemental | Flying, Haste | Rootha, Mastering the Moment |
+| Elemental | 3/3 | Blue, Red | Creature — Elemental | Flying, Haste *(attacks target opponent if able)* | Furygale Flocking |
+| Elemental | 4/4 | Blue, Red | Creature — Elemental | — | Magma Opus; Resculpt *(Resculpt: opponent receives)* |
+| Incubator → Phyrexian | 0/0 + X counters | Colorless | Artifact — Incubator | Pay [2]: transform into a 0/0 Phyrexian artifact creature | Chrome Host Seedshark |
+| Phyrexian Myr | 2/1 | Blue | Artifact Creature — Phyrexian Myr | — | Brudiclad, Telchor Engineer |
+| Treasure | — | Colorless | Artifact — Treasure | Sacrifice: add one mana of any color | Storm-Kiln Artist; Galazeth Prismari; Goldspan Dragon; Prismari Command; Big Score; Unexpected Windfall; Magma Opus *(when discarded)* |
+| Creature copy (hasted) | Varies | Varies | Varies | Haste *(exiled at next end step)* | Rionya, Fire Dancer; Twinflame |
+| Creature copy (populated, hasted) | Varies | Varies | Varies | Haste *(sacrificed at next end step)* | Determined Iteration |
+| Creature or artifact copy | Varies | Varies | Varies | — | Replication Technique; Rite of Replication |
+
+---
+
 ## Mana Curve
 
 - 0 CMC: 1 card ░ (1)

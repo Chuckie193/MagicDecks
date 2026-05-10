@@ -182,6 +182,23 @@ Commander: Sonic the Hedgehog (1URW, White/Blue/Red)
 
 ---
 
+## Tokens Generated
+
+| Token | P/T | Color | Type | Abilities | Created By |
+|-------|-----|-------|------|-----------|------------|
+| Bird | 2/2 | Blue | Creature — Bird | Flying *(opponent receives)* | Swan Song |
+| Dragon Illusion | X/X | Red | Creature — Dragon Illusion | Flying, Haste *(exiled at next end step)* | Manaform Hellkite |
+| Elephant | 3/3 | Green | Creature — Elephant | — *(opponent receives)* | Generous Gift |
+| Elemental | 4/4 | Blue, Red | Creature — Elemental | — *(opponent receives)* | Resculpt |
+| Incubator → Phyrexian | 0/0 + X counters | Colorless | Artifact — Incubator | Pay [2]: transform into a 0/0 Phyrexian artifact creature | Chrome Host Seedshark |
+| Phyrexian Myr | 2/1 | Blue | Artifact Creature — Phyrexian Myr | — | Brudiclad, Telchor Engineer |
+| Treasure | — | Colorless | Artifact — Treasure | Sacrifice: add one mana of any color | Sonic the Hedgehog; Goldspan Dragon; Prismari Command; Big Score; The Reaver Cleaver |
+| Creature copy (hasted) | Varies | Varies | Varies | Haste *(exiled at next end step)* | Rionya, Fire Dancer |
+| Creature copy (myriad, tapped & attacking) | Varies | Varies | Varies | Exiled at end of combat | Muddle, the Ever-Changing |
+| Creature or artifact copy | Varies | Varies | Varies | — | Replication Technique |
+
+---
+
 ## Mana Curve
 
 - 0 CMC: 2 cards ░░ (2)

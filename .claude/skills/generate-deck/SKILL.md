@@ -80,7 +80,27 @@ The skill uses a versioning system to preserve approved decks while allowing ite
    - Warn if collection lacks sufficient cards for the request
    - Suggest missing staples (categories that are underrepresented)
 
-7. **Suggested Deck Names**: Before writing the file, generate 4 creative name candidates for the deck. Include them in a "Suggested Deck Names" section near the bottom of the file (after Next Steps, before the version footer). Use the file name as a working title (e.g., `Bria_Riptide_Rogue_Deck`) until the user picks one.
+7. **Token Identification**: After finalising the decklist, scan every card's `oracle_text` in `card_details.md` for token-creation language and compile a complete list of tokens the deck can produce.
+
+   **Patterns to look for in oracle_text**:
+   - `"create a X/X [color] [type] creature token [with ...]"` — creature tokens
+   - `"create X [color] [type] creature tokens"` — multiple at once
+   - `"create a Treasure token"` / `"create a Clue token"` / `"create a Food token"` — utility tokens
+   - `"create a token that's a copy of ..."` — copy tokens (use the copied card's stats)
+   - Planeswalker ultimates or abilities that create Emblems — list as "Emblem — [Planeswalker name]"
+   - Any `"put a ... token onto the battlefield"` phrasing
+
+   **For each distinct token, record**:
+   - **Token name** (e.g., "Soldier", "Treasure", "Spirit", "Phyrexian Germ")
+   - **P/T** — power/toughness for creature tokens; `—` for non-creatures
+   - **Color** — White, Blue, Black, Red, Green, Colorless, or Gold (for multicolor)
+   - **Type line** — e.g., `Creature — Elf Warrior`, `Artifact — Treasure`, `Artifact — Clue`
+   - **Notable abilities** — Flying, Haste, Deathtouch, Lifelink, Indestructible, etc.; `—` if none
+   - **Created by** — all card names in the deck that generate this token
+
+   Deduplicate: if two cards create the same token (same name, P/T, color, type, abilities), list it once and name both cards in the "Created By" column. If the same card name creates variants (e.g., different sizes), list each variant separately.
+
+8. **Suggested Deck Names**: Before writing the file, generate 4 creative name candidates for the deck. Include them in a "Suggested Deck Names" section near the bottom of the file (after Next Steps, before the version footer). Use the file name as a working title (e.g., `Bria_Riptide_Rogue_Deck`) until the user picks one.
 
    **Good names work on multiple levels** — flavor, mechanic, and feel. Draw from:
    - The commander's name, backstory, or flavor text
@@ -138,6 +158,14 @@ Key Synergies
 - **[Card A] + [Card B]**: [Explanation of the combo/interaction]
 - **[Card C] + [Card D]**: [Explanation]
 - [Include 3-5 important synergies]
+
+Tokens Generated
+
+| Token | P/T | Color | Type | Abilities | Created By |
+|-------|-----|-------|------|-----------|------------|
+| [Token Name] | [X/X or —] | [Color] | [Type Line] | [Abilities or —] | [Card Name(s)] |
+
+*If the deck generates no tokens, write: "This deck generates no tokens."*
 
 Mana Curve
 - 0 CMC: X cards
@@ -198,6 +226,7 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
 |------|----------|-----------|
 | [Card Name] | [Commander/Creature/Artifact/Enchantment/Instant/Sorcery/Land] | [Precon name(s) or "—" if not from a precon] |
 ...
+
 ```
 
 **Version Footer**:
@@ -252,7 +281,21 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
       Report any card whose section contradicts its type_line and correct the placement before continuing. (This catches errors like Treasure Cruise appearing under Instants when it is a Sorcery.)
    7. Only write the deck file once all six checks pass. If any mismatch is found, fix it before writing.
 
-9. **Versioning and Naming**:
+9. **Moxfield Export File**: After writing the deck file, create a separate plain-text export file in the `Moxfield/` folder for easy import into Moxfield.
+
+   **File path**: `Custom Decks/Moxfield/[Deck Name].txt` — use the same base name as the deck file (e.g., deck `Custom Decks/Bria_Riptide_Rogue_Deck.md` → `Custom Decks/Moxfield/Bria_Riptide_Rogue_Deck.txt`)
+
+   **Format**: One line per card: `[count] [real card name]`
+
+   **Rules**:
+   - Commander is always the first line, tagged with `*CMDR*` — e.g., `1 Bria, Riptide Rogue *CMDR*`
+   - Use the **real card name**, not the alt name — e.g., `Swiftfoot Boots` not `Air Shoes`; `Lightning Greaves` not `Power Sneakers`
+   - Every non-basic card in a Commander deck is singleton: count is `1`
+   - Basic lands use their actual quantity — e.g., `7 Island`, `7 Mountain`
+   - Order: commander first → remaining non-land cards (alphabetically) → basic lands (alphabetically)
+   - The file contains only the card list — no headings, no markdown, no other content
+
+10. **Versioning and Naming**:
 
    **Version Control Rules**:
    - Draft/working decks have no version suffix: `Custom Decks/[Deck Name].md`

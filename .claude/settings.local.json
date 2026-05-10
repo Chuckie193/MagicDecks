@@ -3,7 +3,8 @@
     "allow": [
       "Bash(Select-String -Path \"C:\\\\Projects\\\\MagicDecks\\\\Custom Decks\\\\Bria_Riptide_Rogue_Deck.md\" -Pattern \"^- \\\\*\\\\*\")",
       "Bash(Measure-Object)",
-      "Bash(Select-Object -ExpandProperty Count)"
+      "Bash(Select-Object -ExpandProperty Count)",
+      "Bash(Move-Item C:\\\\Projects\\\\MagicDecks\\\\Moxfield *)"
     ]
   }
 }
