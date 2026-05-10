@@ -100,16 +100,30 @@ The skill uses a versioning system to preserve approved decks while allowing ite
 
    Deduplicate: if two cards create the same token (same name, P/T, color, type, abilities), list it once and name both cards in the "Created By" column. If the same card name creates variants (e.g., different sizes), list each variant separately.
 
-8. **Suggested Deck Names**: Before writing the file, generate 4 creative name candidates for the deck. Include them in a "Suggested Deck Names" section near the bottom of the file (after Next Steps, before the version footer). Use the file name as a working title (e.g., `Bria_Riptide_Rogue_Deck`) until the user picks one.
+8. **Lore Summary**: Before writing the file, write a lore blurb of **maximum 230 characters** (including spaces) that gives the deck a personality and narrative identity. This goes directly after the Overview section.
 
-   **Good names work on multiple levels** — flavor, mechanic, and feel. Draw from:
+   **Tone**: Fantastical, punchy, and fun — lean into drama, humour, sweetness, or cool depending on the commander's vibe. Izzet decks get chaotic brilliance; Dimir gets shadowy menace; Gruul gets barely-contained fury; Selesnya gets wholesome power-of-friendship energy.
+
+   **Structure**: Set the scene around the commander, bring a key synergy to life as a story beat, and close with a punchy one-liner — ideally a pun, a threat, or a catchphrase. Write in present tense.
+
+   **Style rules**:
+   - Write purely fictional narrative — never reference mechanics, abilities, or rules text
+   - Do not name specific cards; you MAY reference the commander's crew, team, or allies in a general sense (e.g. "her crew", "his allies") if it adds to the story
+   - Weave in puns wherever they fit naturally — the worse the pun, the better
+   - Use italics for emphasis on punchlines and dramatic moments
+   - Every word must earn its place — no filler at 230 characters
+
+9. **Suggested Deck Names**: Before writing the file, generate 4 creative name candidates for the deck. Include them in a "Suggested Deck Names" section near the bottom of the file (after Next Steps, before the version footer). Use the file name as a working title (e.g., `Bria_Riptide_Rogue_Deck`) until the user picks one.
+
+   **Good names work on multiple levels** — flavor, mechanic, feel, and wordplay. Draw from:
    - The commander's name, backstory, or flavor text
    - The deck's signature plays or win conditions (e.g., a cascade chain, an unblockable swing)
    - The color pair's personality (Izzet = chaotic brilliance; Dimir = secrecy; Gruul = fury)
    - MTG idioms or real-world phrases that double as deck descriptions
    - Key card names or interactions that define the deck's identity
+   - **Puns and double meanings** — names that work literally AND as a mechanic reference are especially memorable (e.g., a Treasure-heavy deck named "Current Account"; an unblockable deck named "Nothing to Sea Here"; a proliferate deck named "Counter Culture")
 
-   Aim for 2–4 words. Avoid generic phrases like "Spellslinger Deck" or "[Commander Name]'s Deck". One of the four should be a punchy two-word option.
+   Aim for 2–4 words. Avoid generic phrases like "Spellslinger Deck" or "[Commander Name]'s Deck". One of the four should be a punchy two-word option. At least one should be a pun or double meaning.
 
 8. **Output Format**: Create a markdown file in `Custom Decks/` with this structure (see existing deck for reference):
 
@@ -120,6 +134,10 @@ Commander: [Commander Name] ([mana cost], [colors])
 
 Overview
 - Strategy: [2-3 sentence explanation of deck strategy, win conditions, and how it plays]
+
+## Lore
+
+[Up to 230 characters: set the scene around the commander, bring a key synergy to life as a story beat, close with a punchy one-liner or pun.]
 
 Decklist (100 cards)
 

@@ -7,6 +7,12 @@ Commander: Sonic the Hedgehog (1URW, White/Blue/Red)
 
 ---
 
+## Lore
+
+Nobody outruns destiny — or so they say, until Sonic is already gone, Knuckles punches through whatever stands in the way, and Miles keeps pace from above. *Gotta go fast.*
+
+---
+
 ## Decklist (100 cards)
 
 ### Commander (1)
@@ -269,6 +275,7 @@ Average CMC (nonland): ~3.4; effectively ~2.8 with cost reducers and delve.
 - **Speed Demon** — Punchy two-word name; aggressive and evocative, describes the haste-heavy play style and the Jeskai chaos.
 - **Counter Rush** — Captures both halves of the strategy: the +1/+1 counter accumulation and the relentless attack-every-turn tempo.
 - **Rings and Rings** — Sonic collects rings; this deck collects counters and Treasure tokens, and "rings" works on both the game-mechanic and flavor levels.
+- **Hedgehog Your Bets** — To "hedge your bets" means to cover all your bases; this deck does exactly that with multiple win conditions, exponential counter scaling, and enough Treasure to buy more options mid-game. Also: hedgehog. Obviously.
 
 ---
 

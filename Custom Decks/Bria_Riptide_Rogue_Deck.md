@@ -7,6 +7,12 @@ Commander: Bria, Riptide Rogue (2UR, Blue/Red)
 
 ---
 
+## Lore
+
+Bria doesn't steal treasure, she steals *moments*; slipping through riptide currents no one else dares follow. The tide doesn't deal in mercy and neither does she. *Sea* you on the other side...
+
+---
+
 ## Decklist (100 cards)
 
 ### Commander (1)
@@ -259,6 +265,7 @@ Average CMC (nonland): ~3.2; effectively ~2.4 with cost reducers active.
 - **Through the Breach** — The whole deck is about forcing creatures through: Bria granting unblockable each spell, Surge to Victory opening lanes, Furygale Flocking flooding past blockers. Punchy and aggressive.
 - **The Unstoppable Torrent** — Leans into Volcanic Torrent + the cascade/spell-chain game plan; describes both the flood of instants/sorceries and the combat wave that follows.
 - **Chain Reaction** — You literally run the card, and the name describes the entire game plan: one spell triggers Archmage, which draws into another, which funds the next — an accelerating chain nobody can stop.
+- **Nothing to Sea Here** — A pun in three directions: the ocean theme, the unblockable creatures slipping past defenders unseen, and the blank-faced innocence of casting five spells and saying "what, this? perfectly normal." Move along.
 
 ---
 
