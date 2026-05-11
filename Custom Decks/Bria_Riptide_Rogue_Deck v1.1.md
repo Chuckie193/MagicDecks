@@ -14,9 +14,9 @@ Bria doesn't steal treasure, she steals *moments*; slipping through riptide curr
 
 ---
 
-## Changes from Draft → v1.1 (1v1 Adaptation + Land Count Increase)
+## Changes from Draft → v1.1 (1v1 Adaptation + Consistency Upgrades)
 
-Nine cards were cut from the Draft: seven multiplayer-centric cards replaced with efficient, targeted alternatives, and two additional cuts to make room for two extra basic lands (36 → 38 total).
+Nine cards were cut from the Draft: seven multiplayer-centric cards replaced with efficient, targeted alternatives, and two additional cuts (Faerie Mastermind, Rousing Refrain) to make room for +1 Island and Skullclamp (lands 36 → 37).
 
 ### Cut
 
@@ -43,8 +43,8 @@ Nine cards were cut from the Draft: seven multiplayer-centric cards replaced wit
 | Prismari Pianist | Creature | Creates a 1/1 Elemental token per spell (3 tokens for CMC 5+) — floods the board every spell chain, providing attackers that Bria can make unblockable |
 | Aether Gale | Sorcery | Returns up to 6 of the opponent's nonland permanents to hand for 5 mana (3UU) — a devastating one-sided reset ideally suited to 1v1 |
 | Pull from Tomorrow | Instant | XUU instant: draw X, discard 1 — the ideal mana sink when Galazeth Prismari and artifact mana are active; draws 5–7 cards in a single turn |
-| Island (×8 total) | Land | +1 Island raises land count to 38 and improves Mystic Sanctuary reliability |
-| Mountain (×8 total) | Land | +1 Mountain smooths mid-game RR requirements |
+| Island (×8 total) | Land | +1 Island (36 → 37 lands) and improves Mystic Sanctuary reliability |
+| Skullclamp | Artifact | {1} equipment; equipped creature gets +1/-1; whenever it dies, draw 2. Equipping any 1/1 token from Prismari Pianist draws 2 cards for {1} — repeatable draw that scales with the token engine |
 
 ---
 
@@ -81,7 +81,7 @@ Nine cards were cut from the Draft: seven multiplayer-centric cards replaced wit
 
 ---
 
-### Artifacts (10)
+### Artifacts (11)
 
 - **Sol Ring** — Essential 1-mana ramp; Galazeth Prismari also lets it contribute to spell costs later.
 - **Arcane Signet** — 2-mana rock for Blue/Red; smooth early ramp.
@@ -93,6 +93,7 @@ Nine cards were cut from the Draft: seven multiplayer-centric cards replaced wit
 - **Cloud Key** — 3-mana artifact; choose a spell type (instants or sorceries) to cost 1 less. Pairs with Stormcatch Mentor for aggressive cost reduction.
 - **Cursed Mirror** — 2R artifact; taps for Red, or ETB copies any creature on the battlefield until end of turn with haste.
 - **Soul-Guide Lantern** *(NEW)* — 1-mana artifact; ETB: exile a card from any graveyard. Tap+sacrifice: exile the opponent's entire graveyard. [1]+tap+sacrifice: draw a card. Plugs the deck's graveyard-hate gap and incidentally cantrips when the exile mode isn't needed.
+- **Skullclamp** *(NEW)* — 1-mana Equipment; equipped creature gets +1/-1 and whenever it dies, draw 2 cards; equip {1}. Equip onto any 1/1 token from Prismari Pianist and it immediately becomes a 2/0, dies, and draws 2 cards — turning every spell chain into card advantage on top of the existing magecraft engine.
 
 ---
 
@@ -159,7 +160,7 @@ Nine cards were cut from the Draft: seven multiplayer-centric cards replaced wit
 
 ---
 
-### Lands (38)
+### Lands (37)
 
 **Blue/Red Duals (entering untapped or conditionally)**
 - Command Tower — Adds any color in commander's identity.
@@ -195,7 +196,7 @@ Nine cards were cut from the Draft: seven multiplayer-centric cards replaced wit
 
 **Basic Lands**
 - Island (x8)
-- Mountain (x8)
+- Mountain (x7)
 
 ---
 
@@ -210,6 +211,7 @@ Nine cards were cut from the Draft: seven multiplayer-centric cards replaced wit
 - **Rootha, Mastering the Moment + Delve Spells**: Cast Treasure Cruise or Dig Through Time (CMC 8 before delve) to create an 8/8 flying haste Elemental token at the start of combat.
 - **Surge to Victory + Dig Through Time**: Exile Dig Through Time from your graveyard; your team gets +8/+0 until end of turn. A single unblockable creature (provided by Bria) connecting copies Dig for free.
 - **Throes of Chaos + Retrace + Bria**: Discard excess lands in the late game to recast Throes of Chaos repeatedly, cascading into free spells and making a creature unblockable on each cast.
+- **Skullclamp + Prismari Pianist**: Every spell creates at least one 1/1 Elemental. Equip Skullclamp for {1} → the 1/1 becomes a 2/0 and dies instantly → draw 2 cards. Each spell in a chain nets 2 cards on top of all other magecraft triggers.
 
 ---
 
@@ -234,7 +236,7 @@ Nine cards were cut from the Draft: seven multiplayer-centric cards replaced wit
 ## Mana Curve
 
 - 0 CMC: 1 card ░ (1)
-- 1 CMC: 6 cards ░░░░░░ (6)
+- 1 CMC: 7 cards ░░░░░░░ (7)
 - 2 CMC: 12 cards ░░░░░░░░░░░░ (12)
 - 3 CMC: 15 cards ░░░░░░░░░░░░░░░ (15)
 - 4 CMC: 13 cards ░░░░░░░░░░░░░ (13) — includes Commander
@@ -347,6 +349,7 @@ Average CMC (nonland): ~3.1; effectively ~2.3 with cost reducers active.
 | Everflowing Chalice | Artifact | Counter Intelligence |
 | Fellwar Stone | Artifact | Prismari Artistry |
 | Power Sneakers (Lightning Greaves) | Artifact | Prismari Artistry; Sonic: Turbo Gear |
+| Skullclamp | Artifact | Squirreled Away |
 | Sol Ring | Artifact | Counter Intelligence; Prismari Artistry; Sonic: Chasing Adventure; Squirreled Away |
 | Soul-Guide Lantern | Artifact | Counter Intelligence |
 | Talisman of Creativity | Artifact | Prismari Artistry |
@@ -393,7 +396,7 @@ Average CMC (nonland): ~3.1; effectively ~2.3 with cost reducers active.
 | Frostboil Snarl | Land | Prismari Artistry |
 | Island (x8) | Land | Counter Intelligence; Foundations Beginner Box; Otter Limits; Prismari Artistry |
 | Molten Tributary | Land | Prismari Artistry |
-| Mountain (x8) | Land | Counter Intelligence; Foundations Beginner Box; Otter Limits; Prismari Artistry |
+| Mountain (x7) | Land | Counter Intelligence; Foundations Beginner Box; Otter Limits; Prismari Artistry |
 | Mystic Sanctuary | Land | Prismari Artistry |
 | Prismari Campus | Land | Prismari Artistry |
 | Reliquary Tower | Land | Prismari Artistry |

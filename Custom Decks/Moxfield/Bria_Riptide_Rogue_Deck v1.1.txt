@@ -75,6 +75,7 @@
 1 Reliquary Tower
 1 Restless Spire
 1 Shivan Reef
+1 Skullclamp
 1 Study Hall
 1 Sulfur Falls
 1 Swiftwater Cliffs
@@ -83,4 +84,4 @@
 1 Terramorphic Expanse
 1 Turbulent Springs
 8 Island
-8 Mountain
+7 Mountain
