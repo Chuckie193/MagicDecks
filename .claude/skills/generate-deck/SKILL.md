@@ -43,7 +43,14 @@ The skill uses a versioning system to preserve approved decks while allowing ite
    - A specific commander card name
    - Or any combination of these
 
-3. **Read Card Collection**:
+3. **Ask About Opponent Count**: Before building the deck, ask the user how they expect to use it:
+   - **Single opponent (1v1 / duel)** — Optimise for efficiency: lower mana curve, more targeted removal, fast win conditions, and cards that shine head-to-head.
+   - **Multiple opponents (multiplayer pod)** — Standard Commander: prioritise board wipes, political tools, incremental advantage, and resilience against many threats at once.
+   - **Both** — Build a flexible deck that performs in either setting: mix targeted and sweeper removal, and favour effects that scale with the number of opponents.
+
+   Use the answer to guide card selection throughout the rest of the process.
+
+4. **Read Card Collection**:
    - **Primary source**: Read `moxfield_latest.csv` to get the list of all owned cards
      - CSV columns: Name, Edition, Count (quantity owned)
      - This is the source of truth for card availability
@@ -56,14 +63,14 @@ The skill uses a versioning system to preserve approved decks while allowing ite
    - **Alternative readable format**: `moxfield_cards.md` shows cards with precon assignments (optional, for context)
    - **Complete Scryfall data**: `scripts/cache/cards_cache.json` has full JSON if you need fields not in card_details.md
 
-4. **Generate Deck**:
+5. **Generate Deck**:
    - Build a 100-card Commander/EDH deck
    - Include exactly 1 Commander (legendary creature matching color identity)
    - Include 99 other cards (all singleton - no duplicates except basic lands)
    - Follow Commander format rules (cards must match commander's color identity)
    - Use ONLY cards found in the user's collection
 
-5. **Deck Composition** (aim for balanced ratios):
+6. **Deck Composition** (aim for balanced ratios):
    - Lands: 35-40 cards
    - Ramp: 8-12 cards (mana rocks, land ramp)
    - Card Draw: 8-12 cards
@@ -72,7 +79,12 @@ The skill uses a versioning system to preserve approved decks while allowing ite
    - Threats/Win Conditions: 15-25 cards
    - Support/Synergy: remaining cards
 
-6. **Validation**:
+   **Adjust based on opponent count**:
+   - *Single opponent (1v1)*: Skew the mana curve lower (more 1–3 CMC cards), favour targeted removal and counterspells over board wipes (1–2 sweepers is plenty), prioritise fast win conditions (early combat damage, two-card combos), and you can trim lands to 33–36 if the curve supports it.
+   - *Multiple opponents (pod)*: Increase board wipes to 3–5, include at least one political or group-draw effect, keep the curve slightly higher (games go longer), and include 2–3 catch-up mechanisms (e.g., life gain, removal that hits multiple permanents).
+   - *Both*: Split removal roughly 50/50 between targeted and sweepers; favour cards with effects that scale with opponent count (e.g., "for each opponent" phrasing) to get value in either setting.
+
+7. **Validation**:
    - Verify commander is a legendary creature
    - Check color identity compliance
    - Ensure exactly 100 cards total
@@ -80,7 +92,7 @@ The skill uses a versioning system to preserve approved decks while allowing ite
    - Warn if collection lacks sufficient cards for the request
    - Suggest missing staples (categories that are underrepresented)
 
-7. **Token Identification**: After finalising the decklist, scan every card's `oracle_text` in `card_details.md` for token-creation language and compile a complete list of tokens the deck can produce.
+8. **Token Identification**: After finalising the decklist, scan every card's `oracle_text` in `card_details.md` for token-creation language and compile a complete list of tokens the deck can produce.
 
    **Patterns to look for in oracle_text**:
    - `"create a X/X [color] [type] creature token [with ...]"` — creature tokens
@@ -134,6 +146,7 @@ Commander: [Commander Name] ([mana cost], [colors])
 
 Overview
 - Strategy: [2-3 sentence explanation of deck strategy, win conditions, and how it plays]
+- Intended for: [Single opponent (1v1) / Multiplayer pod / Both]
 
 ## Lore
 
