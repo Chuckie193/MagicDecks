@@ -20,7 +20,6 @@
 1 Everflowing Chalice
 1 Expressive Iteration
 1 Fabricate
-1 Faerie Mastermind
 1 Fellwar Stone
 1 Fleeting Distraction
 1 Galazeth Prismari
@@ -44,7 +43,6 @@
 1 Rite of Replication
 1 Rootha, Mastering the Moment
 1 Rootha, Mercurial Artist
-1 Rousing Refrain
 1 Sol Ring
 1 Solemn Simulacrum
 1 Soul-Guide Lantern
@@ -77,6 +75,7 @@
 1 Reliquary Tower
 1 Restless Spire
 1 Shivan Reef
+1 Skullclamp
 1 Study Hall
 1 Sulfur Falls
 1 Swiftwater Cliffs
@@ -84,5 +83,5 @@
 1 Temple of the False God
 1 Terramorphic Expanse
 1 Turbulent Springs
-7 Island
+8 Island
 7 Mountain

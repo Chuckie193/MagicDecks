@@ -14,9 +14,9 @@ Bria doesn't steal treasure, she steals *moments*; slipping through riptide curr
 
 ---
 
-## Changes from Draft → v1.1 (1v1 Adaptation)
+## Changes from Draft → v1.1 (1v1 Adaptation + Consistency Upgrades)
 
-Seven multiplayer-centric cards were replaced with efficient, targeted alternatives. All other cards remain unchanged from the Draft.
+Nine cards were cut from the Draft: seven multiplayer-centric cards replaced with efficient, targeted alternatives, and two additional cuts (Faerie Mastermind, Rousing Refrain) to make room for +1 Island and Skullclamp (lands 36 → 37).
 
 ### Cut
 
@@ -29,6 +29,8 @@ Seven multiplayer-centric cards were replaced with efficient, targeted alternati
 | Blasphemous Act | Sorcery | Board wipe less valuable against a single opponent; cost reduction from creatures is much less reliable in 1v1 |
 | Mana Geyser | Sorcery | "Add Red for each tapped land your opponents control" — opponent has ~4–6 tapped lands in 1v1 vs 15–20 in a pod; not worth a slot |
 | Furygale Flocking | Sorcery | Creates tokens "per opponent" — only 2 tokens in 1v1 vs 6 in a pod; even free this is a poor rate for 1v1 |
+| Faerie Mastermind | Creature | Conditional draw — only triggers when opponent draws their second card each turn; unreliable in 1v1; cut to make room for +1 land |
+| Rousing Refrain | Sorcery | Suspend 3 too slow for aggressive 1v1; red mana payoff takes 3 turns to arrive; cut to make room for +1 land |
 
 ### Added
 
@@ -41,6 +43,8 @@ Seven multiplayer-centric cards were replaced with efficient, targeted alternati
 | Prismari Pianist | Creature | Creates a 1/1 Elemental token per spell (3 tokens for CMC 5+) — floods the board every spell chain, providing attackers that Bria can make unblockable |
 | Aether Gale | Sorcery | Returns up to 6 of the opponent's nonland permanents to hand for 5 mana (3UU) — a devastating one-sided reset ideally suited to 1v1 |
 | Pull from Tomorrow | Instant | XUU instant: draw X, discard 1 — the ideal mana sink when Galazeth Prismari and artifact mana are active; draws 5–7 cards in a single turn |
+| Island (×8 total) | Land | +1 Island (36 → 37 lands) and improves Mystic Sanctuary reliability |
+| Skullclamp | Artifact | {1} equipment; equipped creature gets +1/-1; whenever it dies, draw 2. Equipping any 1/1 token from Prismari Pianist draws 2 cards for {1} — repeatable draw that scales with the token engine |
 
 ---
 
@@ -51,7 +55,7 @@ Seven multiplayer-centric cards were replaced with efficient, targeted alternati
 
 ---
 
-### Creatures (20)
+### Creatures (19)
 
 **Spell Payoffs & Synergy Engines**
 - **Archmage Emeritus** — Magecraft: draw a card whenever you cast or copy an instant/sorcery. The premier draw engine for this deck; draws you into more spells constantly.
@@ -62,8 +66,6 @@ Seven multiplayer-centric cards were replaced with efficient, targeted alternati
 - **Stormcatch Mentor** — 1/1 haste prowess for UR; instant and sorcery spells you cast cost 1 less. Combines Sapphire Medallion + Ruby Medallion into one prowess body.
 - **Rootha, Mastering the Moment** — 3/4 for 2UR; at the beginning of combat on your turn, if you cast an instant or sorcery this turn, create an X/X flying haste Elemental token where X is the highest mana value among spells cast this turn.
 - **Rootha, Mercurial Artist** *(NEW)* — 1/4 Orc Shaman for 1UR; [2], return Rootha to hand: copy target instant or sorcery you control. Pay [2] to double Aether Gale, Surge to Victory, or Dig Through Time, then recast Rootha next turn.
-- **Faerie Mastermind** — 2/1 flash flying for 1U; whenever an opponent draws their second card each turn, you draw a card. A flash creature to trigger Bria's abilities on opponents' turns.
-
 **Threats & Token Generators**
 - **Manaform Hellkite** — 4/4 flying for 2RR; whenever you cast a noncreature spell, create an X/X red Dragon Illusion token with flying and haste, where X is the mana spent on that spell.
 - **Galazeth Prismari** — 3/4 flying for 2UR; creates a Treasure on ETB and lets all artifacts tap to add mana specifically for instant/sorcery spells. Every rock becomes bonus mana for spells.
@@ -79,7 +81,7 @@ Seven multiplayer-centric cards were replaced with efficient, targeted alternati
 
 ---
 
-### Artifacts (10)
+### Artifacts (11)
 
 - **Sol Ring** — Essential 1-mana ramp; Galazeth Prismari also lets it contribute to spell costs later.
 - **Arcane Signet** — 2-mana rock for Blue/Red; smooth early ramp.
@@ -91,6 +93,7 @@ Seven multiplayer-centric cards were replaced with efficient, targeted alternati
 - **Cloud Key** — 3-mana artifact; choose a spell type (instants or sorceries) to cost 1 less. Pairs with Stormcatch Mentor for aggressive cost reduction.
 - **Cursed Mirror** — 2R artifact; taps for Red, or ETB copies any creature on the battlefield until end of turn with haste.
 - **Soul-Guide Lantern** *(NEW)* — 1-mana artifact; ETB: exile a card from any graveyard. Tap+sacrifice: exile the opponent's entire graveyard. [1]+tap+sacrifice: draw a card. Plugs the deck's graveyard-hate gap and incidentally cantrips when the exile mode isn't needed.
+- **Skullclamp** *(NEW)* — 1-mana Equipment; equipped creature gets +1/-1 and whenever it dies, draw 2 cards; equip {1}. Equip onto any 1/1 token from Prismari Pianist and it immediately becomes a 2/0, dies, and draws 2 cards — turning every spell chain into card advantage on top of the existing magecraft engine.
 
 ---
 
@@ -130,7 +133,7 @@ Seven multiplayer-centric cards were replaced with efficient, targeted alternati
 
 ---
 
-### Sorceries (14)
+### Sorceries (13)
 
 **Card Selection & Draw**
 - **Treasure Cruise** — 7U sorcery (delve); draw 3. Usually 1U or less with a fueled graveyard.
@@ -147,9 +150,6 @@ Seven multiplayer-centric cards were replaced with efficient, targeted alternati
 - **Rite of Replication** — 2UU sorcery (kicker 5); create 1 token copy of a creature, or kicked: 5 copies. Kicked copies of Archmage Emeritus nets 5 draw triggers per spell cast that turn.
 - **Surge to Victory** — 4RR sorcery; exile a target instant/sorcery from your graveyard; your creatures get +X/+0 until end of turn (X = CMC), and whenever a creature deals combat damage this turn, copy the exiled card for free.
 
-**Mana Engines**
-- **Rousing Refrain** — 2R sorcery; add Red for each card in target opponent's hand; mana persists past phase end; suspend 3. Generates mana ahead of schedule.
-
 **Cascade Engines**
 - **Volcanic Torrent** — 4R sorcery with cascade; deals X damage to each creature and planeswalker opponents control where X = number of spells you've cast this turn.
 - **Throes of Chaos** — 3R sorcery with cascade and retrace; retrace: discard a land to recast repeatedly from the graveyard, re-triggering cascade each time.
@@ -160,7 +160,7 @@ Seven multiplayer-centric cards were replaced with efficient, targeted alternati
 
 ---
 
-### Lands (36)
+### Lands (37)
 
 **Blue/Red Duals (entering untapped or conditionally)**
 - Command Tower — Adds any color in commander's identity.
@@ -182,7 +182,7 @@ Seven multiplayer-centric cards were replaced with efficient, targeted alternati
 **Color-Flexible Utility Lands**
 - Exotic Orchard — Adds any color a land an opponent controls could produce; almost always Blue and Red.
 - Study Hall — Adds colorless or 1 of any color; when you spend that mana on your commander, scry X where X = times Bria has been recast.
-- Mystic Sanctuary — Island; when it enters (with 3 or more other Islands), put an instant or sorcery from your graveyard on top of your library.
+- Mystic Sanctuary — Island; when it enters (with 3 or more other Islands), put an instant or sorcery from your graveyard on top of your library. With 8 total Islands, this condition is met far more consistently.
 
 **Fetch Lands (Color Fixing)**
 - Fabled Passage — Fetch any basic land; untaps it if you have 4+ lands.
@@ -195,7 +195,7 @@ Seven multiplayer-centric cards were replaced with efficient, targeted alternati
 - Temple of the False God — Adds 2 colorless when you control 5+ lands.
 
 **Basic Lands**
-- Island (x7)
+- Island (x8)
 - Mountain (x7)
 
 ---
@@ -211,6 +211,7 @@ Seven multiplayer-centric cards were replaced with efficient, targeted alternati
 - **Rootha, Mastering the Moment + Delve Spells**: Cast Treasure Cruise or Dig Through Time (CMC 8 before delve) to create an 8/8 flying haste Elemental token at the start of combat.
 - **Surge to Victory + Dig Through Time**: Exile Dig Through Time from your graveyard; your team gets +8/+0 until end of turn. A single unblockable creature (provided by Bria) connecting copies Dig for free.
 - **Throes of Chaos + Retrace + Bria**: Discard excess lands in the late game to recast Throes of Chaos repeatedly, cascading into free spells and making a creature unblockable on each cast.
+- **Skullclamp + Prismari Pianist**: Every spell creates at least one 1/1 Elemental. Equip Skullclamp for {1} → the 1/1 becomes a 2/0 and dies instantly → draw 2 cards. Each spell in a chain nets 2 cards on top of all other magecraft triggers.
 
 ---
 
@@ -235,9 +236,9 @@ Seven multiplayer-centric cards were replaced with efficient, targeted alternati
 ## Mana Curve
 
 - 0 CMC: 1 card ░ (1)
-- 1 CMC: 6 cards ░░░░░░ (6)
-- 2 CMC: 13 cards ░░░░░░░░░░░░░ (13)
-- 3 CMC: 16 cards ░░░░░░░░░░░░░░░░ (16)
+- 1 CMC: 7 cards ░░░░░░░ (7)
+- 2 CMC: 12 cards ░░░░░░░░░░░░ (12)
+- 3 CMC: 15 cards ░░░░░░░░░░░░░░░ (15)
 - 4 CMC: 13 cards ░░░░░░░░░░░░░ (13) — includes Commander
 - 5 CMC: 7 cards ░░░░░░░ (7)
 - 6 CMC: 3 cards ░░░ (3)
@@ -326,7 +327,6 @@ Average CMC (nonland): ~3.1; effectively ~2.3 with cost reducers active.
 | Brazen Borrower | Creature | Prismari Artistry |
 | Brudiclad, Telchor Engineer | Creature | Prismari Artistry |
 | Chrome Host Seedshark | Creature | Counter Intelligence |
-| Faerie Mastermind | Creature | Prismari Artistry |
 | Galazeth Prismari | Creature | Prismari Artistry |
 | Goldspan Dragon | Creature | Prismari Artistry |
 | Harmonic Prodigy | Creature | Prismari Artistry |
@@ -349,6 +349,7 @@ Average CMC (nonland): ~3.1; effectively ~2.3 with cost reducers active.
 | Everflowing Chalice | Artifact | Counter Intelligence |
 | Fellwar Stone | Artifact | Prismari Artistry |
 | Power Sneakers (Lightning Greaves) | Artifact | Prismari Artistry; Sonic: Turbo Gear |
+| Skullclamp | Artifact | Squirreled Away |
 | Sol Ring | Artifact | Counter Intelligence; Prismari Artistry; Sonic: Chasing Adventure; Squirreled Away |
 | Soul-Guide Lantern | Artifact | Counter Intelligence |
 | Talisman of Creativity | Artifact | Prismari Artistry |
@@ -379,7 +380,6 @@ Average CMC (nonland): ~3.1; effectively ~2.3 with cost reducers active.
 | Fabricate | Sorcery | Sonic: Chasing Adventure |
 | Replication Technique | Sorcery | Prismari Artistry |
 | Rite of Replication | Sorcery | Prismari Artistry |
-| Rousing Refrain | Sorcery | Prismari Artistry |
 | Surge to Victory | Sorcery | Prismari Artistry |
 | Throes of Chaos | Sorcery | Prismari Artistry |
 | Treasure Cruise | Sorcery | Prismari Artistry |
@@ -394,7 +394,7 @@ Average CMC (nonland): ~3.1; effectively ~2.3 with cost reducers active.
 | Fabled Passage | Land | Prismari Artistry |
 | Ferrous Lake | Land | Prismari Artistry |
 | Frostboil Snarl | Land | Prismari Artistry |
-| Island (x7) | Land | Counter Intelligence; Foundations Beginner Box; Otter Limits; Prismari Artistry |
+| Island (x8) | Land | Counter Intelligence; Foundations Beginner Box; Otter Limits; Prismari Artistry |
 | Molten Tributary | Land | Prismari Artistry |
 | Mountain (x7) | Land | Counter Intelligence; Foundations Beginner Box; Otter Limits; Prismari Artistry |
 | Mystic Sanctuary | Land | Prismari Artistry |
