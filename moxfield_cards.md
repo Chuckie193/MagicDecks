@@ -1,4 +1,4 @@
-# Moxfield Latest — Cards with Precon Assignments (generated 2026-05-09T16:59:15.451518+00:00Z)
+# Moxfield Latest — Cards with Precon Assignments (generated 2026-05-15T18:29:45.481001+00:00Z)
 
 ## All cards (table)
 
@@ -7,6 +7,7 @@
 |Abrade|soc|1|PrismariArtistry|||
 |Abstract Performance|soc|1|PrismariArtistry|||
 |Academy Manufactor|blc|1|SquirreledAway|||
+|Action News Crew|tmt|1||||
 |Adamant Will|fdn|1|Foundations BeginnerBox|||
 |Adarkar Wastes|eoc|1|CounterIntelligence|||
 |Aether Gale|soc|1|PrismariArtistry|||
@@ -24,13 +25,14 @@
 |Arasta of the Endless Web|blc|1|SquirreledAway|||
 |Arcane Denial|soc|1|PrismariArtistry|||
 |Arcane Epiphany|fdn|1|Foundations BeginnerBox|||
+|Arcane Signet|eoc|1|CounterIntelligence; PrismariArtistry; SquirreledAway|||
 |Arcane Signet|soc|1|CounterIntelligence; PrismariArtistry; SquirreledAway|||
 |Arcane Signet|blc|1|CounterIntelligence; PrismariArtistry; SquirreledAway|||
-|Arcane Signet|eoc|1|CounterIntelligence; PrismariArtistry; SquirreledAway|||
 |Archmage Emeritus|soc|1|PrismariArtistry|||
 |Astral Cornucopia|eoc|1|CounterIntelligence|||
 |Autarch Mammoth|dft|1||||
 |Avishkar Raceway|dft|1||||
+|Barkform Harvester|blb|1||||
 |Barren Moor|blc|1|SquirreledAway|||
 |Bastion of Remembrance|blc|1|SquirreledAway|||
 |Battlefield Forge|eoc|1|CounterIntelligence|||
@@ -51,15 +53,18 @@
 |Blossoming Sands|blb|4|HareRaising|||
 |Bogslither's Embrace|ecl|1||||
 |Bojuka Bog|blc|1|SquirreledAway|||
+|Bonebind Orator|blb|1||||
 |Brazen Borrower // Petty Theft|soc|1|PrismariArtistry|||
 |Bria, Riptide Rogue|blb|1|OtterLimits|||
 |Brineborn Cutthroat|fdn|1|Foundations BeginnerBox|||
 |Broken Wings|fdn|1|Foundations BeginnerBox|||
 |Brudiclad, Telchor Engineer|soc|1|PrismariArtistry|||
 |Bulwark Ox|dft|1||||
+|Bumbleflower's Sharepot|blb|1||||
 |Buried Ruin|eoc|1|CounterIntelligence|||
 |Burrog Befuddler|fdn|1|Foundations BeginnerBox|||
 |Burrowguard Mentor|blb|2|HareRaising|||
+|Buzz Bots|tmt|1||||
 |Byrke, Long Ear of the Law|blb|1|HareRaising|||
 |Cache Grab|blb|1|SquirreledAway|||
 |Caelorna, Coral Tyrant|dft|1||||
@@ -67,15 +72,15 @@
 |Canyon Vaulter|dft|1||||
 |Carnelian Orb of Dragonkind|fdn|1|Foundations BeginnerBox|||
 |Carrot Cake|blb|2|HareRaising|||
-|Cascade Bluffs|eoc|1|CounterIntelligence; PrismariArtistry|||
 |Cascade Bluffs|soc|1|CounterIntelligence; PrismariArtistry|||
+|Cascade Bluffs|eoc|1|CounterIntelligence; PrismariArtistry|||
 |Casualties of War|blc|1|SquirreledAway|||
 |Cemetery Recruitment|fdn|1|Foundations BeginnerBox|||
-|Chain Reaction|eoc|1|CounterIntelligence; PrismariArtistry|||
 |Chain Reaction|soc|1|CounterIntelligence; PrismariArtistry|||
+|Chain Reaction|eoc|1|CounterIntelligence; PrismariArtistry|||
 |Chaos Spewer|ecl|1||||
-|Chaos Warp|soc|1|CounterIntelligence; PrismariArtistry|||
 |Chaos Warp|eoc|1|CounterIntelligence; PrismariArtistry|||
+|Chaos Warp|soc|1|CounterIntelligence; PrismariArtistry|||
 |Charmed Sleep|blb|2|OtterLimits|||
 |Chatterfang, Squirrel General|blc|1|SquirreledAway|||
 |Chatterstorm|blc|1|SquirreledAway|||
@@ -89,16 +94,18 @@
 |Cloud Key|eoc|1|CounterIntelligence|||
 |Coastal Peak|soc|1|PrismariArtistry|||
 |Colossification|blb|1|HareRaising|||
-|Command Tower|soc|1|CounterIntelligence; PrismariArtistry; SquirreledAway|||
 |Command Tower|blc|1|CounterIntelligence; PrismariArtistry; SquirreledAway|||
+|Command Tower|soc|1|CounterIntelligence; PrismariArtistry; SquirreledAway|||
 |Command Tower|eoc|1|CounterIntelligence; PrismariArtistry; SquirreledAway|||
 |Coretapper|eoc|1|CounterIntelligence|||
 |Corsair Captain|fdn|1|Foundations BeginnerBox|||
 |Coruscation Mage|blb|2|OtterLimits|||
 |Count on Luck|dft|1||||
+|Courier of Comestibles|pw26|1||||
 |Creative Technique|soc|1|PrismariArtistry|||
 |Crossway Troublemakers|fdn|1|Foundations BeginnerBox|||
 |Crow of Dark Tidings|fdn|1|Foundations BeginnerBox|||
+|Crumb and Get It|blb|1||||
 |Crystalline Crawler|eoc|1|CounterIntelligence|||
 |Curiosity Crafter|soc|1|PrismariArtistry|||
 |Cursed Mirror|soc|1|PrismariArtistry|||
@@ -119,16 +126,21 @@
 |Determined Iteration|soc|1|PrismariArtistry|||
 |Dewdrop Cure|blb|1||||
 |Dig Through Time|soc|1|PrismariArtistry|||
+|Dire Downdraft|blb|1||||
 |Diregraf Ghoul|fdn|1|Foundations BeginnerBox|||
 |Dirgur Focusmage // Braingeyser|soc|1|PrismariArtistry|||
 |Dispatch|eoc|1|CounterIntelligence|||
 |Dr. Eggman|sld|1|SonictheHedgehog FriendsandFoes|||
 |Dragon Fodder|fdn|1|Foundations BeginnerBox|||
 |Dragonlord's Servant|fdn|1|Foundations BeginnerBox|||
+|Dragonlord's Servant|pl24|1|Foundations BeginnerBox|||
+|Dream Beavers|tmt|1||||
 |Dropkick Bomber|fdn|1|Foundations BeginnerBox|||
 |Druid of the Cowl|fdn|1|Foundations BeginnerBox|||
 |Druid of the Spade|blb|3|HareRaising|||
+|Dúnedain Rangers|ltr|1||||
 |Dwynen's Elite|fdn|1|Foundations BeginnerBox|||
+|Easterling Vanguard|ltr|1||||
 |Eaten Alive|fdn|1|Foundations BeginnerBox|||
 |Eaten by Piranhas|fdn|1|Foundations BeginnerBox|||
 |Eclipsed Boggart|ecl|1||||
@@ -142,6 +154,7 @@
 |Endrider Catalyzer|dft|1||||
 |Enthusiastic Mechanaut|eoc|1|CounterIntelligence|||
 |Erudite Wizard|fdn|1|Foundations BeginnerBox|||
+|Escape Tunnel|tmt|1||||
 |Etched Oracle|eoc|1|CounterIntelligence|||
 |Etherium Sculptor|eoc|1|CounterIntelligence|||
 |Everflowing Chalice|eoc|1|CounterIntelligence|||
@@ -157,6 +170,8 @@
 |Fabled Passage|soc|1|PrismariArtistry|||
 |Fabricate|sld|1|SonictheHedgehog ChasingAdventure|||
 |Faerie Mastermind|soc|1|PrismariArtistry|||
+|Fall of Gil-galad|ltr|1||||
+|Faramir, Field Commander|ltr|1||||
 |Fecund Greenshell|blb|1|HareRaising|||
 |Feisty Spikeling|ecl|1||||
 |Felidar Savior|fdn|1|Foundations BeginnerBox|||
@@ -169,12 +184,14 @@
 |Firespitter Whelp|fdn|1|Foundations BeginnerBox|||
 |Flame Lash|blb|3|OtterLimits|||
 |Fleeting Distraction|fdn|1|Foundations BeginnerBox|||
+|Forest|dft|1|Foundations BeginnerBox; HareRaising; SquirreledAway|||
+|Forest|blb|11|Foundations BeginnerBox; HareRaising; SquirreledAway||Yes (3)|
 |Forest|blb|1|Foundations BeginnerBox; HareRaising; SquirreledAway||Yes (3)|
 |Forest|blb|9|Foundations BeginnerBox; HareRaising; SquirreledAway||Yes (3)|
-|Forest|blb|11|Foundations BeginnerBox; HareRaising; SquirreledAway||Yes (3)|
-|Forest|dft|1|Foundations BeginnerBox; HareRaising; SquirreledAway|||
 |Forest|fdn|15|Foundations BeginnerBox; HareRaising; SquirreledAway|||
+|Forest|ltr|1|Foundations BeginnerBox; HareRaising; SquirreledAway|||
 |Frenzied Goblin|fdn|1|Foundations BeginnerBox|||
+|Frog Butler|tmt|1||||
 |Frostboil Snarl|soc|1|PrismariArtistry|||
 |Fuel the Flames|dft|1||||
 |Fumigate|eoc|1|CounterIntelligence|||
@@ -183,6 +200,7 @@
 |Garruk, Cursed Huntsman|blc|1|SquirreledAway|||
 |Gavel of the Righteous|eoc|1|CounterIntelligence|||
 |Generous Gift|sld|1|SonictheHedgehog ChasingAdventure|||
+|Genghis Frog|tmt|1||||
 |Giant Growth|fdn|1|Foundations BeginnerBox; HareRaising|||
 |Giant Growth|blb|2|Foundations BeginnerBox; HareRaising|||
 |Gilded Goose|blc|1|SquirreledAway|||
@@ -206,7 +224,9 @@
 |Hall of Oracles|soc|1|PrismariArtistry|||
 |Hammer of Nazahn|sld|1|SonictheHedgehog TurboGear (alt)|Piko Piko Hammer (SonictheHedgehog TurboGear)||
 |Hangarback Walker|eoc|1|CounterIntelligence|||
+|Haradrim Spearmaster|ltr|1||||
 |Harmonic Prodigy|soc|1|PrismariArtistry|||
+|Harmonized Crescendo|ecl|1||||
 |Haunted Mire|blc|1|SquirreledAway|||
 |Haywire Mite|blc|1|SquirreledAway|||
 |Hazel of the Rootbloom|blc|1|SquirreledAway|||
@@ -214,11 +234,14 @@
 |Helpful Hunter|fdn|1|Foundations BeginnerBox|||
 |Herald of Faith|fdn|1|Foundations BeginnerBox|||
 |Hero's Downfall|fdn|1|Foundations BeginnerBox|||
+|Hidden Blade|acr|1||||
 |Highborn Vampire|fdn|1|Foundations BeginnerBox|||
 |Hinterland Sanctifier|fdn|1|Foundations BeginnerBox|||
+|Hithlain Knots|ltr|1||||
 |Honored Dreyleader|blb|1|SquirreledAway|||
 |Hop to It|blb|2|HareRaising|||
 |Hungry Ghoul|fdn|1|Foundations BeginnerBox|||
+|Hunter's Talent|blb|1||||
 |Icewind Elemental|fdn|1|Foundations BeginnerBox|||
 |Idol of Oblivion|blc|1|SquirreledAway|||
 |Incinerating Blast|fdn|1|Foundations BeginnerBox|||
@@ -230,13 +253,13 @@
 |Inspirit, Flagship Vessel|eoc|1|CounterIntelligence|||
 |Into the Roil|fdn|1|Foundations BeginnerBox|||
 |Irrigated Farmland|eoc|1|CounterIntelligence|||
-|Island|ecl|1|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry|||
-|Island|eoe|1|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry||Yes (2)|
-|Island|eoe|2|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry||Yes (2)|
-|Island|sos|8|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry|||
-|Island|blb|6|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry||Yes (2)|
-|Island|blb|5|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry||Yes (2)|
 |Island|fdn|14|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry|||
+|Island|ecl|1|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry|||
+|Island|blb|5|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry||Yes (2)|
+|Island|blb|6|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry||Yes (2)|
+|Island|eoe|2|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry||Yes (2)|
+|Island|eoe|1|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry||Yes (2)|
+|Island|sos|8|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry|||
 |Jazal Goldmane|fdn|1|Foundations BeginnerBox|||
 |Jhoira, Weatherlight Captain|eoc|1|CounterIntelligence|||
 |Joraga Invocation|fdn|1|Foundations BeginnerBox|||
@@ -252,18 +275,21 @@
 |Knuckles the Echidna|sld|1|SonictheHedgehog FriendsandFoes|||
 |Lasting Tarfire|ecl|1||||
 |Leitmotif Composer|soc|1|PrismariArtistry|||
+|Leonardo, Big Brother|tmt|1||||
 |Leonin Skyhunter|fdn|1|Foundations BeginnerBox|||
 |Leonin Vanguard|fdn|1|Foundations BeginnerBox|||
-|Lightning Greaves|soc|1|PrismariArtistry; SonictheHedgehog TurboGear (alt)|Power Sneakers (SonictheHedgehog TurboGear)||
 |Lightning Greaves|sld|1|PrismariArtistry; SonictheHedgehog TurboGear (alt)|Power Sneakers (SonictheHedgehog TurboGear)||
+|Lightning Greaves|soc|1|PrismariArtistry; SonictheHedgehog TurboGear (alt)|Power Sneakers (SonictheHedgehog TurboGear)||
 |Llanowar Elves|fdn|1|Foundations BeginnerBox|||
 |Llanowar Wastes|blc|1|SquirreledAway|||
 |Lonely Sandbar|eoc|1|CounterIntelligence|||
 |Long-Range Sensor|eoc|1|CounterIntelligence|||
+|Longstalk Brawl|blb|1||||
 |Lux Artillery|eoc|1|CounterIntelligence|||
 |Lux Cannon|eoc|1|CounterIntelligence|||
 |Maalfeld Twins|fdn|1|Foundations BeginnerBox|||
-|Mabel, Heir to Cragflame|blb|1||||
+|Mabel, Heir to Cragflame|blb|1|||Yes (2)|
+|Mabel, Heir to Cragflame|blb|1|||Yes (2)|
 |Maelstrom Pulse|blc|1|SquirreledAway|||
 |Magma Opus|soc|1|PrismariArtistry|||
 |Magnigoth Sentry|fdn|1|Foundations BeginnerBox|||
@@ -286,11 +312,12 @@
 |Moonstone Eulogist|blc|1|SquirreledAway|||
 |Morbid Opportunist|blc|1|SquirreledAway|||
 |Mountain|blb|6|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry||Yes (2)|
-|Mountain|blb|6|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry||Yes (2)|
-|Mountain|eoe|2|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry||Yes (2)|
 |Mountain|eoe|1|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry||Yes (2)|
-|Mountain|fdn|15|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry|||
+|Mountain|eoe|2|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry||Yes (2)|
+|Mountain|blb|6|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry||Yes (2)|
 |Mountain|sos|7|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry|||
+|Mountain|fdn|15|CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry|||
+|Mouser Attack!|tmt|1||||
 |Mouth of the Storm|eoe|1||||
 |Moxite Refinery|eoc|1|CounterIntelligence|||
 |Muddle, the Ever-Changing|soc|1|PrismariArtistry|||
@@ -302,9 +329,11 @@
 |Mystic Sanctuary|soc|1|PrismariArtistry|||
 |Nadier's Nightblade|blc|1|SquirreledAway|||
 |Necroblossom Snarl|blc|1|SquirreledAway|||
+|Negate|tmt|1||||
 |Nested Shambler|blc|1|SquirreledAway|||
 |New Horizons|fdn|1|Foundations BeginnerBox|||
 |Nightmare Sower|ecl|1||||
+|Ninja Teen|tmt|1||||
 |Offer Immortality|fdn|1|Foundations BeginnerBox|||
 |Ogre Slumlord|blc|1|SquirreledAway|||
 |Ooze Patrol|dft|1||||
@@ -313,8 +342,10 @@
 |Oran-Rief, the Vastwood|blc|1|SquirreledAway|||
 |Organic Extinction|eoc|1|CounterIntelligence|||
 |Pacifism|fdn|1|Foundations BeginnerBox|||
-|Path of Ancestry|blc|1|PrismariArtistry; SquirreledAway|||
+|Pain 101|tmt|1||||
+|Palladium Myr|cmm|1||||
 |Path of Ancestry|soc|1|PrismariArtistry; SquirreledAway|||
+|Path of Ancestry|blc|1|PrismariArtistry; SquirreledAway|||
 |Patrolling Peacemaker|eoc|1|CounterIntelligence|||
 |Pearl of Wisdom|blb|3|OtterLimits|||
 |Pentad Prism|eoc|1|CounterIntelligence|||
@@ -322,12 +353,13 @@
 |Pileated Provisioner|blb|3|HareRaising|||
 |Pirate's Cutlass|fdn|1|Foundations BeginnerBox|||
 |Plaguecrafter|blc|1|SquirreledAway|||
-|Plains|fdn|8|CounterIntelligence; Foundations BeginnerBox; HareRaising||Yes (2)|
-|Plains|fdn|6|CounterIntelligence; Foundations BeginnerBox; HareRaising||Yes (2)|
-|Plains|blb|6|CounterIntelligence; Foundations BeginnerBox; HareRaising||Yes (2)|
-|Plains|blb|6|CounterIntelligence; Foundations BeginnerBox; HareRaising||Yes (2)|
-|Plains|eoe|2|CounterIntelligence; Foundations BeginnerBox; HareRaising||Yes (2)|
 |Plains|eoe|1|CounterIntelligence; Foundations BeginnerBox; HareRaising||Yes (2)|
+|Plains|blb|1|CounterIntelligence; Foundations BeginnerBox; HareRaising||Yes (3)|
+|Plains|eoe|2|CounterIntelligence; Foundations BeginnerBox; HareRaising||Yes (2)|
+|Plains|blb|6|CounterIntelligence; Foundations BeginnerBox; HareRaising||Yes (3)|
+|Plains|blb|6|CounterIntelligence; Foundations BeginnerBox; HareRaising||Yes (3)|
+|Plains|fdn|6|CounterIntelligence; Foundations BeginnerBox; HareRaising||Yes (2)|
+|Plains|fdn|8|CounterIntelligence; Foundations BeginnerBox; HareRaising||Yes (2)|
 |Plargg and Nassari|soc|1|PrismariArtistry|||
 |Plumb the Forbidden|blc|1|SquirreledAway|||
 |Poison-Tip Archer|blc|1|SquirreledAway|||
@@ -348,16 +380,20 @@
 |Rabid Gnaw|blb|2|OtterLimits|||
 |Radiant Summit|eoc|1|CounterIntelligence|||
 |Raging Redcap|fdn|1|Foundations BeginnerBox|||
+|Rally at the Hornburg|ltr|1||||
 |Rapacious Dragon|fdn|1|Foundations BeginnerBox|||
 |Ravenous Squirrel|blc|1|SquirreledAway|||
+|Ravine Raider|blb|1||||
 |Razortide Bridge|eoc|1|CounterIntelligence|||
 |Reality Shift|soc|1|PrismariArtistry|||
 |Reassembling Skeleton|fdn|1|Foundations BeginnerBox|||
 |Redoubled Stormsinger|soc|1|PrismariArtistry|||
+|Relentless Rohirrim|ltr|1||||
 |Reliquary Tower|soc|1|PrismariArtistry|||
 |Renegade Bull|soc|1|PrismariArtistry|||
 |Repel Calamity|blb|2|HareRaising|||
 |Replication Technique|soc|1|PrismariArtistry|||
+|Reprieve|ltr|1||||
 |Resculpt|soc|1|PrismariArtistry|||
 |Resourceful Defense|eoc|1|CounterIntelligence|||
 |Restless Spire|soc|1|PrismariArtistry|||
@@ -366,6 +402,9 @@
 |Rionya, Fire Dancer|soc|1|PrismariArtistry|||
 |Ripples of Potential|eoc|1|CounterIntelligence|||
 |Rite of Replication|soc|1|PrismariArtistry|||
+|Robot|ttmt|1||||
+|Rock Soldiers|tmt|1||||
+|Rohirrim Lancer|ltr|1||||
 |Rootcast Apprenticeship|blc|1|SquirreledAway|||
 |Rootha, Mastering the Moment|soc|1|PrismariArtistry|||
 |Rootha, Mercurial Artist|soc|1|PrismariArtistry|||
@@ -388,8 +427,8 @@
 |Serra Redeemer|blb|1|HareRaising|||
 |Shadow the Hedgehog|sld|1|SonictheHedgehog FriendsandFoes|||
 |Shamanic Revelation|blc|1|SquirreledAway|||
-|Shivan Reef|soc|1|CounterIntelligence; PrismariArtistry|||
 |Shivan Reef|eoc|1|CounterIntelligence; PrismariArtistry|||
+|Shivan Reef|soc|1|CounterIntelligence; PrismariArtistry|||
 |Shore Lurker|ecl|1||||
 |Silken Strength|dft|1||||
 |Silverbluff Bridge|eoc|1|CounterIntelligence|||
@@ -401,8 +440,8 @@
 |Skyship Buccaneer|fdn|1|Foundations BeginnerBox|||
 |Snakeskin Veil|fdn|1|Foundations BeginnerBox|||
 |Sol Ring|blc|1|CounterIntelligence; PrismariArtistry; SonictheHedgehog ChasingAdventure; SquirreledAway|||
-|Sol Ring|eoc|1|CounterIntelligence; PrismariArtistry; SonictheHedgehog ChasingAdventure; SquirreledAway|||
 |Sol Ring|sld|1|CounterIntelligence; PrismariArtistry; SonictheHedgehog ChasingAdventure; SquirreledAway|||
+|Sol Ring|eoc|1|CounterIntelligence; PrismariArtistry; SonictheHedgehog ChasingAdventure; SquirreledAway|||
 |Sol Ring|soc|1|CounterIntelligence; PrismariArtistry; SonictheHedgehog ChasingAdventure; SquirreledAway|||
 |Solar Array|eoc|1|CounterIntelligence|||
 |Solemn Simulacrum|soc|1|PrismariArtistry|||
@@ -411,28 +450,31 @@
 |Spectacle Summit|sos|1|PrismariArtistry|||
 |Spectral Sailor|fdn|1|Foundations BeginnerBox|||
 |Spire of Industry|eoc|1|CounterIntelligence|||
+|Splash Lasher|blb|1||||
 |Squirrel Nest|blc|1|SquirreledAway|||
 |Squirrel Sovereign|blc|1|SquirreledAway|||
+|Squirrelanoids|tmt|1||||
+|Stargaze|blb|1||||
 |Starlight Snare|fdn|1|Foundations BeginnerBox|||
 |Starting Column|dft|1||||
 |Steel Overseer|eoc|1|CounterIntelligence|||
 |Storm Fleet Spy|fdn|1|Foundations BeginnerBox|||
-|Stormcatch Mentor|soc|1|OtterLimits; PrismariArtistry|||
 |Stormcatch Mentor|blb|2|OtterLimits; PrismariArtistry|||
+|Stormcatch Mentor|soc|1|OtterLimits; PrismariArtistry|||
 |Storm-Kiln Artist|soc|1|PrismariArtistry|||
 |Stromkirk Bloodthief|fdn|1|Foundations BeginnerBox|||
 |Study Hall|soc|1|PrismariArtistry|||
-|Sulfur Falls|eoc|1|CounterIntelligence; PrismariArtistry|||
 |Sulfur Falls|soc|1|CounterIntelligence; PrismariArtistry|||
+|Sulfur Falls|eoc|1|CounterIntelligence; PrismariArtistry|||
 |Super State|sld|1|SonictheHedgehog FriendsandFoes|||
 |Surge Conductor|eoc|1|CounterIntelligence|||
 |Surge to Victory|soc|1|PrismariArtistry|||
 |Suspicious Shambler|fdn|1|Foundations BeginnerBox|||
 |Swab Goblin|fdn|1|Foundations BeginnerBox|||
-|Swamp|blb|4|Foundations BeginnerBox; SquirreledAway||Yes (2)|
-|Swamp|blb|4|Foundations BeginnerBox; SquirreledAway||Yes (2)|
-|Swamp|fdn|11|Foundations BeginnerBox; SquirreledAway||Yes (2)|
 |Swamp|fdn|3|Foundations BeginnerBox; SquirreledAway||Yes (2)|
+|Swamp|fdn|11|Foundations BeginnerBox; SquirreledAway||Yes (2)|
+|Swamp|blb|4|Foundations BeginnerBox; SquirreledAway||Yes (2)|
+|Swamp|blb|4|Foundations BeginnerBox; SquirreledAway||Yes (2)|
 |Swan Song|eoc|1|CounterIntelligence|||
 |Swarmyard|blc|1|SquirreledAway|||
 |Swarmyard Massacre|blc|1|SquirreledAway|||
@@ -449,15 +491,16 @@
 |Tear Asunder|blc|1|SquirreledAway|||
 |Tekuthal, Inquiry Dominus|eoc|1|CounterIntelligence|||
 |Temple of Enlightenment|eoc|1|CounterIntelligence|||
-|Temple of Epiphany|eoc|1|CounterIntelligence; PrismariArtistry|||
 |Temple of Epiphany|soc|1|CounterIntelligence; PrismariArtistry|||
+|Temple of Epiphany|eoc|1|CounterIntelligence; PrismariArtistry|||
 |Temple of Malady|blc|1|SquirreledAway|||
 |Temple of the False God|soc|1|PrismariArtistry|||
 |Temple of Triumph|eoc|1|CounterIntelligence|||
-|Terramorphic Expanse|sos|1|PrismariArtistry; SquirreledAway|||
 |Terramorphic Expanse|blc|1|PrismariArtistry; SquirreledAway|||
+|Terramorphic Expanse|sos|1|PrismariArtistry; SquirreledAway|||
 |Terror of Mount Velus|fdn|1|Foundations BeginnerBox|||
 |Tezzeret's Gambit|eoc|1|CounterIntelligence|||
+|The Cloning of Shredder|tmt|1||||
 |The Mycosynth Gardens|eoc|1|CounterIntelligence|||
 |The Odd Acorn Gang|blc|1|SquirreledAway|||
 |The Reaver Cleaver|sld|1|SonictheHedgehog TurboGear (alt)|Knuckles's Gloves (SonictheHedgehog TurboGear)||
@@ -482,6 +525,7 @@
 |Twilight Mire|blc|1|SquirreledAway|||
 |Twinblade Paladin|fdn|1|Foundations BeginnerBox|||
 |Twinflame|soc|1|PrismariArtistry|||
+|Twitching Doll|dsk|1||||
 |Uncharted Haven|fdn|10|Foundations BeginnerBox|||
 |Undying Malice|fdn|1|Foundations BeginnerBox|||
 |Unexpected Windfall|sld|1|SonictheHedgehog ChasingAdventure|||
@@ -493,6 +537,7 @@
 |Vampire Spawn|fdn|1|Foundations BeginnerBox|||
 |Vengeful Bloodwitch|fdn|1|Foundations BeginnerBox|||
 |Veyran, Voice of Duality|soc|1|PrismariArtistry|||
+|Vinereap Mentor|blb|1||||
 |Viridescent Bog|blc|1|SquirreledAway|||
 |Volcanic Salvo|soc|1|PrismariArtistry|||
 |Volcanic Torrent|soc|1|PrismariArtistry|||
@@ -502,6 +547,7 @@
 |Wanderbrine Trapper|ecl|1||||
 |Warren Elder|blb|3|HareRaising|||
 |Waterspout Warden|blb|3|OtterLimits|||
+|Wear Down|blb|1||||
 |Weatherlight|sld|1|SonictheHedgehog TurboGear (alt)|Tornado, Sonic's Biplane (SonictheHedgehog TurboGear)||
 |Wildheart Invoker|fdn|1|Foundations BeginnerBox|||
 |Wildwood Scourge|fdn|1|Foundations BeginnerBox|||
@@ -513,56 +559,99 @@
 
 ## Cards not assigned to precons
 
+- Action News Crew — Edition: tmt
 - Aether Syphon — Edition: dft
 - Autarch Mammoth — Edition: dft
 - Avishkar Raceway — Edition: dft
+- Barkform Harvester — Edition: blb
 - Bogslither's Embrace — Edition: ecl
+- Bonebind Orator — Edition: blb
 - Bulwark Ox — Edition: dft
+- Bumbleflower's Sharepot — Edition: blb
+- Buzz Bots — Edition: tmt
 - Caelorna, Coral Tyrant — Edition: dft
 - Canyon Vaulter — Edition: dft
 - Chaos Spewer — Edition: ecl
 - Chitin Gravestalker — Edition: dft
 - Count on Luck — Edition: dft
+- Courier of Comestibles — Edition: pw26
+- Crumb and Get It — Edition: blb
 - Dewdrop Cure — Edition: blb
+- Dire Downdraft — Edition: blb
+- Dream Beavers — Edition: tmt
+- Dúnedain Rangers — Edition: ltr
+- Easterling Vanguard — Edition: ltr
 - Eclipsed Boggart — Edition: ecl
 - Elder Auntie — Edition: ecl
 - Endrider Catalyzer — Edition: dft
+- Escape Tunnel — Edition: tmt
 - Explosive Getaway — Edition: dft
+- Fall of Gil-galad — Edition: ltr
+- Faramir, Field Commander — Edition: ltr
 - Feisty Spikeling — Edition: ecl
+- Frog Butler — Edition: tmt
 - Fuel the Flames — Edition: dft
+- Genghis Frog — Edition: tmt
 - Goblin Surveyor — Edition: dft
 - Goliath Daydreamer — Edition: ecl
 - Guidelight Matrix — Edition: dft
 - Guidelight Optimizer — Edition: dft
 - Guidelight Synergist — Edition: dft
+- Haradrim Spearmaster — Edition: ltr
+- Harmonized Crescendo — Edition: ecl
+- Hidden Blade — Edition: acr
+- Hithlain Knots — Edition: ltr
+- Hunter's Talent — Edition: blb
 - Kalakscion, Hunger Tyrant — Edition: dft
 - Keen Buccaneer — Edition: dft
 - Lasting Tarfire — Edition: ecl
+- Leonardo, Big Brother — Edition: tmt
+- Longstalk Brawl — Edition: blb
+- Mabel, Heir to Cragflame — Edition: blb
 - Mabel, Heir to Cragflame — Edition: blb
 - Migrating Ketradon — Edition: dft
 - Moonlit Meditation — Edition: eoe
+- Mouser Attack! — Edition: tmt
 - Mouth of the Storm — Edition: eoe
 - Mutant Surveyor — Edition: dft
+- Negate — Edition: tmt
 - Nightmare Sower — Edition: ecl
+- Ninja Teen — Edition: tmt
 - Ooze Patrol — Edition: dft
+- Pain 101 — Edition: tmt
+- Palladium Myr — Edition: cmm
+- Rally at the Hornburg — Edition: ltr
+- Ravine Raider — Edition: blb
+- Relentless Rohirrim — Edition: ltr
+- Reprieve — Edition: ltr
 - Ride's End — Edition: dft
 - Rimekin Recluse — Edition: ecl
+- Robot — Edition: ttmt
+- Rock Soldiers — Edition: tmt
+- Rohirrim Lancer — Edition: ltr
 - Rugged Highlands — Edition: dft
 - Run Away Together — Edition: ecl
 - Run Over — Edition: dft
 - Safewright Cavalry — Edition: ecl
 - Shore Lurker — Edition: ecl
 - Silken Strength — Edition: dft
+- Splash Lasher — Edition: blb
+- Squirrelanoids — Edition: tmt
+- Stargaze — Edition: blb
 - Starting Column — Edition: dft
 - Swiftwing Assailant — Edition: dft
+- The Cloning of Shredder — Edition: tmt
+- Twitching Doll — Edition: dsk
+- Vinereap Mentor — Edition: blb
 - Walking Sarcophagus — Edition: dft
 - Wanderbrine Trapper — Edition: ecl
+- Wear Down — Edition: blb
 
 ---
 
 ## Precon: CounterIntelligence
 Expected total quantity (from decklist): 100
-Matched total quantity in CSV (exact + heuristics): 210
+Matched total quantity in CSV (exact + heuristics): 211
 
 ### Heuristic matches (auto-assigned):
 - None
@@ -580,7 +669,7 @@ Matched total quantity in CSV (exact + heuristics): 210
 
 ## Precon: Foundations BeginnerBox
 Expected total quantity (from decklist): 200
-Matched total quantity in CSV (exact + heuristics): 292
+Matched total quantity in CSV (exact + heuristics): 295
 
 ### Heuristic matches (auto-assigned):
 - None
@@ -598,7 +687,7 @@ Matched total quantity in CSV (exact + heuristics): 292
 
 ## Precon: HareRaising
 Expected total quantity (from decklist): 60
-Matched total quantity in CSV (exact + heuristics): 104
+Matched total quantity in CSV (exact + heuristics): 106
 
 ### Heuristic matches (auto-assigned):
 - None
@@ -707,8 +796,8 @@ Matched total quantity in CSV (exact + heuristics): 8
 
 ### Extras (CSV rows attributed to this precon but not in decklist):
 - Hammer of Nazahn — Edition: sld
-- Lightning Greaves — Edition: soc
 - Lightning Greaves — Edition: sld
+- Lightning Greaves — Edition: soc
 - Myr — Edition: sld
 - Myr Battlesphere — Edition: sld
 - Swiftfoot Boots — Edition: sld
@@ -719,7 +808,7 @@ Matched total quantity in CSV (exact + heuristics): 8
 
 ## Precon: SquirreledAway
 Expected total quantity (from decklist): 100
-Matched total quantity in CSV (exact + heuristics): 155
+Matched total quantity in CSV (exact + heuristics): 156
 
 ### Heuristic matches (auto-assigned):
 - None
