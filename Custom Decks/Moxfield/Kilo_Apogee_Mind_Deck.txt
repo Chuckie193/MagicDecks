@@ -1,93 +1,79 @@
 1 Kilo, Apogee Mind *CMDR*
-1 Archmage Emeritus
-1 Chrome Host Seedshark
+1 Abrade
+1 Ancient Den
+1 Arcane Signet
+1 Cascade Bluffs
+1 Chain Reaction
+1 Chaos Warp
+1 Command Tower
 1 Coretapper
-1 Crystalline Crawler
+1 Curiosity Crafter
+1 Darksteel Reactor
+1 Depthshaker Titan
+1 Dispatch
 1 Emry, Lurker of the Loch
+1 Empowered Autogenerator
+1 Enthusiastic Mechanaut
 1 Etched Oracle
 1 Etherium Sculptor
+1 Exotic Orchard
+1 Experimental Augury
+1 Fabricate
 1 Galazeth Prismari
+1 Gavel of the Righteous
+1 Glittering Massif
+1 Golem Foundry
+1 Great Furnace
+1 Hangarback Walker
+1 Insight Engine
+1 Inspirit, Flagship Vessel
 1 Jhoira, Weatherlight Captain
 1 Kappa Cannoneer
-1 Mindless Automaton
-1 Palladium Myr
-1 Patrolling Peacemaker
-1 Steel Overseer
-1 Storm-Kiln Artist
-1 Surge Conductor
-1 Tekuthal, Inquiry Dominus
-1 Thought Monitor
-1 Thrummingbird
-1 Veyran, Voice of Duality
-1 Arcane Signet
-1 Astral Cornucopia
-1 Darksteel Reactor
-1 Empowered Autogenerator
-1 Everflowing Chalice
-1 Fellwar Stone
-1 Insight Engine
-1 Power Sneakers
+1 Karn's Bastion
+1 Lonely Sandbar
 1 Long-Range Sensor
 1 Lux Artillery
 1 Lux Cannon
+1 Mindless Automaton
 1 Moxite Refinery
-1 Sol Ring
-1 Air Shoes
-1 Talisman of Creativity
-1 Titan Forge
-1 Big Score
-1 Cancel
-1 Chaos Warp
-1 Deadly Riposte
-1 Dispatch
-1 Experimental Augury
-1 Generous Gift
-1 Into the Roil
 1 Negate
-1 Opt
+1 Organic Extinction
+1 Palladium Myr
+1 Patrolling Peacemaker
+1 Power Sneakers
 1 Prismari Charm
-1 Prismari Command
-1 Quick Study
-1 Reality Shift
+1 Prismari Pianist
+1 Pull from Tomorrow
+1 Radiant Summit
+1 Renegade Bull
 1 Ripples of Potential
+1 Rootha, Mercurial Artist
+1 Rustvale Bridge
+1 Seat of the Synod
+1 Secluded Steppe
+1 Shivan Reef
+1 Silverbluff Bridge
+1 Skullclamp
+1 Sol Ring
+1 Soul-Guide Lantern
+1 Spectacle Summit
+1 Stormcatch Mentor
+1 Surge Conductor
 1 Swan Song
 1 Swords to Plowshares
-1 Thirst for Knowledge
-1 Deep Analysis
-1 Fabricate
-1 Fumigate
-1 Open the Armory
-1 Organic Extinction
-1 Rite of Replication
+1 Tekuthal, Inquiry Dominus
 1 Tezzeret's Gambit
-1 Universal Surveillance
-1 Wake the Past
-1 Buried Ruin
-1 Cascade Bluffs
-1 Clifftop Retreat
-1 Command Tower
-1 Evolving Wilds
-1 Exotic Orchard
-1 Fabled Passage
-1 Ferrous Lake
-1 Frostboil Snarl
-1 Glacial Fortress
-1 Irrigated Farmland
-1 Karn's Bastion
-1 Mystic Monastery
-1 Mystic Sanctuary
-1 Path of Ancestry
-1 Razortide Bridge
-1 Reliquary Tower
-1 Rugged Prairie
-1 Spire of Industry
-1 Study Hall
-1 Sulfur Falls
-1 Temple of Enlightenment
-1 Temple of Epiphany
-1 Temple of Triumph
-1 Terramorphic Expanse
 1 The Mycosynth Gardens
-4 Island
-3 Mountain
-3 Plains
+1 Thirst for Knowledge
+1 Thought Monitor
+1 Threefold Thunderhulk
+1 Thrummingbird
+1 Thunderclap Drake
+1 Titan Forge
+1 Universal Surveillance
+1 Air Shoes
+1 Uthros Research Craft
+1 Wake the Past
+8 Island
+8 Mountain
+7 Plains

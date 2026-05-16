@@ -1,139 +1,126 @@
-# Kilo, Apogee Mind — Jeskai Proliferate Artifacts Commander
+# Kilo_Apogee_Mind_Deck — Station Proliferate Commander (1v1)
 
-Commander: Kilo, Apogee Mind (Blue, Red, White — Jeskai)
+Commander: Kilo, Apogee Mind (1WUR, Blue/Red/White — Jeskai)
 
 ## Overview
-- **Strategy:** Kilo is a 3-mana artifact creature with haste that proliferates every time it becomes tapped — including when it attacks or when Galazeth Prismari lets it tap for mana. The deck floods the board with charge-counter payoffs (Darksteel Reactor, Lux Cannon, Titan Forge), +1/+1 counter synergies (Steel Overseer, Lux Artillery), and proliferate engines (Tekuthal, Thrummingbird, Tezzeret's Gambit) to double and re-double every counter on the field. The primary win condition is Darksteel Reactor reaching 20 charge counters via repeated proliferation; Titan Forge, Lux Artillery's 30-counter alt-win, and combat beatdown serve as backups.
+- **Strategy:** Kilo, Apogee Mind is a 3-mana 3/3 Legendary Artifact Creature with Haste. Its key ability: whenever Kilo becomes tapped, proliferate. Built on the spine of the Inspirit/CounterIntelligence precon, this deck exploits the **Station** mechanic as the primary proliferate engine — tapping Kilo (a 3/3) to Station a Spacecraft puts 3 charge counters on it **and** fires a proliferate trigger simultaneously. With Tekuthal, Inquiry Dominus in play, every Station activation or attack tap doubles to two proliferations. The win conditions are Darksteel Reactor (20 charge counters = you win the game), Lux Artillery (30 total counters across permanents = 10 damage to each opponent), Titan Forge 9/9 Golems, and combat beatdown. Inspirit, Flagship Vessel moves into the 99 as both a Station target and a board-protecting engine — its 8+ counter ability grants all your other artifacts hexproof and indestructible, including Kilo itself (a Legendary Artifact Creature).
 - **Intended for:** Single opponent (1v1 / duel)
 
 ## Lore
 
-Kilo's circuits hum with cold purpose — each tap fans the flames of acceleration across every counter in play. Rivals brace as the reactor ticks ever higher. *They didn't build a weapon. They built a clock.*
+Kilo doesn't wait for permission — every tap fans the charge across the fleet. Station her. Proliferate. The reactor climbs. *They came to fight a ship. They didn't know the ship was a clock.*
 
 ---
 
 ## Decklist (100 cards)
 
 ### Commander (1)
-- **Kilo, Apogee Mind** — The engine of the deck. Haste means it hits the board swinging; every tap proliferates, spreading counters to Darksteel Reactor, artifact armies, and more. Galazeth Prismari lets Kilo tap for mana, triggering it before attacks too.
+- **Kilo, Apogee Mind** (1WUR, Legendary Artifact Creature — Robot Artificer, 3/3, Haste) — The engine. Haste means it attacks the turn it arrives. Tapping Kilo to Station a Spacecraft, to tap for mana via Galazeth Prismari, or simply to attack all trigger proliferate. As a 3/3, Kilo contributes 3 charge counters per Station activation on top of the proliferate trigger.
 
-### Creatures (20)
-- **Archmage Emeritus** — Magecraft draw engine; every instant or sorcery replaces itself. With Veyran on the field, each spell draws two cards.
-- **Chrome Host Seedshark** — Incubator tokens on every noncreature spell, seeding the field with Phyrexian artifact creatures that gain counters via proliferate.
-- **Coretapper** — Puts charge counters directly onto Darksteel Reactor, Lux Cannon, or Titan Forge; sacrifices for double the counters.
-- **Crystalline Crawler** — Converge creature (enters with up to 3 +1/+1 counters in Jeskai) that doubles as flexible mana ramp.
-- **Emry, Lurker of the Loch** — Affinity cast, mills 4 on entry, then taps to repeatedly replay artifacts from the graveyard.
-- **Etched Oracle** — Sunburst enters with 3 counters; remove 4 to draw 3 cards. Proliferate refills its counters for repeated activations.
-- **Etherium Sculptor** — Reduces each artifact spell by 1 mana, enabling faster deployment of the artifact-heavy gameplan.
-- **Galazeth Prismari** — Grants all artifacts a tap ability to produce mana for instants and sorceries. Tapping Kilo for mana triggers its proliferate ability before combat!
-- **Jhoira, Weatherlight Captain** — Draws a card whenever you cast any artifact or legendary spell; this deck is full of both.
-- **Kappa Cannoneer** — Improvise lets you tap artifacts to cast it cheaply; Ward 4 protects it; each artifact entering puts a +1/+1 counter on it.
-- **Mindless Automaton** — A flexible counter sink: discard a card to add a +1/+1 counter, remove two counters to draw a card. Proliferate keeps it loaded.
-- **Palladium Myr** — Produces 2 colorless mana; excellent low-maintenance ramp for the artifact theme.
-- **Patrolling Peacemaker** — Enters with two +1/+1 counters and proliferates whenever an opponent commits a crime (targets your stuff). Punishes targeted interaction.
-- **Steel Overseer** — Taps to put a +1/+1 counter on every artifact creature you control; combines devastatingly with Lux Artillery's 30-counter alt-win condition.
-- **Storm-Kiln Artist** — Creates a Treasure on every instant or sorcery via Magecraft; grows larger with each artifact you control. With Veyran it doubles the Treasures.
-- **Surge Conductor** — Proliferates whenever a nontoken artifact enters under your control. With ramp artifacts constantly arriving, this fires repeatedly each turn.
-- **Tekuthal, Inquiry Dominus** — Every proliferate you would do, you do twice instead. Kilo's attack tap becomes two proliferations; Tezzeret's Gambit proliferates four times.
-- **Thought Monitor** — Affinity draw: often free or very cheap; draws two cards. Arrives as an artifact creature for Surge Conductor and Steel Overseer synergies.
-- **Thrummingbird** — Flying 1/1 that proliferates on combat damage. Evasive finisher and secondary proliferate engine.
-- **Veyran, Voice of Duality** — Magecraft doubler: Archmage Emeritus draws two cards per spell instead of one; Storm-Kiln Artist makes two Treasures per spell.
+### Creatures (24)
+- **Coretapper** (2, Myr, 1/1) — Station support in creature form: tap to put a charge counter directly on any artifact; sacrifice to add two. The most efficient manual charger in the deck, and a target for Emry recursion.
+- **Curiosity Crafter** (3U, Bird Wizard, 3/3 Flying) — No hand size limit; draws a card whenever a creature token you control deals combat damage. Rewards the Gnome and Golem armies generated by Threefold Thunderhulk and Golem Foundry.
+- **Depthshaker Titan** (5RR, Robot, 5/5) — On entry, up to all noncreature artifacts become 3/3 creatures with melee, trample, and haste until end step. Also contributes **5 charge counters** in a single Station activation — the highest single-tap Station value in the deck. Combine with Inspirit's 8+ protection for a lethal indestructible artifact swarm.
+- **Emry, Lurker of the Loch** (3U Affinity, Merfolk Wizard, 1/2) — Affinity makes her extremely cheap once artifacts are established. Mills 4 on entry; taps each turn to cast an artifact from your graveyard, keeping Coretapper, Soul-Guide Lantern, and mana rocks cycling.
+- **Enthusiastic Mechanaut** (UR, Goblin Artificer, 2/2 Flying) — Reduces all artifact spells by 1 mana. Combined with Etherium Sculptor, artifacts can cost 2 less total, dramatically accelerating your turns.
+- **Etched Oracle** (4, Wizard, 0/0 Sunburst) — Enters with a +1/+1 counter for each color of mana spent (up to 3 in Jeskai). Remove four counters to draw three cards. Proliferate refills its counters for repeated activations, turning it into a repeatable Ancestral Recall.
+- **Etherium Sculptor** (1U, Vedalken Artificer, 1/2) — Reduces all artifact spells by 1 mana. An early drop that makes the entire artifact engine run faster.
+- **Galazeth Prismari** (3UR, Elder Dragon, 4/4 Flying) — **Critical enabler.** Grants all artifacts the ability to tap for mana spent on instants and sorceries. This means Kilo can tap for mana in your main phase, triggering proliferate **before** combat — two proliferate triggers per turn when Kilo both taps for mana and attacks.
+- **Hangarback Walker** (XX, Construct, 0/0) — Enters with X +1/+1 counters; taps to add a counter; when it dies, creates X 1/1 Thopter tokens with flying. A high-power Station target when large, and a swarm of Skullclamp targets when it falls.
+- **Jhoira, Weatherlight Captain** (2UR, Human Artificer, 3/3) — Draws a card whenever you cast a historic spell (artifacts, legendaries, Sagas). With nearly every spell in the deck being an artifact or legendary, Jhoira generates overwhelming card advantage.
+- **Kappa Cannoneer** (5U Improvise, Turtle Warrior, 4/4) — Improvise reduces cost for each artifact tapped. Ward 4 makes it nearly unkillable. Grows with a +1/+1 counter and becomes unblockable whenever any artifact enters — a reliable finisher.
+- **Mindless Automaton** (4, Construct, 0/0 with two counters) — Discard a card to add a +1/+1 counter; remove two counters to draw a card. Flexible counter sink and card filter; proliferate keeps it loaded.
+- **Palladium Myr** (3, Myr, 2/2) — Taps for two colorless mana; one of the deck's most reliable ramp pieces, and a 2/2 Station target in a pinch.
+- **Patrolling Peacemaker** (2W, Robot Soldier, 0/0 with two counters) — Proliferates whenever an opponent commits a crime (targets you, your permanents, or your graveyard). Punishes counterspells and removal aimed at your artifacts; every counter added synergizes with Inspirit's accumulation race.
+- **Prismari Pianist** (1RR, Djinn Bard, 2/1) — Creates a 1/1 Blue and Red Elemental token whenever you cast an instant or sorcery (three tokens if the spell has mana value 5+). Turns every interaction into Station fuel or Skullclamp targets.
+- **Renegade Bull** (4R, Ox, 0/5 Trample) — Gets +X/+0 when you cast instants/sorceries. On attacks, exiles an instant or sorcery from your graveyard and lets you cast the copy for free. Enables recasting Ripples of Potential, Organic Extinction, or Wake the Past for free mid-swing.
+- **Rootha, Mercurial Artist** (1UR, Orc Shaman, 1/4) — Pay 2 and return Rootha to hand: copy target instant or sorcery you control. Doubles your best spells — copy Organic Extinction for a second board wipe, or Pull from Tomorrow for massive double draw. Since she returns to hand, she's never truly gone.
+- **Stormcatch Mentor** (UR, Otter Wizard, 1/1 Haste Prowess) — Haste means it attacks immediately. Instants and sorceries you cast cost 1 less. Combines with Thunderclap Drake for a 2-mana reduction on all instants and sorceries.
+- **Surge Conductor** (3, Robot, 3/2) — Whenever another nontoken artifact you control enters the battlefield, proliferate. Every artifact played adds counters to Darksteel Reactor, Inspirit, Empowered Autogenerator, and Gavel of the Righteous simultaneously. The deck's passive proliferate engine.
+- **Tekuthal, Inquiry Dominus** (3U, Phyrexian Sphinx, 4/4 Flying) — **Must-answer threat.** Every proliferate you would do, you do twice instead. One Kilo Station activation becomes two proliferations. One Tezzeret's Gambit becomes four. With Galazeth letting Kilo tap for mana too, the counter accumulation is staggering.
+- **Thought Monitor** (6U Affinity, Construct, 2/2 Flying) — Affinity makes it nearly free once artifacts are established. Draws two cards on entry. A mid-to-late game powerhouse that keeps the hand full.
+- **Threefold Thunderhulk** (7, Gnome, 0/0 with three +1/+1 counters) — Enters as a 3/3. Whenever it enters or attacks, creates 1/1 colorless Gnome artifact creature tokens equal to its power. Sacrifice Gnomes with Moxite Refinery to load counters onto Inspirit, or equip Skullclamp for mass card draw. Grows further via proliferate.
+- **Thrummingbird** (1U, Bird, 1/1 Flying) — Proliferates whenever it deals combat damage to a player. Evasive secondary proliferate engine; each successful hit pushes Darksteel Reactor one step closer to 20.
+- **Thunderclap Drake** (1U, Drake, 2/1 Flying) — Instants and sorceries cost 1 less. Sacrifice it (pay 2U) to copy the next instant or sorcery you cast this turn, once per commander cast. Spell-efficiency engine and combat threat.
 
-### Artifacts & Mana (16)
-- **Sol Ring** — The best mana rock in Commander; accelerates into Kilo on turn 2.
-- **Arcane Signet** — 2-mana rock that produces any color in your commander's identity. Essential ramp.
-- **Talisman of Creativity** — Izzet talisman; produces Blue or Red for 1 life. Efficient early ramp.
-- **Fellwar Stone** — Usually produces Blue, Red, or White in a two-player game. Efficient and consistent.
-- **Everflowing Chalice** — Multikicker artifact that enters with charge counters; proliferate adds more counters and more mana over time.
-- **Astral Cornucopia** — Enters with charge counters for each mana spent (cast for 3+ to start); proliferate ramps your mana every turn.
-- **Empowered Autogenerator** — Slower start but becomes explosive: tap to add a charge counter and produce X mana of any one color, where X = charge counters. Proliferate accelerates it.
-- **Lightning Greaves** — Haste (redundant for Kilo) + shroud; protects Kilo from targeted removal and lets any creature attack immediately.
-- **Swiftfoot Boots** — Hexproof + haste; slightly slower to equip than Greaves but hexproof allows you to target Kilo yourself. Essential Kilo protection.
-- **Darksteel Reactor** — **Primary win condition.** Starts at 0 charge counters; at 20, you win. Indestructible. With Tekuthal, each Kilo attack adds 2 counters — roughly 10 attacks to win without other proliferate sources.
-- **Lux Cannon** — Taps to add a charge counter; taps + removes 3 counters to destroy any permanent. Proliferate accelerates from 3 → removal. Versatile repeatable removal.
-- **Titan Forge** — Taps for a charge counter; removes 3 to create a 9/9 Golem. Generates massive threats while proliferate speeds the charge cycle.
-- **Insight Engine** — Taps for a charge counter and draws that many cards (1 → 2 → 3…). Proliferate turns this into exponential card draw.
-- **Long-Range Sensor** — Each attack puts a charge counter on it; spend 2 counters to Discover 4 (cast a card free). Proliferate accelerates the draw threshold.
-- **Lux Artillery** — Artifact creatures entering gain Sunburst (3 +1/+1 counters in Jeskai); Steel Overseer + proliferate can push 30 counters across the board for an **alternate win condition**.
-- **Moxite Refinery** — Moves counters between artifacts and creatures: drain a depleted permanent and redirect counters to Darksteel Reactor or a combat threat.
+### Artifacts & Mana (18)
+- **Arcane Signet** (2) — Two-mana rock producing any color in the commander's identity. Essential early ramp.
+- **Darksteel Reactor** (4, indestructible) — **Primary win condition.** Gains a charge counter at the start of each upkeep. At 20 counters, you win the game. Indestructible, and once Inspirit reaches 8+ counters, it also gains hexproof. With Tekuthal doubling every proliferate, each Kilo attack adds 2 counters — roughly 10 Kilo taps to win with no other sources.
+- **Empowered Autogenerator** (4) — Enters tapped; taps to put a charge counter on itself and produce X mana of any one color, where X = charge counters. Grows from 1 mana to enormous ramp; Surge Conductor and Kilo proliferate extra counters onto it.
+- **Gavel of the Righteous** (2, Equipment) — Gains a charge counter at the start of each combat. Equipped creature gets +1/+1 per counter; at four or more counters, gains double strike. Equip for 3 or by removing a counter — puts your best Station target in prime striking position.
+- **Golem Foundry** (3) — Whenever you cast an artifact spell, put a charge counter here. Remove three counters to create a 3/3 colorless Golem artifact creature token. Generates a Golem nearly every other turn in this artifact-dense deck.
+- **Inspirit, Flagship Vessel** (1WUR, Legendary Artifact — Spacecraft, 5/5) — **Moved from commander zone into the 99.** Station it by tapping Kilo (a 3/3) to load 3 charge counters AND trigger proliferate simultaneously. At 1+ counters, Inspirit begins buffing artifacts in combat. At **8+ counters**, Inspirit gains flying and grants all your other artifacts hexproof and indestructible — protecting Kilo itself (a Legendary Artifact Creature) from all targeted removal and board wipes.
+- **Insight Engine** (2U) — Pay 2 and tap: put a charge counter here, then draw a card for each charge counter on it. Scales as an exponential draw engine alongside proliferate.
+- **Lightning Greaves** (2, Equipment) — **Haste + shroud.** Equip 0. Protects Kilo from targeted removal the turn it enters. Note: shroud means you can't target Kilo yourself while equipped; equip Swiftfoot Boots first if you need to target Kilo, then swap.
+- **Long-Range Sensor** (2R) — Whenever you attack a player, put a charge counter here. Remove two counters: Discover 4, activatable as a sorcery. Converts attacks into free spells or creatures mid-combat.
+- **Lux Artillery** (4) — At the beginning of your end step, if there are 30 or more counters among artifacts and creatures you control, deals 10 damage to each opponent. With Inspirit, Darksteel Reactor, Empowered Autogenerator, Gavel of the Righteous, Etched Oracle, Mindless Automaton, and proliferate, 30 total counters is achievable by turns 8-10.
+- **Lux Cannon** (4) — Tap to add a charge counter; tap and remove three: destroy any target permanent. Bypasses indestructible workarounds; a repeatable answer engine that scales with proliferate.
+- **Moxite Refinery** (2) — Pay 2, tap, remove X counters from an artifact or creature: put X charge counters on target artifact OR X +1/+1 counters on target creature (sorcery speed). Transfers counters from depleted permanents to supercharge Inspirit or Darksteel Reactor in one activation.
+- **Skullclamp** (1, Equipment) — Equipped creature gets -1/+0; when it dies, draw two cards. Equip 1. Transforms every 1/1 Gnome from Threefold Thunderhulk, every Thopter from Hangarback Walker, and Coretapper itself into two cards upon death.
+- **Sol Ring** (1) — The Commander staple. T: add CC. Accelerates Kilo onto turn 2.
+- **Soul-Guide Lantern** (1) — When it enters, exile a target card from a graveyard. Tap, Sacrifice: exile each opponent's graveyard. Pay 1, Tap, Sacrifice: draw a card. Graveyard hate in artifact form; triggers Jhoira and Surge Conductor, with emergency card draw.
+- **Swiftfoot Boots** (2, Equipment) — **Hexproof + haste.** Equip 1. Slightly slower than Lightning Greaves but hexproof lets you target Kilo with your own spells and equipment while protected. Essential Kilo protection.
+- **Titan Forge** (3) — Pay 3 and tap: add a charge counter. Tap and remove three: create a 9/9 colorless Golem artifact creature token. With proliferate accelerating charges, this churns out 9/9 Golems remarkably fast.
+- **Uthros Research Craft** (2U, Artifact — Spacecraft, 0/8) — A second Station target. At 3+ charge counters, draws a card and adds a charge counter whenever you cast an artifact spell — pairing with Jhoira for double draw on every artifact cast. Activates as an artifact creature at 12+ counters.
 
-### Instants (18)
-- **Swan Song** — 1-mana counter for any instant, sorcery, or enchantment. Gives opponent a 2/2 Bird, but usually worth it.
-- **Dispatch** — 1-mana tap + Metalcraft exile (easy to hit with this many artifacts). One of the best white removal spells at 1 mana.
-- **Opt** — Scry 1, draw 1 at instant speed. Keeps the hand full and smooths draws.
-- **Swords to Plowshares** — The gold standard of creature removal. Exiles any creature for 1 mana.
-- **Negate** — Counters any noncreature spell for 2 mana. Protects your combo pieces and answers problematic enchantments.
-- **Cancel** — Hard counter backup. Counters anything for 3 mana when Swan Song and Negate aren't enough.
-- **Reality Shift** — Exile a creature and manifest the opponent's top card (they get a face-down 2/2). Efficient and permanent.
-- **Generous Gift** — Destroys any permanent and gives the opponent a 3/3 Elephant. The versatility of hitting any permanent (lands, enchantments, commanders) makes it invaluable despite the consolation token.
-- **Into the Roil** — Bounces any nonland permanent; kicker draws a card. Flexible tempo play.
-- **Chaos Warp** — Shuffles any permanent into the opponent's library. Handles problematic enchantments and indestructible permanents that nothing else touches.
-- **Deadly Riposte** — Deals 3 damage to a tapped creature and gains you 2 life. Great in combat phases after Kilo attacks.
-- **Dispatch** — (listed under Dispatch above; Metalcraft exile)
-- **Prismari Charm** — Choose one: Surveil 2 + draw, or deal 1 damage to two targets, or return a permanent to hand. Flexible utility.
-- **Prismari Command** — Choose two: 2 damage; draw 2/discard 2; create a Treasure; destroy an artifact. Extremely versatile.
-- **Experimental Augury** — Look at top 3, put one in hand, and proliferate. Combines card selection with proliferate in one spell.
-- **Ripples of Potential** — Proliferate, then phase out permanents that got counters. Excellent protection for Kilo, Darksteel Reactor, or key pieces mid-combat.
-- **Thirst for Knowledge** — Draw 3, discard 2 unless you discard an artifact. Easy to satisfy with spare ramp artifacts.
-- **Quick Study** — Instant-speed draw 2. Fills the hand during the opponent's turn.
-- **Big Score** — Discard a card, draw 2, create 2 Treasures. Net card neutral but generates significant mana acceleration.
+### Instants (11)
+- **Abrade** (1R) — Deals 3 damage to target creature or destroys target artifact. Flexible removal that answers both threats and opposing artifact strategies.
+- **Chaos Warp** (2R) — Shuffles any permanent into its controller's library and replaces it with the top card. Universal answer to problematic permanents including indestructible ones and enchantments.
+- **Dispatch** (W, Metalcraft) — Taps target creature; with Metalcraft (three or more artifacts — trivial here) exiles it instead. The best 1-mana exile in the deck.
+- **Experimental Augury** (1U) — Look at the top 3 cards, put one into hand, then proliferate. Combines card selection with proliferate in one spell; excellent on your opponent's end step.
+- **Negate** (1U) — Counters any noncreature spell. Stops board wipes, planeswalkers, and opposing combos before they undo your setup.
+- **Prismari Charm** (UR) — Choose one: Surveil 2 then draw a card; deal 1 damage to each of up to two targets; or return a nonland permanent to hand. Versatile instant-speed utility.
+- **Pull from Tomorrow** (XUU) — Draw X cards, discard 1. A massive hand refill for the late game; Rootha can copy it for double the draw.
+- **Ripples of Potential** (1U) — Proliferate, then phase out any permanents you control that got a new counter. An excellent instant: fires a proliferate trigger and then phases out Kilo, Darksteel Reactor, or Inspirit to protect them from a board wipe.
+- **Swan Song** (U) — Counter any instant, sorcery, or enchantment. Gives opponent a 2/2 Bird, but shutting down a game-ending spell or hate enchantment is always worth it.
+- **Swords to Plowshares** (W) — The gold standard of creature removal. Exiles any creature for 1 mana.
+- **Thirst for Knowledge** (2U) — Draw 3, discard 2 unless you discard an artifact card. Easy to satisfy with spare mana rocks or Soul-Guide Lantern. Exceptional card advantage for 3 mana at instant speed.
 
-### Sorceries (9)
-- **Fabricate** — Artifact tutor at 3 mana. Finds Darksteel Reactor, Lightning Greaves, or any critical piece.
-- **Open the Armory** — 2-mana equipment tutor. Fetches Lightning Greaves or Swiftfoot Boots to protect Kilo.
-- **Tezzeret's Gambit** — Draw 2 and proliferate (pay life to avoid the Blue). With Tekuthal, this proliferates four times for each casting.
-- **Deep Analysis** — Draw 2 with Flashback for 1U + 3 life. Two draws in one card.
-- **Universal Surveillance** — Improvise draw X. With a board of artifacts, this draws 6+ cards for cheap.
-- **Rite of Replication** — Copy any creature (×5 when kicked). Copy Tekuthal for 5 proliferate-doublers, or copy Kappa Cannoneer for a lethal swing.
-- **Fumigate** — Destroys all creatures and gains life for each. The single board wipe this deck runs for emergencies.
-- **Organic Extinction** — Improvise destroys all nonartifact creatures, leaving your artifact creatures intact. Usually free with your artifact board.
-- **Wake the Past** — Returns all artifact cards from your graveyard to the battlefield with haste. One-shot explosive rebuild after a wipe.
+### Sorceries (6)
+- **Chain Reaction** (2RR) — Deals X damage to each creature, where X = the number of creatures on the battlefield. A board wipe that scales with crowded boards; your artifact creatures survive if Inspirit's 8+ protection is active.
+- **Fabricate** (2U) — Tutor any artifact to hand. Finds Darksteel Reactor if you need a win clock, Lightning Greaves if Kilo needs protection, or Inspirit if it hasn't shown up yet.
+- **Organic Extinction** (8WW, Improvise) — Destroys all nonartifact creatures. Improvise lets you tap artifacts for mana, often reducing the real cost to 2WW or less. A one-sided board wipe that leaves all your artifact creatures standing.
+- **Tezzeret's Gambit** (3U/P) — Draw 2 cards and proliferate. With Tekuthal, this proliferates four times. Worth the 4 mana (or 2 life) every single time; cast this whenever possible.
+- **Universal Surveillance** (XUUU, Improvise) — Draw X cards. With 10+ artifacts on board, draws 5-8 cards for minimal real mana investment.
+- **Wake the Past** (5WW) — Return all artifact cards from your graveyard to the battlefield with haste. One-shot explosive rebuild after a board wipe or targeted removal barrage; the entire artifact graveyard enters simultaneously, firing Surge Conductor proliferate for each piece.
 
-### Lands (36)
+### Lands (40)
 
-**Dual and Utility Lands (26):**
-- **Command Tower** — Produces any color in Kilo's identity. The best tri-land for Commander.
-- **Mystic Monastery** — Produces Blue, Red, or White (enters tapped). Essential color fixing for Jeskai.
-- **Path of Ancestry** — Produces any Kilo color; scries 1 when used to cast creatures sharing a type with Kilo (Robot/Artificer).
-- **Study Hall** — Produces any color when casting your commander; scries X on that cast, where X = times cast.
-- **Cascade Bluffs** — Filter land: Blue/Red pays for UU, UR, or RR. No life loss.
-- **Rugged Prairie** — Filter land: Red/White pays for RR, RW, or WW. No life loss.
-- **Clifftop Retreat** — Red/White check land. Usually enters untapped with Mountain or Plains.
-- **Glacial Fortress** — White/Blue check land. Usually enters untapped with Plains or Island.
-- **Sulfur Falls** — Blue/Red check land. Usually enters untapped with Island or Mountain.
-- **Frostboil Snarl** — Blue/Red check land. Enters untapped if you reveal an Island or Mountain.
-- **Razortide Bridge** — White/Blue artifact land with Indestructible. Counts for Surge Conductor and Affinity.
-- **Karn's Bastion** — Produces Colorless or pays 4+tap to proliferate. A land that directly advances the main plan.
-- **The Mycosynth Gardens** — Produces Colorless or becomes a copy of any nontoken artifact you control. Potentially acts as a second Kilo or Darksteel Reactor.
-- **Spire of Industry** — Pays 1 life for any color with an artifact in play (trivial to satisfy). No-tap colorless otherwise.
-- **Reliquary Tower** — No maximum hand size. With Jhoira, Archmage, and draw spells, this prevents discarding.
-- **Buried Ruin** — Sacrifices to return any artifact from the graveyard. Recurring key pieces.
-- **Mystic Sanctuary** — Island that puts an instant or sorcery from the graveyard on top of library when it enters untapped. Recurring Tezzeret's Gambit or Experimental Augury.
-- **Exotic Orchard** — Produces any color the opponent's lands produce. Nearly always fixes all three colors.
-- **Temple of Enlightenment** — White/Blue temple; enters tapped, scries 1. Quality fixing with card selection.
-- **Temple of Epiphany** — Blue/Red temple; enters tapped, scries 1.
-- **Temple of Triumph** — Red/White temple; enters tapped, scries 1.
-- **Ferrous Lake** — Pay 1, tap for UB... wait, for UR (Blue + Red). Net neutral mana efficiency.
-- **Irrigated Farmland** — White/Blue dual (Plains Island) that cycles for 2 if not needed.
-- **Fabled Passage** — Fetch any basic land; enters untapped in the mid-game with 4+ lands.
-- **Evolving Wilds** — Fetches any basic land. Color fixing for early turns.
-- **Terramorphic Expanse** — Same as Evolving Wilds. Redundant fetch effect for consistency.
+**Non-basic lands (17):**
+- **Ancient Den** — Artifact land; Plains type. Taps for W. Counts as an artifact for Surge Conductor, Jhoira, Emry, and Inspirit's 8+ protection.
+- **Cascade Bluffs** — Filter land: pay 1R or 1U to produce RR, RU, or UU. Fixes Blue/Red requirements economically.
+- **Command Tower** — Taps for any color in the commander's identity (W, U, R). The best land in Commander.
+- **Exotic Orchard** — Taps for any color the opponent's lands produce; nearly always fixes all three colors in 1v1.
+- **Glittering Massif** — Mountain-Plains dual; enters tapped. Cycling 2 when excess. Provides W/R.
+- **Great Furnace** — Artifact land; Mountain type. Taps for R. Another artifact for proliferate and Affinity synergies.
+- **Karn's Bastion** — Produces colorless; pay 4 and tap: proliferate. A land that directly advances the main plan; activate whenever Kilo is absent or tapped out.
+- **Lonely Sandbar** — Enters tapped; taps for U. Cycling U when the land isn't needed.
+- **Path of Ancestry** — Enters tapped; taps for W, U, or R. On cast of a creature sharing a type with Kilo (Robot/Artificer), scry 1.
+- **Radiant Summit** — Mountain-Plains dual; enters tapped unless you control two or more basic lands. Usually untapped, provides W/R.
+- **Rustvale Bridge** — Artifact land; indestructible; enters tapped. Taps for R or W. Protected by Inspirit's 8+ ability.
+- **Seat of the Synod** — Artifact land; Island type. Taps for U. Another artifact for Affinity and Improvise synergies.
+- **Secluded Steppe** — Enters tapped; taps for W. Cycling W when not needed.
+- **Shivan Reef** — Taps for colorless or U/R (at 1 life). Efficient two-color fixing.
+- **Silverbluff Bridge** — Artifact land; indestructible; enters tapped. Taps for U or W. Counts as an artifact.
+- **Spectacle Summit** — Enters tapped; taps for U or R. Pay 2UR, tap: Surveil 1.
+- **The Mycosynth Gardens** — Taps for colorless. Pay 1, tap: add any color. Pay X, tap: becomes a copy of any nontoken artifact you control with mana value X. Copy Darksteel Reactor for a second win clock, or Insight Engine for double draw.
 
-**Basic Lands (10):**
-- Island (×4)
-- Mountain (×3)
-- Plains (×3)
+**Basic lands (23):**
+- Island (×8)
+- Mountain (×8)
+- Plains (×7)
 
 ---
 
 ## Key Synergies
 
-- **Kilo + Galazeth Prismari**: Galazeth grants all artifacts the ability to tap for mana spent on instants/sorceries. Each time you tap Kilo for mana in your main phase, it triggers its proliferate ability before even attacking — two proliferate triggers per turn total (pre-combat tap + attack tap).
-- **Kilo + Tekuthal, Inquiry Dominus**: Tekuthal doubles every proliferate. One Kilo attack becomes two proliferations, adding 2 charge counters to Darksteel Reactor per swing instead of 1. With Galazeth, that's 4 counters per turn.
-- **Darksteel Reactor + Proliferate Engine**: The primary win condition. Start at 0; reach 20 via Kilo attacks, Karn's Bastion, Tezzeret's Gambit, Experimental Augury, and Thrummingbird. Indestructible means opponents can't race by destroying it. With Tekuthal doubling, 10 proliferate events win.
-- **Steel Overseer + Lux Artillery + Proliferate**: Lux Artillery has artifact creature spells enter with up to 3 +1/+1 counters (Sunburst). Steel Overseer adds 1 more to every artifact creature each turn. Proliferate spreads those counters further. Reach 30 total counters across artifact creatures and every opponent loses the game instantly.
-- **Archmage Emeritus + Veyran, Voice of Duality**: Veyran doubles all Magecraft triggers. Archmage Emeritus draws a card per instant/sorcery (Magecraft). With Veyran, every instant/sorcery draws two cards. Storm-Kiln Artist makes two Treasures per spell. Every spell becomes a draw-two plus two free mana.
-- **Coretapper + Moxite Refinery + Darksteel Reactor**: Coretapper puts charge counters directly onto any artifact. Sacrifice it to put two counters at once onto the Reactor. Moxite Refinery can then transfer excess counters from depleted permanents (like spent Everflowing Chalice) onto the Reactor, rapidly closing out the game.
+- **Kilo + Station (Inspirit or Uthros):** Tapping Kilo to Station a Spacecraft contributes 3 charge counters (Kilo's power) to the Spacecraft AND triggers Kilo's proliferate ability simultaneously. One activation advances Inspirit toward its 8+ threshold and spreads counters to Darksteel Reactor, Empowered Autogenerator, and Gavel of the Righteous all at once. Station Uthros Research Craft instead for 3 counters plus Uthros's draw trigger plus proliferate.
+- **Kilo + Galazeth Prismari (double trigger per turn):** Galazeth grants all artifacts the ability to tap for mana on instants/sorceries. Tapping Kilo for mana in your main phase triggers proliferate before combat. Then Kilo attacks and triggers proliferate again. Two proliferations every turn from a single creature — four with Tekuthal in play.
+- **Tekuthal, Inquiry Dominus (the multiplier):** Every proliferate doubles. Station Inspirit with Kilo = 2 proliferations (plus the 3 charge counters). Tezzeret's Gambit = 4 proliferations. Karn's Bastion activation = 2 proliferations. Tekuthal is the must-answer threat in this deck; opponents will divert removal to it, buying Kilo time to operate.
+- **Inspirit 8+ protects Kilo itself:** At 8 or more charge counters, Inspirit grants all your other artifacts hexproof and indestructible. Kilo, Apogee Mind is a Legendary **Artifact** Creature — it falls under this protection. With Inspirit at 8+, targeted removal and most board wipes cannot touch Kilo. This is the deck's endgame fortress state.
+- **Depthshaker Titan as Station anchor:** As a 5/5, Depthshaker Titan contributes 5 charge counters to a Spacecraft in a single Station activation — the highest single-tap value available. When it enters, it also animates all your noncreature artifacts as 3/3 trampling hasted creatures. Activate Station with Depthshaker Titan when you need to burst toward Inspirit's 8+ threshold, then swing with the entire animated artifact field.
+- **Surge Conductor passive proliferate:** Every nontoken artifact that enters the battlefield triggers Surge Conductor's proliferate ability. In a turn where you cast Sol Ring, Arcane Signet, and Insight Engine, Surge Conductor fires three proliferate triggers — advancing Darksteel Reactor by 3+ counters before Kilo even attacks. With Tekuthal, each of those is doubled.
+- **Wake the Past as combo closer:** After a board wipe, Wake the Past returns your entire artifact graveyard to the battlefield with haste. Each artifact entering fires Surge Conductor's proliferate. If you have 5+ artifacts in the graveyard and Tekuthal in hand, a single Wake the Past followed by Tekuthal can advance Darksteel Reactor by 10+ counters in one turn.
 
 ---
 
@@ -141,92 +128,87 @@ Kilo's circuits hum with cold purpose — each tap fans the flames of accelerati
 
 | Token | P/T | Color | Type | Abilities | Created By |
 |-------|-----|-------|------|-----------|------------|
-| Incubator | 0/— | Colorless | Artifact | "[2]: Transform this token." (Transforms into Phyrexian) | Chrome Host Seedshark |
-| Phyrexian (transformed Incubator) | 0/0 | Colorless | Artifact Creature — Phyrexian | — | Chrome Host Seedshark |
-| Treasure | — | Colorless | Artifact — Treasure | "[Tap], Sacrifice: Add one mana of any color" | Galazeth Prismari; Storm-Kiln Artist; Big Score; Prismari Command |
-| Golem | 9/9 | Colorless | Artifact Creature — Golem | — | Titan Forge |
-| Copy token | varies | varies | varies | varies (copy of chosen creature) | Rite of Replication |
-| Elephant | 3/3 | Green | Creature — Elephant | — | Generous Gift *(given to opponent's controller)* |
-| Bird | 2/2 | Blue | Creature — Bird | Flying | Swan Song *(given to spell controller)* |
+| Gnome | 1/1 | Colorless | Artifact Creature — Gnome | — | Threefold Thunderhulk |
+| Golem (Foundry) | 3/3 | Colorless | Artifact Creature — Golem | — | Golem Foundry |
+| Golem (Forge) | 9/9 | Colorless | Artifact Creature — Golem | — | Titan Forge |
+| Elemental | 1/1 | Blue and Red | Creature — Elemental | — | Prismari Pianist |
+| Thopter | 1/1 | Colorless | Artifact Creature — Thopter | Flying | Hangarback Walker |
 
 ---
 
 ## Mana Curve
 
-- CMC 0: ██ (2) — Everflowing Chalice (free), Sol Ring... (treated as 0 here for practical purposes)
-- CMC 1: █████ (5) — Dispatch, Opt, Sol Ring, Swan Song, Swords to Plowshares
-- CMC 2: ██████████████████ (18) — Most mana rocks, Negate, Reality Shift, Quick Study, Etherium Sculptor, Thrummingbird, Lightning Greaves, Swiftfoot Boots, Steel Overseer, Coretapper, Ripples of Potential, Experimental Augury, Prismari Charm, Open the Armory, Moxite Refinery
-- CMC 3: ██████████████████ (18) — Kilo (commander), Chrome Host Seedshark, Storm-Kiln Artist, Patrolling Peacemaker, Surge Conductor, Palladium Myr, Veyran, Chaos Warp, Generous Gift, Prismari Command, Thirst for Knowledge, Long-Range Sensor, Insight Engine
-- CMC 4: ████████████████ (16) — Archmage Emeritus, Crystalline Crawler, Jhoira, Mindless Automaton, Tekuthal, Darksteel Reactor, Big Score, Etched Oracle, Deep Analysis, Tezzeret's Gambit
-- CMC 5: █ (1) — Galazeth Prismari / Empowered Autogenerator / Fumigate / Lux Cannon / Titan Forge (5 in this range)
-- CMC 6: ██ (2) — Kappa Cannoneer (improvise: effectively 2–3), Rite of Replication
-- CMC 7+: ████ (4) — Wake the Past, Universal Surveillance (improvise: 0–2), Organic Extinction (improvise: 0–2), Astral Cornucopia (X=3+)
+- 0 CMC: 1 card (Hangarback Walker — cast for X=0 in emergency)
+- 1 CMC: 5 cards (Dispatch, Skullclamp, Sol Ring, Soul-Guide Lantern, Swan Song)
+- 2 CMC: 14 cards (Abrade, Arcane Signet, Coretapper, Enthusiastic Mechanaut, Etherium Sculptor, Gavel of the Righteous, Lightning Greaves, Moxite Refinery, Negate, Prismari Charm, Ripples of Potential, Stormcatch Mentor, Swiftfoot Boots, Thunderclap Drake)
+- 3 CMC: 15 cards (Chain Reaction\*, Chaos Warp, Curiosity Crafter\*, Experimental Augury, Fabricate, Golem Foundry, Insight Engine, Long-Range Sensor, Palladium Myr, Patrolling Peacemaker, Prismari Pianist, Rootha, Surge Conductor, Thrummingbird\*, Titan Forge)
+- 4 CMC: 11 cards (Darksteel Reactor, Emry\*, Empowered Autogenerator, Etched Oracle, Jhoira, Lux Artillery, Lux Cannon, Mindless Automaton, Tekuthal, Tezzeret's Gambit, Thirst for Knowledge)
+- 5 CMC: 5 cards (Galazeth Prismari, Lux Artillery\*, Renegade Bull, Swords to Plowshares\*, Universal Surveillance min)
+- 6 CMC: 2 cards (Kappa Cannoneer\*, Pull from Tomorrow min)
+- 7 CMC: 3 cards (Depthshaker Titan, Thought Monitor\*, Threefold Thunderhulk)
+- 10+ CMC: 2 cards (Organic Extinction CMC 10, Wake the Past CMC 7 — both heavily reduced in practice by Improvise/artifact count)
 
-*Note: Improvise creatures (Kappa Cannoneer, Organic Extinction, Universal Surveillance) and Affinity cards (Emry, Thought Monitor) routinely cost 2–4 mana in practice.*
+\*Affinity/Improvise cards routinely cost 2-4 less than base CMC in this deck. Chain Reaction, Curiosity Crafter, and Thrummingbird listed at their actual CMC.
+
+```
+1 CMC: █████ (5)
+2 CMC: ██████████████ (14)
+3 CMC: ███████████████ (15)
+4 CMC: ███████████ (11)
+5 CMC: █████ (5)
+6 CMC: ██ (2)
+7 CMC: ███ (3)
+10+   : ██ (2, reduced)
+```
+
+Average CMC (non-variable, non-commander): ~3.5 base; effectively ~2.8-3.0 with cost reducers active.
 
 ---
 
-## Short mulligan and play notes
+## Short Mulligan and Play Notes
 
-- **Keep hands with:** 2–3 lands, at least 1 mana rock, and either Kilo protection (Greaves/Boots) or an early draw spell. A turn-3 Kilo with haste is the ideal opener.
-- **Early game (turns 1–4):** Ramp → protect Kilo → swing. Sol Ring into Arcane Signet into Kilo on turn 2–3. Equip Lightning Greaves immediately. On turn 4, land Darksteel Reactor if you have it.
-- **Mid game (turns 5–8):** Build the proliferate engine. Layer Tekuthal → Thrummingbird → Tezzeret's Gambit. Each Kilo swing starts netting 2–4 charge counters on the Reactor. Use Fabricate to find Darksteel Reactor if it hasn't appeared.
-- **Late game:** Close out with Darksteel Reactor (20 counters) or Lux Artillery alt-win (30 counters on artifact creatures). Use Wake the Past to rebuild after opponent interaction. Counter protective spells with Swan Song and Negate.
-- **Key interactions:** Avoid giving Kilo vigilance (it won't tap when attacking, losing the proliferate trigger). Karn's Bastion can proliferate at sorcery speed even when Kilo is absent. Ripples of Potential protects Kilo or Darksteel Reactor after triggering its proliferate.
-
----
-
-## Why these choices (summary)
-
-- **Charge-counter win conditions** (Darksteel Reactor, Titan Forge, Lux Cannon) give Kilo's proliferate an immediate, measurable path to victory rather than vague value accumulation.
-- **Tekuthal as the must-answer threat:** Doubling proliferate is so powerful it often draws removal away from Kilo, buying it time to keep attacking.
-- **Improvise package** (Kappa Cannoneer, Organic Extinction, Universal Surveillance) makes the high CMC ceiling nearly irrelevant — a board full of mana rocks casts these for 1–3 mana.
-- **Equipment over auras** for Kilo protection: Lightning Greaves and Swiftfoot Boots survive creature wipes and can be reattached. No vigilance equipment chosen to preserve Kilo's tap-based proliferate trigger.
-- **Minimal creature removal vs. counterspells:** In 1v1 the most dangerous threats are often noncreature permanents (opposing combo pieces, hate enchantments). Negate, Swan Song, and Cancel handle those better than extra creature removal would.
-- **Notable omissions:** No Blightsteel Colossus (not in collection), no Inexorable Tide (not in collection). Missing mass artifact bounce like Rebuild, which would help against artifact-hate.
+- **Keep hands with:** 2-3 lands hitting all three colors, at least 1 mana rock, and either Kilo protection (Lightning Greaves / Swiftfoot Boots) or an early proliferate piece (Surge Conductor, Patrolling Peacemaker). A turn-3 Kilo with haste is the ideal opener.
+- **Early game (turns 1-4):** Ramp first — Sol Ring, Arcane Signet, Etherium Sculptor. Play Kilo on turn 3 with haste; equip Lightning Greaves immediately (equip 0). On turn 4, land Darksteel Reactor or Surge Conductor if available.
+- **Mid game (turns 5-8):** Station Inspirit or Uthros every turn using Kilo. With Galazeth Prismari out, also tap Kilo for mana in your main phase before combat. Land Tekuthal and watch every proliferate double. Use Fabricate to find Darksteel Reactor or Inspirit if they haven't appeared. Ripples of Potential on your own Darksteel Reactor is an excellent defensive play — it proliferates and then phases the Reactor out of harm's way.
+- **Late game:** Close out with Darksteel Reactor at 20 counters, or build toward Lux Artillery's 30-counter trigger. Renegade Bull can replay Organic Extinction or Wake the Past for free from the graveyard on an attack trigger. Rootha can copy Pull from Tomorrow or Tezzeret's Gambit for massive burst card draw.
+- **Key interactions:**
+  - Avoid giving Kilo vigilance — it will not tap when attacking, losing the proliferate trigger. No vigilance equipment in this deck intentionally.
+  - Station is sorcery speed. Plan to Station in your main phase after summoning-sickness clears on Kilo (or use Lightning Greaves to equip immediately).
+  - Inspirit's 8+ ability protects Kilo. Once online, targeted removal cannot touch your commander. Prioritise Inspirit's Station charges specifically to reach 8.
+  - Thrummingbird needs to deal combat damage to proliferate — ensure it has a clear path via favorable trades or opponent at low life.
+  - Wake the Past triggers Surge Conductor for each artifact returned — sequence Wake the Past before casting Tekuthal if both are in hand for maximum counter spread.
 
 ---
 
 ## Analysis
 
 **Strengths:**
-- Explosive starts: Kilo on turn 2–3 with haste begins proliferating immediately.
-- Multiple win conditions (Darksteel Reactor, Lux Artillery, combat beatdown) prevent being locked out.
-- Improvise spells are almost free with the artifact count; board wipes leave your artifacts intact.
-- Counter-suite (Swan Song, Negate, Cancel) protects key permanents in 1v1.
-- Wake the Past recovers from even devastating wipes in one shot.
+- The Station + Kilo synergy is the core engine: every Station activation contributes 3 charge counters to a Spacecraft **and** fires a free proliferate, making each use of Kilo doubly efficient.
+- Inspirit's 8+ protection creates a near-impervious board state — hexproof and indestructible across all your artifacts including Kilo itself.
+- Multiple layered win conditions (Darksteel Reactor at 20, Lux Artillery at 30 total counters, Titan Forge 9/9 army, combat beatdown) prevent opponents from pivoting to a single hate strategy.
+- Excellent card draw via Jhoira, Thought Monitor, Insight Engine, Curiosity Crafter, and Thirst for Knowledge — the deck rarely runs dry.
+- Improvise package (Kappa Cannoneer, Organic Extinction, Universal Surveillance) makes high-CMC cards nearly free in the late game.
 
-**Weaknesses / Missing Staples:**
-- **Enchantment hate:** No Disenchant in the list; Chaos Warp is the only enchantment answer. An Imprisoned in the Moon or Stasis could lock down Kilo permanently.
-- **Early aggro:** Kilo is 3 mana and needs a few turns to build. Aggressive 1v1 openings applying pressure before turn 3 can be difficult to survive.
-- **Low permanent protection:** Apart from equipment, there's no counterspell package on your Darksteel Reactor. A single Vandalblast could reset the strategy.
-- **Wincon visibility:** Darksteel Reactor telegraphs the win condition. Experienced opponents will prioritise its removal or race hard.
-
----
-
-## Next steps (optional suggestions)
-
-- **Add Inexorable Tide** (if acquired): Proliferates whenever you cast any spell — extraordinary engine with this deck.
-- **Add Contagion Engine** (if acquired): Tap to -1/-1 proliferate; 4 mana to proliferate twice. Would replace Moxite Refinery.
-- **Consider Tezzeret, Betrayer of Flesh** (Izzet planeswalker) if added to collection: -3 taps any artifact for free, supercharging Kilo's tap-for-Galazeth interaction.
-- **Test Surge Conductor position:** It only triggers on nontoken artifacts entering, so it's strongest when casting many ramp spells per turn. In slower games you may prefer Emry recursion lines instead.
-- **Prioritise counter-hate:** Acquire Force of Negation or Fierce Guardianship to protect Darksteel Reactor without tapping mana.
+**Weaknesses:**
+- **Early vulnerability:** Kilo must survive long enough to Station twice or three times before Inspirit reaches 8 counters. Aggressive 1v1 openings before turn 4 can disrupt the ramp phase.
+- **Enchantment answers:** Only Chaos Warp handles problematic enchantments (e.g., Imprisoned in the Moon on Kilo). Swan Song can counter an enchantment on the stack, but a resolved Stasis or Blind Obedience is very problematic.
+- **Telegraphed win condition:** Darksteel Reactor announces the plan. Experienced opponents in 1v1 will prioritise its removal or race hard to end the game before it reaches 20.
+- **Station speed:** Reaching 8 counters on Inspirit via only Kilo Station takes 2-3 turns minimum; opponents with targeted removal during that window can reset the counter base.
 
 ---
 
 ## Suggested Deck Names
 
-- **Critical Mass** — The Darksteel Reactor demands it. Twenty counters and the chain reaction completes; every proliferate click is one tick closer to inevitability.
-- **Overclock** — Kilo is a robot running faster than its rated specs. Each proliferate pushes every system past its safe limit until something *wonderful* breaks.
-- **Counter Culture** — Counters everywhere, on everything, always proliferating. The pun writes itself: this deck is counter-culture, and the culture *is* counters.
-- **Tick Tock** — Kilo taps. The reactor charges. Twenty clicks. You lose.
+- **Station to Station** — The Station mechanic is the beating heart of every turn; the name evokes Bowie and an endless loop of activation. Every tap is another station. Every station is another proliferate. The clock never stops.
+- **Tick Rate** — A two-word technical phrase: how fast the reactor charges. In this deck, the tick rate doubles with Tekuthal. It sounds harmless until it isn't.
+- **Full Charge** — Station at maximum power. Kilo at full tap. Darksteel Reactor approaching 20. The flavour is simple, the threat is total.
+- **Proliferating Circumstances** — A pun on extenuating circumstances: the board state keeps getting worse (for your opponent), and the counters keep proliferating. Circumstances entirely beyond their control.
 
 ---
 
 Deck created from cards in your Moxfield collection (`moxfield_latest.csv` & `card_details.md`).
 
-**Version**: Draft | **Status**: Working version  
-**Generated**: 2026-05-16
+**Version**: Draft | **Status**: Working version
 
 ---
 
@@ -234,96 +216,81 @@ Deck created from cards in your Moxfield collection (`moxfield_latest.csv` & `ca
 
 | Card | Category | Precon(s) |
 |------|----------|-----------|
-| Kilo, Apogee Mind | Commander | Counter Intelligence |
-| Chrome Host Seedshark | Creature | Counter Intelligence |
-| Coretapper | Creature | Counter Intelligence |
-| Crystalline Crawler | Creature | Counter Intelligence |
-| Emry, Lurker of the Loch | Creature | Counter Intelligence |
-| Etched Oracle | Creature | Counter Intelligence |
-| Etherium Sculptor | Creature | Counter Intelligence |
-| Jhoira, Weatherlight Captain | Creature | Counter Intelligence |
-| Kappa Cannoneer | Creature | Counter Intelligence |
-| Mindless Automaton | Creature | Counter Intelligence |
-| Patrolling Peacemaker | Creature | Counter Intelligence |
-| Steel Overseer | Creature | Counter Intelligence |
-| Surge Conductor | Creature | Counter Intelligence |
-| Tekuthal, Inquiry Dominus | Creature | Counter Intelligence |
-| Thought Monitor | Creature | Counter Intelligence |
-| Thrummingbird | Creature | Counter Intelligence |
-| Arcane Signet | Artifact | Counter Intelligence; Prismari Artistry; Squirreled Away |
-| Astral Cornucopia | Artifact | Counter Intelligence |
-| Darksteel Reactor | Artifact | Counter Intelligence |
-| Empowered Autogenerator | Artifact | Counter Intelligence |
-| Everflowing Chalice | Artifact | Counter Intelligence |
-| Insight Engine | Artifact | Counter Intelligence |
-| Long-Range Sensor | Artifact | Counter Intelligence |
-| Lux Artillery | Artifact | Counter Intelligence |
-| Lux Cannon | Artifact | Counter Intelligence |
-| Moxite Refinery | Artifact | Counter Intelligence |
-| Titan Forge | Artifact | Counter Intelligence |
-| Chaos Warp | Instant | Counter Intelligence; Prismari Artistry |
-| Dispatch | Instant | Counter Intelligence |
-| Experimental Augury | Instant | Counter Intelligence |
-| Ripples of Potential | Instant | Counter Intelligence |
-| Swan Song | Instant | Counter Intelligence |
-| Swords to Plowshares | Instant | Counter Intelligence |
-| Thirst for Knowledge | Instant | Counter Intelligence |
-| Fumigate | Sorcery | Counter Intelligence |
-| Organic Extinction | Sorcery | Counter Intelligence |
-| Tezzeret's Gambit | Sorcery | Counter Intelligence |
-| Universal Surveillance | Sorcery | Counter Intelligence |
-| Wake the Past | Sorcery | Counter Intelligence |
-| Buried Ruin | Land | Counter Intelligence |
-| Cascade Bluffs | Land | Counter Intelligence; Prismari Artistry |
-| Clifftop Retreat | Land | Counter Intelligence |
-| Command Tower | Land | Counter Intelligence; Prismari Artistry; Squirreled Away |
-| Evolving Wilds | Land | Counter Intelligence; Squirreled Away |
-| Exotic Orchard | Land | Counter Intelligence; Prismari Artistry; Squirreled Away |
-| Glacial Fortress | Land | Counter Intelligence |
-| Irrigated Farmland | Land | Counter Intelligence |
-| Karn's Bastion | Land | Counter Intelligence |
-| Mystic Monastery | Land | Counter Intelligence |
-| Razortide Bridge | Land | Counter Intelligence |
-| Reliquary Tower | Land | Counter Intelligence |
-| Rugged Prairie | Land | Counter Intelligence |
-| Spire of Industry | Land | Counter Intelligence |
-| Sulfur Falls | Land | Counter Intelligence; Prismari Artistry |
-| Temple of Enlightenment | Land | Counter Intelligence |
-| Temple of Epiphany | Land | Counter Intelligence; Prismari Artistry |
-| Temple of Triumph | Land | Counter Intelligence |
-| The Mycosynth Gardens | Land | Counter Intelligence |
-| Archmage Emeritus | Creature | Prismari Artistry |
-| Galazeth Prismari | Creature | Prismari Artistry |
-| Storm-Kiln Artist | Creature | Prismari Artistry |
-| Veyran, Voice of Duality | Creature | Prismari Artistry |
-| Fellwar Stone | Artifact | Prismari Artistry |
-| Talisman of Creativity | Artifact | Prismari Artistry |
-| Big Score | Instant | Prismari Artistry |
-| Prismari Charm | Instant | Prismari Artistry |
-| Prismari Command | Instant | Prismari Artistry |
-| Quick Study | Instant | Prismari Artistry |
-| Reality Shift | Instant | Prismari Artistry |
-| Deep Analysis | Sorcery | Prismari Artistry |
-| Rite of Replication | Sorcery | Prismari Artistry |
-| Fabled Passage | Land | Prismari Artistry |
-| Ferrous Lake | Land | Prismari Artistry |
-| Frostboil Snarl | Land | Prismari Artistry |
-| Mystic Sanctuary | Land | Prismari Artistry |
-| Path of Ancestry | Land | Prismari Artistry; Squirreled Away |
-| Study Hall | Land | Prismari Artistry |
-| Terramorphic Expanse | Land | Prismari Artistry; Squirreled Away |
-| Cancel | Instant | Foundations Beginner Box |
-| Deadly Riposte | Instant | Foundations Beginner Box |
-| Into the Roil | Instant | Foundations Beginner Box |
-| Negate | Instant | Foundations Beginner Box |
-| Opt | Instant | Foundations Beginner Box |
-| Generous Gift | Instant | Sonic the Hedgehog Chasing Adventure |
-| Fabricate | Sorcery | Sonic the Hedgehog Chasing Adventure |
-| Open the Armory | Sorcery | Sonic the Hedgehog Chasing Adventure |
-| Power Sneakers (Lightning Greaves) | Artifact | Prismari Artistry |
-| Air Shoes (Swiftfoot Boots) | Artifact | Sonic the Hedgehog Turbo Gear |
+| Kilo, Apogee Mind | Commander | CounterIntelligence |
+| Coretapper | Creature | CounterIntelligence |
+| Depthshaker Titan | Creature | CounterIntelligence |
+| Emry, Lurker of the Loch | Creature | CounterIntelligence |
+| Enthusiastic Mechanaut | Creature | CounterIntelligence |
+| Etched Oracle | Creature | CounterIntelligence |
+| Etherium Sculptor | Creature | CounterIntelligence |
+| Hangarback Walker | Creature | CounterIntelligence |
+| Jhoira, Weatherlight Captain | Creature | CounterIntelligence |
+| Kappa Cannoneer | Creature | CounterIntelligence |
+| Mindless Automaton | Creature | CounterIntelligence |
+| Patrolling Peacemaker | Creature | CounterIntelligence |
+| Surge Conductor | Creature | CounterIntelligence |
+| Tekuthal, Inquiry Dominus | Creature | CounterIntelligence |
+| Thought Monitor | Creature | CounterIntelligence |
+| Thrummingbird | Creature | CounterIntelligence |
+| Arcane Signet | Artifact | CounterIntelligence; PrismariArtistry; SquirreledAway |
+| Darksteel Reactor | Artifact | CounterIntelligence |
+| Empowered Autogenerator | Artifact | CounterIntelligence |
+| Gavel of the Righteous | Artifact | CounterIntelligence |
+| Golem Foundry | Artifact | CounterIntelligence |
+| Inspirit, Flagship Vessel | Artifact | CounterIntelligence |
+| Insight Engine | Artifact | CounterIntelligence |
+| Long-Range Sensor | Artifact | CounterIntelligence |
+| Lux Artillery | Artifact | CounterIntelligence |
+| Lux Cannon | Artifact | CounterIntelligence |
+| Moxite Refinery | Artifact | CounterIntelligence |
+| Skullclamp | Artifact | SquirreledAway |
+| Sol Ring | Artifact | CounterIntelligence; PrismariArtistry; SonictheHedgehog ChasingAdventure; SquirreledAway |
+| Soul-Guide Lantern | Artifact | CounterIntelligence |
+| Titan Forge | Artifact | CounterIntelligence |
+| Uthros Research Craft | Artifact | CounterIntelligence |
+| Dispatch | Instant | CounterIntelligence |
+| Experimental Augury | Instant | CounterIntelligence |
+| Ripples of Potential | Instant | CounterIntelligence |
+| Swan Song | Instant | CounterIntelligence |
+| Swords to Plowshares | Instant | CounterIntelligence |
+| Thirst for Knowledge | Instant | CounterIntelligence |
+| Organic Extinction | Sorcery | CounterIntelligence |
+| Tezzeret's Gambit | Sorcery | CounterIntelligence |
+| Universal Surveillance | Sorcery | CounterIntelligence |
+| Wake the Past | Sorcery | CounterIntelligence |
+| Ancient Den | Land | CounterIntelligence |
+| Cascade Bluffs | Land | CounterIntelligence; PrismariArtistry |
+| Command Tower | Land | CounterIntelligence; PrismariArtistry; SquirreledAway |
+| Exotic Orchard | Land | CounterIntelligence; PrismariArtistry; SquirreledAway |
+| Glittering Massif | Land | CounterIntelligence |
+| Great Furnace | Land | CounterIntelligence |
+| Karn's Bastion | Land | CounterIntelligence |
+| Lonely Sandbar | Land | CounterIntelligence |
+| Radiant Summit | Land | CounterIntelligence |
+| Rustvale Bridge | Land | CounterIntelligence |
+| Seat of the Synod | Land | CounterIntelligence |
+| Secluded Steppe | Land | CounterIntelligence |
+| Shivan Reef | Land | CounterIntelligence; PrismariArtistry |
+| Silverbluff Bridge | Land | CounterIntelligence |
+| Spectacle Summit | Land | PrismariArtistry |
+| The Mycosynth Gardens | Land | CounterIntelligence |
+| Curiosity Crafter | Creature | PrismariArtistry |
+| Prismari Pianist | Creature | PrismariArtistry |
+| Renegade Bull | Creature | PrismariArtistry |
+| Rootha, Mercurial Artist | Creature | PrismariArtistry |
+| Thunderclap Drake | Creature | PrismariArtistry |
+| Abrade | Instant | PrismariArtistry |
+| Chain Reaction | Sorcery | CounterIntelligence; PrismariArtistry |
+| Chaos Warp | Instant | CounterIntelligence; PrismariArtistry |
+| Negate | Instant | — |
 | Palladium Myr | Creature | — |
-| Sol Ring | Artifact | Counter Intelligence; Prismari Artistry; Squirreled Away |
-| Island (×4) | Land | Counter Intelligence; Foundations Beginner Box; Otter Limits; Prismari Artistry |
-| Mountain (×3) | Land | Counter Intelligence; Foundations Beginner Box; Otter Limits; Prismari Artistry |
-| Plains (×3) | Land | Counter Intelligence; Foundations Beginner Box |
+| Pull from Tomorrow | Instant | CounterIntelligence |
+| Prismari Charm | Instant | PrismariArtistry |
+| Stormcatch Mentor | Creature | OtterLimits |
+| Fabricate | Sorcery | SonictheHedgehog ChasingAdventure |
+| Power Sneakers (Lightning Greaves) | Artifact | PrismariArtistry; SonictheHedgehog TurboGear (alt) |
+| Air Shoes (Swiftfoot Boots) | Artifact | SonictheHedgehog TurboGear (alt) |
+| Galazeth Prismari | Creature | PrismariArtistry |
+| Island (×8) | Land | CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry |
+| Mountain (×8) | Land | CounterIntelligence; Foundations BeginnerBox; OtterLimits; PrismariArtistry |
+| Plains (×7) | Land | CounterIntelligence; Foundations BeginnerBox; HareRaising |
