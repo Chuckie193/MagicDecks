@@ -179,6 +179,22 @@ Kilo doesn't wait for permission — every tap fans the charge across the fleet.
 
 ---
 
+## Cards Removed from Original
+
+*(Base: Counter Intelligence Commander precon)*
+
+**Commander swap:** Kilo, Apogee Mind moved from the 99 to the command zone; Inspirit, Flagship Vessel moved from the command zone to the 99. Both cards remain in the deck — no cards were removed as a result of the swap.
+
+| Card Removed | Reason | Replaced By |
+|-------------|--------|-------------|
+| Chrome Host Seedshark | Creates Incubator tokens that need additional mana to contribute power; doesn't advance Inspirit counters or the Reactor | Fabricate |
+| Cloud Key | Marginal 1-mana discount on a single spell type; no proliferate or counter synergy | Galazeth Prismari |
+| Evolving Wilds | Always enters tapped; Fabled Passage enters untapped once 4+ lands are in play | Fabled Passage |
+| Lonely Sandbar | Effectively a tapped Island with cycling; Reliquary Tower provides unlimited hand size with the deck's heavy draw | Reliquary Tower |
+| Patrolling Peacemaker | Reactive proliferate fires only when opponents target you — passive and opponent-dependent in 1v1 | Swiftfoot Boots |
+
+---
+
 ## Tokens Generated
 
 | Token | P/T | Color | Type | Abilities | Created By |

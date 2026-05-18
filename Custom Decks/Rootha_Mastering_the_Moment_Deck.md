@@ -162,6 +162,22 @@ Rootha's genius is measured in power/toughness. One cheap delve spell *cracks th
 
 ---
 
+## Cards Removed from Original
+
+*(Base: Prismari Artistry Commander precon)*
+
+| Card Removed | Reason | Replaced By |
+|-------------|--------|-------------|
+| Dance with Calamity | High-variance dice-roll payoff; too unreliable in a strategy built on consistent Delve triggers and Rootha token generation | — |
+| Mana Geyser | Multiplayer-focused ramp that depends on opponents' tapped lands; underperforms in 1v1 and doesn't fill the graveyard for Delve | — |
+| Plargg and Nassari | Slow, unpredictable shared upkeep effect; doesn't advance the spellslinger or magecraft engine and benefits opponents | — |
+| Redoubled Stormsinger | Doesn't interact with Rootha's token-generation trigger, magecraft payoffs, or the Delve graveyard engine | — |
+| Renegade Bull | Vanilla aggressive beater with no spell or token synergy; outclassed by creatures that interact with magecraft payoffs | — |
+| Rousing Refrain | Symmetrical card draw and mana benefit; opponents gain equal advantage — replaced by selective draw that selectively fills the graveyard | — |
+| Throes of Chaos | Random cascade target; can exile graveyard cards needed for Delve and doesn't reliably hit key spells | — |
+
+---
+
 ## Tokens Generated
 
 | Token | P/T | Color | Type | Abilities | Created By |

@@ -1,5 +1,5 @@
 ---
-description: Generate Commander/EDH decks from your MTG card collection. Use for deck building requests with themes, colors, or specific commanders. Examples - /generate-deck elf tribal, /generate-deck Grixis control, /generate-deck with Atraxa as commander
+description: Generate Commander/EDH decks from your MTG card collection, or improve/upgrade existing precons and custom decks. Use for deck building requests with themes, colors, or specific commanders, or for improving an existing deck. Examples - /generate-deck elf tribal, /generate-deck Grixis control, /generate-deck with Atraxa as commander, /generate-deck improve CounterIntelligence precon, /generate-deck upgrade Bria deck
 ---
 
 # Generate MTG Commander Deck
@@ -27,6 +27,28 @@ The skill uses a versioning system to preserve approved decks while allowing ite
 **Important**: Only increment versions when user explicitly approves/locks the deck. During iteration within a session, keep overwriting the draft file.
 
 ## Instructions
+
+0. **Detect Mode — New Deck vs. Existing Deck Improvement**:
+
+   Before anything else, determine whether the user wants to build a fresh deck or improve/upgrade an existing one.
+
+   **Improvement triggers** (any of these phrases in the request):
+   - "improve", "upgrade", "fix", "optimise", "optimize", "refine", "polish", "tweak"
+   - "based on", "starting from", "using [precon/deck name] as a base"
+   - "build from [precon/deck name]", "take [precon/deck name] and …"
+   - The request names a known precon or an existing file in `Custom Decks/`
+
+   **If improvement mode is detected**:
+   1. Identify which deck is the base:
+      - Check `Precons/` for a `.txt` file whose name or content title matches the user's request (case-insensitive, ignore spaces/hyphens/underscores).
+      - Check `Custom Decks/` for a `.md` file matching the name (prefer the highest locked version, fall back to the draft).
+      - If ambiguous, list the candidates and ask the user to confirm.
+   2. Read the base deck in full and extract a flat list of cards (strip edition codes, foil markers, set numbers — keep only the card names and counts).
+   3. Store this original card list; you will compare against it at the end to produce the "Cards Removed" section.
+   4. Treat the base deck's commander as the default commander unless the user explicitly specifies a different one.
+   5. Continue through the remaining steps, but prefer cards already in the base deck when filling each deck slot — only replace a card when a strictly better option is available from the collection or when the card conflicts with the strategy.
+
+   **If no improvement trigger is found**, proceed as a fresh deck build (steps 1 onward as normal).
 
 1. **Check for Existing Decks**:
    - List files in `Custom Decks/` to find decks with similar names
@@ -190,6 +212,15 @@ Key Synergies
 - **[Card C] + [Card D]**: [Explanation]
 - [Include 3-5 important synergies]
 
+## Cards Removed from Original
+*(Only present when improving an existing precon or custom deck. Omit this section entirely for fresh builds.)*
+
+| Card Removed | Reason | Replaced By |
+|-------------|--------|-------------|
+| [Card Name] | [Why removed: e.g., "off-theme", "strictly worse than replacement", "colour identity conflict", "too slow for this build"] | [New card name, or "—" if the slot was consolidated] |
+
+*If no cards were removed (every card from the original was kept), write: "All cards from the original deck were retained."*
+
 Tokens Generated
 
 | Token | P/T | Color | Type | Abilities | Created By |
@@ -312,7 +343,16 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
       Report any card whose section contradicts its type_line and correct the placement before continuing. (This catches errors like Treasure Cruise appearing under Instants when it is a Sorcery.)
    7. Only write the deck file once all six checks pass. If any mismatch is found, fix it before writing.
 
-9. **Moxfield Export File**: After writing the deck file, create a separate plain-text export file in the `Moxfield/` folder for easy import into Moxfield.
+9. **Cards Removed Table** (improvement mode only):
+
+   After finalising the decklist, compare it against the original base deck's card list (stored in step 0):
+   - Any card that was in the original but is NOT in the new decklist → add to the "Cards Removed" table.
+   - For each removed card, state the reason concisely (one short clause) and name the card that took its slot if there is a direct 1-for-1 swap. If the slot was freed up by consolidation (e.g., trimming a land) or there is no direct replacement, use "—".
+   - Sort the table alphabetically by removed card name.
+   - Do NOT list cards that were simply renamed (alt-name vs real name) — those are not removals.
+   - If the commander changed, note it as the first row with reason "Commander swap".
+
+11. **Moxfield Export File**: After writing the deck file, create a separate plain-text export file in the `Moxfield/` folder for easy import into Moxfield.
 
    **File path**: `Custom Decks/Moxfield/[Deck Name].txt` — use the same base name as the deck file (e.g., deck `Custom Decks/Bria_Riptide_Rogue_Deck.md` → `Custom Decks/Moxfield/Bria_Riptide_Rogue_Deck.txt`)
 
@@ -326,7 +366,7 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
    - Order: commander first → remaining non-land cards (alphabetically) → basic lands (alphabetically)
    - The file contains only the card list — no headings, no markdown, no other content
 
-10. **Versioning and Naming**:
+12. **Versioning and Naming**:
 
    **Version Control Rules**:
    - Draft/working decks have no version suffix: `Custom Decks/[Deck Name].md`
@@ -421,3 +461,21 @@ User: `/generate-deck with Atraxa as commander`
 - Use Atraxa, Praetors' Voice as commander
 - Build around proliferate and +1/+1 counters theme
 - Use cards in GWUB color identity only
+
+User: `/generate-deck improve CounterIntelligence precon`
+- Detect improvement mode; locate `Precons/CounterIntelligence.txt`
+- Extract current card list and keep the precon commander as default
+- Replace weaker or off-theme cards with better options from the collection
+- Include "Cards Removed from Original" table listing every cut with its reason and replacement
+
+User: `/generate-deck upgrade Bria deck`
+- Detect improvement mode; locate the highest version of `Custom Decks/Bria_Riptide_Rogue_Deck*.md`
+- Use the existing decklist as the base, retaining strong cards and synergies
+- Make targeted upgrades from the collection
+- Include "Cards Removed from Original" table for every card dropped versus the previous version
+
+User: `/generate-deck build from OtterLimits with a token strategy`
+- Detect improvement mode based on "build from OtterLimits"
+- Load `Precons/OtterLimits.txt` as the base
+- Steer card selection toward a token theme, replacing non-token cards where better token options exist in the collection
+- Include "Cards Removed from Original" table

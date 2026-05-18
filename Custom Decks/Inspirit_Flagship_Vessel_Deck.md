@@ -192,6 +192,22 @@ The precon has only 5 creatures at 2 mana or less: Coretapper, Enthusiastic Mech
 
 ---
 
+## Cards Removed from Original
+
+*(Base: Counter Intelligence Commander precon)*
+
+| Card Removed | Reason | Replaced By |
+|-------------|--------|-------------|
+| Chrome Host Seedshark | 0/4 with zero power — cannot Station Inspirit; Incubator tokens require additional mana to become Phyrexians before contributing any power | Thunderclap Drake |
+| Cloud Key | Reduces only one spell type by 1 mana; provides no board presence or Station-enabler role | Stormcatch Mentor |
+| Crystalline Crawler | 1/1 for 4 mana — contributes only 1 charge counter per Station; arrives too late to establish early pressure | Mischievous Mystic |
+| Evolving Wilds | Always enters tapped; Fabled Passage enters untapped once 4+ lands are in play | Fabled Passage |
+| Lonely Sandbar | Effectively a tapped Island with a cycling outlet; no hand-size benefit in a deck with heavy card draw | Reliquary Tower |
+| Patrolling Peacemaker | Proliferates only when opponents target you — passive and opponent-dependent; unreliable in 1v1 | Galazeth Prismari |
+| Pentad Prism | Finite 2–3 uses of early ramp with no recurring value once counters are spent | Fabricate |
+
+---
+
 ## Early Creature Count — Before and After
 
 | CMC | Precon Creatures (before) | Added Creatures | Total (after) |

@@ -169,6 +169,22 @@ Hazel's recipe: one acorn, one Squirrel, one Food — *stir until infinite*. The
 
 ---
 
+## Cards Removed from Original
+
+*(Base: Squirreled Away Commander precon)*
+
+| Card Removed | Reason | Replaced By |
+|-------------|--------|-------------|
+| Beledros Witherbloom | 8-mana 4/4 that creates tiny 0/1 Pest tokens; mana cost far too high for the value delivered in a deck that wants to explode on turns 4–5 | — |
+| Binding the Old Gods | Three-chapter saga that spreads removal and ramp over three full turns; too slow when the deck needs to establish its engine quickly | — |
+| Decree of Pain | 8-mana board wipe; overcosted when cheaper sweepers and the drain engine handle most board states | — |
+| End-Raze Forerunners | 8-mana "win-more" finisher; redundant with the token army's natural combat reach once Beastmaster Ascension is active | — |
+| Haunted Mire | Enters tapped, searches only for a Swamp; outclassed by Fabled Passage (better fetch) and Reliquary Tower (hand size utility) | — |
+| Moonstone Eulogist | Generates Blood tokens based on opponents' creature deaths rather than your own; opponent-dependent and inconsistent | — |
+| Woe Strider | Sacrifice outlet with limited incremental value; replaced by artifact/enchantment removal (Thrashing Brontodon) and creature-based ramp (Clifftop Lookout) | Thrashing Brontodon, Clifftop Lookout |
+
+---
+
 ## Tokens Generated
 
 | Token | P/T | Color | Type | Abilities | Created By |

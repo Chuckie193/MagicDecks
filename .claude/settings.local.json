@@ -1,9 +1,12 @@
 {
   "permissions": {
     "allow": [
+      "Read",
       "Write",
       "Edit",
-      "Bash(*)"
-    ]
+      "Bash(*)",
+      "Skill(update-config)"
+    ],
+    "defaultMode": "acceptEdits"
   }
 }
