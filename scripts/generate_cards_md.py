@@ -800,7 +800,8 @@ def write_commanders_md(path: str, cache: dict, image_paths: dict, precon_map: d
                 if not img_src:
                     img_src = get_image_uri(data)
                 if img_src:
-                    img_cell = f'<img src="{img_src}" alt="{safe_name}" width="200">'
+                    alt = safe_name.replace('"', '&quot;')
+                    img_cell = f'<img src="{img_src}" alt="{alt}" width="200">'
                 else:
                     img_cell = "*(no image)*"
                 fh.write(f"| {img_cell} | **{safe_name}** | {type_line} | {precon} |\n")

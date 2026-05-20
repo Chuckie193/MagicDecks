@@ -58,7 +58,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 
 | Card | Name | Type | Precon |
 |------|------|------|--------|
-| <img src="images/commanders/Miles_Tails_Prower.jpg" alt="Miles "Tails" Prower" width="200"> | **Miles "Tails" Prower** | Legendary Creature — Fox Artificer | SonictheHedgehog FriendsandFoes |
+| <img src="images/commanders/Miles_Tails_Prower.jpg" alt="Miles &quot;Tails&quot; Prower" width="200"> | **Miles "Tails" Prower** | Legendary Creature — Fox Artificer | SonictheHedgehog FriendsandFoes |
 
 ## Green, Blue
 
