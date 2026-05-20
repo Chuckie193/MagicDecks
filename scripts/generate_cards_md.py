@@ -637,6 +637,178 @@ def append_card_details(path: str, cache_dict: dict, not_found: list, alt_name_m
                 fh.write('\n')
 
 
+def sanitize_image_filename(name: str) -> str:
+    s = re.sub(r"[^\w\s-]", "", name)
+    s = re.sub(r"[\s-]+", "_", s)
+    return s.strip("_") + ".jpg"
+
+
+def get_image_uri(data: dict) -> str:
+    if not data:
+        return None
+    if "image_uris" in data:
+        return data["image_uris"].get("normal")
+    faces = data.get("card_faces")
+    if faces:
+        return faces[0].get("image_uris", {}).get("normal")
+    return None
+
+
+def download_image_file(url: str, dest: str) -> bool:
+    try:
+        req = urllib.request.Request(url, headers={"User-Agent": "MagicDecks/1.0"})
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            raw = resp.read()
+        with open(dest, "wb") as fh:
+            fh.write(raw)
+        return True
+    except Exception as e:
+        print(f"    ERROR downloading image: {e}")
+        return False
+
+
+def download_card_images(cache: dict, images_dir: str, delay: float = 0.5) -> dict:
+    """Download card images from Scryfall for all cards in cache.
+    Skips cards whose image file already exists on disk.
+    Returns dict of card_name -> local_rel_path (or None if unavailable).
+    """
+    os.makedirs(images_dir, exist_ok=True)
+    image_paths = {}
+    entries = [(name, entry) for name, entry in cache.items()
+               if isinstance(entry, dict) and entry.get("data")]
+    total = len(entries)
+    downloaded = 0
+    skipped = 0
+    failed = 0
+
+    for idx, (name, entry) in enumerate(sorted(entries), 1):
+        data = entry["data"]
+        filename = sanitize_image_filename(name)
+        dest = os.path.join(images_dir, filename)
+        rel = images_dir.replace(os.sep, "/") + "/" + filename
+
+        if os.path.isfile(dest) and os.path.getsize(dest) > 0:
+            image_paths[name] = rel
+            skipped += 1
+            continue
+
+        url = get_image_uri(data)
+        if not url:
+            image_paths[name] = None
+            failed += 1
+            continue
+
+        print(f"  [{idx}/{total}] Downloading image: {name}...")
+        ok = download_image_file(url, dest)
+        if ok:
+            image_paths[name] = rel
+            downloaded += 1
+        else:
+            image_paths[name] = None
+            failed += 1
+        time.sleep(delay)
+
+    print(f"  Images: {downloaded} downloaded, {skipped} already on disk, {failed} unavailable")
+    return image_paths
+
+
+def write_images_md(path: str, image_paths: dict):
+    """Write card_images.md listing all cards and their local image paths."""
+    with open(path, "w", encoding="utf-8") as fh:
+        fh.write(f"# Card Images (generated {datetime.now(timezone.utc).isoformat()}Z)\n\n")
+        available = [(n, p) for n, p in sorted(image_paths.items()) if p]
+        missing = [n for n, p in sorted(image_paths.items()) if not p]
+        fh.write(f"**{len(available)}** images available, **{len(missing)}** unavailable.\n\n")
+        fh.write("| Card | Image |\n")
+        fh.write("|------|-------|\n")
+        for name, rel in available:
+            safe = name.replace("|", "\\|")
+            fh.write(f'| {safe} | <img src="{rel}" alt="{safe}" width="150"> |\n')
+        if missing:
+            fh.write("\n## Missing Images\n\n")
+            for name in missing:
+                fh.write(f"- {name}\n")
+
+
+def is_commander_candidate(data: dict) -> bool:
+    if not data:
+        return False
+    type_line = data.get("type_line", "")
+    if "Legendary" not in type_line:
+        return False
+    if "Creature" in type_line:
+        return True
+    if "Spacecraft" in type_line:
+        oracle = data.get("oracle_text", "") or ""
+        if "Station" in oracle:
+            return True
+    return False
+
+
+def color_identity_key(data: dict) -> str:
+    ci = data.get("color_identity", [])
+    if not ci:
+        return "Colorless"
+    return ", ".join(symbol_to_word(c) for c in ci)
+
+
+def write_commanders_md(path: str, cache: dict, image_paths: dict, precon_map: dict = None):
+    precon_map = precon_map or {}
+    commanders = {
+        name: entry["data"]
+        for name, entry in cache.items()
+        if isinstance(entry, dict) and is_commander_candidate(entry.get("data"))
+    }
+    if not commanders:
+        print("No commander candidates found in cache — skipping Commanders.md")
+        return
+
+    by_ci = {}
+    for name in sorted(commanders):
+        key = color_identity_key(commanders[name])
+        by_ci.setdefault(key, []).append(name)
+
+    ci_order = [
+        "Colorless", "White", "Blue", "Black", "Red", "Green",
+        "White, Blue", "White, Black", "White, Red", "White, Green",
+        "Blue, Black", "Blue, Red", "Blue, Green", "Black, Red",
+        "Black, Green", "Red, Green",
+    ]
+    for ci in sorted(by_ci):
+        if ci not in ci_order:
+            ci_order.append(ci)
+
+    with open(path, "w", encoding="utf-8") as fh:
+        fh.write("# Potential Commanders\n\n")
+        fh.write(
+            f"All Legendary Creatures and Legendary Spacecraft (Station mechanic) "
+            f"in your collection — **{len(commanders)} cards**.\n\n"
+        )
+        fh.write("---\n\n")
+        for ci in ci_order:
+            if ci not in by_ci:
+                continue
+            fh.write(f"## {ci}\n\n")
+            fh.write("| Card | Name | Type | Precon |\n")
+            fh.write("|------|------|------|--------|\n")
+            for name in by_ci[ci]:
+                data = commanders[name]
+                type_line = data.get("type_line", "").replace("|", "\\|")
+                safe_name = name.replace("|", "\\|")
+                precon = (precon_map.get(name) or "").replace("|", "\\|")
+                img_src = image_paths.get(name)
+                if not img_src:
+                    img_src = get_image_uri(data)
+                if img_src:
+                    img_cell = f'<img src="{img_src}" alt="{safe_name}" width="200">'
+                else:
+                    img_cell = "*(no image)*"
+                fh.write(f"| {img_cell} | **{safe_name}** | {type_line} | {precon} |\n")
+            fh.write("\n")
+
+    print(f"WROTE {path} ({len(commanders)} commanders)")
+
+
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Generate moxfield_cards.md from CSV and Precons')
     parser.add_argument('--csv', default='moxfield_latest.csv')
@@ -646,6 +818,8 @@ if __name__ == "__main__":
     parser.add_argument('--ambiguous-threshold', type=float, default=0.75)
     parser.add_argument('--card-details', default='card_details.md')
     parser.add_argument('--cache', default='scripts/cache/cards_cache.json')
+    parser.add_argument('--images-dir', default='images/commanders')
+    parser.add_argument('--commanders-out', default='commanders.md')
     args = parser.parse_args()
 
     if not os.path.isfile(args.csv):
@@ -704,3 +878,13 @@ if __name__ == "__main__":
     # now create card_details.md from the cache
     append_card_details(card_details_path, cache, not_found, alt_name_map)
     print(f"WROTE/UPDATED {card_details_path}")
+
+    # download commander images only (skip any already on disk), then write Commanders.md
+    commanders_cache = {
+        name: entry for name, entry in cache.items()
+        if isinstance(entry, dict) and is_commander_candidate(entry.get("data"))
+    }
+    precon_map = {r.get('Name', ''): r.get('Precon', '') for r in rows}
+    print(f"\nDownloading {len(commanders_cache)} commander images to {args.images_dir}/ (0.5s between each)...")
+    image_paths = download_card_images(commanders_cache, args.images_dir, delay=0.5)
+    write_commanders_md(args.commanders_out, cache, image_paths, precon_map)
