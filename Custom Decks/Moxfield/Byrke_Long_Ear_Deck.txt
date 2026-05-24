@@ -1,4 +1,4 @@
-1 Byrke, Long Ear of the Law
+1 Byrke, Long Ear of the Law *CMDR*
 1 Llanowar Elves
 1 Hinterland Sanctifier
 1 Gilded Goose
@@ -6,15 +6,15 @@
 1 Action News Crew
 1 Burrowguard Mentor
 1 Finneas, Ace Archer
+1 Frog Butler
 1 Druid of the Cowl
-1 Inspiring Overseer
 1 Helpful Hunter
 1 Prosperous Innkeeper
 1 Bulwark Ox
 1 Wildwood Scourge
 1 Arasta of the Endless Web
 1 Tireless Provisioner
-1 Clifftop Lookout
+1 Thornweald Archer
 1 Twinblade Paladin
 1 Dazzling Angel
 1 Patrolling Peacemaker
@@ -23,17 +23,18 @@
 1 Toski, Bearer of Secrets
 1 Pileated Provisioner
 1 Serra Redeemer
-1 Herald of Faith
 1 Jazal Goldmane
 1 Tajuru Pathwarden
 1 End-Raze Forerunners
 1 Prideful Parent
 1 Dwynen's Elite
-1 Bishop's Soldier
 1 Sol Ring
 1 Arcane Signet
 1 Fellwar Stone
 1 The Ozolith
+1 Skullclamp
+1 Surge Conductor
+1 Carrot Cake
 1 Swiftfoot Boots
 1 Lightning Greaves
 1 Hammer of Nazahn
@@ -42,7 +43,7 @@
 1 New Horizons
 1 Beastmaster Ascension
 1 Hunter's Talent
-1 Colossification
+1 Fall of Gil-galad
 1 Pacifism
 1 Prayer of Binding
 1 Swords to Plowshares
@@ -52,15 +53,14 @@
 1 Generous Gift
 1 Rabbit Response
 1 Bite Down
+1 Elspeth's Smite
+1 Reprieve
 1 Open the Armory
 1 Hop to It
 1 Biogenic Upgrade
 1 Felling Blow
-1 Rabid Bite
 1 Fumigate
 1 Wear Down
-1 Joraga Invocation
-1 Dewdrop Cure
 1 Rootcast Apprenticeship
 1 Command Tower
 1 Path of Ancestry
