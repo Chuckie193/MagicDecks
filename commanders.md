@@ -1,6 +1,6 @@
 # Potential Commanders
 
-All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **31 cards**.
+All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **34 cards**.
 
 ---
 
@@ -48,6 +48,12 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Chatterfang_Squirrel_General.jpg" alt="Chatterfang, Squirrel General" width="200"> | **Chatterfang, Squirrel General** | Legendary Creature — Squirrel Warrior | SquirreledAway |
 | <img src="images/commanders/The_Odd_Acorn_Gang.jpg" alt="The Odd Acorn Gang" width="200"> | **The Odd Acorn Gang** | Legendary Creature — Squirrel Warrior | SquirreledAway |
 
+## Black, Blue, White
+
+| Card | Name | Type | Precon |
+|------|------|------|--------|
+| <img src="images/commanders/Queza_Augur_of_Agonies.jpg" alt="Queza, Augur of Agonies" width="200"> | **Queza, Augur of Agonies** | Legendary Creature — Octopus Advisor |  |
+
 ## Black, Red, Blue
 
 | Card | Name | Type | Precon |
@@ -65,6 +71,12 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | Card | Name | Type | Precon |
 |------|------|------|--------|
 | <img src="images/commanders/Genghis_Frog.jpg" alt="Genghis Frog" width="200"> | **Genghis Frog** | Legendary Creature — Frog Mutant Rogue |  |
+
+## Green, Blue, White
+
+| Card | Name | Type | Precon |
+|------|------|------|--------|
+| <img src="images/commanders/Rigo_Streetwise_Mentor.jpg" alt="Rigo, Streetwise Mentor" width="200"> | **Rigo, Streetwise Mentor** | Legendary Creature — Cat Citizen |  |
 
 ## Green, White
 
@@ -99,4 +111,5 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | Card | Name | Type | Precon |
 |------|------|------|--------|
 | <img src="images/commanders/Mabel_Heir_to_Cragflame.jpg" alt="Mabel, Heir to Cragflame" width="200"> | **Mabel, Heir to Cragflame** | Legendary Creature — Mouse Soldier |  |
+| <img src="images/commanders/Winota_Joiner_of_Forces.jpg" alt="Winota, Joiner of Forces" width="200"> | **Winota, Joiner of Forces** | Legendary Creature — Human Warrior |  |
 
