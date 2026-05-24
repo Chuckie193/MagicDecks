@@ -10,7 +10,7 @@
 1 Inspiring Overseer
 1 Helpful Hunter
 1 Prosperous Innkeeper
-1 Warren Elder
+1 Bulwark Ox
 1 Wildwood Scourge
 1 Arasta of the Endless Web
 1 Tireless Provisioner
@@ -61,7 +61,7 @@
 1 Wear Down
 1 Joraga Invocation
 1 Dewdrop Cure
-1 Longstalk Brawl
+1 Rootcast Apprenticeship
 1 Command Tower
 1 Path of Ancestry
 1 Oran-Rief, the Vastwood
