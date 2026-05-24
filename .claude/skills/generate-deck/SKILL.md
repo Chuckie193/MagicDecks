@@ -412,6 +412,21 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
 - If a card is in CSV but not in card_details.md, it means Scryfall data wasn't fetched yet
 - Both files should be in sync if generate_cards_md.py was run recently
 
+**Counters vs. Direct P/T Modification**:
+
+Two types of oracle_text phrasing look similar but are mechanically distinct — this matters whenever selecting cards for a counter-synergy strategy (proliferate, counter-doubling, counter removal/redistribution, etc.):
+
+- **Places a counter**: `"put X +1/+1 counter(s) on"`, `"gets a +1/+1 counter"`, `"distributes X +1/+1 counters among"` — the counter is a physical game object on the card. It persists, interacts with Hardened Scales, Doubling Season, Solidarity of Heroes, and proliferate, and can be removed or moved by other effects.
+- **Direct P/T modification**: `"gets +X/+Y"` (with or without "until end of turn", "for each …", etc.) — this is a continuous effect or layer that changes the creature's power/toughness directly. No counter is placed. Counter-synergy cards do nothing to it; proliferate cannot copy it; Hardened Scales does not apply.
+
+**Rule of thumb**: if the word "counter" does not appear in the oracle_text, no counter is being placed, regardless of how large the bonus is.
+
+**Examples**:
+- `"When this creature enters the battlefield, it gets +1/+1 until end of turn."` — no counter; Hardened Scales is irrelevant
+- `"When this creature enters the battlefield, put a +1/+1 counter on it."` — counter placed; Hardened Scales adds an extra counter
+
+When building a counter-focused deck, only count cards whose oracle_text explicitly uses the word "counter" (in context of +1/+1, -1/-1, or other named counters) as counter synergy pieces. Do not include cards that only use `"gets +X/+Y"` phrasing in counter-synergy slots.
+
 ## Version Locking
 
 When the user indicates approval, lock the deck version:
