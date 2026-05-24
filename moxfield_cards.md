@@ -1,4 +1,4 @@
-# Moxfield Latest — Cards with Precon Assignments (generated 2026-05-23T19:21:29.141850+00:00Z)
+# Moxfield Latest — Cards with Precon Assignments (generated 2026-05-24T00:29:27.428360+00:00Z)
 
 ## All cards (table)
 

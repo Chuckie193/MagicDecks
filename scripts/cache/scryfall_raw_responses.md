@@ -74456,38 +74456,6 @@
 
 - https://api.scryfall.com/cards/named?fuzzy=Wear%20Down → **Success** (HTTP 200)
 
-## Auntie's Sentence
-
-**Status:** Failed or Not Found
-
-**Attempted URLs:**
-
-- https://api.scryfall.com/cards/named?fuzzy=Auntie%27s%20Sentence → **Failed** (The read operation timed out)
-
-## Auspicious Starrix
-
-**Status:** Failed or Not Found
-
-**Attempted URLs:**
-
-- https://api.scryfall.com/cards/named?fuzzy=Auspicious%20Starrix → **Failed** (The read operation timed out)
-
-## Brambleback Brute
-
-**Status:** Failed or Not Found
-
-**Attempted URLs:**
-
-- https://api.scryfall.com/cards/named?fuzzy=Brambleback%20Brute → **Failed** (The read operation timed out)
-
-## Caldaia Strongarm
-
-**Status:** Failed or Not Found
-
-**Attempted URLs:**
-
-- https://api.scryfall.com/cards/named?fuzzy=Caldaia%20Strongarm → **Failed** (The read operation timed out)
-
 ## Cavern Whisperer
 
 **Status:** Success
@@ -75385,14 +75353,6 @@
 **Attempted URLs:**
 
 - https://api.scryfall.com/cards/named?fuzzy=Cubwarden → **Success** (HTTP 200)
-
-## Dawnhand Dissident
-
-**Status:** Failed or Not Found
-
-**Attempted URLs:**
-
-- https://api.scryfall.com/cards/named?fuzzy=Dawnhand%20Dissident → **Failed** (The read operation timed out)
 
 ## Diresight
 
@@ -76615,14 +76575,6 @@
 **Attempted URLs:**
 
 - https://api.scryfall.com/cards/named?fuzzy=Gallant%20Fowlknight → **Success** (HTTP 200)
-
-## Gemrazer
-
-**Status:** Failed or Not Found
-
-**Attempted URLs:**
-
-- https://api.scryfall.com/cards/named?fuzzy=Gemrazer → **Failed** (The read operation timed out)
 
 ## Gnarlbark Elm
 
@@ -81696,4 +81648,52 @@
 **Attempted URLs:**
 
 - https://api.scryfall.com/cards/named?fuzzy=Zenith%20Flare → **Success** (HTTP 200)
+
+## Auntie's Sentence
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Auntie%27s%20Sentence → **Failed** (The read operation timed out)
+
+## Auspicious Starrix
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Auspicious%20Starrix → **Failed** (The read operation timed out)
+
+## Brambleback Brute
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Brambleback%20Brute → **Failed** (The read operation timed out)
+
+## Caldaia Strongarm
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Caldaia%20Strongarm → **Failed** (The read operation timed out)
+
+## Dawnhand Dissident
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Dawnhand%20Dissident → **Failed** (The read operation timed out)
+
+## Gemrazer
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Gemrazer → **Failed** (The read operation timed out)
 
