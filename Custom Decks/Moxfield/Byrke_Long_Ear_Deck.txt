@@ -17,7 +17,7 @@
 1 Clifftop Lookout
 1 Twinblade Paladin
 1 Dazzling Angel
-1 Treeguard Duo
+1 Patrolling Peacemaker
 1 Felidar Savior
 1 Solemn Simulacrum
 1 Toski, Bearer of Secrets
