@@ -31,19 +31,19 @@ Byrke, the Long Ear of the Law, doesn't just enforce justice — she *amplifies*
 - **Inspiring Overseer** — 2/1 flyer that draws a card and gains you 1 life on ETB; replaces itself while growing Ajani's Pridemate.
 - **Helpful Hunter** — 1/1 that draws a card on ETB. Cheap, replaces itself, and gives Byrke a body to put a counter on.
 - **Prosperous Innkeeper** — Creates a Treasure on ETB; gains 1 life each time another creature enters. Both effects accelerate into Byrke and grow the life-gain sub-theme simultaneously.
-- **Warren Elder** — 2/2 for 1W; activated ability ([3W]: creatures you control get +1/+1 until EOT) serves as a combat surprise or finishing push in a stalled game.
+- **Bulwark Ox** — 2/2 for 1W with Saddle 1; whenever it attacks while saddled, puts a +1/+1 counter on any target creature (Byrke doubles it next swing). More importantly, its sacrifice ability gives every creature with any counter hexproof and indestructible until end of turn — a one-card answer to board wipes and targeted removal that the deck previously had no equivalent of.
 - **Wildwood Scourge** — 0/0 Hydra that enters with X counters and gains a +1/+1 counter whenever any other non-Hydra creature you control gets one. Byrke's doubling trigger puts counters on the Scourge too, building a separate enormous threat.
 - **Arasta of the Endless Web** — 3/5 enchantment creature with reach; punishes opponents who cast instants or sorceries by creating 1/2 Green Spider tokens with reach — excellent blocker that creates blockers, discouraging burn and interaction.
 - **Tireless Provisioner** — Landfall triggers create Food or Treasure tokens, providing life gain or mana fixing every time you play a land, synergising with the life-gain sub-theme.
 - **Clifftop Lookout** — 1/2 with reach; ETB fetches a tapped land from your library, fixing mana and thinning the deck while presenting a cheap body for Byrke's counter.
 - **Twinblade Paladin** — Gets +1/+1 whenever you gain life, and gains double strike once you're at 25 life or more. The life-gain engine can grow this creature significantly, and double strike + Byrke's counter-doubling creates lethal damage quickly.
 - **Dazzling Angel** — 2/3 flyer that gains you 1 life whenever another creature you control enters; stacks with every ETB in the deck to feed Ajani's Pridemate and Twinblade Paladin.
-- **Treeguard Duo** — 3/4 Frog Rabbit; ETB gives a target creature +X/+X and vigilance where X is the number of creatures you control. Drops a large buff mid-board and opens Byrke's doubling trigger to multiply it further.
+- **Patrolling Peacemaker** — Artifact creature that enters with two +1/+1 counters on it (Byrke doubles both on the next attack); whenever an opponent commits a crime — targeting anything you control, countering your spells, targeting cards in your graveyard — you proliferate. In 1v1 an opponent using any targeted removal or interaction triggers this, steadily adding a counter to every permanent that already has one.
 - **Felidar Savior** — 2/3 Lifelink; ETB puts +1/+1 counters on up to two target creatures. One of the cleanest ways to pre-load counters so Byrke's attack trigger can double them.
 - **Solemn Simulacrum** — Fetches a basic land on ETB and draws a card when it dies; bridges the gap to Byrke while providing card advantage. Byrke can place a counter on this to start stacking.
 - **Toski, Bearer of Secrets** — 1/1 Squirrel, indestructible, can't be countered. Draws a card whenever any creature you control deals combat damage to a player — the card advantage engine that keeps the hand full in a long game.
 - **Pileated Provisioner** — 3/4 Bird with flying; ETB puts a +1/+1 counter on a non-flying creature you control, combining with Byrke's ability to pre-load the largest ground threat.
-- **Serra Redeemer** — 4/4 Cat Soldier; activated ([3W]: target attacking creature gets +1/+1 until EOT) provides a mana sink to pump your biggest attacker in response to blocks, stacking with counters from Byrke.
+- **Serra Redeemer** — 4/3 Angel with flying; whenever *another* creature you control with power 2 or less enters the battlefield, it immediately gets two +1/+1 counters. This triggers on nearly every creature in the deck (all the 1/1 tokens, every mana dork, every cheap ETB creature). Those counters persist and Byrke doubles them the next attack step — Serra Redeemer is the single best counter-loader in the 99.
 - **Herald of Faith** — 4/3 Angel with flying; gains 2 life each time it attacks, synergising with Twinblade Paladin's double-strike threshold and the overall life-gain package.
 - **Jazal Goldmane** — 4/4 legendary Cat with first strike; activated ([3WW]: attacking creatures get +X/+X where X is the number of attacking creatures) turns a wide alpha strike into a lethal wave, especially after Byrke has distributed counters.
 - **Tajuru Pathwarden** — 5/4 Elf Warrior with vigilance and trample; a sturdy ground presence that attacks and blocks in the same turn. Trample ensures Byrke's doubled counters translate to damage through tough blockers.
@@ -66,14 +66,14 @@ Byrke, the Long Ear of the Law, doesn't just enforce justice — she *amplifies*
 - **Wolfwillow Haven** — Aura on a land that taps for G; inexpensive Green mana fixing and ramp that helps cast the two-Green finishers.
 - **New Horizons** — Enchants a land to tap for G and W; also puts a +1/+1 counter on a creature when it enters, giving Byrke's doubling something to multiply immediately.
 - **Beastmaster Ascension** — Each creature that attacks adds a quest counter; at 7 counters, all creatures you control get +5/+5. In a deck that attacks every turn with multiple creatures, this can reach threshold in 2–3 turns and instantly closes the game combined with Byrke's doubling.
-- **Hunter's Talent** — Enchantment Class; Level 1: target creature you control fights another. Level 2 ([1G]): attacking creatures get +1/+0 and trample each attack. Level 3 ([3G]): draw a card at each end step if you control a creature with power 4 or more. Provides removal, trample, and card draw across three upgrade thresholds.
+- **Hunter's Talent** — Enchantment Class; Level 1: target creature you control fights another. Level 2 ([1G]): attacking creatures get +1/+0 and trample each attack (note: direct P/T modification, not a counter — Byrke cannot double it, but trample is the key payoff, ensuring Byrke's doubled counters convert to player damage through any blocker). Level 3 ([3G]): draw a card at each end step if you control a creature with power 4 or more. Provides removal, permanent trample delivery, and card draw across three upgrade thresholds.
 - **Colossification** — Aura for 5GG; enchanted creature gets +20/+20 (and taps when it enters). Disguises a medium-sized creature into a one-shot threat; use Byrke's doubling before playing this for maximum absurdity.
 - **Pacifism** — Taps and prevents attacks/blocks for 1W; cheap white spot removal that is particularly effective in 1v1 since the opponent cannot redirect the locked creature's value.
 - **Prayer of Binding** — 3W enchantment with flash; exiles a nonland permanent until this enchantment leaves and gains 2 life. Flash timing makes this a surprise removal and life gain engine in the same card.
 
 ### Instants (7)
 - **Swords to Plowshares** — Exile a creature for W; the cleanest and most mana-efficient removal spell in White. No opponent creature survives this.
-- **Snakeskin Veil** — G instant; target creature gets +1/+1 and hexproof until EOT. Protects Byrke or a loaded creature from removal at instant speed, and adds a counter for her attack trigger to double.
+- **Snakeskin Veil** — G instant; puts a permanent +1/+1 counter on target creature AND grants hexproof until EOT. The counter stays after the turn ends, meaning Byrke can double it in the next attack step. Use it reactively to save a counter-loaded creature from targeted removal while simultaneously adding to its counter total.
 - **Adamant Will** — W instant; target creature gets +2/+2 and indestructible until EOT. Blocks lethal combat math or protects a key creature from board wipes.
 - **Repel Calamity** — 1W instant; destroys a creature with power or toughness 4 or greater. Highly relevant in 1v1 where large commanders often attack alone.
 - **Generous Gift** — 2W instant; destroys any permanent (opponent gets a 3/3 Elephant). The most flexible removal in the deck, hitting enchantments, artifacts, planeswalkers, and lands.
@@ -90,7 +90,7 @@ Byrke, the Long Ear of the Law, doesn't just enforce justice — she *amplifies*
 - **Wear Down** — 1G sorcery with Gift; destroys a target artifact or enchantment (Gift: opponent draws, you destroy two). Flexible non-creature removal that can clear blockers or problem enchantments.
 - **Joraga Invocation** — 4GG sorcery; all creatures you control get +3/+3 until EOT and must be blocked this turn if able. Forces the opponent to trade up into your counter-loaded army; often game-ending combined with Beastmaster Ascension.
 - **Dewdrop Cure** — 2W sorcery with Gift; returns up to two creature cards with mana value 2 or less from your graveyard to the battlefield (Gift: opponent draws, you return up to three). Rebuilds the board of low-cost creatures after a board wipe, restoring bodies for Byrke to buff.
-- **Longstalk Brawl** — G sorcery with Gift; if Gift is promised opponent gets a Fish token, your creature gets +1/+1; then your creature fights target creature an opponent controls. One-mana removal with a permanent counter upside; the cheapest fight spell in the deck.
+- **Rootcast Apprenticeship** — 4-mana Green sorcery; choose three effects (and you may repeat the same one): put two +1/+1 counters on target creature, copy a token you control, give a squirrel to target player, or make an opponent sacrifice a nontoken artifact. Choosing "two counters" three times loads a single creature with six permanent +1/+1 counters — Byrke then doubles those to twelve on the next attack step. Also copies tokens for board width or strips a key artifact.
 
 ### Lands (36)
 - **Command Tower** — Taps for Green or White with no downside. Best dual land in Commander.
@@ -114,11 +114,14 @@ Byrke, the Long Ear of the Law, doesn't just enforce justice — she *amplifies*
 ---
 
 ## Key Synergies
-- **Byrke + Felidar Savior / Treeguard Duo + Finneas**: Felidar Savior pre-loads two creatures with +1/+1 counters; Byrke doubles them the following attack step. Finneas adds more counters on tokens and Rabbits when attacking. Treeguard Duo drops a massive buff timed to your creature count that Byrke can then double, creating creatures with 12–20+ counters by mid-game.
+- **Serra Redeemer + Small Creature ETBs + Byrke**: Every time any creature with power 2 or less enters (Llanowar Elves, Hinterland Sanctifier, tokens from Hop to It, Prideful Parent, Dwynen's Elite, etc.), Serra Redeemer puts two +1/+1 counters on it immediately. A 1/1 entering with Serra Redeemer in play becomes a 3/3 before Byrke even swings — then Byrke doubles it to 6/6 on the attack. A full board of cheap ETBs can generate 10+ counters for Byrke to multiply in one turn.
+- **Byrke + Felidar Savior + Finneas**: Felidar Savior pre-loads two creatures with +1/+1 counters; Byrke doubles them the following attack step. Finneas adds more counters on tokens and Rabbits during the same attack. Together they can create creatures with 12–20+ counters by mid-game.
 - **Byrke + The Ozolith + Resourceful Defense**: When a counter-loaded creature dies, The Ozolith absorbs its counters. At the start of combat, move them onto any creature — Byrke then doubles them in the same attack phase, turning removal into an advantage.
 - **Wildwood Scourge + Any Counter Distribution**: Each time any non-Hydra creature gets a +1/+1 counter, Wildwood Scourge gets one too. Byrke's doubling trigger in combat doubles both the targeted creature AND the Scourge simultaneously, building two massive threats at once.
 - **Beastmaster Ascension + Wide Board**: Attacking with even 3–4 creatures every turn fills quest counters in two attacks. At 7 counters all creatures get +5/+5 — stacked with Byrke's doubling and Jazal Goldmane's activated ability, this can kill from a board state that looked harmless a turn earlier.
 - **Life-gain Engine (Hinterland Sanctifier + Dazzling Angel + Prosperous Innkeeper + Bishop's Soldier) + Ajani's Pridemate / Twinblade Paladin**: Every creature ETB triggers Hinterland Sanctifier and Dazzling Angel for 1 life each. Ajani's Pridemate grows by 1 per life-gain trigger; Twinblade Paladin unlocks double strike once you reach 25 life. A full board refill from Dewdrop Cure can grow Pridemate by 4–6 counters in a single turn.
+- **Rootcast Apprenticeship → Byrke**: Cast Rootcast Apprenticeship choosing "put two +1/+1 counters" three times on the same creature. It enters combat with six counters; Byrke doubles that to twelve in the same attack step. Combined with Biogenic Upgrade (which distributes and then doubles its own counters), two sorceries can create a 20+ power attacker from almost nothing.
+- **Bulwark Ox sacrifice + Board Wipe**: When an opponent taps out for a board wipe, sacrifice Bulwark Ox in response. Every creature you control that has any counter gains hexproof and indestructible until end of turn — the board wipe hits nothing. Since Byrke's ETB loads counters on two creatures, at minimum the most important bodies survive every sweeper.
 - **Open the Armory → Hammer of Nazahn → Auto-Equip**: Open the Armory tutors Hammer for 1W; Hammer then attaches itself and every Equipment you subsequently play for free. Colossification via Open the Armory bypasses the one-turn tap penalty if you attach it to a creature that hasn't attacked yet.
 
 ---
@@ -134,21 +137,22 @@ Byrke, the Long Ear of the Law, doesn't just enforce justice — she *amplifies*
 | Elephant | 3/3 | Green | Creature — Elephant | — | Generous Gift *(note: created for the opponent)* |
 | Food | — | Colorless | Artifact — Food | {2}, {T}, Sacrifice: You gain 3 life | Gilded Goose; Prosperous Innkeeper; Tireless Provisioner |
 | Treasure | — | Colorless | Artifact — Treasure | {T}, Sacrifice: Add one mana of any color | Prosperous Innkeeper; Tireless Provisioner |
+| Squirrel | 1/1 | Green | Creature — Squirrel | — | Rootcast Apprenticeship *(one of the selectable modes)* |
 
 ---
 
 ## Mana Curve
-- 1 CMC: 9 cards — ████████ (Sol Ring, Llanowar Elves, Hinterland Sanctifier, Gilded Goose, The Ozolith, Swords to Plowshares, Snakeskin Veil, Adamant Will, Longstalk Brawl)
-- 2 CMC: 22 cards — █████████████████████ (Ajani's Pridemate, Action News Crew, Burrowguard Mentor, Finneas, Druid of the Cowl, Helpful Hunter, Prosperous Innkeeper, Warren Elder, Dwynen's Elite, Bishop's Soldier, Arcane Signet, Fellwar Stone, Swiftfoot Boots, Lightning Greaves, Hunter's Talent, Wolfwillow Haven, Pacifism, Rabid Bite, Wear Down, Repel Calamity, Open the Armory, Bite Down)
-- 3 CMC: 12 cards — ███████████ (Inspiring Overseer, Clifftop Lookout, Dazzling Angel, Prideful Parent, Tireless Provisioner, New Horizons, Beastmaster Ascension, Hop to It, Dewdrop Cure, Resourceful Defense, Felling Blow, Generous Gift)
-- 4 CMC: 9 cards — ████████ (Twinblade Paladin, Treeguard Duo, Felidar Savior, Solemn Simulacrum, Arasta of the Endless Web, Toski Bearer of Secrets, Jazal Goldmane, Prayer of Binding, Rabbit Response)
+- 1 CMC: 8 cards — ████████ (Sol Ring, Llanowar Elves, Hinterland Sanctifier, Gilded Goose, The Ozolith, Swords to Plowshares, Snakeskin Veil, Adamant Will)
+- 2 CMC: 22 cards — █████████████████████ (Ajani's Pridemate, Action News Crew, Bulwark Ox, Burrowguard Mentor, Finneas, Druid of the Cowl, Helpful Hunter, Prosperous Innkeeper, Dwynen's Elite, Bishop's Soldier, Arcane Signet, Fellwar Stone, Swiftfoot Boots, Lightning Greaves, Hunter's Talent, Wolfwillow Haven, Pacifism, Rabid Bite, Wear Down, Repel Calamity, Open the Armory, Bite Down)
+- 3 CMC: 13 cards — ████████████ (Inspiring Overseer, Clifftop Lookout, Dazzling Angel, Prideful Parent, Tireless Provisioner, New Horizons, Beastmaster Ascension, Hop to It, Dewdrop Cure, Resourceful Defense, Felling Blow, Generous Gift, Patrolling Peacemaker)
+- 4 CMC: 9 cards — ████████ (Twinblade Paladin, Felidar Savior, Solemn Simulacrum, Arasta of the Endless Web, Toski Bearer of Secrets, Jazal Goldmane, Prayer of Binding, Rabbit Response, Rootcast Apprenticeship)
 - 5 CMC: 6 cards — █████ (Pileated Provisioner, Serra Redeemer, Herald of Faith, Tajuru Pathwarden, Hammer of Nazahn, Fumigate)
 - 6 CMC: 2 cards — ██ (Biogenic Upgrade, Joraga Invocation)
 - 7 CMC: 1 card — █ (Colossification)
 - 8 CMC: 1 card — █ (End-Raze Forerunners)
 - X CMC: 1 card (Wildwood Scourge — enters with X counters)
 
-Average CMC (non-land, non-X): 2.87 — aggressive for a 6-CMC commander.
+Average CMC (non-land, non-X): 2.90 — still aggressive for a 6-CMC commander.
 
 ---
 
@@ -203,6 +207,10 @@ Average CMC (non-land, non-X): 2.87 — aggressive for a 6-CMC commander.
 - **Top-end is slow**: End-Raze Forerunners at 8 CMC and Colossification at 7 CMC are difficult to cast without ramp. Drawing them when behind feels bad; they're best as haymakers when the board is already large.
 - **No mass bounce or return**: No way to blank a superior board other than Fumigate; strong token decks or go-wide strategies that rebuild fast could be problematic.
 
+**Changes from previous draft**:
+- **Bulwark Ox in, Warren Elder out**: Warren Elder's [3W] activation gave all creatures +1/+1 *until end of turn* — a direct P/T modification with no interaction with Byrke's counter-doubling. Bulwark Ox costs the same mana, places real counters on attack while saddled, and its sacrifice ability gives all counter-bearing creatures hexproof and indestructible — directly answering the previous draft's vulnerability to board wipes.
+- **Rootcast Apprenticeship in, Longstalk Brawl out**: Longstalk Brawl's counter placement was conditional on giving the opponent a 1/1 Fish, making it an expensive way to load a single counter. Rootcast Apprenticeship's choose-three structure can place six permanent counters on a single creature (three times "put two counters"), priming a massive doubling trigger from Byrke on the next swing.
+
 ---
 
 ## Next Steps (optional suggestions)
@@ -210,6 +218,16 @@ Average CMC (non-land, non-X): 2.87 — aggressive for a 6-CMC commander.
 - **Hardened Scales** (if acquired): Each +1/+1 counter placement gets +1 extra; stacks multiplicatively with Byrke's doubling.
 - **Skullclamp**: Sacrificing a 1/1 token (from Hop to It, Prideful Parent, Dwynen's Elite) to draw 2 cards would solve the card-draw gap immediately.
 - **Rishkar, Peema Renegade**: Puts counters on up to two creatures and makes each creature with a counter tap for G — free ramp once Byrke has spread counters.
+
+---
+
+## Cards Removed from Previous Draft
+
+| Card Removed | Reason | Replaced By |
+|-------------|--------|-------------|
+| Longstalk Brawl | Counter placement conditional on gifting opponent a 1/1 Fish; too situational and low-impact for a dedicated counter strategy | Rootcast Apprenticeship |
+| Treeguard Duo | ETB gives +X/+X until end of turn — a direct P/T modification, not a counter; Byrke cannot double it; value overstated by original description | Patrolling Peacemaker |
+| Warren Elder | Activated ability gives creatures +1/+1 *until end of turn* — a direct P/T modification, not a counter; Byrke cannot double it; weakest non-counter card in the 99 | Bulwark Ox |
 
 ---
 
@@ -225,7 +243,7 @@ Average CMC (non-land, non-X): 2.87 — aggressive for a 6-CMC commander.
 *Deck created from cards in your Moxfield collection (moxfield_latest.csv & card_details.md).*
 
 **Version**: Draft | **Status**: Working version  
-**Generated**: 2026-05-23
+**Generated**: 2026-05-24 (updated with counter/P/T distinction corrections)
 
 ---
 
@@ -283,8 +301,7 @@ Average CMC (non-land, non-X): 2.87 — aggressive for a 6-CMC commander.
 | Finneas, Ace Archer | Creature | Hare Raising |
 | Pileated Provisioner | Creature | Hare Raising |
 | Serra Redeemer | Creature | Hare Raising |
-| Treeguard Duo | Creature | Hare Raising |
-| Warren Elder | Creature | Hare Raising |
+| Patrolling Peacemaker | Creature | — |
 | Colossification | Enchantment | Hare Raising |
 | Rabbit Response | Instant | Hare Raising |
 | Repel Calamity | Instant | Hare Raising |
@@ -308,9 +325,10 @@ Average CMC (non-land, non-X): 2.87 — aggressive for a 6-CMC commander.
 | Air Shoes (Swiftfoot Boots) | Artifact | Sonic the Hedgehog: Turbo Gear |
 | Piko Piko Hammer (Hammer of Nazahn) | Artifact | Sonic the Hedgehog: Turbo Gear |
 | Action News Crew | Creature | — |
+| Bulwark Ox | Creature | — |
 | The Ozolith | Artifact | — |
 | Hunter's Talent | Enchantment | — |
 | Dewdrop Cure | Sorcery | — |
-| Longstalk Brawl | Sorcery | — |
+| Rootcast Apprenticeship | Sorcery | Squirreled Away |
 | Wear Down | Sorcery | — |
 | Lupinflower Village | Land | — |
