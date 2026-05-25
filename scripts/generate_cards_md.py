@@ -637,6 +637,167 @@ def append_card_details(path: str, cache_dict: dict, not_found: list, alt_name_m
                 fh.write('\n')
 
 
+def prettify_precon_name(name: str) -> str:
+    """Insert spaces before capital letters that immediately follow lowercase ones.
+
+    e.g. 'HareRaising' -> 'Hare Raising', 'CounterIntelligence' -> 'Counter Intelligence'.
+    Leaves existing spaces untouched, so 'Foundations BeginnerBox' stays as
+    'Foundations Beginner Box'.
+    """
+    return re.sub(r'(?<=[a-z])(?=[A-Z])', ' ', name)
+
+
+def compute_non_precon_cards(rows, decks, cache=None):
+    """Return a list of cards (or extra copies) not needed by any precon.
+
+    For each unique card name:
+    - total_owned  = sum of Count across all CSV rows with that name
+    - precon_req   = sum of qty across every precon that lists this card
+    - non_precon   = max(0, total_owned - precon_req)
+
+    A card is included only when non_precon > 0.
+    Returns a list of dicts sorted alphabetically by name.
+    """
+    cache = cache or {}
+
+    # Group CSV rows by exact card name
+    by_name = defaultdict(list)
+    for r in rows:
+        name = r.get('Name', '')
+        if name:
+            by_name[name].append(r)
+
+    results = []
+    for name, card_rows in by_name.items():
+        total_owned = sum(int(r.get('Count', 0) or 0) for r in card_rows)
+        norm = normalize_name(name)
+
+        # Determine which precons claim this card and how many copies each needs.
+        # We trust the Precon field (set by assign_precons) to know *which* precons
+        # match, then look up the qty in the decks dict for each match.
+        precon_field = '; '.join(
+            r.get('Precon', '') or '' for r in card_rows if r.get('Precon', '')
+        )
+        # Parse unique clean precon names from the field
+        unique_precons = set()
+        for entry in precon_field.split(';'):
+            entry = entry.strip()
+            if not entry:
+                continue
+            # Strip annotations: (alt), (heuristic:0.95), (ambiguous:0.80)
+            clean = re.sub(r'\s*\([^)]*\)\s*$', '', entry).strip()
+            if clean:
+                unique_precons.add(clean)
+
+        total_precon_req = 0
+        for precon_name in unique_precons:
+            if precon_name not in decks:
+                # Unknown after stripping — count 1 so we don't over-report extras
+                total_precon_req += 1
+                continue
+            precon_dict = decks[precon_name]
+            # Try direct norm match first
+            if norm in precon_dict:
+                total_precon_req += precon_dict[norm].get('qty', 1)
+            else:
+                # Try alt norms
+                found = False
+                for pnorm, pinfo in precon_dict.items():
+                    if norm in pinfo.get('alts', []):
+                        total_precon_req += pinfo.get('qty', 1)
+                        found = True
+                        break
+                if not found:
+                    # Fuzzy / heuristic match — assume qty 1
+                    total_precon_req += 1
+
+        non_precon_copies = max(0, total_owned - total_precon_req)
+        if non_precon_copies == 0:
+            continue
+
+        # Pull Scryfall info from cache for richer output
+        entry = cache.get(name)
+        scryfall = None
+        if entry and isinstance(entry, dict):
+            scryfall = entry.get('data')
+
+        editions = sorted({r.get('Edition', '') for r in card_rows if r.get('Edition', '')})
+        results.append({
+            'name': name,
+            'editions': editions,
+            'total_owned': total_owned,
+            'precon_required': total_precon_req,
+            'non_precon_copies': non_precon_copies,
+            'precon_names': sorted(unique_precons),
+            'scryfall': scryfall,
+        })
+
+    results.sort(key=lambda x: x['name'].lower())
+    return results
+
+
+def write_non_precon_md(outpath, rows, decks, cache=None):
+    """Write a markdown file listing cards (and extra copies) not needed by any precon."""
+    items = compute_non_precon_cards(rows, decks, cache)
+
+    total_distinct = len(items)
+    total_copies = sum(it['non_precon_copies'] for it in items)
+
+    with open(outpath, 'w', encoding='utf-8') as fh:
+        fh.write(
+            f"# Non-Precon Cards (generated {datetime.now(timezone.utc).isoformat()}Z)\n\n"
+        )
+        fh.write(
+            "Cards you own that are not tied up in any precon, or copies in excess of "
+            "precon requirements. These are free to use in custom decks without "
+            "cannibalising your precons.\n\n"
+        )
+        fh.write(f"**Total distinct cards:** {total_distinct}  \n")
+        fh.write(f"**Total copies:** {total_copies}\n\n")
+        fh.write("| Card | Copies | CMC | Type | Color Identity | Notes |\n")
+        fh.write("|------|:------:|:---:|------|----------------|-------|\n")
+
+        for it in items:
+            name = it['name'].replace('|', '&#124;')
+            copies = it['non_precon_copies']
+            copies_str = str(copies) if copies == 1 else f"×{copies}"
+
+            sf = it.get('scryfall') or {}
+            raw_cmc = sf.get('cmc', '')
+            try:
+                cmc_val = int(raw_cmc) if raw_cmc != '' and float(raw_cmc) == int(float(raw_cmc)) else raw_cmc
+            except (TypeError, ValueError):
+                cmc_val = raw_cmc
+            cmc_str = str(cmc_val) if cmc_val != '' else '—'
+
+            type_line = (sf.get('type_line') or '').replace('|', '\\|')
+            # Shorten type: keep only the part before em-dash
+            if ' — ' in type_line:
+                type_short = type_line.split(' — ')[0].strip()
+            elif ' — ' in type_line:
+                type_short = type_line.split(' — ')[0].strip()
+            else:
+                type_short = type_line
+
+            ci_list = sf.get('color_identity') or []
+            ci_str = colors_to_text(ci_list) if ci_list else 'Colorless'
+
+            notes_parts = []
+            if it['precon_required'] > 0:
+                used = it['precon_required']
+                pretty_precons = '; '.join(prettify_precon_name(p) for p in it['precon_names'])
+                notes_parts.append(
+                    f"{used} cop{'y' if used == 1 else 'ies'} used by {pretty_precons}"
+                )
+            else:
+                notes_parts.append('not in any precon')
+
+            note_str = '; '.join(notes_parts).replace('|', '\\|')
+            fh.write(
+                f"| {name} | {copies_str} | {cmc_str} | {type_short} | {ci_str} | {note_str} |\n"
+            )
+
+
 def sanitize_image_filename(name: str) -> str:
     s = re.sub(r"[^\w\s-]", "", name)
     s = re.sub(r"[\s-]+", "_", s)
@@ -821,6 +982,7 @@ if __name__ == "__main__":
     parser.add_argument('--cache', default='scripts/cache/cards_cache.json')
     parser.add_argument('--images-dir', default='images/commanders')
     parser.add_argument('--commanders-out', default='commanders.md')
+    parser.add_argument('--non-precon-out', default='non_precon_cards.md')
     args = parser.parse_args()
 
     if not os.path.isfile(args.csv):
@@ -889,3 +1051,7 @@ if __name__ == "__main__":
     print(f"\nDownloading {len(commanders_cache)} commander images to {args.images_dir}/ (0.5s between each)...")
     image_paths = download_card_images(commanders_cache, args.images_dir, delay=0.5)
     write_commanders_md(args.commanders_out, cache, image_paths, precon_map)
+
+    # Write non-precon cards list
+    write_non_precon_md(args.non_precon_out, rows, decks, cache)
+    print(f"WROTE {args.non_precon_out}")
