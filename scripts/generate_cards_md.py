@@ -6,15 +6,17 @@ Usage:
   python scripts/generate_cards_md.py \
     --csv moxfield_latest.csv \
     --precons Precons \
+    --commander-precons "Precons/Commander Precons" \
     --out moxfield_cards.md \
     --auto-threshold 0.90 \
     --ambiguous-threshold 0.75
 
 Behavior:
-- Parses Precons/*.txt (one card per line, optional leading quantity, optional first-line title)
+- Parses all *.txt files under the precons directory recursively (one card per line, optional leading quantity, optional first-line title)
 - Supports alternative names in square brackets, e.g. "Main Name [Alt Name]"
 - Normalizes names and matches exactly against CSV names, then applies fuzzy matching (difflib) for unmatched cards
 - Produces a markdown with table columns: Name, Edition, Count, Precon, Duplicate, and per-precon summaries
+- Writes non_commander_cards.md: cards not reserved by any Commander precon (cards in other precons/Secret Lairs are still eligible)
 
 """
 
@@ -95,12 +97,12 @@ def parse_deck_file(path: str):
 
 def read_precons(dirpath: str):
     decks = {}
-    for fn in sorted(os.listdir(dirpath)):
-        if not fn.lower().endswith('.txt'):
-            continue
-        full = os.path.join(dirpath, fn)
-        if not os.path.isfile(full):
-            continue
+    all_files = []
+    for root, _dirs, files in os.walk(dirpath):
+        for fn in files:
+            if fn.lower().endswith('.txt'):
+                all_files.append(os.path.join(root, fn))
+    for full in sorted(all_files):
         precon_name, cards = parse_deck_file(full)
         # aggregate by normalized name, keep alt norms in list
         d = {}
@@ -647,15 +649,16 @@ def prettify_precon_name(name: str) -> str:
     return re.sub(r'(?<=[a-z])(?=[A-Z])', ' ', name)
 
 
-def compute_non_precon_cards(rows, decks, cache=None):
-    """Return a list of cards (or extra copies) not needed by any precon.
+def compute_non_precon_cards(rows, commander_decks, cache=None):
+    """Return a list of cards (or extra copies) not reserved by any Commander precon.
 
     For each unique card name:
-    - total_owned  = sum of Count across all CSV rows with that name
-    - precon_req   = sum of qty across every precon that lists this card
-    - non_precon   = max(0, total_owned - precon_req)
+    - total_owned       = sum of Count across all CSV rows with that name
+    - commander_req     = sum of qty across every Commander precon that lists this card
+    - non_commander     = max(0, total_owned - commander_req)
 
-    A card is included only when non_precon > 0.
+    Cards in non-Commander precons (Secret Lairs, Foundations, etc.) are NOT reserved
+    and remain fully eligible. A card is included only when non_commander > 0.
     Returns a list of dicts sorted alphabetically by name.
     """
     cache = cache or {}
@@ -679,7 +682,7 @@ def compute_non_precon_cards(rows, decks, cache=None):
             r.get('Precon', '') or '' for r in card_rows if r.get('Precon', '')
         )
         # Parse unique clean precon names from the field
-        unique_precons = set()
+        all_precons = set()
         for entry in precon_field.split(';'):
             entry = entry.strip()
             if not entry:
@@ -687,15 +690,14 @@ def compute_non_precon_cards(rows, decks, cache=None):
             # Strip annotations: (alt), (heuristic:0.95), (ambiguous:0.80)
             clean = re.sub(r'\s*\([^)]*\)\s*$', '', entry).strip()
             if clean:
-                unique_precons.add(clean)
+                all_precons.add(clean)
+
+        # Only reserve copies used by Commander precons
+        unique_commander_precons = {p for p in all_precons if p in commander_decks}
 
         total_precon_req = 0
-        for precon_name in unique_precons:
-            if precon_name not in decks:
-                # Unknown after stripping — count 1 so we don't over-report extras
-                total_precon_req += 1
-                continue
-            precon_dict = decks[precon_name]
+        for precon_name in unique_commander_precons:
+            precon_dict = commander_decks[precon_name]
             # Try direct norm match first
             if norm in precon_dict:
                 total_precon_req += precon_dict[norm].get('qty', 1)
@@ -711,8 +713,8 @@ def compute_non_precon_cards(rows, decks, cache=None):
                     # Fuzzy / heuristic match — assume qty 1
                     total_precon_req += 1
 
-        non_precon_copies = max(0, total_owned - total_precon_req)
-        if non_precon_copies == 0:
+        non_commander_copies = max(0, total_owned - total_precon_req)
+        if non_commander_copies == 0:
             continue
 
         # Pull Scryfall info from cache for richer output
@@ -726,9 +728,9 @@ def compute_non_precon_cards(rows, decks, cache=None):
             'name': name,
             'editions': editions,
             'total_owned': total_owned,
-            'precon_required': total_precon_req,
-            'non_precon_copies': non_precon_copies,
-            'precon_names': sorted(unique_precons),
+            'commander_precon_required': total_precon_req,
+            'non_commander_copies': non_commander_copies,
+            'commander_precon_names': sorted(unique_commander_precons),
             'scryfall': scryfall,
         })
 
@@ -736,21 +738,21 @@ def compute_non_precon_cards(rows, decks, cache=None):
     return results
 
 
-def write_non_precon_md(outpath, rows, decks, cache=None):
-    """Write a markdown file listing cards (and extra copies) not needed by any precon."""
-    items = compute_non_precon_cards(rows, decks, cache)
+def write_non_commander_md(outpath, rows, commander_decks, cache=None):
+    """Write a markdown file listing cards not reserved by any Commander precon."""
+    items = compute_non_precon_cards(rows, commander_decks, cache)
 
     total_distinct = len(items)
-    total_copies = sum(it['non_precon_copies'] for it in items)
+    total_copies = sum(it['non_commander_copies'] for it in items)
 
     with open(outpath, 'w', encoding='utf-8') as fh:
         fh.write(
-            f"# Non-Precon Cards (generated {datetime.now(timezone.utc).isoformat()}Z)\n\n"
+            f"# Non-Commander-Precon Cards (generated {datetime.now(timezone.utc).isoformat()}Z)\n\n"
         )
         fh.write(
-            "Cards you own that are not tied up in any precon, or copies in excess of "
-            "precon requirements. These are free to use in custom decks without "
-            "cannibalising your precons.\n\n"
+            "Cards you own that are not reserved by a Commander precon, or copies in excess of "
+            "Commander precon requirements. Cards from other precons (Secret Lairs, Foundations, "
+            "etc.) are included here as they are free to use in custom decks.\n\n"
         )
         fh.write(f"**Total distinct cards:** {total_distinct}  \n")
         fh.write(f"**Total copies:** {total_copies}\n\n")
@@ -759,7 +761,7 @@ def write_non_precon_md(outpath, rows, decks, cache=None):
 
         for it in items:
             name = it['name'].replace('|', '&#124;')
-            copies = it['non_precon_copies']
+            copies = it['non_commander_copies']
             copies_str = str(copies) if copies == 1 else f"×{copies}"
 
             sf = it.get('scryfall') or {}
@@ -783,14 +785,14 @@ def write_non_precon_md(outpath, rows, decks, cache=None):
             ci_str = colors_to_text(ci_list) if ci_list else 'Colorless'
 
             notes_parts = []
-            if it['precon_required'] > 0:
-                used = it['precon_required']
-                pretty_precons = '; '.join(prettify_precon_name(p) for p in it['precon_names'])
+            if it['commander_precon_required'] > 0:
+                used = it['commander_precon_required']
+                pretty_precons = '; '.join(prettify_precon_name(p) for p in it['commander_precon_names'])
                 notes_parts.append(
                     f"{used} cop{'y' if used == 1 else 'ies'} used by {pretty_precons}"
                 )
             else:
-                notes_parts.append('not in any precon')
+                notes_parts.append('not in any commander precon')
 
             note_str = '; '.join(notes_parts).replace('|', '\\|')
             fh.write(
@@ -975,6 +977,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Generate moxfield_cards.md from CSV and Precons')
     parser.add_argument('--csv', default='moxfield_latest.csv')
     parser.add_argument('--precons', default='Precons')
+    parser.add_argument('--commander-precons', default='Precons/Commander Precons')
     parser.add_argument('--out', default='moxfield_cards.md')
     parser.add_argument('--auto-threshold', type=float, default=0.90)
     parser.add_argument('--ambiguous-threshold', type=float, default=0.75)
@@ -982,7 +985,7 @@ if __name__ == "__main__":
     parser.add_argument('--cache', default='scripts/cache/cards_cache.json')
     parser.add_argument('--images-dir', default='images/commanders')
     parser.add_argument('--commanders-out', default='commanders.md')
-    parser.add_argument('--non-precon-out', default='non_precon_cards.md')
+    parser.add_argument('--non-commander-out', default='non_commander_cards.md')
     args = parser.parse_args()
 
     if not os.path.isfile(args.csv):
@@ -991,8 +994,12 @@ if __name__ == "__main__":
     if not os.path.isdir(args.precons):
         print(f"Precons directory not found: {args.precons}")
         sys.exit(1)
+    if not os.path.isdir(args.commander_precons):
+        print(f"Commander precons directory not found: {args.commander_precons}")
+        sys.exit(1)
 
     decks = read_precons(args.precons)
+    commander_decks = read_precons(args.commander_precons)
     rows = read_csv(args.csv)
     rows, heuristic, ambiguous, alt_name_map = assign_precons(decks, rows, auto_thresh=args.auto_threshold, ambig_thresh=args.ambiguous_threshold)
     write_md(args.out, rows, decks, heuristic, ambiguous, alt_name_map)
@@ -1052,6 +1059,6 @@ if __name__ == "__main__":
     image_paths = download_card_images(commanders_cache, args.images_dir, delay=0.5)
     write_commanders_md(args.commanders_out, cache, image_paths, precon_map)
 
-    # Write non-precon cards list
-    write_non_precon_md(args.non_precon_out, rows, decks, cache)
-    print(f"WROTE {args.non_precon_out}")
+    # Write non-commander-precon cards list
+    write_non_commander_md(args.non_commander_out, rows, commander_decks, cache)
+    print(f"WROTE {args.non_commander_out}")

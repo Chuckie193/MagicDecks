@@ -11,7 +11,9 @@ This project manages a Magic: The Gathering card collection, matches cards to pr
 ```
 MagicDecks/
 ├── Precons/                      # Deck lists for preconstructed decks owned
-│   └── *.txt                     # One file per precon (one card per line)
+│   ├── Commander Precons/        # Commander format precon decks
+│   │   └── *.txt                 # One file per Commander precon
+│   └── *.txt                     # Non-Commander precons and Secret Lair drops (e.g. Foundations Beginner Box, Sonic Secret Lair)
 ├── Custom Decks/                 # AI-generated or custom deck lists
 │   └── *.md                      # Generated Commander decks (markdown format)
 ├── scripts/cache/                        # Cache files for Scryfall data
@@ -38,10 +40,11 @@ MagicDecks/
   - Columns: Name, Edition, Count, etc.
   - Updated manually by exporting from Moxfield
 
-- **Precons/*.txt**: Deck lists for preconstructed decks the user owns
+- **Precons/Commander Precons/*.txt**: Deck lists for Commander format preconstructed decks
   - Format: One card per line, optional quantity prefix (e.g., "2 Island")
   - Optional first line ending with ":" to set deck title
   - Supports alt names in square brackets: `Card Name [Alt Name]`
+- **Precons/*.txt**: Non-Commander precons and Secret Lair drops (e.g. Foundations Beginner Box, Sonic Secret Lair packs)
 
 ### Generated Files
 

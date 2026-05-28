@@ -1,6 +1,6 @@
 # Potential Commanders
 
-All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **34 cards**.
+All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **38 cards**.
 
 ---
 
@@ -39,6 +39,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | Card | Name | Type | Precon |
 |------|------|------|--------|
 | <img src="images/commanders/Toski_Bearer_of_Secrets.jpg" alt="Toski, Bearer of Secrets" width="200"> | **Toski, Bearer of Secrets** | Legendary Creature — Squirrel | SquirreledAway |
+| <img src="images/commanders/Zopandrel_Hunger_Dominus.jpg" alt="Zopandrel, Hunger Dominus" width="200"> | **Zopandrel, Hunger Dominus** | Legendary Creature — Phyrexian Horror |  |
 
 ## Black, Green
 
@@ -78,6 +79,12 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 |------|------|------|--------|
 | <img src="images/commanders/Rigo_Streetwise_Mentor.jpg" alt="Rigo, Streetwise Mentor" width="200"> | **Rigo, Streetwise Mentor** | Legendary Creature — Cat Citizen |  |
 
+## Green, Red
+
+| Card | Name | Type | Precon |
+|------|------|------|--------|
+| <img src="images/commanders/Migloz_Maze_Crusher.jpg" alt="Migloz, Maze Crusher" width="200"> | **Migloz, Maze Crusher** | Legendary Creature — Phyrexian Beast |  |
+
 ## Green, White
 
 | Card | Name | Type | Precon |
@@ -110,6 +117,8 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 
 | Card | Name | Type | Precon |
 |------|------|------|--------|
+| <img src="images/commanders/Aisha_of_Sparks_and_Smoke.jpg" alt="Aisha of Sparks and Smoke" width="200"> | **Aisha of Sparks and Smoke** | Legendary Creature — Human Warrior |  |
 | <img src="images/commanders/Mabel_Heir_to_Cragflame.jpg" alt="Mabel, Heir to Cragflame" width="200"> | **Mabel, Heir to Cragflame** | Legendary Creature — Mouse Soldier |  |
+| <img src="images/commanders/Vikya_Scorching_Stalwart.jpg" alt="Vikya, Scorching Stalwart" width="200"> | **Vikya, Scorching Stalwart** | Legendary Creature — Human Warrior |  |
 | <img src="images/commanders/Winota_Joiner_of_Forces.jpg" alt="Winota, Joiner of Forces" width="200"> | **Winota, Joiner of Forces** | Legendary Creature — Human Warrior |  |
 

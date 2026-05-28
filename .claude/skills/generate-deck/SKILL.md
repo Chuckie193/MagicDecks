@@ -28,6 +28,8 @@ The skill uses a versioning system to preserve approved decks while allowing ite
 
 ## Instructions
 
+**RULE — Ignore "Old" folders**: Never read or reference any file inside a folder named `Old` (at any path depth, e.g. `Custom Decks/Old/`, `Precons/Old/`). Treat these files as if they do not exist.
+
 0. **Detect Mode — New Deck vs. Existing Deck Improvement**:
 
    Before anything else, determine whether the user wants to build a fresh deck or improve/upgrade an existing one.
@@ -40,7 +42,7 @@ The skill uses a versioning system to preserve approved decks while allowing ite
 
    **If improvement mode is detected**:
    1. Identify which deck is the base:
-      - Check `Precons/` for a `.txt` file whose name or content title matches the user's request (case-insensitive, ignore spaces/hyphens/underscores).
+      - Check `Precons/Commander Precons/` for a `.txt` file whose name or content title matches the user's request (case-insensitive, ignore spaces/hyphens/underscores).
       - Check `Custom Decks/` for a `.md` file matching the name (prefer the highest locked version, fall back to the draft).
       - If ambiguous, list the candidates and ask the user to confirm.
    2. Read the base deck in full and extract a flat list of cards (strip edition codes, foil markers, set numbers — keep only the card names and counts).
@@ -65,19 +67,35 @@ The skill uses a versioning system to preserve approved decks while allowing ite
    - A specific commander card name
    - Or any combination of these
 
-3. **Ask About Opponent Count**: Before building the deck, ask the user how they expect to use it:
+3. **Ask Setup Questions**: Before building the deck, ask the user both of the following questions at the same time (combine into a single message):
+
+   **a) Opponent count** — How they expect to use the deck:
    - **Single opponent (1v1 / duel)** — Optimise for efficiency: lower mana curve, more targeted removal, fast win conditions, and cards that shine head-to-head.
    - **Multiple opponents (multiplayer pod)** — Standard Commander: prioritise board wipes, political tools, incremental advantage, and resilience against many threats at once.
    - **Both** — Build a flexible deck that performs in either setting: mix targeted and sweeper removal, and favour effects that scale with the number of opponents.
 
-   Use the answer to guide card selection throughout the rest of the process.
+   **b) Card pool** — Whether to use cards from Commander precon decks:
+   - **Full collection** — Draw from all owned cards (`moxfield_latest.csv`). Use this if you're happy cannibalising existing Commander precon decks or want the widest possible card pool.
+   - **Exclude Commander precons** — Draw from all owned cards except those committed to a Commander precon. Use this to keep your Commander precon decks intact.
+
+   Use both answers to guide card selection throughout the rest of the process.
 
 4. **Read Card Collection**:
-   - **Primary source**: Read `moxfield_latest.csv` to get the list of all owned cards
-     - CSV columns: Name, Edition, Count (quantity owned)
-     - This is the source of truth for card availability
-     - Note the Count column - use cards up to their available quantity
-   - **Card details**: Read `card_details.md` for detailed card information
+
+   **Primary source (both modes)**: Read `moxfield_latest.csv` to get the list of all owned cards
+   - CSV columns: Name, Edition, Count (quantity owned)
+   - This is the source of truth for card availability
+   - Note the Count column - use cards up to their available quantity
+
+   **If exclude Commander precons mode**:
+   - Use `non_commander_cards.md` as the eligible card pool — it lists every card not reserved by a Commander precon, with available copy counts
+     - Columns: Card, Copies, CMC, Type, Color Identity, Notes
+     - The `Copies` column is the quantity available for deck building
+     - Cards from other precons (Foundations Beginner Box, Secret Lair drops, etc.) are already included here
+   - Cross-reference `moxfield_latest.csv` if you need edition or additional quantity detail not in the file
+
+   **In both modes**:
+   - **Card details**: Read `card_details.md` for detailed card information on any card in the eligible pool
      - Contains: mana cost (in plain English like "1 generic, Blue, Red"), type_line, oracle_text, colors, color_identity, power/toughness
      - Mana costs are already converted from symbols to words
      - Color identity is crucial for Commander deck building
@@ -478,7 +496,7 @@ User: `/generate-deck with Atraxa as commander`
 - Use cards in GWUB color identity only
 
 User: `/generate-deck improve CounterIntelligence precon`
-- Detect improvement mode; locate `Precons/CounterIntelligence.txt`
+- Detect improvement mode; locate `Precons/Commander Precons/CounterIntelligence.txt`
 - Extract current card list and keep the precon commander as default
 - Replace weaker or off-theme cards with better options from the collection
 - Include "Cards Removed from Original" table listing every cut with its reason and replacement
@@ -491,6 +509,6 @@ User: `/generate-deck upgrade Bria deck`
 
 User: `/generate-deck build from OtterLimits with a token strategy`
 - Detect improvement mode based on "build from OtterLimits"
-- Load `Precons/OtterLimits.txt` as the base
+- Load `Precons/Commander Precons/OtterLimits.txt` as the base
 - Steer card selection toward a token theme, replacing non-token cards where better token options exist in the collection
 - Include "Cards Removed from Original" table

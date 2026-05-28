@@ -81649,6 +81649,303 @@
 
 - https://api.scryfall.com/cards/named?fuzzy=Zenith%20Flare → **Success** (HTTP 200)
 
+## Aisha of Sparks and Smoke
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/slx/12/aisha-of-sparks-and-smoke?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "093aa76d-2154-4e71-a2bf-461d1afb887b",
+  "oracle_id": "eae3e762-dacd-4bd2-923c-3abb5ceb729a",
+  "multiverse_ids": [],
+  "mtgo_id": 105917,
+  "tcgplayer_id": 475513,
+  "cardmarket_id": 689799,
+  "name": "Aisha of Sparks and Smoke",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/093aa76d-2154-4e71-a2bf-461d1afb887b",
+  "scryfall_uri": "https://scryfall.com/card/slx/12/aisha-of-sparks-and-smoke?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/9/093aa76d-2154-4e71-a2bf-461d1afb887b.jpg?1678169853",
+    "normal": "https://cards.scryfall.io/normal/front/0/9/093aa76d-2154-4e71-a2bf-461d1afb887b.jpg?1678169853",
+    "large": "https://cards.scryfall.io/large/front/0/9/093aa76d-2154-4e71-a2bf-461d1afb887b.jpg?1678169853",
+    "png": "https://cards.scryfall.io/png/front/0/9/093aa76d-2154-4e71-a2bf-461d1afb887b.png?1678169853",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/9/093aa76d-2154-4e71-a2bf-461d1afb887b.jpg?1678169853",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/9/093aa76d-2154-4e71-a2bf-461d1afb887b.jpg?1678169853"
+  },
+  "mana_cost": "{1}{R}{R}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Human Warrior",
+  "oracle_text": "Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)\n{R/W}: Aisha of Sparks and Smoke gains first strike until end of turn.\nWhenever Aisha deals combat damage, you may cast a sorcery spell from your hand with mana value less than or equal to that damage without paying its mana cost.",
+  "power": "4",
+  "toughness": "2",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R",
+    "W"
+  ],
+  "keywords": [
+    "Prowess"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "3c318e12-9152-4300-a096-4f58a6438897",
+  "set": "slx",
+  "set_name": "Universes Within",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/3c318e12-9152-4300-a096-4f58a6438897",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aslx&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/slx?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/093aa76d-2154-4e71-a2bf-461d1afb887b/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aeae3e762-dacd-4bd2-923c-3abb5ceb729a&unique=prints",
+  "collector_number": "12",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Evyn Fong",
+  "artist_ids": [
+    "6777be9f-5724-4fdb-b6a0-a83f63efa4ca"
+  ],
+  "illustration_id": "24277419-3bf3-4ae7-a0ef-9c1cb54965af",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 15898,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.twitch.tv/videos/1678101037",
+    "previewed_at": "2022-12-13"
+  },
+  "prices": {
+    "usd": "0.52",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.44",
+    "eur_foil": null,
+    "tix": "0.51"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DAisha%2Bof%2BSparks%2Band%2BSmoke",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DAisha%2Bof%2BSparks%2Band%2BSmoke",
+    "edhrec": "https://edhrec.com/route/?cc=Aisha+of+Sparks+and+Smoke"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F475513%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=689799&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/105917?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Aisha%20of%20Sparks%20and%20Smoke → **Success** (HTTP 200)
+
+## Apostle of Invasion
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/3/apostle-of-invasion?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "8a973487-5def-4771-bb77-5748cbd2f469",
+  "oracle_id": "d56f1543-2b2d-4ce3-bcfe-41224a0cece4",
+  "multiverse_ids": [
+    602533
+  ],
+  "mtgo_id": 106221,
+  "arena_id": 83703,
+  "tcgplayer_id": 478629,
+  "cardmarket_id": 692860,
+  "name": "Apostle of Invasion",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/8a973487-5def-4771-bb77-5748cbd2f469",
+  "scryfall_uri": "https://scryfall.com/card/one/3/apostle-of-invasion?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/a/8a973487-5def-4771-bb77-5748cbd2f469.jpg?1675956886",
+    "normal": "https://cards.scryfall.io/normal/front/8/a/8a973487-5def-4771-bb77-5748cbd2f469.jpg?1675956886",
+    "large": "https://cards.scryfall.io/large/front/8/a/8a973487-5def-4771-bb77-5748cbd2f469.jpg?1675956886",
+    "png": "https://cards.scryfall.io/png/front/8/a/8a973487-5def-4771-bb77-5748cbd2f469.png?1675956886",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/a/8a973487-5def-4771-bb77-5748cbd2f469.jpg?1675956886",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/a/8a973487-5def-4771-bb77-5748cbd2f469.jpg?1675956886"
+  },
+  "mana_cost": "{4}{W}{W}",
+  "cmc": 6.0,
+  "type_line": "Creature — Phyrexian Angel",
+  "oracle_text": "Flying\nCorrupted — As long as an opponent has three or more poison counters, this creature has double strike.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying",
+    "Corrupted"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/8a973487-5def-4771-bb77-5748cbd2f469/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad56f1543-2b2d-4ce3-bcfe-41224a0cece4&unique=prints",
+  "collector_number": "3",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Be not afraid of the holy chorus. Join in rapturous harmony.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Marcela Bolívar",
+  "artist_ids": [
+    "67731ea1-cd04-455a-aae7-04ca8fd2f873"
+  ],
+  "illustration_id": "3c14e53b-b37b-4230-b04f-53b7027af5d0",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 17885,
+  "preview": {
+    "source": "Lords of Limited",
+    "source_uri": "https://twitter.com/LordsofLimited/status/1615804809260720129",
+    "previewed_at": "2023-01-18"
+  },
+  "prices": {
+    "usd": "0.09",
+    "usd_foil": "0.15",
+    "usd_etched": null,
+    "eur": "0.09",
+    "eur_foil": "0.13",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602533&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DApostle%2Bof%2BInvasion",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DApostle%2Bof%2BInvasion",
+    "edhrec": "https://edhrec.com/route/?cc=Apostle+of+Invasion"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F478629%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=692860&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106221?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Apostle%20of%20Invasion → **Success** (HTTP 200)
+
 ## Auntie's Sentence
 
 **Status:** Failed or Not Found
@@ -81664,6 +81961,493 @@
 **Attempted URLs:**
 
 - https://api.scryfall.com/cards/named?fuzzy=Auspicious%20Starrix → **Failed** (The read operation timed out)
+
+## Bilious Skulldweller
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/83/bilious-skulldweller?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "dfb81cb1-ac56-4803-a962-359854a447df",
+  "oracle_id": "83bf5610-a798-4508-88d2-c60d96f60d23",
+  "multiverse_ids": [
+    602613
+  ],
+  "mtgo_id": 106381,
+  "arena_id": 83783,
+  "tcgplayer_id": 478809,
+  "cardmarket_id": 693404,
+  "name": "Bilious Skulldweller",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/dfb81cb1-ac56-4803-a962-359854a447df",
+  "scryfall_uri": "https://scryfall.com/card/one/83/bilious-skulldweller?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/f/dfb81cb1-ac56-4803-a962-359854a447df.jpg?1675957012",
+    "normal": "https://cards.scryfall.io/normal/front/d/f/dfb81cb1-ac56-4803-a962-359854a447df.jpg?1675957012",
+    "large": "https://cards.scryfall.io/large/front/d/f/dfb81cb1-ac56-4803-a962-359854a447df.jpg?1675957012",
+    "png": "https://cards.scryfall.io/png/front/d/f/dfb81cb1-ac56-4803-a962-359854a447df.png?1675957012",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/f/dfb81cb1-ac56-4803-a962-359854a447df.jpg?1675957012",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/f/dfb81cb1-ac56-4803-a962-359854a447df.jpg?1675957012"
+  },
+  "mana_cost": "{B}",
+  "cmc": 1.0,
+  "type_line": "Creature — Phyrexian Insect",
+  "oracle_text": "Deathtouch\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Toxic",
+    "Deathtouch"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "40255bfa-0004-45f1-a31b-17d385f09a95",
+      "component": "combo_piece",
+      "name": "Poison Counter",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/40255bfa-0004-45f1-a31b-17d385f09a95"
+    },
+    {
+      "object": "related_card",
+      "id": "dfb81cb1-ac56-4803-a962-359854a447df",
+      "component": "combo_piece",
+      "name": "Bilious Skulldweller",
+      "type_line": "Creature — Phyrexian Insect",
+      "uri": "https://api.scryfall.com/cards/dfb81cb1-ac56-4803-a962-359854a447df"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/dfb81cb1-ac56-4803-a962-359854a447df/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A83bf5610-a798-4508-88d2-c60d96f60d23&unique=prints",
+  "collector_number": "83",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"Watch your footing around here. Anything you might step on probably has teeth.\"\n—Kara Vrist, resistance spymaster",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Svetlin Velinov",
+  "artist_ids": [
+    "ffd063ae-c097-4f26-b2e6-b1e2137708bc"
+  ],
+  "illustration_id": "f080b738-e670-48c5-96c2-0fb960f9cfc8",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 4685,
+  "penny_rank": 4314,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://mobile.twitter.com/mtgjp/status/1615907030551924736",
+    "previewed_at": "2023-01-18"
+  },
+  "prices": {
+    "usd": "0.33",
+    "usd_foil": "0.35",
+    "usd_etched": null,
+    "eur": "0.14",
+    "eur_foil": "0.27",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602613&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBilious%2BSkulldweller",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBilious%2BSkulldweller",
+    "edhrec": "https://edhrec.com/route/?cc=Bilious+Skulldweller"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F478809%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=693404&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106381?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Bilious%20Skulldweller → **Success** (HTTP 200)
+
+## Blightbelly Rat
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/85/blightbelly-rat?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "9255cd01-a611-4fec-b9ec-b271687740ba",
+  "oracle_id": "b0102259-7a2c-470e-b04b-4a1f615d057c",
+  "multiverse_ids": [
+    602615
+  ],
+  "mtgo_id": 106385,
+  "arena_id": 83785,
+  "tcgplayer_id": 478927,
+  "cardmarket_id": 693875,
+  "name": "Blightbelly Rat",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/9255cd01-a611-4fec-b9ec-b271687740ba",
+  "scryfall_uri": "https://scryfall.com/card/one/85/blightbelly-rat?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/2/9255cd01-a611-4fec-b9ec-b271687740ba.jpg?1675957013",
+    "normal": "https://cards.scryfall.io/normal/front/9/2/9255cd01-a611-4fec-b9ec-b271687740ba.jpg?1675957013",
+    "large": "https://cards.scryfall.io/large/front/9/2/9255cd01-a611-4fec-b9ec-b271687740ba.jpg?1675957013",
+    "png": "https://cards.scryfall.io/png/front/9/2/9255cd01-a611-4fec-b9ec-b271687740ba.png?1675957013",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/2/9255cd01-a611-4fec-b9ec-b271687740ba.jpg?1675957013",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/2/9255cd01-a611-4fec-b9ec-b271687740ba.jpg?1675957013"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2.0,
+  "type_line": "Creature — Phyrexian Rat",
+  "oracle_text": "Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen this creature dies, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Toxic",
+    "Proliferate"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "40255bfa-0004-45f1-a31b-17d385f09a95",
+      "component": "combo_piece",
+      "name": "Poison Counter",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/40255bfa-0004-45f1-a31b-17d385f09a95"
+    },
+    {
+      "object": "related_card",
+      "id": "e4bf86e8-df70-4ec0-8fe6-f15191774e50",
+      "component": "combo_piece",
+      "name": "Blightbelly Rat",
+      "type_line": "Creature — Phyrexian Rat",
+      "uri": "https://api.scryfall.com/cards/e4bf86e8-df70-4ec0-8fe6-f15191774e50"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9255cd01-a611-4fec-b9ec-b271687740ba/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab0102259-7a2c-470e-b04b-4a1f615d057c&unique=prints",
+  "collector_number": "85",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Yeong-Hao Han",
+  "artist_ids": [
+    "f8e7f8d6-6dde-4059-973c-30f1fd1bbe4e"
+  ],
+  "illustration_id": "f15c7aac-8573-44b3-9464-71ec79263a1f",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 2660,
+  "penny_rank": 5162,
+  "preview": {
+    "source": "KakiTabletop",
+    "source_uri": "https://kakitabletop.com/exclusive-preview-phryexia-all-will-be-one/",
+    "previewed_at": "2023-01-20"
+  },
+  "prices": {
+    "usd": "0.34",
+    "usd_foil": "0.39",
+    "usd_etched": null,
+    "eur": "0.11",
+    "eur_foil": "0.16",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602615&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBlightbelly%2BRat",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBlightbelly%2BRat",
+    "edhrec": "https://edhrec.com/route/?cc=Blightbelly+Rat"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F478927%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=693875&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106385?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Blightbelly%20Rat → **Success** (HTTP 200)
+
+## Bonepicker Skirge
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/86/bonepicker-skirge?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "b83f4e41-a5f5-4929-9816-06dc1c228474",
+  "oracle_id": "c42833e6-3e42-4bd6-acbc-d8e284e9833e",
+  "multiverse_ids": [
+    602616
+  ],
+  "mtgo_id": 106387,
+  "arena_id": 83786,
+  "tcgplayer_id": 478835,
+  "cardmarket_id": 693899,
+  "name": "Bonepicker Skirge",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/b83f4e41-a5f5-4929-9816-06dc1c228474",
+  "scryfall_uri": "https://scryfall.com/card/one/86/bonepicker-skirge?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/8/b83f4e41-a5f5-4929-9816-06dc1c228474.jpg?1675957013",
+    "normal": "https://cards.scryfall.io/normal/front/b/8/b83f4e41-a5f5-4929-9816-06dc1c228474.jpg?1675957013",
+    "large": "https://cards.scryfall.io/large/front/b/8/b83f4e41-a5f5-4929-9816-06dc1c228474.jpg?1675957013",
+    "png": "https://cards.scryfall.io/png/front/b/8/b83f4e41-a5f5-4929-9816-06dc1c228474.png?1675957013",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/8/b83f4e41-a5f5-4929-9816-06dc1c228474.jpg?1675957013",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/8/b83f4e41-a5f5-4929-9816-06dc1c228474.jpg?1675957013"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3.0,
+  "type_line": "Creature — Phyrexian Imp",
+  "oracle_text": "Flying\nCorrupted — As long as an opponent has three or more poison counters, this creature has deathtouch and lifelink.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Flying",
+    "Corrupted"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/b83f4e41-a5f5-4929-9816-06dc1c228474/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac42833e6-3e42-4bd6-acbc-d8e284e9833e&unique=prints",
+  "collector_number": "86",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Get away from there! I must rebuild that one for the next bout. Shoo, shoo!\"\n—Keskit, the Flesh Sculptor",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Dave Kendall",
+  "artist_ids": [
+    "8a5540a8-18c9-4fa9-802c-59d6866114d5"
+  ],
+  "illustration_id": "73f7938b-ed09-4315-b7fe-9e6375e84b16",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 16784,
+  "preview": {
+    "source": "LordTupperware",
+    "source_uri": "https://twitter.com/lordtupperware/status/1616308944938450944",
+    "previewed_at": "2023-01-20"
+  },
+  "prices": {
+    "usd": "0.13",
+    "usd_foil": "0.08",
+    "usd_etched": null,
+    "eur": "0.07",
+    "eur_foil": "0.18",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602616&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DBonepicker%2BSkirge",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DBonepicker%2BSkirge",
+    "edhrec": "https://edhrec.com/route/?cc=Bonepicker+Skirge"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F478835%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=693899&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106387?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Bonepicker%20Skirge → **Success** (HTTP 200)
 
 ## Brambleback Brute
 
@@ -81681,6 +82465,583 @@
 
 - https://api.scryfall.com/cards/named?fuzzy=Caldaia%20Strongarm → **Failed** (The read operation timed out)
 
+## Cankerbloom
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/161/cankerbloom?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "89b39293-6f57-4294-85fc-c718bdbb4d40",
+  "oracle_id": "d5b80895-621a-40df-bf48-6c7295658f21",
+  "multiverse_ids": [
+    602691
+  ],
+  "mtgo_id": 106537,
+  "arena_id": 83861,
+  "tcgplayer_id": 479492,
+  "cardmarket_id": 694178,
+  "name": "Cankerbloom",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/89b39293-6f57-4294-85fc-c718bdbb4d40",
+  "scryfall_uri": "https://scryfall.com/card/one/161/cankerbloom?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/9/89b39293-6f57-4294-85fc-c718bdbb4d40.jpg?1675957129",
+    "normal": "https://cards.scryfall.io/normal/front/8/9/89b39293-6f57-4294-85fc-c718bdbb4d40.jpg?1675957129",
+    "large": "https://cards.scryfall.io/large/front/8/9/89b39293-6f57-4294-85fc-c718bdbb4d40.jpg?1675957129",
+    "png": "https://cards.scryfall.io/png/front/8/9/89b39293-6f57-4294-85fc-c718bdbb4d40.png?1675957129",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/9/89b39293-6f57-4294-85fc-c718bdbb4d40.jpg?1675957129",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/9/89b39293-6f57-4294-85fc-c718bdbb4d40.jpg?1675957129"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2.0,
+  "type_line": "Creature — Phyrexian Fungus",
+  "oracle_text": "{1}, Sacrifice this creature: Choose one —\n• Destroy target artifact.\n• Destroy target enchantment.\n• Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+  "power": "3",
+  "toughness": "2",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Proliferate"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/89b39293-6f57-4294-85fc-c718bdbb4d40/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ad5b80895-621a-40df-bf48-6c7295658f21&unique=prints",
+  "collector_number": "161",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Nicholas Gregory",
+  "artist_ids": [
+    "a1bba8ff-63b4-4786-b1c4-f1bfe5d3ab1c"
+  ],
+  "illustration_id": "5937d1f2-a6c6-4a70-afd4-60043617c887",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 713,
+  "penny_rank": 1383,
+  "prices": {
+    "usd": "0.66",
+    "usd_foil": "0.75",
+    "usd_etched": null,
+    "eur": "0.24",
+    "eur_foil": "0.35",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602691&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCankerbloom",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCankerbloom",
+    "edhrec": "https://edhrec.com/route/?cc=Cankerbloom"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F479492%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=694178&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106537?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Cankerbloom → **Success** (HTTP 200)
+
+## Chittering Skitterling
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/87/chittering-skitterling?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "e0328d43-ae9b-462a-a1e5-8ed408eea1a7",
+  "oracle_id": "864fc52a-e9f4-4254-901e-b949d96b34eb",
+  "multiverse_ids": [
+    602617
+  ],
+  "mtgo_id": 106389,
+  "arena_id": 83787,
+  "tcgplayer_id": 478932,
+  "cardmarket_id": 693888,
+  "name": "Chittering Skitterling",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/e0328d43-ae9b-462a-a1e5-8ed408eea1a7",
+  "scryfall_uri": "https://scryfall.com/card/one/87/chittering-skitterling?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/0/e0328d43-ae9b-462a-a1e5-8ed408eea1a7.jpg?1675957014",
+    "normal": "https://cards.scryfall.io/normal/front/e/0/e0328d43-ae9b-462a-a1e5-8ed408eea1a7.jpg?1675957014",
+    "large": "https://cards.scryfall.io/large/front/e/0/e0328d43-ae9b-462a-a1e5-8ed408eea1a7.jpg?1675957014",
+    "png": "https://cards.scryfall.io/png/front/e/0/e0328d43-ae9b-462a-a1e5-8ed408eea1a7.png?1675957014",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/0/e0328d43-ae9b-462a-a1e5-8ed408eea1a7.jpg?1675957014",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/0/e0328d43-ae9b-462a-a1e5-8ed408eea1a7.jpg?1675957014"
+  },
+  "mana_cost": "{2}{B}",
+  "cmc": 3.0,
+  "type_line": "Creature — Phyrexian Rat",
+  "oracle_text": "Corrupted — Sacrifice an artifact or creature: Draw a card. Activate only if an opponent has three or more poison counters and only once each turn.",
+  "power": "1",
+  "toughness": "4",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Corrupted"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/e0328d43-ae9b-462a-a1e5-8ed408eea1a7/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A864fc52a-e9f4-4254-901e-b949d96b34eb&unique=prints",
+  "collector_number": "87",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "What cannot be remade will be unmade, one scrap at a time.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Nils Hamm",
+  "artist_ids": [
+    "c540d1fc-1500-457f-93cf-d6069ee66546"
+  ],
+  "illustration_id": "a73c1dcf-5394-4fbb-9527-2d895f91db9f",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 13960,
+  "penny_rank": 9539,
+  "preview": {
+    "source": "Dominaria Library",
+    "source_uri": "https://dominarialibrary.com/reading/phyrexia-all-will-be-one-preview/",
+    "previewed_at": "2023-01-20"
+  },
+  "prices": {
+    "usd": "0.21",
+    "usd_foil": "0.17",
+    "usd_etched": null,
+    "eur": "0.07",
+    "eur_foil": "0.14",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602617&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DChittering%2BSkitterling",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DChittering%2BSkitterling",
+    "edhrec": "https://edhrec.com/route/?cc=Chittering+Skitterling"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F478932%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=693888&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106389?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Chittering%20Skitterling → **Success** (HTTP 200)
+
+## Conduit of Worlds
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/tdc/251/conduit-of-worlds?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "3930cca5-f10c-48eb-8ec8-2df521f5dfe9",
+  "oracle_id": "ed14be15-8f8d-4fe3-a147-f5da8ed873bf",
+  "multiverse_ids": [
+    696407
+  ],
+  "mtgo_id": 138439,
+  "tcgplayer_id": 624447,
+  "cardmarket_id": 818835,
+  "name": "Conduit of Worlds",
+  "lang": "en",
+  "released_at": "2025-04-11",
+  "uri": "https://api.scryfall.com/cards/3930cca5-f10c-48eb-8ec8-2df521f5dfe9",
+  "scryfall_uri": "https://scryfall.com/card/tdc/251/conduit-of-worlds?utm_source=api",
+  "layout": "normal",
+  "highres_image": false,
+  "image_status": "lowres",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/3/9/3930cca5-f10c-48eb-8ec8-2df521f5dfe9.jpg?1743206900",
+    "normal": "https://cards.scryfall.io/normal/front/3/9/3930cca5-f10c-48eb-8ec8-2df521f5dfe9.jpg?1743206900",
+    "large": "https://cards.scryfall.io/large/front/3/9/3930cca5-f10c-48eb-8ec8-2df521f5dfe9.jpg?1743206900",
+    "png": "https://cards.scryfall.io/png/front/3/9/3930cca5-f10c-48eb-8ec8-2df521f5dfe9.png?1743206900",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/3/9/3930cca5-f10c-48eb-8ec8-2df521f5dfe9.jpg?1743206900",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/3/9/3930cca5-f10c-48eb-8ec8-2df521f5dfe9.jpg?1743206900"
+  },
+  "mana_cost": "{2}{G}{G}",
+  "cmc": 4.0,
+  "type_line": "Artifact",
+  "oracle_text": "You may play lands from your graveyard.\n{T}: Choose target nonland permanent card in your graveyard. If you haven't cast a spell this turn, you may cast that card. If you do, you can't cast additional spells this turn. Activate only as a sorcery.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "bca9779c-0a0b-4ac1-8794-f3fc25549cf4",
+  "set": "tdc",
+  "set_name": "Tarkir: Dragonstorm Commander",
+  "set_type": "commander",
+  "set_uri": "https://api.scryfall.com/sets/bca9779c-0a0b-4ac1-8794-f3fc25549cf4",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atdc&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tdc?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/3930cca5-f10c-48eb-8ec8-2df521f5dfe9/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aed14be15-8f8d-4fe3-a147-f5da8ed873bf&unique=prints",
+  "collector_number": "251",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jokubas Uogintas",
+  "artist_ids": [
+    "2c14303e-97a3-45fa-9bd8-59e5332a65f9"
+  ],
+  "illustration_id": "50414312-464d-4869-b96a-c731db9d485f",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 529,
+  "penny_rank": 2681,
+  "prices": {
+    "usd": "3.69",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "3.87",
+    "eur_foil": null,
+    "tix": "0.28"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=696407&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DConduit%2Bof%2BWorlds",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DConduit%2Bof%2BWorlds",
+    "edhrec": "https://edhrec.com/route/?cc=Conduit+of+Worlds"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F624447%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=818835&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/138439?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Conduit%20of%20Worlds → **Success** (HTTP 200)
+
+## Copper Longlegs
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/165/copper-longlegs?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "f8855fbf-4f1e-4c44-9653-bbbfc3f2fafd",
+  "oracle_id": "066f6a3d-5e7b-40a4-b348-6dfb5d5239de",
+  "multiverse_ids": [
+    602695
+  ],
+  "mtgo_id": 106545,
+  "arena_id": 83865,
+  "tcgplayer_id": 479563,
+  "cardmarket_id": 694764,
+  "name": "Copper Longlegs",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/f8855fbf-4f1e-4c44-9653-bbbfc3f2fafd",
+  "scryfall_uri": "https://scryfall.com/card/one/165/copper-longlegs?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/8/f8855fbf-4f1e-4c44-9653-bbbfc3f2fafd.jpg?1675957136",
+    "normal": "https://cards.scryfall.io/normal/front/f/8/f8855fbf-4f1e-4c44-9653-bbbfc3f2fafd.jpg?1675957136",
+    "large": "https://cards.scryfall.io/large/front/f/8/f8855fbf-4f1e-4c44-9653-bbbfc3f2fafd.jpg?1675957136",
+    "png": "https://cards.scryfall.io/png/front/f/8/f8855fbf-4f1e-4c44-9653-bbbfc3f2fafd.png?1675957136",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/8/f8855fbf-4f1e-4c44-9653-bbbfc3f2fafd.jpg?1675957136",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/8/f8855fbf-4f1e-4c44-9653-bbbfc3f2fafd.jpg?1675957136"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2.0,
+  "type_line": "Creature — Phyrexian Spider",
+  "oracle_text": "Reach\n{1}{G}, Sacrifice this creature: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+  "power": "1",
+  "toughness": "3",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Reach",
+    "Proliferate"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f8855fbf-4f1e-4c44-9653-bbbfc3f2fafd/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A066f6a3d-5e7b-40a4-b348-6dfb5d5239de&unique=prints",
+  "collector_number": "165",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Its webs are not true silk, but woven from thousands of delicate mycosynth strands.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Nicholas Gregory",
+  "artist_ids": [
+    "a1bba8ff-63b4-4786-b1c4-f1bfe5d3ab1c"
+  ],
+  "illustration_id": "250e1b98-6703-4d85-be49-1ddaa4abb97c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 10736,
+  "prices": {
+    "usd": "0.31",
+    "usd_foil": "0.23",
+    "usd_etched": null,
+    "eur": "0.09",
+    "eur_foil": "0.13",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602695&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DCopper%2BLonglegs",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DCopper%2BLonglegs",
+    "edhrec": "https://edhrec.com/route/?cc=Copper+Longlegs"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F479563%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=694764&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106545?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Copper%20Longlegs → **Success** (HTTP 200)
+
 ## Dawnhand Dissident
 
 **Status:** Failed or Not Found
@@ -81689,6 +83050,466 @@
 
 - https://api.scryfall.com/cards/named?fuzzy=Dawnhand%20Dissident → **Failed** (The read operation timed out)
 
+## Expand the Sphere
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/168/expand-the-sphere?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "572e174e-99f7-4b5e-8506-1833adddbf07",
+  "oracle_id": "0fac3187-9b86-4854-854b-a4c203526a64",
+  "multiverse_ids": [
+    602698
+  ],
+  "mtgo_id": 106551,
+  "arena_id": 83868,
+  "tcgplayer_id": 478690,
+  "cardmarket_id": 693399,
+  "name": "Expand the Sphere",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/572e174e-99f7-4b5e-8506-1833adddbf07",
+  "scryfall_uri": "https://scryfall.com/card/one/168/expand-the-sphere?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/5/7/572e174e-99f7-4b5e-8506-1833adddbf07.jpg?1675957140",
+    "normal": "https://cards.scryfall.io/normal/front/5/7/572e174e-99f7-4b5e-8506-1833adddbf07.jpg?1675957140",
+    "large": "https://cards.scryfall.io/large/front/5/7/572e174e-99f7-4b5e-8506-1833adddbf07.jpg?1675957140",
+    "png": "https://cards.scryfall.io/png/front/5/7/572e174e-99f7-4b5e-8506-1833adddbf07.png?1675957140",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/5/7/572e174e-99f7-4b5e-8506-1833adddbf07.jpg?1675957140",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/5/7/572e174e-99f7-4b5e-8506-1833adddbf07.jpg?1675957140"
+  },
+  "mana_cost": "{3}{G}",
+  "cmc": 4.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Look at the top six cards of your library. Put up to two land cards from among them onto the battlefield tapped and the rest on the bottom of your library in a random order. If you put fewer than two lands onto the battlefield this way, proliferate a number of times equal to the difference. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Proliferate"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/572e174e-99f7-4b5e-8506-1833adddbf07/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A0fac3187-9b86-4854-854b-a4c203526a64&unique=prints",
+  "collector_number": "168",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Sergey Glushakov",
+  "artist_ids": [
+    "8df4596a-1d88-4b6a-9ce8-5c8089c3946c"
+  ],
+  "illustration_id": "35705f42-4fc8-45e8-96ea-f0c1d72f0120",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 4851,
+  "penny_rank": 12420,
+  "preview": {
+    "source": "The Vorthos Cast",
+    "source_uri": "https://twitter.com/TheVorthosCast/status/1616088223209381890",
+    "previewed_at": "2023-01-19"
+  },
+  "prices": {
+    "usd": "0.16",
+    "usd_foil": "0.23",
+    "usd_etched": null,
+    "eur": "0.12",
+    "eur_foil": "0.23",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602698&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DExpand%2Bthe%2BSphere",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DExpand%2Bthe%2BSphere",
+    "edhrec": "https://edhrec.com/route/?cc=Expand+the+Sphere"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F478690%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=693399&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106551?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Expand%20the%20Sphere → **Success** (HTTP 200)
+
+## Flensing Raptor
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/12/flensing-raptor?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "134aecf0-dc48-4fb3-8c8b-4e5272077856",
+  "oracle_id": "5d55c397-3828-4e4b-8a61-8c7272ba4800",
+  "multiverse_ids": [
+    602542
+  ],
+  "mtgo_id": 106239,
+  "arena_id": 83712,
+  "tcgplayer_id": 479615,
+  "cardmarket_id": 694707,
+  "name": "Flensing Raptor",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/134aecf0-dc48-4fb3-8c8b-4e5272077856",
+  "scryfall_uri": "https://scryfall.com/card/one/12/flensing-raptor?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/3/134aecf0-dc48-4fb3-8c8b-4e5272077856.jpg?1675956901",
+    "normal": "https://cards.scryfall.io/normal/front/1/3/134aecf0-dc48-4fb3-8c8b-4e5272077856.jpg?1675956901",
+    "large": "https://cards.scryfall.io/large/front/1/3/134aecf0-dc48-4fb3-8c8b-4e5272077856.jpg?1675956901",
+    "png": "https://cards.scryfall.io/png/front/1/3/134aecf0-dc48-4fb3-8c8b-4e5272077856.png?1675956901",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/3/134aecf0-dc48-4fb3-8c8b-4e5272077856.jpg?1675956901",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/3/134aecf0-dc48-4fb3-8c8b-4e5272077856.jpg?1675956901"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3.0,
+  "type_line": "Creature — Phyrexian Bird",
+  "oracle_text": "Flying\nToxic 1 (Players dealt combat damage by this creature also get a poison counter.)\nWhen this creature enters, another target creature you control with toxic gets +1/+1 and gains flying until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Flying",
+    "Toxic"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "134aecf0-dc48-4fb3-8c8b-4e5272077856",
+      "component": "combo_piece",
+      "name": "Flensing Raptor",
+      "type_line": "Creature — Phyrexian Bird",
+      "uri": "https://api.scryfall.com/cards/134aecf0-dc48-4fb3-8c8b-4e5272077856"
+    },
+    {
+      "object": "related_card",
+      "id": "40255bfa-0004-45f1-a31b-17d385f09a95",
+      "component": "combo_piece",
+      "name": "Poison Counter",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/40255bfa-0004-45f1-a31b-17d385f09a95"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/134aecf0-dc48-4fb3-8c8b-4e5272077856/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5d55c397-3828-4e4b-8a61-8c7272ba4800&unique=prints",
+  "collector_number": "12",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Abz J Harding",
+  "artist_ids": [
+    "2e541c44-40bb-4883-a578-3dcc2af41888"
+  ],
+  "illustration_id": "15df4062-6c03-41c6-9c38-2229273850eb",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 11753,
+  "penny_rank": 8720,
+  "prices": {
+    "usd": "0.20",
+    "usd_foil": "0.22",
+    "usd_etched": null,
+    "eur": "0.09",
+    "eur_foil": "0.11",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602542&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFlensing%2BRaptor",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFlensing%2BRaptor",
+    "edhrec": "https://edhrec.com/route/?cc=Flensing+Raptor"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F479615%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=694707&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106239?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Flensing%20Raptor → **Success** (HTTP 200)
+
+## Fleshless Gladiator
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/94/fleshless-gladiator?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "0b2a32c9-f0ae-4ae4-a5c5-72bea05018fb",
+  "oracle_id": "8e33d6e5-30a2-48b4-826c-09aa75bbba27",
+  "multiverse_ids": [
+    602624
+  ],
+  "mtgo_id": 106403,
+  "arena_id": 83794,
+  "tcgplayer_id": 479608,
+  "cardmarket_id": 694308,
+  "name": "Fleshless Gladiator",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/0b2a32c9-f0ae-4ae4-a5c5-72bea05018fb",
+  "scryfall_uri": "https://scryfall.com/card/one/94/fleshless-gladiator?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/b/0b2a32c9-f0ae-4ae4-a5c5-72bea05018fb.jpg?1675957027",
+    "normal": "https://cards.scryfall.io/normal/front/0/b/0b2a32c9-f0ae-4ae4-a5c5-72bea05018fb.jpg?1675957027",
+    "large": "https://cards.scryfall.io/large/front/0/b/0b2a32c9-f0ae-4ae4-a5c5-72bea05018fb.jpg?1675957027",
+    "png": "https://cards.scryfall.io/png/front/0/b/0b2a32c9-f0ae-4ae4-a5c5-72bea05018fb.png?1675957027",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/b/0b2a32c9-f0ae-4ae4-a5c5-72bea05018fb.jpg?1675957027",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/b/0b2a32c9-f0ae-4ae4-a5c5-72bea05018fb.jpg?1675957027"
+  },
+  "mana_cost": "{1}{B}",
+  "cmc": 2.0,
+  "type_line": "Creature — Phyrexian Skeleton",
+  "oracle_text": "Corrupted — {2}{B}: Return this card from your graveyard to the battlefield tapped. You lose 1 life. Activate only if an opponent has three or more poison counters.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Corrupted"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/0b2a32c9-f0ae-4ae4-a5c5-72bea05018fb/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A8e33d6e5-30a2-48b4-826c-09aa75bbba27&unique=prints",
+  "collector_number": "94",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "What she lacks in skin she makes up in swagger.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Konstantin Porubov",
+  "artist_ids": [
+    "103a5bc1-7a87-428d-853b-f86057a61cfe"
+  ],
+  "illustration_id": "24bd0d77-be61-47b5-bb6b-5f7d7c7a8082",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 23889,
+  "penny_rank": 12436,
+  "preview": {
+    "source": "Alexandre Weber",
+    "source_uri": "https://www.youtube.com/watch?v=Vx_rxTmDipg&feature=youtu.be",
+    "previewed_at": "2023-01-23"
+  },
+  "prices": {
+    "usd": "0.08",
+    "usd_foil": "0.16",
+    "usd_etched": null,
+    "eur": "0.06",
+    "eur_foil": "0.09",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602624&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DFleshless%2BGladiator",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DFleshless%2BGladiator",
+    "edhrec": "https://edhrec.com/route/?cc=Fleshless+Gladiator"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F479608%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=694308&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106403?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Fleshless%20Gladiator → **Success** (HTTP 200)
+
 ## Gemrazer
 
 **Status:** Failed or Not Found
@@ -81696,4 +83517,3433 @@
 **Attempted URLs:**
 
 - https://api.scryfall.com/cards/named?fuzzy=Gemrazer → **Failed** (The read operation timed out)
+
+## Gitaxian Raptor
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/53/gitaxian-raptor?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "4f5e95f8-c04d-405f-bba4-e83a8f6bf463",
+  "oracle_id": "6096b221-7b6e-4528-8b5d-8ad0fcef3fba",
+  "multiverse_ids": [
+    602583
+  ],
+  "mtgo_id": 106321,
+  "arena_id": 83753,
+  "tcgplayer_id": 479562,
+  "cardmarket_id": 694723,
+  "name": "Gitaxian Raptor",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/4f5e95f8-c04d-405f-bba4-e83a8f6bf463",
+  "scryfall_uri": "https://scryfall.com/card/one/53/gitaxian-raptor?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/f/4f5e95f8-c04d-405f-bba4-e83a8f6bf463.jpg?1675956964",
+    "normal": "https://cards.scryfall.io/normal/front/4/f/4f5e95f8-c04d-405f-bba4-e83a8f6bf463.jpg?1675956964",
+    "large": "https://cards.scryfall.io/large/front/4/f/4f5e95f8-c04d-405f-bba4-e83a8f6bf463.jpg?1675956964",
+    "png": "https://cards.scryfall.io/png/front/4/f/4f5e95f8-c04d-405f-bba4-e83a8f6bf463.png?1675956964",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/f/4f5e95f8-c04d-405f-bba4-e83a8f6bf463.jpg?1675956964",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/f/4f5e95f8-c04d-405f-bba4-e83a8f6bf463.jpg?1675956964"
+  },
+  "mana_cost": "{2}{U}",
+  "cmc": 3.0,
+  "type_line": "Creature — Phyrexian Bird",
+  "oracle_text": "Flying\nThis creature enters with three oil counters on it.\nRemove an oil counter from this creature: This creature gets +1/-1 until end of turn.",
+  "power": "1",
+  "toughness": "4",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4f5e95f8-c04d-405f-bba4-e83a8f6bf463/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6096b221-7b6e-4528-8b5d-8ad0fcef3fba&unique=prints",
+  "collector_number": "53",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "Bored with the ruins of Lumengrid, it migrated to the ruins of the Mephidross.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Maxime Minard",
+  "artist_ids": [
+    "a9065769-afcd-4e54-a3c0-5809e7b4108b"
+  ],
+  "illustration_id": "b4596006-1182-4535-a20e-b7574beadb3c",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 24076,
+  "prices": {
+    "usd": "0.04",
+    "usd_foil": "0.09",
+    "usd_etched": null,
+    "eur": "0.03",
+    "eur_foil": "0.13",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602583&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGitaxian%2BRaptor",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGitaxian%2BRaptor",
+    "edhrec": "https://edhrec.com/route/?cc=Gitaxian+Raptor"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F479562%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=694723&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106321?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Gitaxian%20Raptor → **Success** (HTTP 200)
+
+## Glistener Seer
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/54/glistener-seer?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "c22aaaec-bad5-43e9-8e92-9c4bde95fcfd",
+  "oracle_id": "bcbb318d-0ebc-48a2-afd7-69cf5351893d",
+  "multiverse_ids": [
+    602584
+  ],
+  "mtgo_id": 106323,
+  "arena_id": 83754,
+  "tcgplayer_id": 479565,
+  "cardmarket_id": 694724,
+  "name": "Glistener Seer",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/c22aaaec-bad5-43e9-8e92-9c4bde95fcfd",
+  "scryfall_uri": "https://scryfall.com/card/one/54/glistener-seer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/2/c22aaaec-bad5-43e9-8e92-9c4bde95fcfd.jpg?1675956967",
+    "normal": "https://cards.scryfall.io/normal/front/c/2/c22aaaec-bad5-43e9-8e92-9c4bde95fcfd.jpg?1675956967",
+    "large": "https://cards.scryfall.io/large/front/c/2/c22aaaec-bad5-43e9-8e92-9c4bde95fcfd.jpg?1675956967",
+    "png": "https://cards.scryfall.io/png/front/c/2/c22aaaec-bad5-43e9-8e92-9c4bde95fcfd.png?1675956967",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/2/c22aaaec-bad5-43e9-8e92-9c4bde95fcfd.jpg?1675956967",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/2/c22aaaec-bad5-43e9-8e92-9c4bde95fcfd.jpg?1675956967"
+  },
+  "mana_cost": "{U}",
+  "cmc": 1.0,
+  "type_line": "Creature — Phyrexian Advisor",
+  "oracle_text": "This creature enters with three oil counters on it.\n{T}, Remove an oil counter from this creature: Scry 1. (Look at the top card of your library. You may put that card on the bottom.)",
+  "power": "0",
+  "toughness": "3",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Scry"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c22aaaec-bad5-43e9-8e92-9c4bde95fcfd/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abcbb318d-0ebc-48a2-afd7-69cf5351893d&unique=prints",
+  "collector_number": "54",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"The oil is all-knowing. The trick is to ask the right questions.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Alix Branwyn",
+  "artist_ids": [
+    "4f0a0e38-d74c-4e0b-ad91-fecccb1afa5d"
+  ],
+  "illustration_id": "55499f6d-42f8-4477-ab0b-25a883ffc749",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 18635,
+  "penny_rank": 9422,
+  "prices": {
+    "usd": "0.09",
+    "usd_foil": "0.09",
+    "usd_etched": null,
+    "eur": "0.03",
+    "eur_foil": "0.14",
+    "tix": "0.04"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602584&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DGlistener%2BSeer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DGlistener%2BSeer",
+    "edhrec": "https://edhrec.com/route/?cc=Glistener+Seer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F479565%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=694724&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106323?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Glistener%20Seer → **Success** (HTTP 200)
+
+## Lattice-Blade Mantis
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/173/lattice-blade-mantis?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "f7427def-c4b2-475a-8dc9-7e89409d9abb",
+  "oracle_id": "6755a7af-5b55-4245-a777-27e69979479b",
+  "multiverse_ids": [
+    602703
+  ],
+  "mtgo_id": 106561,
+  "arena_id": 83873,
+  "tcgplayer_id": 479558,
+  "cardmarket_id": 694767,
+  "name": "Lattice-Blade Mantis",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/f7427def-c4b2-475a-8dc9-7e89409d9abb",
+  "scryfall_uri": "https://scryfall.com/card/one/173/lattice-blade-mantis?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/7/f7427def-c4b2-475a-8dc9-7e89409d9abb.jpg?1675957148",
+    "normal": "https://cards.scryfall.io/normal/front/f/7/f7427def-c4b2-475a-8dc9-7e89409d9abb.jpg?1675957148",
+    "large": "https://cards.scryfall.io/large/front/f/7/f7427def-c4b2-475a-8dc9-7e89409d9abb.jpg?1675957148",
+    "png": "https://cards.scryfall.io/png/front/f/7/f7427def-c4b2-475a-8dc9-7e89409d9abb.png?1675957148",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/7/f7427def-c4b2-475a-8dc9-7e89409d9abb.jpg?1675957148",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/7/f7427def-c4b2-475a-8dc9-7e89409d9abb.jpg?1675957148"
+  },
+  "mana_cost": "{3}{G}",
+  "cmc": 4.0,
+  "type_line": "Creature — Phyrexian Insect",
+  "oracle_text": "This creature enters with two oil counters on it.\nWhenever this creature attacks, you may remove an oil counter from it. If you do, untap it and it gets +1/+1 until end of turn.",
+  "power": "4",
+  "toughness": "3",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f7427def-c4b2-475a-8dc9-7e89409d9abb/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A6755a7af-5b55-4245-a777-27e69979479b&unique=prints",
+  "collector_number": "173",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Urabrask doesn't think big enough.\"\n—Glissa Sunslayer",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Durion",
+  "artist_ids": [
+    "8c824995-c4bd-49f2-84b6-f42e39357c87"
+  ],
+  "illustration_id": "6edab5c9-9db8-4492-adea-684a6df1efd5",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 22085,
+  "prices": {
+    "usd": "0.08",
+    "usd_foil": "0.09",
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": "0.08",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602703&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DLattice-Blade%2BMantis",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DLattice-Blade%2BMantis",
+    "edhrec": "https://edhrec.com/route/?cc=Lattice-Blade+Mantis"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F479558%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=694767&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106561?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Lattice-Blade%20Mantis → **Success** (HTTP 200)
+
+## Meldweb Strider
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/60/meldweb-strider?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "c5efd9b5-05e5-440f-b28c-658e461cf644",
+  "oracle_id": "b66dd751-fef7-4310-9c09-8d1b1fc78fef",
+  "multiverse_ids": [
+    602590
+  ],
+  "mtgo_id": 106335,
+  "arena_id": 83760,
+  "tcgplayer_id": 479578,
+  "cardmarket_id": 694728,
+  "name": "Meldweb Strider",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/c5efd9b5-05e5-440f-b28c-658e461cf644",
+  "scryfall_uri": "https://scryfall.com/card/one/60/meldweb-strider?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/5/c5efd9b5-05e5-440f-b28c-658e461cf644.jpg?1675956977",
+    "normal": "https://cards.scryfall.io/normal/front/c/5/c5efd9b5-05e5-440f-b28c-658e461cf644.jpg?1675956977",
+    "large": "https://cards.scryfall.io/large/front/c/5/c5efd9b5-05e5-440f-b28c-658e461cf644.jpg?1675956977",
+    "png": "https://cards.scryfall.io/png/front/c/5/c5efd9b5-05e5-440f-b28c-658e461cf644.png?1675956977",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/5/c5efd9b5-05e5-440f-b28c-658e461cf644.jpg?1675956977",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/5/c5efd9b5-05e5-440f-b28c-658e461cf644.jpg?1675956977"
+  },
+  "mana_cost": "{4}{U}",
+  "cmc": 5.0,
+  "type_line": "Artifact — Vehicle",
+  "oracle_text": "Vigilance\nThis Vehicle enters with an oil counter on it.\nRemove an oil counter from this Vehicle: It becomes an artifact creature until end of turn.\nCrew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)",
+  "power": "5",
+  "toughness": "5",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Vigilance",
+    "Crew"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c5efd9b5-05e5-440f-b28c-658e461cf644/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab66dd751-fef7-4310-9c09-8d1b1fc78fef&unique=prints",
+  "collector_number": "60",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Julian Kok Joon Wen",
+  "artist_ids": [
+    "7f1868e3-325f-4df9-8f27-a381fed4f0fc"
+  ],
+  "illustration_id": "663edc55-d6b3-4848-868c-183cc5eec4ed",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 24176,
+  "prices": {
+    "usd": "0.04",
+    "usd_foil": "0.12",
+    "usd_etched": null,
+    "eur": "0.05",
+    "eur_foil": "0.07",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602590&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMeldweb%2BStrider",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMeldweb%2BStrider",
+    "edhrec": "https://edhrec.com/route/?cc=Meldweb+Strider"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F479578%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=694728&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106335?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Meldweb%20Strider → **Success** (HTTP 200)
+
+## Migloz, Maze Crusher
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/210/migloz-maze-crusher?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "c1171899-07d8-4e60-a79b-f162f59dc3ce",
+  "oracle_id": "85eb890e-a5e1-48f8-b813-e8424d18b28a",
+  "multiverse_ids": [
+    602740
+  ],
+  "mtgo_id": 106635,
+  "arena_id": 83910,
+  "tcgplayer_id": 479398,
+  "cardmarket_id": 694779,
+  "name": "Migloz, Maze Crusher",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/c1171899-07d8-4e60-a79b-f162f59dc3ce",
+  "scryfall_uri": "https://scryfall.com/card/one/210/migloz-maze-crusher?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/c/1/c1171899-07d8-4e60-a79b-f162f59dc3ce.jpg?1675957202",
+    "normal": "https://cards.scryfall.io/normal/front/c/1/c1171899-07d8-4e60-a79b-f162f59dc3ce.jpg?1675957202",
+    "large": "https://cards.scryfall.io/large/front/c/1/c1171899-07d8-4e60-a79b-f162f59dc3ce.jpg?1675957202",
+    "png": "https://cards.scryfall.io/png/front/c/1/c1171899-07d8-4e60-a79b-f162f59dc3ce.png?1675957202",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/c/1/c1171899-07d8-4e60-a79b-f162f59dc3ce.jpg?1675957202",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/c/1/c1171899-07d8-4e60-a79b-f162f59dc3ce.jpg?1675957202"
+  },
+  "mana_cost": "{1}{R}{G}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Phyrexian Beast",
+  "oracle_text": "Migloz enters with five oil counters on it.\n{1}, Remove an oil counter from Migloz: It gains vigilance and menace until end of turn.\n{2}, Remove two oil counters from Migloz: It gets +2/+2 until end of turn.\n{3}, Remove three oil counters from Migloz: Destroy target artifact or enchantment.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "G",
+    "R"
+  ],
+  "color_identity": [
+    "G",
+    "R"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/c1171899-07d8-4e60-a79b-f162f59dc3ce/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A85eb890e-a5e1-48f8-b813-e8424d18b28a&unique=prints",
+  "collector_number": "210",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Zezhou Chen",
+  "artist_ids": [
+    "810677e5-a502-4c03-b726-78cd808a75d4"
+  ],
+  "illustration_id": "8d441560-2bd7-4e4e-a3a7-ad1dd796b29f",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 15959,
+  "penny_rank": 1120,
+  "preview": {
+    "source": "TogoresMtg",
+    "source_uri": "https://twitter.com/TogoresTcg/status/1618238063309914112",
+    "previewed_at": "2023-01-25"
+  },
+  "prices": {
+    "usd": "0.15",
+    "usd_foil": "0.25",
+    "usd_etched": null,
+    "eur": "0.19",
+    "eur_foil": "0.44",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602740&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DMigloz%252C%2BMaze%2BCrusher",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DMigloz%252C%2BMaze%2BCrusher",
+    "edhrec": "https://edhrec.com/route/?cc=Migloz%2C+Maze+Crusher"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F479398%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=694779&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106635?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Migloz%2C%20Maze%20Crusher → **Success** (HTTP 200)
+
+## Nimraiser Paladin
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/101/nimraiser-paladin?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "a99fe9a8-d9e7-4286-81a1-adfb753e4741",
+  "oracle_id": "c9daff24-1af8-4133-bff1-e0e4d1042db4",
+  "multiverse_ids": [
+    602631
+  ],
+  "mtgo_id": 106417,
+  "arena_id": 83801,
+  "tcgplayer_id": 478410,
+  "cardmarket_id": 692864,
+  "name": "Nimraiser Paladin",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/a99fe9a8-d9e7-4286-81a1-adfb753e4741",
+  "scryfall_uri": "https://scryfall.com/card/one/101/nimraiser-paladin?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/a/9/a99fe9a8-d9e7-4286-81a1-adfb753e4741.jpg?1675957037",
+    "normal": "https://cards.scryfall.io/normal/front/a/9/a99fe9a8-d9e7-4286-81a1-adfb753e4741.jpg?1675957037",
+    "large": "https://cards.scryfall.io/large/front/a/9/a99fe9a8-d9e7-4286-81a1-adfb753e4741.jpg?1675957037",
+    "png": "https://cards.scryfall.io/png/front/a/9/a99fe9a8-d9e7-4286-81a1-adfb753e4741.png?1675957037",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/a/9/a99fe9a8-d9e7-4286-81a1-adfb753e4741.jpg?1675957037",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/a/9/a99fe9a8-d9e7-4286-81a1-adfb753e4741.jpg?1675957037"
+  },
+  "mana_cost": "{4}{B}",
+  "cmc": 5.0,
+  "type_line": "Creature — Phyrexian Knight",
+  "oracle_text": "Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)\nWhen this creature enters, return target creature card with mana value 3 or less from your graveyard to your hand.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "B"
+  ],
+  "color_identity": [
+    "B"
+  ],
+  "keywords": [
+    "Toxic"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "40255bfa-0004-45f1-a31b-17d385f09a95",
+      "component": "combo_piece",
+      "name": "Poison Counter",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/40255bfa-0004-45f1-a31b-17d385f09a95"
+    },
+    {
+      "object": "related_card",
+      "id": "a99fe9a8-d9e7-4286-81a1-adfb753e4741",
+      "component": "combo_piece",
+      "name": "Nimraiser Paladin",
+      "type_line": "Creature — Phyrexian Knight",
+      "uri": "https://api.scryfall.com/cards/a99fe9a8-d9e7-4286-81a1-adfb753e4741"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/a99fe9a8-d9e7-4286-81a1-adfb753e4741/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac9daff24-1af8-4133-bff1-e0e4d1042db4&unique=prints",
+  "collector_number": "101",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "José Parodi",
+  "artist_ids": [
+    "4aac5bf3-5a92-40f6-a0c3-6edc7373cc71"
+  ],
+  "illustration_id": "837a39ef-3caa-4212-98a0-4f29e4349ce7",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 14990,
+  "penny_rank": 13421,
+  "preview": {
+    "source": "Dark Pact Cosplay",
+    "source_uri": "https://twitter.com/DarkPactCosplay/status/1615736103667142658",
+    "previewed_at": "2023-01-18"
+  },
+  "prices": {
+    "usd": "0.25",
+    "usd_foil": "0.22",
+    "usd_etched": null,
+    "eur": "0.06",
+    "eur_foil": "0.11",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602631&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNimraiser%2BPaladin",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNimraiser%2BPaladin",
+    "edhrec": "https://edhrec.com/route/?cc=Nimraiser+Paladin"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F478410%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=692864&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106417?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Nimraiser%20Paladin → **Success** (HTTP 200)
+
+## Noxious Assault
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/176/noxious-assault?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "9649de6c-a9f7-4f0a-8bf7-cacaea60ed54",
+  "oracle_id": "95c0611a-b6f1-4cb8-8b47-73aa9c2a7d2c",
+  "multiverse_ids": [
+    602706
+  ],
+  "mtgo_id": 106567,
+  "arena_id": 83876,
+  "tcgplayer_id": 478658,
+  "cardmarket_id": 692866,
+  "name": "Noxious Assault",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/9649de6c-a9f7-4f0a-8bf7-cacaea60ed54",
+  "scryfall_uri": "https://scryfall.com/card/one/176/noxious-assault?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/6/9649de6c-a9f7-4f0a-8bf7-cacaea60ed54.jpg?1675957153",
+    "normal": "https://cards.scryfall.io/normal/front/9/6/9649de6c-a9f7-4f0a-8bf7-cacaea60ed54.jpg?1675957153",
+    "large": "https://cards.scryfall.io/large/front/9/6/9649de6c-a9f7-4f0a-8bf7-cacaea60ed54.jpg?1675957153",
+    "png": "https://cards.scryfall.io/png/front/9/6/9649de6c-a9f7-4f0a-8bf7-cacaea60ed54.png?1675957153",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/6/9649de6c-a9f7-4f0a-8bf7-cacaea60ed54.jpg?1675957153",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/6/9649de6c-a9f7-4f0a-8bf7-cacaea60ed54.jpg?1675957153"
+  },
+  "mana_cost": "{3}{G}{G}",
+  "cmc": 5.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Creatures you control get +2/+2 until end of turn. Whenever a creature blocks this turn, its controller gets a poison counter.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "40255bfa-0004-45f1-a31b-17d385f09a95",
+      "component": "combo_piece",
+      "name": "Poison Counter",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/40255bfa-0004-45f1-a31b-17d385f09a95"
+    },
+    {
+      "object": "related_card",
+      "id": "9649de6c-a9f7-4f0a-8bf7-cacaea60ed54",
+      "component": "combo_piece",
+      "name": "Noxious Assault",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/9649de6c-a9f7-4f0a-8bf7-cacaea60ed54"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9649de6c-a9f7-4f0a-8bf7-cacaea60ed54/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A95c0611a-b6f1-4cb8-8b47-73aa9c2a7d2c&unique=prints",
+  "collector_number": "176",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "Even as they brought the beast down, they could feel its poison working into their blood, altering their bodies, and filling their minds with the thrill of the eternal hunt.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Billy Christian",
+  "artist_ids": [
+    "10f26f94-64fc-4174-856e-701bea4f1521"
+  ],
+  "illustration_id": "779611bd-b8c4-4763-b870-ed575a22f174",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 7604,
+  "penny_rank": 8757,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://twitter.com/PlayMTG/status/1615846504924680195",
+    "previewed_at": "2023-01-18"
+  },
+  "prices": {
+    "usd": "0.29",
+    "usd_foil": "0.30",
+    "usd_etched": null,
+    "eur": "0.14",
+    "eur_foil": "0.17",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602706&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DNoxious%2BAssault",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DNoxious%2BAssault",
+    "edhrec": "https://edhrec.com/route/?cc=Noxious+Assault"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F478658%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=692866&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106567?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Noxious%20Assault → **Success** (HTTP 200)
+
+## Paladin of Predation
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/178/paladin-of-predation?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "758dbe61-6dc7-4b08-bdd6-7262257955fc",
+  "oracle_id": "fb5a02ce-6080-47f9-815a-fef3758d753b",
+  "multiverse_ids": [
+    602708
+  ],
+  "mtgo_id": 106571,
+  "arena_id": 83878,
+  "tcgplayer_id": 478267,
+  "cardmarket_id": 692396,
+  "name": "Paladin of Predation",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/758dbe61-6dc7-4b08-bdd6-7262257955fc",
+  "scryfall_uri": "https://scryfall.com/card/one/178/paladin-of-predation?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/7/5/758dbe61-6dc7-4b08-bdd6-7262257955fc.jpg?1675997685",
+    "normal": "https://cards.scryfall.io/normal/front/7/5/758dbe61-6dc7-4b08-bdd6-7262257955fc.jpg?1675997685",
+    "large": "https://cards.scryfall.io/large/front/7/5/758dbe61-6dc7-4b08-bdd6-7262257955fc.jpg?1675997685",
+    "png": "https://cards.scryfall.io/png/front/7/5/758dbe61-6dc7-4b08-bdd6-7262257955fc.png?1675997685",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/7/5/758dbe61-6dc7-4b08-bdd6-7262257955fc.jpg?1675997685",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/7/5/758dbe61-6dc7-4b08-bdd6-7262257955fc.jpg?1675997685"
+  },
+  "mana_cost": "{5}{G}{G}",
+  "cmc": 7.0,
+  "type_line": "Creature — Phyrexian Knight",
+  "oracle_text": "Toxic 6 (Players dealt combat damage by this creature also get six poison counters.)\nThis creature can't be blocked by creatures with power 2 or less.",
+  "power": "6",
+  "toughness": "7",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Toxic"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "40255bfa-0004-45f1-a31b-17d385f09a95",
+      "component": "combo_piece",
+      "name": "Poison Counter",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/40255bfa-0004-45f1-a31b-17d385f09a95"
+    },
+    {
+      "object": "related_card",
+      "id": "758dbe61-6dc7-4b08-bdd6-7262257955fc",
+      "component": "combo_piece",
+      "name": "Paladin of Predation",
+      "type_line": "Creature — Phyrexian Knight",
+      "uri": "https://api.scryfall.com/cards/758dbe61-6dc7-4b08-bdd6-7262257955fc"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "not_legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/758dbe61-6dc7-4b08-bdd6-7262257955fc/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Afb5a02ce-6080-47f9-815a-fef3758d753b&unique=prints",
+  "collector_number": "178",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "The strategies and politics of the Vicious Swarm are as subtle as Vorinclex himself.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Lorenzo Mastroianni",
+  "artist_ids": [
+    "70213e7d-47e0-4543-a1ae-451009053e2d"
+  ],
+  "illustration_id": "ce3c3f73-65b5-46f7-970a-6e886e2820d3",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 10803,
+  "penny_rank": 12543,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.twitch.tv/videos/1710176714",
+    "previewed_at": "2023-01-17"
+  },
+  "prices": {
+    "usd": "0.19",
+    "usd_foil": "0.12",
+    "usd_etched": null,
+    "eur": "0.09",
+    "eur_foil": "0.15",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602708&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPaladin%2Bof%2BPredation",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPaladin%2Bof%2BPredation",
+    "edhrec": "https://edhrec.com/route/?cc=Paladin+of+Predation"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F478267%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=692396&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106571?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Paladin%20of%20Predation → **Success** (HTTP 200)
+
+## Phyrexian Goblin
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/tfdn/31/phyrexian-goblin?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "01e437a1-6d74-4006-8598-06284444c837",
+  "oracle_id": "b43340e3-bb76-4501-8db2-040b7cae33b7",
+  "multiverse_ids": [],
+  "cardmarket_id": 695475,
+  "name": "Phyrexian Goblin",
+  "lang": "en",
+  "released_at": "2024-11-15",
+  "uri": "https://api.scryfall.com/cards/01e437a1-6d74-4006-8598-06284444c837",
+  "scryfall_uri": "https://scryfall.com/card/tfdn/31/phyrexian-goblin?utm_source=api",
+  "layout": "token",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/0/1/01e437a1-6d74-4006-8598-06284444c837.jpg?1730485680",
+    "normal": "https://cards.scryfall.io/normal/front/0/1/01e437a1-6d74-4006-8598-06284444c837.jpg?1730485680",
+    "large": "https://cards.scryfall.io/large/front/0/1/01e437a1-6d74-4006-8598-06284444c837.jpg?1730485680",
+    "png": "https://cards.scryfall.io/png/front/0/1/01e437a1-6d74-4006-8598-06284444c837.png?1730485680",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/0/1/01e437a1-6d74-4006-8598-06284444c837.jpg?1730485680",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/0/1/01e437a1-6d74-4006-8598-06284444c837.jpg?1730485680"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Token Creature — Phyrexian Goblin",
+  "oracle_text": "",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "R"
+  ],
+  "color_identity": [
+    "R"
+  ],
+  "keywords": [],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "dd3520a7-a55f-4c00-b4f1-c1c154adfc8f",
+      "component": "combo_piece",
+      "name": "Chancellor of the Forge",
+      "type_line": "Creature — Phyrexian Giant",
+      "uri": "https://api.scryfall.com/cards/dd3520a7-a55f-4c00-b4f1-c1c154adfc8f"
+    },
+    {
+      "object": "related_card",
+      "id": "9f30a6a5-e8b3-403a-bfe1-1f78d45e392e",
+      "component": "combo_piece",
+      "name": "Gleeful Demolition",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/9f30a6a5-e8b3-403a-bfe1-1f78d45e392e"
+    },
+    {
+      "object": "related_card",
+      "id": "0c117239-8e40-4e7e-ab1b-82f2ddf55cf4",
+      "component": "combo_piece",
+      "name": "Churning Reservoir",
+      "type_line": "Artifact",
+      "uri": "https://api.scryfall.com/cards/0c117239-8e40-4e7e-ab1b-82f2ddf55cf4"
+    },
+    {
+      "object": "related_card",
+      "id": "54819d7a-eec6-49e6-a0bb-d9d07d42b4a6",
+      "component": "combo_piece",
+      "name": "Ovika, Enigma Goliath",
+      "type_line": "Legendary Creature — Phyrexian Nightmare",
+      "uri": "https://api.scryfall.com/cards/54819d7a-eec6-49e6-a0bb-d9d07d42b4a6"
+    },
+    {
+      "object": "related_card",
+      "id": "01e437a1-6d74-4006-8598-06284444c837",
+      "component": "token",
+      "name": "Phyrexian Goblin",
+      "type_line": "Token Creature — Phyrexian Goblin",
+      "uri": "https://api.scryfall.com/cards/01e437a1-6d74-4006-8598-06284444c837"
+    },
+    {
+      "object": "related_card",
+      "id": "45db6b46-c4b4-4684-8a49-53a64ffc82f2",
+      "component": "combo_piece",
+      "name": "Charforger",
+      "type_line": "Creature — Phyrexian Beast",
+      "uri": "https://api.scryfall.com/cards/45db6b46-c4b4-4684-8a49-53a64ffc82f2"
+    },
+    {
+      "object": "related_card",
+      "id": "5668699d-8df8-426b-a04a-99cfe55e570b",
+      "component": "combo_piece",
+      "name": "Chimney Rabble",
+      "type_line": "Creature — Phyrexian Goblin Warrior",
+      "uri": "https://api.scryfall.com/cards/5668699d-8df8-426b-a04a-99cfe55e570b"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "not_legal",
+    "pauper": "not_legal",
+    "vintage": "not_legal",
+    "penny": "not_legal",
+    "commander": "not_legal",
+    "oathbreaker": "not_legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "not_legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "not_legal"
+  },
+  "games": [
+    "paper"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "abb31a61-9d0e-47ed-852a-8c5249396c7d",
+  "set": "tfdn",
+  "set_name": "Foundations Tokens",
+  "set_type": "token",
+  "set_uri": "https://api.scryfall.com/sets/abb31a61-9d0e-47ed-852a-8c5249396c7d",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Atfdn&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/tfdn?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/01e437a1-6d74-4006-8598-06284444c837/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab43340e3-bb76-4501-8db2-040b7cae33b7&unique=prints",
+  "collector_number": "31",
+  "digital": false,
+  "rarity": "common",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Jokubas Uogintas",
+  "artist_ids": [
+    "2c14303e-97a3-45fa-9bd8-59e5332a65f9"
+  ],
+  "illustration_id": "b4bf7c03-75f9-4bc1-8ae2-dbe0452c8034",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "promo_types": [
+    "startercollection"
+  ],
+  "prices": {
+    "usd": null,
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.16",
+    "eur_foil": null,
+    "tix": null
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DPhyrexian%2BGoblin",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DPhyrexian%2BGoblin",
+    "edhrec": "https://edhrec.com/route/?cc=Phyrexian+Goblin"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fmagic%2Fproduct%3FproductLineName%3Dmagic%26q%3DPhyrexian%2BGoblin%26view%3Dgrid",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=695475&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Phyrexian+Goblin&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Phyrexian%20Goblin → **Success** (HTTP 200)
+
+## Prophetic Prism
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/woe/249/prophetic-prism?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "1fae351c-b918-4648-a361-d5239ae63156",
+  "oracle_id": "134a9877-5cfb-4a2a-a0f0-930dce45f58b",
+  "multiverse_ids": [
+    629750
+  ],
+  "mtgo_id": 116886,
+  "arena_id": 86981,
+  "tcgplayer_id": 513010,
+  "cardmarket_id": 729032,
+  "name": "Prophetic Prism",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/1fae351c-b918-4648-a361-d5239ae63156",
+  "scryfall_uri": "https://scryfall.com/card/woe/249/prophetic-prism?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/f/1fae351c-b918-4648-a361-d5239ae63156.jpg?1743419067",
+    "normal": "https://cards.scryfall.io/normal/front/1/f/1fae351c-b918-4648-a361-d5239ae63156.jpg?1743419067",
+    "large": "https://cards.scryfall.io/large/front/1/f/1fae351c-b918-4648-a361-d5239ae63156.jpg?1743419067",
+    "png": "https://cards.scryfall.io/png/front/1/f/1fae351c-b918-4648-a361-d5239ae63156.png?1743419067",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/f/1fae351c-b918-4648-a361-d5239ae63156.jpg?1743419067",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/f/1fae351c-b918-4648-a361-d5239ae63156.jpg?1743419067"
+  },
+  "mana_cost": "{2}",
+  "cmc": 2.0,
+  "type_line": "Artifact",
+  "oracle_text": "When this artifact enters, draw a card.\n{1}, {T}: Add one mana of any color.",
+  "colors": [],
+  "color_identity": [],
+  "keywords": [],
+  "produced_mana": [
+    "B",
+    "G",
+    "R",
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal",
+    "tlr": "legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "79139661-13ee-43c4-8bad-a8c069f1a1df",
+  "set": "woe",
+  "set_name": "Wilds of Eldraine",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/79139661-13ee-43c4-8bad-a8c069f1a1df",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awoe&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/woe?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/1fae351c-b918-4648-a361-d5239ae63156/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A134a9877-5cfb-4a2a-a0f0-930dce45f58b&unique=prints",
+  "collector_number": "249",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Most dreams reveal but fragments of what you could be. Only nightmares can show you who you truly are.\"\n—Ashiok",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Quintin Gleim",
+  "artist_ids": [
+    "25fbebee-23a4-4431-bd63-14ec82f3c2b9"
+  ],
+  "illustration_id": "b91ba387-86ef-48fd-83da-195fae2b1e19",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 4779,
+  "penny_rank": 464,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2023-08-21"
+  },
+  "prices": {
+    "usd": "0.23",
+    "usd_foil": "0.26",
+    "usd_etched": null,
+    "eur": "0.07",
+    "eur_foil": "1.62",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=629750&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DProphetic%2BPrism",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DProphetic%2BPrism",
+    "edhrec": "https://edhrec.com/route/?cc=Prophetic+Prism"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F513010%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=729032&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/116886?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Prophetic%20Prism → **Success** (HTTP 200)
+
+## Quicksilver Fisher
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/66/quicksilver-fisher?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "bad0e96a-b4cc-4439-aab9-731a1036145d",
+  "oracle_id": "b3e3d037-992b-4718-913d-7ab509d2047e",
+  "multiverse_ids": [
+    602596
+  ],
+  "mtgo_id": 106347,
+  "arena_id": 83766,
+  "tcgplayer_id": 478924,
+  "cardmarket_id": 693882,
+  "name": "Quicksilver Fisher",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/bad0e96a-b4cc-4439-aab9-731a1036145d",
+  "scryfall_uri": "https://scryfall.com/card/one/66/quicksilver-fisher?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/b/a/bad0e96a-b4cc-4439-aab9-731a1036145d.jpg?1675956984",
+    "normal": "https://cards.scryfall.io/normal/front/b/a/bad0e96a-b4cc-4439-aab9-731a1036145d.jpg?1675956984",
+    "large": "https://cards.scryfall.io/large/front/b/a/bad0e96a-b4cc-4439-aab9-731a1036145d.jpg?1675956984",
+    "png": "https://cards.scryfall.io/png/front/b/a/bad0e96a-b4cc-4439-aab9-731a1036145d.png?1675956984",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/b/a/bad0e96a-b4cc-4439-aab9-731a1036145d.jpg?1675956984",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/b/a/bad0e96a-b4cc-4439-aab9-731a1036145d.jpg?1675956984"
+  },
+  "mana_cost": "{3}{U}{U}",
+  "cmc": 5.0,
+  "type_line": "Creature — Phyrexian Drake",
+  "oracle_text": "Flying\nWhen this creature enters, draw a card, then discard a card.",
+  "power": "4",
+  "toughness": "3",
+  "colors": [
+    "U"
+  ],
+  "color_identity": [
+    "U"
+  ],
+  "keywords": [
+    "Flying"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/bad0e96a-b4cc-4439-aab9-731a1036145d/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab3e3d037-992b-4718-913d-7ab509d2047e&unique=prints",
+  "collector_number": "66",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "It no longer needs to eat, but old instincts are put to use ridding the Surgical Bay of spies.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Filip Burburan",
+  "artist_ids": [
+    "66082c3b-a623-4d34-be51-2475214b85d3"
+  ],
+  "illustration_id": "e4e78150-284e-4b66-ae32-a5318c7d24a6",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 20774,
+  "preview": {
+    "source": "MTGFantasy",
+    "source_uri": "https://www.facebook.com/photo/?fbid=606934638109823&set=a.444559251014030",
+    "previewed_at": "2023-01-23"
+  },
+  "prices": {
+    "usd": "0.03",
+    "usd_foil": "0.04",
+    "usd_etched": null,
+    "eur": "0.03",
+    "eur_foil": "0.07",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602596&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DQuicksilver%2BFisher",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DQuicksilver%2BFisher",
+    "edhrec": "https://edhrec.com/route/?cc=Quicksilver+Fisher"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F478924%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=693882&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106347?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Quicksilver%20Fisher → **Success** (HTTP 200)
+
+## Seachrome Coast
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/258/seachrome-coast?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "9ed7441f-f624-49c8-8611-d9bba0e441ac",
+  "oracle_id": "9e7a240d-dc33-47ac-9f17-77fab4c1c340",
+  "multiverse_ids": [
+    602788
+  ],
+  "mtgo_id": 106731,
+  "arena_id": 83958,
+  "tcgplayer_id": 478314,
+  "cardmarket_id": 692386,
+  "name": "Seachrome Coast",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/9ed7441f-f624-49c8-8611-d9bba0e441ac",
+  "scryfall_uri": "https://scryfall.com/card/one/258/seachrome-coast?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/9/e/9ed7441f-f624-49c8-8611-d9bba0e441ac.jpg?1675957278",
+    "normal": "https://cards.scryfall.io/normal/front/9/e/9ed7441f-f624-49c8-8611-d9bba0e441ac.jpg?1675957278",
+    "large": "https://cards.scryfall.io/large/front/9/e/9ed7441f-f624-49c8-8611-d9bba0e441ac.jpg?1675957278",
+    "png": "https://cards.scryfall.io/png/front/9/e/9ed7441f-f624-49c8-8611-d9bba0e441ac.png?1675957278",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/9/e/9ed7441f-f624-49c8-8611-d9bba0e441ac.jpg?1675957278",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/9/e/9ed7441f-f624-49c8-8611-d9bba0e441ac.jpg?1675957278"
+  },
+  "mana_cost": "",
+  "cmc": 0.0,
+  "type_line": "Land",
+  "oracle_text": "This land enters tapped unless you control two or fewer other lands.\n{T}: Add {W} or {U}.",
+  "colors": [],
+  "color_identity": [
+    "U",
+    "W"
+  ],
+  "keywords": [],
+  "produced_mana": [
+    "U",
+    "W"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "legal",
+    "tlr": "legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/9ed7441f-f624-49c8-8611-d9bba0e441ac/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9e7a240d-dc33-47ac-9f17-77fab4c1c340&unique=prints",
+  "collector_number": "258",
+  "digital": false,
+  "rarity": "rare",
+  "flavor_text": "Where indoctrination meets inquiry, currents roil restlessly beneath the surface.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mauricio Calle",
+  "artist_ids": [
+    "75b27b57-a475-449b-843d-15e33a39ec22"
+  ],
+  "illustration_id": "aa213dff-f8bc-4b21-8236-85c94aaec5e0",
+  "border_color": "black",
+  "frame": "2015",
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1215,
+  "penny_rank": 72,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "",
+    "previewed_at": "2023-01-12"
+  },
+  "prices": {
+    "usd": "0.39",
+    "usd_foil": "0.62",
+    "usd_etched": null,
+    "eur": "0.85",
+    "eur_foil": "1.56",
+    "tix": "0.02"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602788&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSeachrome%2BCoast",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSeachrome%2BCoast",
+    "edhrec": "https://edhrec.com/route/?cc=Seachrome+Coast"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F478314%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=692386&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106731?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Seachrome%20Coast → **Success** (HTTP 200)
+
+## Sinew Dancer
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/32/sinew-dancer?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "ebad4fcc-4f78-48dc-b236-c78c22edc1e9",
+  "oracle_id": "a605864a-f46f-4ebc-8e56-ce7322c918b0",
+  "multiverse_ids": [
+    602562
+  ],
+  "mtgo_id": 106279,
+  "arena_id": 83732,
+  "tcgplayer_id": 478626,
+  "cardmarket_id": 692862,
+  "name": "Sinew Dancer",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/ebad4fcc-4f78-48dc-b236-c78c22edc1e9",
+  "scryfall_uri": "https://scryfall.com/card/one/32/sinew-dancer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/e/b/ebad4fcc-4f78-48dc-b236-c78c22edc1e9.jpg?1675956933",
+    "normal": "https://cards.scryfall.io/normal/front/e/b/ebad4fcc-4f78-48dc-b236-c78c22edc1e9.jpg?1675956933",
+    "large": "https://cards.scryfall.io/large/front/e/b/ebad4fcc-4f78-48dc-b236-c78c22edc1e9.jpg?1675956933",
+    "png": "https://cards.scryfall.io/png/front/e/b/ebad4fcc-4f78-48dc-b236-c78c22edc1e9.png?1675956933",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/e/b/ebad4fcc-4f78-48dc-b236-c78c22edc1e9.jpg?1675956933",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/e/b/ebad4fcc-4f78-48dc-b236-c78c22edc1e9.jpg?1675956933"
+  },
+  "mana_cost": "{W}",
+  "cmc": 1.0,
+  "type_line": "Creature — Phyrexian Soldier",
+  "oracle_text": "{3}{W}, {T}: Tap target creature.\nCorrupted — {W}, {T}: Tap target creature. Activate only if an opponent has three or more poison counters.",
+  "power": "1",
+  "toughness": "1",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "W"
+  ],
+  "keywords": [
+    "Corrupted"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/ebad4fcc-4f78-48dc-b236-c78c22edc1e9/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aa605864a-f46f-4ebc-8e56-ce7322c918b0&unique=prints",
+  "collector_number": "32",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "He spreads word of the Argent Etchings to a captive audience.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Campbell White",
+  "artist_ids": [
+    "d281eab4-463a-4ba8-9039-8943737960a0"
+  ],
+  "illustration_id": "6c650bec-5e86-4c69-8a9d-f3a1c75709ea",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 17326,
+  "preview": {
+    "source": "Lords of Limited",
+    "source_uri": "https://twitter.com/LordsofLimited/status/1615804809260720129",
+    "previewed_at": "2023-01-18"
+  },
+  "prices": {
+    "usd": "0.06",
+    "usd_foil": "0.10",
+    "usd_etched": null,
+    "eur": "0.10",
+    "eur_foil": "0.10",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602562&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSinew%2BDancer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSinew%2BDancer",
+    "edhrec": "https://edhrec.com/route/?cc=Sinew+Dancer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F478626%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=692862&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106279?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Sinew%20Dancer → **Success** (HTTP 200)
+
+## Skyscythe Engulfer
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/183/skyscythe-engulfer?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "d7898399-3c52-402c-9cd7-baad2cb7f00e",
+  "oracle_id": "b7cc831c-c1a1-4ea4-ae78-5be2b6173407",
+  "multiverse_ids": [
+    602713
+  ],
+  "mtgo_id": 106581,
+  "arena_id": 83883,
+  "tcgplayer_id": 479579,
+  "cardmarket_id": 694772,
+  "name": "Skyscythe Engulfer",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/d7898399-3c52-402c-9cd7-baad2cb7f00e",
+  "scryfall_uri": "https://scryfall.com/card/one/183/skyscythe-engulfer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/7/d7898399-3c52-402c-9cd7-baad2cb7f00e.jpg?1675957163",
+    "normal": "https://cards.scryfall.io/normal/front/d/7/d7898399-3c52-402c-9cd7-baad2cb7f00e.jpg?1675957163",
+    "large": "https://cards.scryfall.io/large/front/d/7/d7898399-3c52-402c-9cd7-baad2cb7f00e.jpg?1675957163",
+    "png": "https://cards.scryfall.io/png/front/d/7/d7898399-3c52-402c-9cd7-baad2cb7f00e.png?1675957163",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/7/d7898399-3c52-402c-9cd7-baad2cb7f00e.jpg?1675957163",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/7/d7898399-3c52-402c-9cd7-baad2cb7f00e.jpg?1675957163"
+  },
+  "mana_cost": "{5}{G}",
+  "cmc": 6.0,
+  "type_line": "Creature — Phyrexian Beast",
+  "oracle_text": "Reach, trample\nThis creature can't be blocked by creatures with flying.",
+  "power": "6",
+  "toughness": "5",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Reach",
+    "Trample"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/d7898399-3c52-402c-9cd7-baad2cb7f00e/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab7cc831c-c1a1-4ea4-ae78-5be2b6173407&unique=prints",
+  "collector_number": "183",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"I bet even Skithiryx would take the long way around this one.\"\n—Kara Vrist, resistance spymaster",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Helge C. Balzer",
+  "artist_ids": [
+    "0c81268c-9a69-4dd5-b214-9f25e3483578"
+  ],
+  "illustration_id": "94531a55-9a4a-4dc1-9d2e-0d1e807bb470",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 18341,
+  "prices": {
+    "usd": "0.12",
+    "usd_foil": "0.11",
+    "usd_etched": null,
+    "eur": "0.03",
+    "eur_foil": "0.16",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602713&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSkyscythe%2BEngulfer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSkyscythe%2BEngulfer",
+    "edhrec": "https://edhrec.com/route/?cc=Skyscythe+Engulfer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F479579%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=694772&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106581?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Skyscythe%20Engulfer → **Success** (HTTP 200)
+
+## Slaughter Singer
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/216/slaughter-singer?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "4a37aa46-bcf3-48a5-9f74-05e4878ad96f",
+  "oracle_id": "1c832491-6b78-49c6-baf2-63f17847f5f5",
+  "multiverse_ids": [
+    602746
+  ],
+  "mtgo_id": 106647,
+  "arena_id": 83916,
+  "tcgplayer_id": 478447,
+  "cardmarket_id": 693216,
+  "name": "Slaughter Singer",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/4a37aa46-bcf3-48a5-9f74-05e4878ad96f",
+  "scryfall_uri": "https://scryfall.com/card/one/216/slaughter-singer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/a/4a37aa46-bcf3-48a5-9f74-05e4878ad96f.jpg?1675957213",
+    "normal": "https://cards.scryfall.io/normal/front/4/a/4a37aa46-bcf3-48a5-9f74-05e4878ad96f.jpg?1675957213",
+    "large": "https://cards.scryfall.io/large/front/4/a/4a37aa46-bcf3-48a5-9f74-05e4878ad96f.jpg?1675957213",
+    "png": "https://cards.scryfall.io/png/front/4/a/4a37aa46-bcf3-48a5-9f74-05e4878ad96f.png?1675957213",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/a/4a37aa46-bcf3-48a5-9f74-05e4878ad96f.jpg?1675957213",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/a/4a37aa46-bcf3-48a5-9f74-05e4878ad96f.jpg?1675957213"
+  },
+  "mana_cost": "{G}{W}",
+  "cmc": 2.0,
+  "type_line": "Creature — Phyrexian Cleric",
+  "oracle_text": "Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)\nWhenever another creature you control with toxic attacks, it gets +1/+1 until end of turn.",
+  "power": "2",
+  "toughness": "2",
+  "colors": [
+    "G",
+    "W"
+  ],
+  "color_identity": [
+    "G",
+    "W"
+  ],
+  "keywords": [
+    "Toxic"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "7a802def-efe2-4f65-9dff-a1c0d800b146",
+      "component": "combo_piece",
+      "name": "Slaughter Singer",
+      "type_line": "Creature — Phyrexian Cleric",
+      "uri": "https://api.scryfall.com/cards/7a802def-efe2-4f65-9dff-a1c0d800b146"
+    },
+    {
+      "object": "related_card",
+      "id": "40255bfa-0004-45f1-a31b-17d385f09a95",
+      "component": "combo_piece",
+      "name": "Poison Counter",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/40255bfa-0004-45f1-a31b-17d385f09a95"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo",
+    "arena"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/4a37aa46-bcf3-48a5-9f74-05e4878ad96f/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A1c832491-6b78-49c6-baf2-63f17847f5f5&unique=prints",
+  "collector_number": "216",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "After giving in to the thrill of the hunt, he could never again return to the quiet of the Basilica.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Adam Burn",
+  "artist_ids": [
+    "ed050721-9cc1-4376-8a91-59bddbe70fe6"
+  ],
+  "illustration_id": "7dafd5d0-9f8d-44ba-9c15-ac065f788287",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 11959,
+  "penny_rank": 12600,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.twitch.tv/videos/1710176714",
+    "previewed_at": "2023-01-17"
+  },
+  "prices": {
+    "usd": "0.25",
+    "usd_foil": "0.12",
+    "usd_etched": null,
+    "eur": "0.06",
+    "eur_foil": "0.19",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602746&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DSlaughter%2BSinger",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DSlaughter%2BSinger",
+    "edhrec": "https://edhrec.com/route/?cc=Slaughter+Singer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F478447%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=693216&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106647?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Slaughter%20Singer → **Success** (HTTP 200)
+
+## Titanic Growth
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/woe/191/titanic-growth?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "46917de3-5e98-4dd6-8950-fc10338515df",
+  "oracle_id": "61e09dd9-7870-48c2-9177-d6abc3162692",
+  "multiverse_ids": [
+    629692
+  ],
+  "mtgo_id": 116724,
+  "arena_id": 86900,
+  "tcgplayer_id": 513982,
+  "cardmarket_id": 729909,
+  "name": "Titanic Growth",
+  "lang": "en",
+  "released_at": "2023-09-08",
+  "uri": "https://api.scryfall.com/cards/46917de3-5e98-4dd6-8950-fc10338515df",
+  "scryfall_uri": "https://scryfall.com/card/woe/191/titanic-growth?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/4/6/46917de3-5e98-4dd6-8950-fc10338515df.jpg?1692939124",
+    "normal": "https://cards.scryfall.io/normal/front/4/6/46917de3-5e98-4dd6-8950-fc10338515df.jpg?1692939124",
+    "large": "https://cards.scryfall.io/large/front/4/6/46917de3-5e98-4dd6-8950-fc10338515df.jpg?1692939124",
+    "png": "https://cards.scryfall.io/png/front/4/6/46917de3-5e98-4dd6-8950-fc10338515df.png?1692939124",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/4/6/46917de3-5e98-4dd6-8950-fc10338515df.jpg?1692939124",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/4/6/46917de3-5e98-4dd6-8950-fc10338515df.jpg?1692939124"
+  },
+  "mana_cost": "{1}{G}",
+  "cmc": 2.0,
+  "type_line": "Instant",
+  "oracle_text": "Target creature gets +4/+4 until end of turn.",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [],
+  "legalities": {
+    "standard": "legal",
+    "future": "legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "legal",
+    "brawl": "legal",
+    "alchemy": "legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "79139661-13ee-43c4-8bad-a8c069f1a1df",
+  "set": "woe",
+  "set_name": "Wilds of Eldraine",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/79139661-13ee-43c4-8bad-a8c069f1a1df",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Awoe&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/woe?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/46917de3-5e98-4dd6-8950-fc10338515df/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A61e09dd9-7870-48c2-9177-d6abc3162692&unique=prints",
+  "collector_number": "191",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "\"Looks like you need a bigger net, mister fae-catcher.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Iris Compiet",
+  "artist_ids": [
+    "aa807c8c-d07f-4f09-90d3-b2cbf5b86dbf"
+  ],
+  "illustration_id": "2a55fdbb-f19c-4512-8441-017cc83f1f10",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 6214,
+  "penny_rank": 8791,
+  "prices": {
+    "usd": "0.27",
+    "usd_foil": "0.11",
+    "usd_etched": null,
+    "eur": "0.03",
+    "eur_foil": "0.16",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=629692&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTitanic%2BGrowth",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTitanic%2BGrowth",
+    "edhrec": "https://edhrec.com/route/?cc=Titanic+Growth"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F513982%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=729909&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/116724?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Titanic%20Growth → **Success** (HTTP 200)
+
+## Tyrranax Atrocity
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/188/tyrranax-atrocity?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "157cf43c-f7f2-4362-bfc8-11682e94b747",
+  "oracle_id": "08261b68-b261-4e47-a085-c489ba394108",
+  "multiverse_ids": [
+    602718
+  ],
+  "mtgo_id": 106591,
+  "arena_id": 83888,
+  "tcgplayer_id": 479572,
+  "cardmarket_id": 694675,
+  "name": "Tyrranax Atrocity",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/157cf43c-f7f2-4362-bfc8-11682e94b747",
+  "scryfall_uri": "https://scryfall.com/card/one/188/tyrranax-atrocity?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/1/5/157cf43c-f7f2-4362-bfc8-11682e94b747.jpg?1675957171",
+    "normal": "https://cards.scryfall.io/normal/front/1/5/157cf43c-f7f2-4362-bfc8-11682e94b747.jpg?1675957171",
+    "large": "https://cards.scryfall.io/large/front/1/5/157cf43c-f7f2-4362-bfc8-11682e94b747.jpg?1675957171",
+    "png": "https://cards.scryfall.io/png/front/1/5/157cf43c-f7f2-4362-bfc8-11682e94b747.png?1675957171",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/1/5/157cf43c-f7f2-4362-bfc8-11682e94b747.jpg?1675957171",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/1/5/157cf43c-f7f2-4362-bfc8-11682e94b747.jpg?1675957171"
+  },
+  "mana_cost": "{3}{G}{G}",
+  "cmc": 5.0,
+  "type_line": "Creature — Phyrexian Dinosaur",
+  "oracle_text": "Haste\nToxic 3 (Players dealt combat damage by this creature also get three poison counters.)",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Toxic",
+    "Haste"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "157cf43c-f7f2-4362-bfc8-11682e94b747",
+      "component": "combo_piece",
+      "name": "Tyrranax Atrocity",
+      "type_line": "Creature — Phyrexian Dinosaur",
+      "uri": "https://api.scryfall.com/cards/157cf43c-f7f2-4362-bfc8-11682e94b747"
+    },
+    {
+      "object": "related_card",
+      "id": "40255bfa-0004-45f1-a31b-17d385f09a95",
+      "component": "combo_piece",
+      "name": "Poison Counter",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/40255bfa-0004-45f1-a31b-17d385f09a95"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/157cf43c-f7f2-4362-bfc8-11682e94b747/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A08261b68-b261-4e47-a085-c489ba394108&unique=prints",
+  "collector_number": "188",
+  "digital": false,
+  "rarity": "common",
+  "flavor_text": "While some predators specialize in speed, size, or deadly venom, the adaptive tyrranax see no need to limit themselves.",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Xavier Ribeiro",
+  "artist_ids": [
+    "e17c2662-0491-47b2-bf1d-8c111a8ad3f8"
+  ],
+  "illustration_id": "51ab28e1-19a1-4c9a-bfea-72444863f76a",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 11241,
+  "preview": {
+    "source": "Zauberwelten",
+    "source_uri": "https://zauberwelten-online.de/Artikel/Magic-the-Gathering-Phyrexia-Exklusiver-Preview-auf-zwei-Karten-des-kommenden-Sets,1641",
+    "previewed_at": "2023-01-24"
+  },
+  "prices": {
+    "usd": "0.22",
+    "usd_foil": "0.27",
+    "usd_etched": null,
+    "eur": "0.14",
+    "eur_foil": "0.20",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602718&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DTyrranax%2BAtrocity",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DTyrranax%2BAtrocity",
+    "edhrec": "https://edhrec.com/route/?cc=Tyrranax+Atrocity"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F479572%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=694675&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106591?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Tyrranax%20Atrocity → **Success** (HTTP 200)
+
+## Venomous Brutalizer
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/193/venomous-brutalizer?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "dd9df44a-a0ab-435f-914c-aa11cd88f4ec",
+  "oracle_id": "766c3528-2c5c-4e92-aa85-b1e0e115d491",
+  "multiverse_ids": [
+    602723
+  ],
+  "mtgo_id": 106601,
+  "arena_id": 83893,
+  "tcgplayer_id": 479366,
+  "cardmarket_id": 694181,
+  "name": "Venomous Brutalizer",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/dd9df44a-a0ab-435f-914c-aa11cd88f4ec",
+  "scryfall_uri": "https://scryfall.com/card/one/193/venomous-brutalizer?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/d/d/dd9df44a-a0ab-435f-914c-aa11cd88f4ec.jpg?1675957178",
+    "normal": "https://cards.scryfall.io/normal/front/d/d/dd9df44a-a0ab-435f-914c-aa11cd88f4ec.jpg?1675957178",
+    "large": "https://cards.scryfall.io/large/front/d/d/dd9df44a-a0ab-435f-914c-aa11cd88f4ec.jpg?1675957178",
+    "png": "https://cards.scryfall.io/png/front/d/d/dd9df44a-a0ab-435f-914c-aa11cd88f4ec.png?1675957178",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/d/d/dd9df44a-a0ab-435f-914c-aa11cd88f4ec.jpg?1675957178",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/d/d/dd9df44a-a0ab-435f-914c-aa11cd88f4ec.jpg?1675957178"
+  },
+  "mana_cost": "{2}{G}{G}",
+  "cmc": 4.0,
+  "type_line": "Creature — Phyrexian Knight",
+  "oracle_text": "Toxic 3 (Players dealt combat damage by this creature also get three poison counters.)\nWhen this creature enters, you may pay {1}{G}. If you do, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Toxic",
+    "Proliferate"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "40255bfa-0004-45f1-a31b-17d385f09a95",
+      "component": "combo_piece",
+      "name": "Poison Counter",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/40255bfa-0004-45f1-a31b-17d385f09a95"
+    },
+    {
+      "object": "related_card",
+      "id": "dd9df44a-a0ab-435f-914c-aa11cd88f4ec",
+      "component": "combo_piece",
+      "name": "Venomous Brutalizer",
+      "type_line": "Creature — Phyrexian Knight",
+      "uri": "https://api.scryfall.com/cards/dd9df44a-a0ab-435f-914c-aa11cd88f4ec"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/dd9df44a-a0ab-435f-914c-aa11cd88f4ec/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A766c3528-2c5c-4e92-aa85-b1e0e115d491&unique=prints",
+  "collector_number": "193",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Mike Jordana",
+  "artist_ids": [
+    "342d3a1e-0ddf-4823-af83-e13be8152b3f"
+  ],
+  "illustration_id": "dc1538b2-e798-4e80-ab7b-d9fff6082c4d",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 7482,
+  "penny_rank": 12668,
+  "preview": {
+    "source": "Shopee Mall",
+    "source_uri": "",
+    "previewed_at": "2023-01-24"
+  },
+  "prices": {
+    "usd": "0.23",
+    "usd_foil": "0.37",
+    "usd_etched": null,
+    "eur": "0.13",
+    "eur_foil": "0.14",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602723&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVenomous%2BBrutalizer",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVenomous%2BBrutalizer",
+    "edhrec": "https://edhrec.com/route/?cc=Venomous+Brutalizer"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F479366%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=694181&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106601?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Venomous%20Brutalizer → **Success** (HTTP 200)
+
+## Vikya, Scorching Stalwart
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/slx/11/vikya-scorching-stalwart?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "f3a9eac0-cc71-48ae-bb60-ae26160f2000",
+  "oracle_id": "ad43ccce-3052-4817-8c46-f5c23cb49300",
+  "multiverse_ids": [],
+  "mtgo_id": 105915,
+  "tcgplayer_id": 475511,
+  "cardmarket_id": 689797,
+  "name": "Vikya, Scorching Stalwart",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/f3a9eac0-cc71-48ae-bb60-ae26160f2000",
+  "scryfall_uri": "https://scryfall.com/card/slx/11/vikya-scorching-stalwart?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/3/f3a9eac0-cc71-48ae-bb60-ae26160f2000.jpg?1763917365",
+    "normal": "https://cards.scryfall.io/normal/front/f/3/f3a9eac0-cc71-48ae-bb60-ae26160f2000.jpg?1763917365",
+    "large": "https://cards.scryfall.io/large/front/f/3/f3a9eac0-cc71-48ae-bb60-ae26160f2000.jpg?1763917365",
+    "png": "https://cards.scryfall.io/png/front/f/3/f3a9eac0-cc71-48ae-bb60-ae26160f2000.png?1763917365",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/3/f3a9eac0-cc71-48ae-bb60-ae26160f2000.jpg?1763917365",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/3/f3a9eac0-cc71-48ae-bb60-ae26160f2000.jpg?1763917365"
+  },
+  "mana_cost": "{2}{W}",
+  "cmc": 3.0,
+  "type_line": "Legendary Creature — Human Warrior",
+  "oracle_text": "Training (Whenever this creature attacks with another creature with greater power, put a +1/+1 counter on this creature.)\n{4}{R}, {Q}, Discard a card: Vikya, Scorching Stalwart deals damage equal to its power to any target. If excess damage was dealt to a creature this way, draw a card. ({Q} is the untap symbol.)",
+  "power": "2",
+  "toughness": "4",
+  "colors": [
+    "W"
+  ],
+  "color_identity": [
+    "R",
+    "W"
+  ],
+  "keywords": [
+    "Training"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "not_legal",
+    "timeless": "not_legal",
+    "gladiator": "not_legal",
+    "pioneer": "not_legal",
+    "modern": "not_legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "not_legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "legal"
+  },
+  "games": [
+    "paper",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": false,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": true,
+  "variation": false,
+  "set_id": "3c318e12-9152-4300-a096-4f58a6438897",
+  "set": "slx",
+  "set_name": "Universes Within",
+  "set_type": "masters",
+  "set_uri": "https://api.scryfall.com/sets/3c318e12-9152-4300-a096-4f58a6438897",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aslx&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/slx?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/f3a9eac0-cc71-48ae-bb60-ae26160f2000/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aad43ccce-3052-4817-8c46-f5c23cb49300&unique=prints",
+  "collector_number": "11",
+  "digital": false,
+  "rarity": "rare",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Zoltan Boros",
+  "artist_ids": [
+    "1885e6cb-c827-4896-994e-3d0a027d602f"
+  ],
+  "illustration_id": "c747ad88-c6fe-47c0-ae81-ee0bb58f0a0d",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": false,
+  "story_spotlight": false,
+  "edhrec_rank": 17387,
+  "preview": {
+    "source": "Wizards of the Coast",
+    "source_uri": "https://www.twitch.tv/videos/1678101037",
+    "previewed_at": "2022-12-13"
+  },
+  "prices": {
+    "usd": "0.31",
+    "usd_foil": null,
+    "usd_etched": null,
+    "eur": "0.25",
+    "eur_foil": null,
+    "tix": "0.37"
+  },
+  "related_uris": {
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVikya%252C%2BScorching%2BStalwart",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVikya%252C%2BScorching%2BStalwart",
+    "edhrec": "https://edhrec.com/route/?cc=Vikya%2C+Scorching+Stalwart"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F475511%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=689797&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/105915?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Vikya%2C%20Scorching%20Stalwart → **Success** (HTTP 200)
+
+## Viral Spawning
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/194/viral-spawning?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "85ad30a1-3ecc-42ca-afe8-85df5bad9196",
+  "oracle_id": "9945c7eb-97a9-42df-a051-1ea514973280",
+  "multiverse_ids": [
+    602724
+  ],
+  "mtgo_id": 106603,
+  "arena_id": 83894,
+  "tcgplayer_id": 478827,
+  "cardmarket_id": 693886,
+  "name": "Viral Spawning",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/85ad30a1-3ecc-42ca-afe8-85df5bad9196",
+  "scryfall_uri": "https://scryfall.com/card/one/194/viral-spawning?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/8/5/85ad30a1-3ecc-42ca-afe8-85df5bad9196.jpg?1680795489",
+    "normal": "https://cards.scryfall.io/normal/front/8/5/85ad30a1-3ecc-42ca-afe8-85df5bad9196.jpg?1680795489",
+    "large": "https://cards.scryfall.io/large/front/8/5/85ad30a1-3ecc-42ca-afe8-85df5bad9196.jpg?1680795489",
+    "png": "https://cards.scryfall.io/png/front/8/5/85ad30a1-3ecc-42ca-afe8-85df5bad9196.png?1680795489",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/8/5/85ad30a1-3ecc-42ca-afe8-85df5bad9196.jpg?1680795489",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/8/5/85ad30a1-3ecc-42ca-afe8-85df5bad9196.jpg?1680795489"
+  },
+  "mana_cost": "{2}{G}",
+  "cmc": 3.0,
+  "type_line": "Sorcery",
+  "oracle_text": "Create a 3/3 green Phyrexian Beast creature token with toxic 1. (Players dealt combat damage by it also get a poison counter.)\nCorrupted — As long as an opponent has three or more poison counters and this card is in your graveyard, it has flashback {2}{G}. (You may cast this card from your graveyard for its flashback cost. Then exile it.)",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Corrupted"
+  ],
+  "all_parts": [
+    {
+      "object": "related_card",
+      "id": "40255bfa-0004-45f1-a31b-17d385f09a95",
+      "component": "combo_piece",
+      "name": "Poison Counter",
+      "type_line": "Card",
+      "uri": "https://api.scryfall.com/cards/40255bfa-0004-45f1-a31b-17d385f09a95"
+    },
+    {
+      "object": "related_card",
+      "id": "919381b0-2d23-4794-b4ff-923c23e18196",
+      "component": "token",
+      "name": "Phyrexian Beast",
+      "type_line": "Token Creature — Phyrexian Beast",
+      "uri": "https://api.scryfall.com/cards/919381b0-2d23-4794-b4ff-923c23e18196"
+    },
+    {
+      "object": "related_card",
+      "id": "85ad30a1-3ecc-42ca-afe8-85df5bad9196",
+      "component": "combo_piece",
+      "name": "Viral Spawning",
+      "type_line": "Sorcery",
+      "uri": "https://api.scryfall.com/cards/85ad30a1-3ecc-42ca-afe8-85df5bad9196"
+    }
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/85ad30a1-3ecc-42ca-afe8-85df5bad9196/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9945c7eb-97a9-42df-a051-1ea514973280&unique=prints",
+  "collector_number": "194",
+  "digital": false,
+  "rarity": "uncommon",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Denis Zhbankov",
+  "artist_ids": [
+    "959c0c11-2b4e-4e75-9e18-6c007d8f0e4d"
+  ],
+  "illustration_id": "1fd58265-cabc-4edf-9d7a-d4ecaadb1a86",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 16053,
+  "penny_rank": 12300,
+  "preview": {
+    "source": "CoolStuffInc",
+    "source_uri": "https://twitter.com/CoolStuffInc/status/1616465827238219779",
+    "previewed_at": "2023-01-20"
+  },
+  "prices": {
+    "usd": "0.06",
+    "usd_foil": "0.12",
+    "usd_etched": null,
+    "eur": "0.07",
+    "eur_foil": "0.32",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602724&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DViral%2BSpawning",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DViral%2BSpawning",
+    "edhrec": "https://edhrec.com/route/?cc=Viral+Spawning"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F478827%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=693886&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106603?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Viral%20Spawning → **Success** (HTTP 200)
+
+## Vivisection Evangelist
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/220/vivisection-evangelist?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "626c46a3-72b8-4e04-adf2-c9c7aaf94f04",
+  "oracle_id": "007f3b20-d58b-4986-8de8-9e419af88628",
+  "multiverse_ids": [
+    602750
+  ],
+  "mtgo_id": 106655,
+  "arena_id": 83920,
+  "tcgplayer_id": 478930,
+  "cardmarket_id": 693876,
+  "name": "Vivisection Evangelist",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/626c46a3-72b8-4e04-adf2-c9c7aaf94f04",
+  "scryfall_uri": "https://scryfall.com/card/one/220/vivisection-evangelist?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/6/2/626c46a3-72b8-4e04-adf2-c9c7aaf94f04.jpg?1675957217",
+    "normal": "https://cards.scryfall.io/normal/front/6/2/626c46a3-72b8-4e04-adf2-c9c7aaf94f04.jpg?1675957217",
+    "large": "https://cards.scryfall.io/large/front/6/2/626c46a3-72b8-4e04-adf2-c9c7aaf94f04.jpg?1675957217",
+    "png": "https://cards.scryfall.io/png/front/6/2/626c46a3-72b8-4e04-adf2-c9c7aaf94f04.png?1675957217",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/6/2/626c46a3-72b8-4e04-adf2-c9c7aaf94f04.jpg?1675957217",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/6/2/626c46a3-72b8-4e04-adf2-c9c7aaf94f04.jpg?1675957217"
+  },
+  "mana_cost": "{3}{W}{B}",
+  "cmc": 5.0,
+  "type_line": "Creature — Phyrexian Cleric",
+  "oracle_text": "Vigilance\nCorrupted — When this creature enters, if an opponent has three or more poison counters, destroy target creature or planeswalker an opponent controls.",
+  "power": "4",
+  "toughness": "4",
+  "colors": [
+    "B",
+    "W"
+  ],
+  "color_identity": [
+    "B",
+    "W"
+  ],
+  "keywords": [
+    "Vigilance",
+    "Corrupted"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "not_legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/626c46a3-72b8-4e04-adf2-c9c7aaf94f04/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3A007f3b20-d58b-4986-8de8-9e419af88628&unique=prints",
+  "collector_number": "220",
+  "digital": false,
+  "rarity": "uncommon",
+  "flavor_text": "\"May you rejoice in the magnificence of Norn. May your flesh serve perfection.\"",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Igor Kieryluk",
+  "artist_ids": [
+    "9c3e9d17-509f-485c-9360-46d897ce716b"
+  ],
+  "illustration_id": "86641234-0569-4567-bb86-7db39f0f313b",
+  "border_color": "black",
+  "frame": "2015",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 20718,
+  "prices": {
+    "usd": "0.11",
+    "usd_foil": "0.08",
+    "usd_etched": null,
+    "eur": "0.03",
+    "eur_foil": "0.19",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602750&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DVivisection%2BEvangelist",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DVivisection%2BEvangelist",
+    "edhrec": "https://edhrec.com/route/?cc=Vivisection+Evangelist"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F478930%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=693876&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106655?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Vivisection%20Evangelist → **Success** (HTTP 200)
+
+## Zopandrel, Hunger Dominus
+
+**Status:** Success
+
+**Scryfall URI:** https://scryfall.com/card/one/195/zopandrel-hunger-dominus?utm_source=api
+
+**Response JSON:**
+
+```json
+{
+  "object": "card",
+  "id": "fb419d9d-e06f-48c8-a4f8-a57f9be39e50",
+  "oracle_id": "b168e4e6-f572-4d9f-b98f-95b2611354cb",
+  "multiverse_ids": [
+    602725
+  ],
+  "mtgo_id": 106605,
+  "arena_id": 83895,
+  "tcgplayer_id": 479577,
+  "cardmarket_id": 694776,
+  "name": "Zopandrel, Hunger Dominus",
+  "lang": "en",
+  "released_at": "2023-02-10",
+  "uri": "https://api.scryfall.com/cards/fb419d9d-e06f-48c8-a4f8-a57f9be39e50",
+  "scryfall_uri": "https://scryfall.com/card/one/195/zopandrel-hunger-dominus?utm_source=api",
+  "layout": "normal",
+  "highres_image": true,
+  "image_status": "highres_scan",
+  "image_uris": {
+    "small": "https://cards.scryfall.io/small/front/f/b/fb419d9d-e06f-48c8-a4f8-a57f9be39e50.jpg?1675957181",
+    "normal": "https://cards.scryfall.io/normal/front/f/b/fb419d9d-e06f-48c8-a4f8-a57f9be39e50.jpg?1675957181",
+    "large": "https://cards.scryfall.io/large/front/f/b/fb419d9d-e06f-48c8-a4f8-a57f9be39e50.jpg?1675957181",
+    "png": "https://cards.scryfall.io/png/front/f/b/fb419d9d-e06f-48c8-a4f8-a57f9be39e50.png?1675957181",
+    "art_crop": "https://cards.scryfall.io/art_crop/front/f/b/fb419d9d-e06f-48c8-a4f8-a57f9be39e50.jpg?1675957181",
+    "border_crop": "https://cards.scryfall.io/border_crop/front/f/b/fb419d9d-e06f-48c8-a4f8-a57f9be39e50.jpg?1675957181"
+  },
+  "mana_cost": "{5}{G}{G}",
+  "cmc": 7.0,
+  "type_line": "Legendary Creature — Phyrexian Horror",
+  "oracle_text": "Reach\nAt the beginning of each combat, double the power and toughness of each creature you control until end of turn.\n{G/P}{G/P}, Sacrifice two other creatures: Put an indestructible counter on Zopandrel. ({G/P} can be paid with either {G} or 2 life.)",
+  "power": "4",
+  "toughness": "6",
+  "colors": [
+    "G"
+  ],
+  "color_identity": [
+    "G"
+  ],
+  "keywords": [
+    "Reach",
+    "Double"
+  ],
+  "legalities": {
+    "standard": "not_legal",
+    "future": "not_legal",
+    "historic": "legal",
+    "timeless": "legal",
+    "gladiator": "legal",
+    "pioneer": "legal",
+    "modern": "legal",
+    "legacy": "legal",
+    "pauper": "not_legal",
+    "vintage": "legal",
+    "penny": "legal",
+    "commander": "legal",
+    "oathbreaker": "legal",
+    "standardbrawl": "not_legal",
+    "brawl": "legal",
+    "alchemy": "not_legal",
+    "paupercommander": "not_legal",
+    "duel": "legal",
+    "oldschool": "not_legal",
+    "premodern": "not_legal",
+    "predh": "not_legal",
+    "tlr": "not_legal"
+  },
+  "games": [
+    "paper",
+    "arena",
+    "mtgo"
+  ],
+  "reserved": false,
+  "game_changer": false,
+  "foil": true,
+  "nonfoil": true,
+  "finishes": [
+    "nonfoil",
+    "foil"
+  ],
+  "oversized": false,
+  "promo": false,
+  "reprint": false,
+  "variation": false,
+  "set_id": "04bef644-343f-4230-95ee-255f29aa67a2",
+  "set": "one",
+  "set_name": "Phyrexia: All Will Be One",
+  "set_type": "expansion",
+  "set_uri": "https://api.scryfall.com/sets/04bef644-343f-4230-95ee-255f29aa67a2",
+  "set_search_uri": "https://api.scryfall.com/cards/search?order=set&q=e%3Aone&unique=prints",
+  "scryfall_set_uri": "https://scryfall.com/sets/one?utm_source=api",
+  "rulings_uri": "https://api.scryfall.com/cards/fb419d9d-e06f-48c8-a4f8-a57f9be39e50/rulings",
+  "prints_search_uri": "https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab168e4e6-f572-4d9f-b98f-95b2611354cb&unique=prints",
+  "collector_number": "195",
+  "digital": false,
+  "rarity": "mythic",
+  "card_back_id": "0aeebaf5-8c7d-4636-9e82-8c27447861f7",
+  "artist": "Antonio José Manzanedo",
+  "artist_ids": [
+    "74986d28-0001-4a78-827c-e490b325d0e3"
+  ],
+  "illustration_id": "cd426e6e-28c7-4902-b502-0ccf80a7e986",
+  "border_color": "black",
+  "frame": "2015",
+  "frame_effects": [
+    "legendary"
+  ],
+  "security_stamp": "oval",
+  "full_art": false,
+  "textless": false,
+  "booster": true,
+  "story_spotlight": false,
+  "edhrec_rank": 1142,
+  "preview": {
+    "source": "Fazendo Nerdice",
+    "source_uri": "https://twitter.com/Fazendo_Nerdice/status/1618265662660677638/photo/1",
+    "previewed_at": "2023-01-25"
+  },
+  "prices": {
+    "usd": "11.63",
+    "usd_foil": "14.92",
+    "usd_etched": null,
+    "eur": "9.52",
+    "eur_foil": "10.07",
+    "tix": "0.03"
+  },
+  "related_uris": {
+    "gatherer": "https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=602725&printed=false",
+    "tcgplayer_infinite_articles": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Farticles&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Farticles%3FproductLineName%3Dmagic%26q%3DZopandrel%252C%2BHunger%2BDominus",
+    "tcgplayer_infinite_decks": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&trafcat=tcgplayer.com%2Fsearch%2Fdecks&u=https%3A%2F%2Fwww.tcgplayer.com%2Fsearch%2Fdecks%3FproductLineName%3Dmagic%26q%3DZopandrel%252C%2BHunger%2BDominus",
+    "edhrec": "https://edhrec.com/route/?cc=Zopandrel%2C+Hunger+Dominus"
+  },
+  "purchase_uris": {
+    "tcgplayer": "https://partner.tcgplayer.com/c/4931599/1830156/21018?subId1=api&u=https%3A%2F%2Fwww.tcgplayer.com%2Fproduct%2F479577%3Fpage%3D1",
+    "cardmarket": "https://www.cardmarket.com/en/Magic/Products?idProduct=694776&referrer=scryfall&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall",
+    "cardhoarder": "https://www.cardhoarder.com/cards/106605?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall"
+  }
+}
+```
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Zopandrel%2C%20Hunger%20Dominus → **Success** (HTTP 200)
 
