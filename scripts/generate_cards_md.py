@@ -1017,8 +1017,14 @@ if __name__ == "__main__":
         except Exception:
             cache = {}
     unique_names = sorted({r.get('Name','') for r in rows})
-    # fetch names that are new OR have failed (not in successful list)
-    to_fetch = [n for n in unique_names if n not in successful_in_raw]
+    # fetch names that are: new, previously failed, OR successfully fetched but missing from cache
+    to_fetch = [
+        n for n in unique_names
+        if n not in successful_in_raw                          # never fetched or previously failed
+        or n not in cache                                      # fetched but cache entry missing
+        or not (cache.get(n) or {}).get('data')               # in cache but data is None
+    ]
+    skipped = len(unique_names) - len(to_fetch)
     not_found = []
 
     # Evict stale failed entries so scryfall_lookup makes a fresh network request
@@ -1028,7 +1034,7 @@ if __name__ == "__main__":
             del cache[n]
 
     if to_fetch:
-        print(f"Fetching {len(to_fetch)} cards from Scryfall (skipping {len(successful_in_raw)} with successful prior fetches)...")
+        print(f"Fetching {len(to_fetch)} cards from Scryfall (skipping {skipped} with successful prior fetches)...")
         for idx, name in enumerate(to_fetch, 1):
             print(f"  [{idx}/{len(to_fetch)}] {name}...")
             data, urls = scryfall_lookup(name, cache)

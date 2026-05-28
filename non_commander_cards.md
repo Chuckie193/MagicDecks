@@ -1,4 +1,4 @@
-# Non-Commander-Precon Cards (generated 2026-05-28T12:13:52.104831+00:00Z)
+# Non-Commander-Precon Cards (generated 2026-05-28T13:02:43.834986+00:00Z)
 
 Cards you own that are not reserved by a Commander precon, or copies in excess of Commander precon requirements. Cards from other precons (Secret Lairs, Foundations, etc.) are included here as they are free to use in custom decks.
 
@@ -8,18 +8,18 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Card | Copies | CMC | Type | Color Identity | Notes |
 |------|:------:|:---:|------|----------------|-------|
 | Action News Crew | 1 | 2 | Creature | White | not in any commander precon |
-| Adamant Will | 1 | — |  | Colorless | not in any commander precon |
-| Aether Syphon | 1 | — |  | Colorless | not in any commander precon |
-| Aggressive Mammoth | 1 | — |  | Colorless | not in any commander precon |
+| Adamant Will | 1 | 2 | Instant | White | not in any commander precon |
+| Aether Syphon | 1 | 3 | Artifact | Blue | not in any commander precon |
+| Aggressive Mammoth | 1 | 6 | Creature | Green | not in any commander precon |
 | Aisha of Sparks and Smoke | 1 | 3 | Legendary Creature | Red, White | not in any commander precon |
-| Ajani's Pridemate | 1 | — |  | Colorless | not in any commander precon |
-| Alania's Pathmaker | ×3 | — |  | Colorless | not in any commander precon |
-| Alania, Divergent Storm | 1 | — |  | Colorless | not in any commander precon |
-| Amy Rose | 1 | — |  | Colorless | not in any commander precon |
-| Ancestor Dragon | 1 | — |  | Colorless | not in any commander precon |
-| Angelic Edict | 1 | — |  | Colorless | not in any commander precon |
+| Ajani's Pridemate | 1 | 2 | Creature | White | not in any commander precon |
+| Alania's Pathmaker | ×3 | 4 | Creature | Red | not in any commander precon |
+| Alania, Divergent Storm | 1 | 5 | Legendary Creature | Red, Blue | not in any commander precon |
+| Amy Rose | 1 | 4 | Legendary Creature | Red, White | not in any commander precon |
+| Ancestor Dragon | 1 | 6 | Creature | White | not in any commander precon |
+| Angelic Edict | 1 | 5 | Sorcery | White | not in any commander precon |
 | Apostle of Invasion | 1 | 6 | Creature | White | not in any commander precon |
-| Arcane Epiphany | 1 | — |  | Colorless | not in any commander precon |
+| Arcane Epiphany | 1 | 5 | Instant | Blue | not in any commander precon |
 | Auntie's Sentence | 1 | 2 | Sorcery | Black | not in any commander precon |
 | Auspicious Starrix | 1 | 5 | Creature | Green | not in any commander precon |
 | Autarch Mammoth | 1 | 6 | Creature | Green | not in any commander precon |
@@ -150,12 +150,12 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Goblin Firebomb | 1 | 1 | Artifact | Colorless | not in any commander precon |
 | Goblin Oriflamme | 1 | 2 | Enchantment | Red | not in any commander precon |
 | Goblin Smuggler | 1 | 3 | Creature | Red | not in any commander precon |
-| Goblin Surveyor | 1 | — |  | Colorless | not in any commander precon |
-| Goliath Daydreamer | 1 | — |  | Colorless | not in any commander precon |
-| Guidelight Matrix | 1 | — |  | Colorless | not in any commander precon |
-| Guidelight Optimizer | 1 | — |  | Colorless | not in any commander precon |
-| Guidelight Synergist | 1 | — |  | Colorless | not in any commander precon |
-| Hammer of Nazahn | 1 | — |  | Colorless | not in any commander precon |
+| Goblin Surveyor | 1 | 3 | Creature | Red | not in any commander precon |
+| Goliath Daydreamer | 1 | 4 | Creature | Red | not in any commander precon |
+| Guidelight Matrix | 1 | 2 | Artifact | Colorless | not in any commander precon |
+| Guidelight Optimizer | 1 | 2 | Artifact Creature | Blue | not in any commander precon |
+| Guidelight Synergist | 1 | 4 | Artifact Creature | White | not in any commander precon |
+| Hammer of Nazahn | 1 | 4 | Legendary Artifact | Colorless | not in any commander precon |
 | Haradrim Spearmaster | 1 | 3 | Creature | Red | not in any commander precon |
 | Harmonized Crescendo | 1 | 6 | Instant | Blue | not in any commander precon |
 | Helpful Hunter | 1 | 2 | Creature | White | not in any commander precon |
@@ -275,26 +275,26 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Rohirrim Lancer | 1 | 1 | Creature | Red | not in any commander precon |
 | Rugged Highlands | 1 | 0 | Land | Green, Red | not in any commander precon |
 | Run Away Together | 1 | 2 | Instant | Blue | not in any commander precon |
-| Run Over | 1 | — |  | Colorless | not in any commander precon |
-| Safewright Cavalry | 1 | — |  | Colorless | not in any commander precon |
-| Savannah Lions | 1 | — |  | Colorless | not in any commander precon |
-| Scorching Dragonfire | 1 | — |  | Colorless | not in any commander precon |
+| Run Over | 1 | 2 | Instant | Green | not in any commander precon |
+| Safewright Cavalry | 1 | 4 | Creature | Green | not in any commander precon |
+| Savannah Lions | 1 | 1 | Creature | White | not in any commander precon |
+| Scorching Dragonfire | 1 | 2 | Instant | Red | not in any commander precon |
 | Seachrome Coast | 1 | 0 | Land | Blue, White | not in any commander precon |
-| Seize the Spoils | 1 | — |  | Colorless | not in any commander precon |
-| Serra Redeemer | 1 | — |  | Colorless | not in any commander precon |
-| Shadow the Hedgehog | 1 | — |  | Colorless | not in any commander precon |
+| Seize the Spoils | 1 | 3 | Sorcery | Red | not in any commander precon |
+| Serra Redeemer | 1 | 5 | Creature | White | not in any commander precon |
+| Shadow the Hedgehog | 1 | 4 | Legendary Creature | Black, Red | not in any commander precon |
 | Shark | 1 | 0 | Token Creature | Blue | not in any commander precon |
-| Shore Lurker | 1 | — |  | Colorless | not in any commander precon |
-| Silken Strength | 1 | — |  | Colorless | not in any commander precon |
+| Shore Lurker | 1 | 4 | Creature | White | not in any commander precon |
+| Silken Strength | 1 | 2 | Enchantment | Green | not in any commander precon |
 | Sinew Dancer | 1 | 1 | Creature | White | not in any commander precon |
-| Skeleton Archer | 1 | — |  | Colorless | not in any commander precon |
+| Skeleton Archer | 1 | 4 | Creature | Black | not in any commander precon |
 | Skybridge Towers | 1 | 0 | Land | Blue, White | not in any commander precon |
-| Skyraker Giant | 1 | — |  | Colorless | not in any commander precon |
+| Skyraker Giant | 1 | 4 | Creature | Red | not in any commander precon |
 | Skyscythe Engulfer | 1 | 6 | Creature | Green | not in any commander precon |
-| Skyship Buccaneer | 1 | — |  | Colorless | not in any commander precon |
+| Skyship Buccaneer | 1 | 5 | Creature | Blue | not in any commander precon |
 | Slaughter Singer | 1 | 2 | Creature | Green, White | not in any commander precon |
-| Snakeskin Veil | 1 | — |  | Colorless | not in any commander precon |
-| Sol Ring | 1 | — |  | Colorless | 3 copies used by Counter Intelligence; Prismari Artistry; Squirreled Away |
+| Snakeskin Veil | 1 | 1 | Instant | Green | not in any commander precon |
+| Sol Ring | 1 | 1 | Artifact | Colorless | 3 copies used by Counter Intelligence; Prismari Artistry; Squirreled Away |
 | Sonic the Hedgehog | 1 | 4 | Legendary Creature | Red, Blue, White | not in any commander precon |
 | Spectral Sailor | 1 | 1 | Creature | Blue | not in any commander precon |
 | Spellgyre | 1 | 4 | Instant | Blue | not in any commander precon |

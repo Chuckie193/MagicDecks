@@ -2,9 +2,29 @@
 
 | Name | uri | scryfall_uri | mana_cost | type_line | oracle_text | power | toughness | colors | color_identity | alt_names | Tried URLs |
 |---|---|---|---|---|---|---|---|---|---|---|---|
+| Abrade | https://api.scryfall.com/cards/1add1757-c1f8-448a-b279-c6940fb7ad5f | https://scryfall.com/card/soc/234/abrade?utm_source=api | 1 generic, Red | Instant | Choose one — • Abrade deals 3 damage to target creature. • Destroy target artifact. |  |  | Red | Red |  | https://api.scryfall.com/cards/named?fuzzy=Abrade (OK 200) |
+| Abstract Performance | https://api.scryfall.com/cards/2795c812-0850-4405-b968-b624deaccd55 | https://scryfall.com/card/soc/17/abstract-performance?utm_source=api | 5 generic, Blue | Sorcery | Exile the top four cards of your library in a face-down pile, then exile the top four cards of your library in a face-up pile. An opponent chooses one of those piles. Put that pile into your graveyard. Look at the cards in the other pile. You may cast a spell from among them without paying its mana cost. Put the rest into your hand. |  |  | Blue | Blue |  | https://api.scryfall.com/cards/named?fuzzy=Abstract%20Performance (OK 200) |
+| Academy Manufactor | https://api.scryfall.com/cards/76480f4d-ad6d-4ed6-82c6-fa12abc22557 | https://scryfall.com/card/otc/251/academy-manufactor?utm_source=api | 3 generic | Artifact Creature — Assembly-Worker | If you would create a Clue, Food, or Treasure token, instead create one of each. | 1 | 3 | Colorless or None | Colorless or None |  | https://api.scryfall.com/cards/named?fuzzy=Academy%20Manufactor (OK 200) |
 | Action News Crew | https://api.scryfall.com/cards/bc0f5ca8-47bd-4451-8fd1-a312ff7d31ec | https://scryfall.com/card/tmt/1/action-news-crew?utm_source=api | 1 generic, White | Creature — Human Citizen | Vigilance Channel — [6], Discard this card: Put a +1/+1 counter on each creature you control. Draw a card. | 2 | 2 | White | White |  | https://api.scryfall.com/cards/named?fuzzy=Action%20News%20Crew (OK 200) |
+| Adamant Will | https://api.scryfall.com/cards/1fd2c9ab-b3dd-4f68-b91f-0f075a045757 | https://scryfall.com/card/fdn/488/adamant-will?utm_source=api | 1 generic, White | Instant | Target creature gets +2/+2 and gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.) |  |  | White | White |  | https://api.scryfall.com/cards/named?fuzzy=Adamant%20Will (OK 200) |
+| Adarkar Wastes | https://api.scryfall.com/cards/42e0aa15-639a-4e88-9bd8-ce5e7c7d7649 | https://scryfall.com/card/eoc/147/adarkar-wastes?utm_source=api | 0 (no mana cost) | Land | [Tap]: Add [Colorless]. [Tap]: Add [White] or [Blue]. This land deals 1 damage to you. |  |  | Colorless or None | Blue, White |  | https://api.scryfall.com/cards/named?fuzzy=Adarkar%20Wastes (OK 200) |
+| Aether Gale | https://api.scryfall.com/cards/4e336e87-e5af-46a0-8caf-5d9ad8d671fd | https://scryfall.com/card/soc/186/aether-gale?utm_source=api | 3 generic, Blue, Blue | Sorcery | Return six target nonland permanents to their owners' hands. |  |  | Blue | Blue |  | https://api.scryfall.com/cards/named?fuzzy=Aether%20Gale (OK 200) |
+| Aether Syphon | https://api.scryfall.com/cards/d7033739-4cd8-4727-b9b5-099fb597006b | https://scryfall.com/card/dft/38/aether-syphon?utm_source=api | 1 generic, Blue, Blue | Artifact | Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.) [2], [Tap]: Draw a card. Max speed — Whenever you draw a card, each opponent mills two cards. (Each opponent puts the top two cards of their library into their graveyard.) |  |  | Blue | Blue |  | https://api.scryfall.com/cards/named?fuzzy=Aether%20Syphon (OK 200) |
+| Aggressive Mammoth | https://api.scryfall.com/cards/7724b978-999b-4654-96f3-58e28aa7cb34 | https://scryfall.com/card/fdn/551/aggressive-mammoth?utm_source=api | 3 generic, Green, Green, Green | Creature — Elephant | Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.) Other creatures you control have trample. | 8 | 8 | Green | Green |  | https://api.scryfall.com/cards/named?fuzzy=Aggressive%20Mammoth (OK 200) |
 | Aisha of Sparks and Smoke | https://api.scryfall.com/cards/093aa76d-2154-4e71-a2bf-461d1afb887b | https://scryfall.com/card/slx/12/aisha-of-sparks-and-smoke?utm_source=api | 1 generic, Red, Red | Legendary Creature — Human Warrior | Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.) [Red/White]: Aisha of Sparks and Smoke gains first strike until end of turn. Whenever Aisha deals combat damage, you may cast a sorcery spell from your hand with mana value less than or equal to that damage without paying its mana cost. | 4 | 2 | Red | Red, White |  | https://api.scryfall.com/cards/named?fuzzy=Aisha%20of%20Sparks%20and%20Smoke (OK 200) |
+| Ajani's Pridemate | https://api.scryfall.com/cards/222c1a68-e34c-4103-b1be-17d4ceaef6ce | https://scryfall.com/card/fdn/135/ajanis-pridemate?utm_source=api | 1 generic, White | Creature — Cat Soldier | Whenever you gain life, put a +1/+1 counter on this creature. | 2 | 2 | White | White |  | https://api.scryfall.com/cards/named?fuzzy=Ajani%27s%20Pridemate (OK 200) |
+| Alania's Pathmaker | https://api.scryfall.com/cards/d3871fe6-e26e-4ab4-bd81-7e3c7b8135c1 | https://scryfall.com/card/blb/123/alanias-pathmaker?utm_source=api | 3 generic, Red | Creature — Otter Wizard | When this creature enters, exile the top card of your library. Until the end of your next turn, you may play that card. | 4 | 2 | Red | Red |  | https://api.scryfall.com/cards/named?fuzzy=Alania%27s%20Pathmaker (OK 200) |
+| Alania, Divergent Storm | https://api.scryfall.com/cards/436d6a84-4cea-4ca7-94aa-9d08280652af | https://scryfall.com/card/blb/204/alania-divergent-storm?utm_source=api | 3 generic, Blue, Red | Legendary Creature — Otter Wizard | Whenever you cast a spell, if it's the first instant spell, the first sorcery spell, or the first Otter spell other than Alania you've cast this turn, you may have target opponent draw a card. If you do, copy that spell. You may choose new targets for the copy. | 3 | 5 | Red, Blue | Red, Blue |  | https://api.scryfall.com/cards/named?fuzzy=Alania%2C%20Divergent%20Storm (OK 200) |
+| Alibou, Ancient Witness | https://api.scryfall.com/cards/10ff4bac-1f93-4dd3-987a-523a6f733a1e | https://scryfall.com/card/eoc/113/alibou-ancient-witness?utm_source=api | 3 generic, Red, White | Legendary Artifact Creature — Golem | Other artifact creatures you control have haste. Whenever one or more artifact creatures you control attack, Alibou deals X damage to any target and you scry X, where X is the number of tapped artifacts you control. | 4 | 5 | Red, White | Red, White |  | https://api.scryfall.com/cards/named?fuzzy=Alibou%2C%20Ancient%20Witness (OK 200) |
+| Amy Rose | https://api.scryfall.com/cards/6ac0c02f-6428-4ed0-bd1a-bf9f4af9c3c1 | https://scryfall.com/card/sld/2083/amy-rose?utm_source=api | 2 generic, Red, White | Legendary Creature — Hedgehog Warrior | Haste Whenever Amy Rose attacks, attach up to one target Equipment to her. Then up to one other target attacking creature gets +X/+0 until end of turn, where X is Amy Rose's power. | 3 | 3 | Red, White | Red, White |  | https://api.scryfall.com/cards/named?fuzzy=Amy%20Rose (OK 200) |
+| Ancestor Dragon | https://api.scryfall.com/cards/df43d9d4-3fef-4a56-8b38-d52824117201 | https://scryfall.com/card/fdn/489/ancestor-dragon?utm_source=api | 4 generic, White, White | Creature — Dragon | Flying Whenever one or more creatures you control attack, you gain 1 life for each attacking creature. | 5 | 6 | White | White |  | https://api.scryfall.com/cards/named?fuzzy=Ancestor%20Dragon (OK 200) |
+| Ancient Den | https://api.scryfall.com/cards/d9a7b0f6-97f9-4937-865c-e25c142c3ed7 | https://scryfall.com/card/eoc/148/ancient-den?utm_source=api | 0 (no mana cost) | Artifact Land | [Tap]: Add [White]. |  |  | Colorless or None | White |  | https://api.scryfall.com/cards/named?fuzzy=Ancient%20Den (OK 200) |
+| Angel of the Ruins | https://api.scryfall.com/cards/4ad8d899-5901-4fc8-b4f0-adcc0d97fc6e | https://scryfall.com/card/eoc/63/angel-of-the-ruins?utm_source=api | 5 generic, White, White | Artifact Creature — Angel | Flying When this creature enters, exile up to two target artifacts and/or enchantments. Plainscycling [2] ([2], Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.) | 5 | 7 | White | White |  | https://api.scryfall.com/cards/named?fuzzy=Angel%20of%20the%20Ruins (OK 200) |
+| Angelic Edict | https://api.scryfall.com/cards/f14ed7f7-83c4-425b-a2b7-5bd76558ce76 | https://scryfall.com/card/jmp/87/angelic-edict?utm_source=api | 4 generic, White | Sorcery | Exile target creature or enchantment. |  |  | White | White |  | https://api.scryfall.com/cards/named?fuzzy=Angelic%20Edict (OK 200) |
 | Apostle of Invasion | https://api.scryfall.com/cards/8a973487-5def-4771-bb77-5748cbd2f469 | https://scryfall.com/card/one/3/apostle-of-invasion?utm_source=api | 4 generic, White, White | Creature — Phyrexian Angel | Flying Corrupted — As long as an opponent has three or more poison counters, this creature has double strike. | 4 | 4 | White | White |  | https://api.scryfall.com/cards/named?fuzzy=Apostle%20of%20Invasion (OK 200) |
+| Arasta of the Endless Web | https://api.scryfall.com/cards/95a87b4e-f0ea-457c-9517-4acf313c4ca6 | https://scryfall.com/card/tdc/244/arasta-of-the-endless-web?utm_source=api | 2 generic, Green, Green | Legendary Enchantment Creature — Spider | Reach Whenever an opponent casts an instant or sorcery spell, create a 1/2 green Spider creature token with reach. | 3 | 5 | Green | Green |  | https://api.scryfall.com/cards/named?fuzzy=Arasta%20of%20the%20Endless%20Web (OK 200) |
+| Arcane Denial | https://api.scryfall.com/cards/4931aa7c-b77b-4002-bfb1-b75a1bac1deb | https://scryfall.com/card/soc/187/arcane-denial?utm_source=api | 1 generic, Blue | Instant | Counter target spell. Its controller may draw up to two cards at the beginning of the next turn's upkeep. You draw a card at the beginning of the next turn's upkeep. |  |  | Blue | Blue |  | https://api.scryfall.com/cards/named?fuzzy=Arcane%20Denial (OK 200) |
+| Arcane Epiphany | https://api.scryfall.com/cards/06431793-5dfe-4cbf-990b-4bcc960d1f31 | https://scryfall.com/card/fdn/29/arcane-epiphany?utm_source=api | 3 generic, Blue, Blue | Instant | This spell costs [1] less to cast if you control a Wizard. Draw three cards. |  |  | Blue | Blue |  | https://api.scryfall.com/cards/named?fuzzy=Arcane%20Epiphany (OK 200) |
 | Arcane Signet | https://api.scryfall.com/cards/7811dd72-61b9-4067-ac20-cea153e625d2 | https://scryfall.com/card/soc/127/arcane-signet?utm_source=api | 2 generic | Artifact | [Tap]: Add one mana of any color in your commander's color identity. |  |  | Colorless or None | Colorless or None |  | https://api.scryfall.com/cards/named?fuzzy=Arcane%20Signet (OK 200) |
 | Archmage Emeritus | https://api.scryfall.com/cards/dd547601-d650-4a02-a3a4-890bcef03a7c | https://scryfall.com/card/soc/188/archmage-emeritus?utm_source=api | 2 generic, Blue, Blue | Creature — Human Wizard | Magecraft — Whenever you cast or copy an instant or sorcery spell, draw a card. | 2 | 2 | Blue | Blue |  | https://api.scryfall.com/cards/named?fuzzy=Archmage%20Emeritus (OK 200) |
 | Astral Cornucopia | https://api.scryfall.com/cards/15175742-11ae-4819-a5bd-412084b0b686 | https://scryfall.com/card/soc/342/astral-cornucopia?utm_source=api | X (variable), X (variable), X (variable) | Artifact | This artifact enters with X charge counters on it. [Tap]: Choose a color. Add one mana of that color for each charge counter on this artifact. |  |  | Colorless or None | Colorless or None |  | https://api.scryfall.com/cards/named?fuzzy=Astral%20Cornucopia (OK 200) |
@@ -205,8 +225,28 @@
 | Goblin Firebomb | https://api.scryfall.com/cards/55ab3f99-9541-4100-818c-5d9e916791e4 | https://scryfall.com/card/fdn/562/goblin-firebomb?utm_source=api | 1 generic | Artifact | Flash [7], [Tap], Sacrifice this artifact: Destroy target permanent. |  |  | Colorless or None | Colorless or None |  | https://api.scryfall.com/cards/named?fuzzy=Goblin%20Firebomb (OK 200) |
 | Goblin Oriflamme | https://api.scryfall.com/cards/0259e4d8-849b-468e-a902-aa1d7f2d5b6a | https://scryfall.com/card/fdn/539/goblin-oriflamme?utm_source=api | 1 generic, Red | Enchantment | Attacking creatures you control get +1/+0. |  |  | Red | Red |  | https://api.scryfall.com/cards/named?fuzzy=Goblin%20Oriflamme (OK 200) |
 | Goblin Smuggler | https://api.scryfall.com/cards/5837ccf1-9bac-4afb-bcc9-82c5f3c0e8e2 | https://scryfall.com/card/fdn/540/goblin-smuggler?utm_source=api | 2 generic, Red | Creature — Goblin Rogue | Haste (This creature can attack and [Tap] as soon as it comes under your control.) [Tap]: Another target creature with power 2 or less can't be blocked this turn. | 2 | 2 | Red | Red |  | https://api.scryfall.com/cards/named?fuzzy=Goblin%20Smuggler (OK 200) |
+| Goblin Surveyor | https://api.scryfall.com/cards/e1efffe9-00f8-4177-a9e6-4ad62887d32f | https://scryfall.com/card/dft/131/goblin-surveyor?utm_source=api | 2 generic, Red | Creature — Goblin Scout | Trample Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.) Max speed — [3], Exile this card from your graveyard: Draw a card. | 3 | 2 | Red | Red |  | https://api.scryfall.com/cards/named?fuzzy=Goblin%20Surveyor (OK 200) |
+| Goldspan Dragon | https://api.scryfall.com/cards/848c1951-90fa-4f01-9aed-76f1afcd9995 | https://scryfall.com/card/soc/245/goldspan-dragon?utm_source=api | 3 generic, Red, Red | Creature — Dragon | Flying, haste Whenever this creature attacks or becomes the target of a spell, create a Treasure token. Treasures you control have "[Tap], Sacrifice this artifact: Add two mana of any one color." | 4 | 4 | Red | Red |  | https://api.scryfall.com/cards/named?fuzzy=Goldspan%20Dragon (OK 200) |
+| Golem Foundry | https://api.scryfall.com/cards/18724f37-d50b-4b00-bd47-c5bc6e62697a | https://scryfall.com/card/eoc/138/golem-foundry?utm_source=api | 3 generic | Artifact | Whenever you cast an artifact spell, you may put a charge counter on this artifact. Remove three charge counters from this artifact: Create a 3/3 colorless Golem artifact creature token. |  |  | Colorless or None | Colorless or None |  | https://api.scryfall.com/cards/named?fuzzy=Golem%20Foundry (OK 200) |
+| Golgari Rot Farm | https://api.scryfall.com/cards/42486edd-24b7-4299-84fa-50559917b2a8 | https://scryfall.com/card/ecc/151/golgari-rot-farm?utm_source=api | 0 (no mana cost) | Land | This land enters tapped. When this land enters, return a land you control to its owner's hand. [Tap]: Add [Black][Green]. |  |  | Colorless or None | Black, Green |  | https://api.scryfall.com/cards/named?fuzzy=Golgari%20Rot%20Farm (OK 200) |
+| Golgari Signet | https://api.scryfall.com/cards/95103b4c-d0c0-40fa-9ddd-c7416455ca0c | https://scryfall.com/card/dsc/246/golgari-signet?utm_source=api | 2 generic | Artifact | [1], [Tap]: Add [Black][Green]. |  |  | Colorless or None | Black, Green |  | https://api.scryfall.com/cards/named?fuzzy=Golgari%20Signet (OK 200) |
+| Goliath Daydreamer | https://api.scryfall.com/cards/88e8cd13-2a29-4df6-937c-1bed68fbeafa | https://scryfall.com/card/ecl/143/goliath-daydreamer?utm_source=api | 2 generic, Red, Red | Creature — Giant Wizard | Whenever you cast an instant or sorcery spell from your hand, exile that card with a dream counter on it instead of putting it into your graveyard as it resolves. Whenever this creature attacks, you may cast a spell from among cards you own in exile with dream counters on them without paying its mana cost. | 4 | 4 | Red | Red |  | https://api.scryfall.com/cards/named?fuzzy=Goliath%20Daydreamer (OK 200) |
+| Gourmand's Talent | https://api.scryfall.com/cards/89670a1b-a6f1-491d-bbb4-92e3382da653 | https://scryfall.com/card/blc/31/gourmands-talent?utm_source=api | Green | Enchantment — Class | (Gain the next level as a sorcery to add its ability.) During your turn, artifacts you control are Foods in addition to their other types and have "[2], [Tap], Sacrifice this artifact: You gain 3 life." [2][Green]: Level 2 Whenever you gain life for the first time each turn, create a 3/3 green Raccoon creature token. [3][Green]: Level 3 Whenever you gain life for the first time each turn, put a +1/+1 counter on each creature you control. |  |  | Green | Green |  | https://api.scryfall.com/cards/named?fuzzy=Gourmand%27s%20Talent (OK 200) |
+| Great Furnace | https://api.scryfall.com/cards/74c5bb44-d72c-4c1a-a38f-86b4a8f49ae1 | https://scryfall.com/card/eoc/161/great-furnace?utm_source=api | 0 (no mana cost) | Artifact Land | [Tap]: Add [Red]. |  |  | Colorless or None | Red |  | https://api.scryfall.com/cards/named?fuzzy=Great%20Furnace (OK 200) |
+| Grim Backwoods | https://api.scryfall.com/cards/606c5f42-fe5f-4dcd-b8f4-b67beabe3f0a | https://scryfall.com/card/soc/377/grim-backwoods?utm_source=api | 0 (no mana cost) | Land | [Tap]: Add [Colorless]. [2][Black][Green], [Tap], Sacrifice a creature: Draw a card. |  |  | Colorless or None | Black, Green |  | https://api.scryfall.com/cards/named?fuzzy=Grim%20Backwoods (OK 200) |
+| Guidelight Matrix | https://api.scryfall.com/cards/cccf7fb5-c043-4a1f-ad2f-edb280cb5037 | https://scryfall.com/card/dft/233/guidelight-matrix?utm_source=api | 2 generic | Artifact | When this artifact enters, draw a card. [2], [Tap]: Target Mount you control becomes saddled until end of turn. Activate only as a sorcery. [2], [Tap]: Target Vehicle you control becomes an artifact creature until end of turn. |  |  | Colorless or None | Colorless or None |  | https://api.scryfall.com/cards/named?fuzzy=Guidelight%20Matrix (OK 200) |
+| Guidelight Optimizer | https://api.scryfall.com/cards/e9fc07dd-05b1-49ed-a3ee-46c31b8e0a3d | https://scryfall.com/card/dft/45/guidelight-optimizer?utm_source=api | 1 generic, Blue | Artifact Creature — Robot | [Tap]: Add [Blue]. Spend this mana only to cast an artifact spell or activate an ability. | 2 | 1 | Blue | Blue |  | https://api.scryfall.com/cards/named?fuzzy=Guidelight%20Optimizer (OK 200) |
+| Guidelight Synergist | https://api.scryfall.com/cards/fdaeea2c-d8aa-416f-95d6-6af888591fdf | https://scryfall.com/card/dft/16/guidelight-synergist?utm_source=api | 3 generic, White | Artifact Creature — Robot Artificer | Flying This creature gets +1/+0 for each artifact you control. | 0 | 4 | White | White |  | https://api.scryfall.com/cards/named?fuzzy=Guidelight%20Synergist (OK 200) |
+| Hall of Oracles | https://api.scryfall.com/cards/c29b896e-eee0-4f40-89b8-89262dae44e1 | https://scryfall.com/card/soc/378/hall-of-oracles?utm_source=api | 0 (no mana cost) | Land | [Tap]: Add [Colorless]. [1], [Tap]: Add one mana of any color. [Tap]: Put a +1/+1 counter on target creature. Activate only as a sorcery and only if you've cast an instant or sorcery spell this turn. |  |  | Colorless or None | Colorless or None |  | https://api.scryfall.com/cards/named?fuzzy=Hall%20of%20Oracles (OK 200) |
+| Hammer of Nazahn | https://api.scryfall.com/cards/e77a8ac1-f40d-423e-a0b3-0a8e236a6c1e | https://scryfall.com/card/cmm/388/hammer-of-nazahn?utm_source=api | 4 generic | Legendary Artifact — Equipment | Whenever Hammer of Nazahn or another Equipment you control enters, you may attach that Equipment to target creature you control. Equipped creature gets +2/+0 and has indestructible. Equip [4] |  |  | Colorless or None | Colorless or None | Piko Piko Hammer (SonictheHedgehog TurboGear) | https://api.scryfall.com/cards/named?fuzzy=Hammer%20of%20Nazahn (OK 200) |
+| Hangarback Walker | https://api.scryfall.com/cards/cc387ccf-f746-4855-81e5-64f5a5e0fdda | https://scryfall.com/card/soc/348/hangarback-walker?utm_source=api | X (variable), X (variable) | Artifact Creature — Construct | This creature enters with X +1/+1 counters on it. When this creature dies, create a 1/1 colorless Thopter artifact creature token with flying for each +1/+1 counter on this creature. [1], [Tap]: Put a +1/+1 counter on this creature. | 0 | 0 | Colorless or None | Colorless or None |  | https://api.scryfall.com/cards/named?fuzzy=Hangarback%20Walker (OK 200) |
 | Haradrim Spearmaster | https://api.scryfall.com/cards/6050cf98-cdce-4825-9ab8-2294a2b63faf | https://scryfall.com/card/ltr/135/haradrim-spearmaster?utm_source=api | 2 generic, Red | Creature — Human Warrior | Reach At the beginning of combat on your turn, another target creature you control gets +1/+0 until end of turn. | 2 | 3 | Red | Red |  | https://api.scryfall.com/cards/named?fuzzy=Haradrim%20Spearmaster (OK 200) |
+| Harmonic Prodigy | https://api.scryfall.com/cards/63a565e3-d7a8-469d-898f-49fef634c107 | https://scryfall.com/card/soc/123/harmonic-prodigy?utm_source=api | 1 generic, Red | Creature — Human Wizard | Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.) If a triggered ability of a Shaman or another Wizard you control triggers, that ability triggers an additional time. | 1 | 3 | Red | Red |  | https://api.scryfall.com/cards/named?fuzzy=Harmonic%20Prodigy (OK 200) |
 | Harmonized Crescendo | https://api.scryfall.com/cards/2715e0c0-9913-4bea-9a42-ad1164f6130a | https://scryfall.com/card/ecl/54/harmonized-crescendo?utm_source=api | 4 generic, Blue, Blue | Instant | Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for [1] or one mana of that creature's color.) Choose a creature type. Draw a card for each permanent you control of that type. |  |  | Blue | Blue |  | https://api.scryfall.com/cards/named?fuzzy=Harmonized%20Crescendo (OK 200) |
+| Haunted Mire | https://api.scryfall.com/cards/3e041aef-5771-4a3f-af07-e85a66c48979 | https://scryfall.com/card/soc/379/haunted-mire?utm_source=api | 0 (no mana cost) | Land — Swamp Forest | ([Tap]: Add [Black] or [Green].) This land enters tapped. |  |  | Colorless or None | Black, Green |  | https://api.scryfall.com/cards/named?fuzzy=Haunted%20Mire (OK 200) |
+| Haywire Mite | https://api.scryfall.com/cards/6f813bc3-6d81-4555-8e4b-6ecd9a6757b7 | https://scryfall.com/card/soc/349/haywire-mite?utm_source=api | 1 generic | Artifact Creature — Insect | When this creature dies, you gain 2 life. [Green], Sacrifice this creature: Exile target noncreature artifact or noncreature enchantment. | 1 | 1 | Colorless or None | Green |  | https://api.scryfall.com/cards/named?fuzzy=Haywire%20Mite (OK 200) |
+| Hazel of the Rootbloom | https://api.scryfall.com/cards/1269ca79-907e-4932-9e77-a9a5d2929060 | https://scryfall.com/card/blc/2/hazel-of-the-rootbloom?utm_source=api | 2 generic, Black, Green | Legendary Creature — Squirrel Druid | [Tap], Pay 2 life, Tap X untapped tokens you control: Add X mana in any combination of colors. At the beginning of your end step, create a token that's a copy of target token you control. If that token is a Squirrel, instead create two tokens that are copies of it. | 3 | 5 | Black, Green | Black, Green |  | https://api.scryfall.com/cards/named?fuzzy=Hazel%20of%20the%20Rootbloom (OK 200) |
+| Hazel's Brewmaster | https://api.scryfall.com/cards/52af8b70-a9c8-40d7-99da-fa51dc293688 | https://scryfall.com/card/blc/17/hazels-brewmaster?utm_source=api | 3 generic, Black | Creature — Squirrel Warlock | Menace Whenever this creature enters or attacks, exile up to one target card from a graveyard and create a Food token. Foods you control have all activated abilities of all creature cards exiled with this creature. | 3 | 4 | Black | Black |  | https://api.scryfall.com/cards/named?fuzzy=Hazel%27s%20Brewmaster (OK 200) |
 | Helpful Hunter | https://api.scryfall.com/cards/1b9a0e91-80b5-428f-8f08-931d0631be14 | https://scryfall.com/card/fdn/16/helpful-hunter?utm_source=api | 1 generic, White | Creature — Cat | When this creature enters, draw a card. | 1 | 1 | White | White |  | https://api.scryfall.com/cards/named?fuzzy=Helpful%20Hunter (OK 200) |
 | Herald of Faith | https://api.scryfall.com/cards/2e1705da-dc35-4bcb-82d4-b77712e79af3 | https://scryfall.com/card/fdn/735/herald-of-faith?utm_source=api | 3 generic, White, White | Creature — Angel | Flying Whenever this creature attacks, you gain 2 life. | 4 | 3 | White | White |  | https://api.scryfall.com/cards/named?fuzzy=Herald%20of%20Faith (OK 200) |
 | Hero's Downfall | https://api.scryfall.com/cards/ad2c01d9-8f54-46c0-9dc9-d4d4764ce1c9 | https://scryfall.com/card/fdn/175/heros-downfall?utm_source=api | 1 generic, Black, Black | Instant | Destroy target creature or planeswalker. |  |  | Black | Black |  | https://api.scryfall.com/cards/named?fuzzy=Hero%27s%20Downfall (OK 200) |
@@ -396,12 +436,41 @@
 | Rugged Highlands | https://api.scryfall.com/cards/31261eca-28ad-407c-84ef-0c124d0d7451 | https://scryfall.com/card/tdm/265/rugged-highlands?utm_source=api | 0 (no mana cost) | Land | This land enters tapped. When this land enters, you gain 1 life. [Tap]: Add [Red] or [Green]. |  |  | Colorless or None | Green, Red |  | https://api.scryfall.com/cards/named?fuzzy=Rugged%20Highlands (OK 200) |
 | Rugged Prairie | https://api.scryfall.com/cards/6bd21c9e-de16-4ee9-ae16-6e82b490109d | https://scryfall.com/card/soc/401/rugged-prairie?utm_source=api | 0 (no mana cost) | Land | [Tap]: Add [Colorless]. [Red/White], [Tap]: Add [Red][Red], [Red][White], or [White][White]. |  |  | Colorless or None | Red, White |  | https://api.scryfall.com/cards/named?fuzzy=Rugged%20Prairie (OK 200) |
 | Run Away Together | https://api.scryfall.com/cards/35c56aff-1f0f-464a-b705-d67803e3d060 | https://scryfall.com/card/ecl/67/run-away-together?utm_source=api | 1 generic, Blue | Instant | Choose two target creatures controlled by different players. Return those creatures to their owners' hands. |  |  | Blue | Blue |  | https://api.scryfall.com/cards/named?fuzzy=Run%20Away%20Together (OK 200) |
+| Run Over | https://api.scryfall.com/cards/642f8fdd-6c58-49a3-904c-27f717cae980 | https://scryfall.com/card/dft/179/run-over?utm_source=api | 1 generic, Green | Instant | This spell costs [1] less to cast if it targets a Mount or Vehicle you control. Target creature you control deals damage equal to its power to target creature an opponent controls. |  |  | Green | Green |  | https://api.scryfall.com/cards/named?fuzzy=Run%20Over (OK 200) |
+| Rustvale Bridge | https://api.scryfall.com/cards/da54e458-1d4f-45f0-a225-99eb9c4049fb | https://scryfall.com/card/eoc/175/rustvale-bridge?utm_source=api | 0 (no mana cost) | Artifact Land | This land enters tapped. Indestructible [Tap]: Add [Red] or [White]. |  |  | Colorless or None | Red, White |  | https://api.scryfall.com/cards/named?fuzzy=Rustvale%20Bridge (OK 200) |
+| Safewright Cavalry | https://api.scryfall.com/cards/f7de412a-9731-4bfc-8fbc-c95988a3dd70 | https://scryfall.com/card/ecl/191/safewright-cavalry?utm_source=api | 3 generic, Green | Creature — Elf Warrior | This creature can't be blocked by more than one creature. [5]: Target Elf you control gets +2/+2 until end of turn. | 4 | 4 | Green | Green |  | https://api.scryfall.com/cards/named?fuzzy=Safewright%20Cavalry (OK 200) |
+| Savannah Lions | https://api.scryfall.com/cards/9c9ac1bc-cdf3-4fa6-8319-a7ea164e9e47 | https://scryfall.com/card/fdn/146/savannah-lions?utm_source=api | White | Creature — Cat |  | 2 | 1 | White | White |  | https://api.scryfall.com/cards/named?fuzzy=Savannah%20Lions (OK 200) |
+| Saw in Half | https://api.scryfall.com/cards/05e6a7bc-a35a-4e68-99a0-be264553b5de | https://scryfall.com/card/unf/88/saw-in-half?utm_source=api | 2 generic, Black | Instant | Destroy target creature. If that creature dies this way, its controller creates two tokens that are copies of that creature, except their power is half that creature's power and their toughness is half that creature's toughness. Round up each time. |  |  | Black | Black |  | https://api.scryfall.com/cards/named?fuzzy=Saw%20in%20Half (OK 200) |
+| Scorched Geyser | https://api.scryfall.com/cards/5abdcad7-3b7a-43f6-a0ad-3aa99ee55c91 | https://scryfall.com/card/soc/54/scorched-geyser?utm_source=api | 0 (no mana cost) | Land — Island Mountain | ([Tap]: Add [Blue] or [Red].) This land enters tapped unless you control two or more basic lands. |  |  | Colorless or None | Red, Blue |  | https://api.scryfall.com/cards/named?fuzzy=Scorched%20Geyser (OK 200) |
+| Scorching Dragonfire | https://api.scryfall.com/cards/44ea09c1-d420-4e99-a968-ade614579287 | https://scryfall.com/card/fdn/545/scorching-dragonfire?utm_source=api | 1 generic, Red | Instant | Scorching Dragonfire deals 3 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead. |  |  | Red | Red |  | https://api.scryfall.com/cards/named?fuzzy=Scorching%20Dragonfire (OK 200) |
+| Scurry of Squirrels | https://api.scryfall.com/cards/c343b965-af2b-45c3-babb-9242736cf1e5 | https://scryfall.com/card/blc/33/scurry-of-squirrels?utm_source=api | 2 generic, Green | Creature — Squirrel Scout | Myriad, myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token that's a copy of this creature that's tapped and attacking that player or a planeswalker they control. Then do it again. Exile the tokens at end of combat.) Whenever this creature deals combat damage to a player, put a +1/+1 counter on target creature you control. | 2 | 2 | Green | Green |  | https://api.scryfall.com/cards/named?fuzzy=Scurry%20of%20Squirrels (OK 200) |
 | Seachrome Coast | https://api.scryfall.com/cards/9ed7441f-f624-49c8-8611-d9bba0e441ac | https://scryfall.com/card/one/258/seachrome-coast?utm_source=api | 0 (no mana cost) | Land | This land enters tapped unless you control two or fewer other lands. [Tap]: Add [White] or [Blue]. |  |  | Colorless or None | Blue, White |  | https://api.scryfall.com/cards/named?fuzzy=Seachrome%20Coast (OK 200) |
+| Seat of the Synod | https://api.scryfall.com/cards/57a194b3-2899-4dee-977a-c77df0b94dfe | https://scryfall.com/card/eoc/176/seat-of-the-synod?utm_source=api | 0 (no mana cost) | Artifact Land | [Tap]: Add [Blue]. |  |  | Colorless or None | Blue |  | https://api.scryfall.com/cards/named?fuzzy=Seat%20of%20the%20Synod (OK 200) |
+| Secluded Steppe | https://api.scryfall.com/cards/aaa5bee9-3f6a-45b0-a282-6b23222e948f | https://scryfall.com/card/eoc/177/secluded-steppe?utm_source=api | 0 (no mana cost) | Land | This land enters tapped. [Tap]: Add [White]. Cycling [White] ([White], Discard this card: Draw a card.) |  |  | Colorless or None | White |  | https://api.scryfall.com/cards/named?fuzzy=Secluded%20Steppe (OK 200) |
+| Second Harvest | https://api.scryfall.com/cards/aaecd005-b849-4e75-a8e0-24231bf2a0c9 | https://scryfall.com/card/inr/213/second-harvest?utm_source=api | 2 generic, Green, Green | Instant | For each token you control, create a token that's a copy of that permanent. |  |  | Green | Green |  | https://api.scryfall.com/cards/named?fuzzy=Second%20Harvest (OK 200) |
+| Seize the Spoils | https://api.scryfall.com/cards/4ddf4e34-a1f9-4636-942d-0a08e9f94320 | https://scryfall.com/card/sos/129/seize-the-spoils?utm_source=api | 2 generic, Red | Sorcery | As an additional cost to cast this spell, discard a card. Draw two cards and create a Treasure token. (It's an artifact with "[Tap], Sacrifice this token: Add one mana of any color.") |  |  | Red | Red |  | https://api.scryfall.com/cards/named?fuzzy=Seize%20the%20Spoils (OK 200) |
+| Serra Redeemer | https://api.scryfall.com/cards/230b9aef-bd9c-4332-ace4-b5b065bac6d8 | https://scryfall.com/card/blb/387/serra-redeemer?utm_source=api | 3 generic, White, White | Creature — Angel Soldier | Flying Whenever another creature you control with power 2 or less enters, put two +1/+1 counters on that creature. | 2 | 4 | White | White |  | https://api.scryfall.com/cards/named?fuzzy=Serra%20Redeemer (OK 200) |
+| Shadow the Hedgehog | https://api.scryfall.com/cards/6c184959-a1e5-40d7-8faa-99310c4156ef | https://scryfall.com/card/sld/2086/shadow-the-hedgehog?utm_source=api | Black, Black, Red, Red | Legendary Creature — Hedgehog Mercenary | Haste Whenever Shadow the Hedgehog or another creature you control with flash or haste dies, draw a card. Chaos Control — Each spell you cast has split second if mana from an artifact was spent to cast it. (As long as it's on the stack, players can't cast spells or activate abilities that aren't mana abilities.) | 4 | 2 | Black, Red | Black, Red |  | https://api.scryfall.com/cards/named?fuzzy=Shadow%20the%20Hedgehog (OK 200) |
+| Shamanic Revelation | https://api.scryfall.com/cards/b3784eff-ab7b-4fd4-9a07-fbc852d116bf | https://scryfall.com/card/ncc/311/shamanic-revelation?utm_source=api | 3 generic, Green, Green | Sorcery | Draw a card for each creature you control. Ferocious — You gain 4 life for each creature you control with power 4 or greater. |  |  | Green | Green |  | https://api.scryfall.com/cards/named?fuzzy=Shamanic%20Revelation (OK 200) |
 | Shark | https://api.scryfall.com/cards/f9424ef2-d271-4929-83e0-12775420bac3 | https://scryfall.com/card/tblc/16/shark?utm_source=api | 0 (no mana cost) | Token Creature — Shark |  | 3 | 3 | Blue | Blue |  | https://api.scryfall.com/cards/named?fuzzy=Shark (OK 200) |
+| Shivan Reef | https://api.scryfall.com/cards/e13d0982-2542-4770-8e93-637478a0f84a | https://scryfall.com/card/soc/404/shivan-reef?utm_source=api | 0 (no mana cost) | Land | [Tap]: Add [Colorless]. [Tap]: Add [Blue] or [Red]. This land deals 1 damage to you. |  |  | Colorless or None | Red, Blue |  | https://api.scryfall.com/cards/named?fuzzy=Shivan%20Reef (OK 200) |
+| Shore Lurker | https://api.scryfall.com/cards/bb353c27-e311-4677-9277-cab6820562ce | https://scryfall.com/card/ecl/34/shore-lurker?utm_source=api | 3 generic, White | Creature — Merfolk Scout | Flying When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.) | 3 | 3 | White | White |  | https://api.scryfall.com/cards/named?fuzzy=Shore%20Lurker (OK 200) |
+| Silken Strength | https://api.scryfall.com/cards/ce0e1ded-9b00-4d7b-884c-70a429783b1f | https://scryfall.com/card/dft/180/silken-strength?utm_source=api | 1 generic, Green | Enchantment — Aura | Flash Enchant creature or Vehicle When this Aura enters, untap enchanted permanent. Enchanted permanent gets +1/+2 and has reach. |  |  | Green | Green |  | https://api.scryfall.com/cards/named?fuzzy=Silken%20Strength (OK 200) |
+| Silverbluff Bridge | https://api.scryfall.com/cards/8f14540a-479f-4a3c-8e5b-f482caf48451 | https://scryfall.com/card/eoc/180/silverbluff-bridge?utm_source=api | 0 (no mana cost) | Artifact Land | This land enters tapped. Indestructible [Tap]: Add [Blue] or [Red]. |  |  | Colorless or None | Red, Blue |  | https://api.scryfall.com/cards/named?fuzzy=Silverbluff%20Bridge (OK 200) |
 | Sinew Dancer | https://api.scryfall.com/cards/ebad4fcc-4f78-48dc-b236-c78c22edc1e9 | https://scryfall.com/card/one/32/sinew-dancer?utm_source=api | White | Creature — Phyrexian Soldier | [3][White], [Tap]: Tap target creature. Corrupted — [White], [Tap]: Tap target creature. Activate only if an opponent has three or more poison counters. | 1 | 1 | White | White |  | https://api.scryfall.com/cards/named?fuzzy=Sinew%20Dancer (OK 200) |
+| Skeleton Archer | https://api.scryfall.com/cards/7a959048-0d8a-41bb-8a33-52264e525085 | https://scryfall.com/card/fdn/526/skeleton-archer?utm_source=api | 3 generic, Black | Creature — Skeleton Archer | When this creature enters, it deals 1 damage to any target. | 3 | 3 | Black | Black |  | https://api.scryfall.com/cards/named?fuzzy=Skeleton%20Archer (OK 200) |
+| Skullclamp | https://api.scryfall.com/cards/b5bb89dd-9d31-49d9-ba54-4a04798e515e | https://scryfall.com/card/tdc/103/skullclamp?utm_source=api | 1 generic | Artifact — Equipment | Equipped creature gets +1/-1. Whenever equipped creature dies, draw two cards. Equip [1] |  |  | Colorless or None | Colorless or None |  | https://api.scryfall.com/cards/named?fuzzy=Skullclamp (OK 200) |
 | Skybridge Towers | https://api.scryfall.com/cards/e28c871f-a96a-4e7d-a159-2e93aeb276d4 | https://scryfall.com/card/snc/256/skybridge-towers?utm_source=api | 0 (no mana cost) | Land | This land enters tapped. [Tap]: Add [White] or [Blue]. [2][White][Blue], [Tap], Sacrifice this land: Draw a card. |  |  | Colorless or None | Blue, White |  | https://api.scryfall.com/cards/named?fuzzy=Skybridge%20Towers (OK 200) |
+| Skycloud Expanse | https://api.scryfall.com/cards/03f8c846-d80c-49a4-a562-e817cd0c6096 | https://scryfall.com/card/eoc/181/skycloud-expanse?utm_source=api | 0 (no mana cost) | Land | [1], [Tap]: Add [White][Blue]. |  |  | Colorless or None | Blue, White |  | https://api.scryfall.com/cards/named?fuzzy=Skycloud%20Expanse (OK 200) |
+| Skyfisher Spider | https://api.scryfall.com/cards/87300ac8-8b6f-4c37-8058-beb59eaa66be | https://scryfall.com/card/bro/221/skyfisher-spider?utm_source=api | 2 generic, Black, Green | Creature — Spider | Reach When this creature enters, you may sacrifice another creature. When you do, destroy target nonland permanent. When this creature dies, you may gain 1 life for each creature card in your graveyard. If you do, exile this card from your graveyard. | 3 | 3 | Black, Green | Black, Green |  | https://api.scryfall.com/cards/named?fuzzy=Skyfisher%20Spider (OK 200) |
+| Skyraker Giant | https://api.scryfall.com/cards/5e3fbafb-e915-43eb-8a68-245840ba73ff | https://scryfall.com/card/fdn/547/skyraker-giant?utm_source=api | 2 generic, Red, Red | Creature — Giant | Reach (This creature can block creatures with flying.) | 4 | 3 | Red | Red |  | https://api.scryfall.com/cards/named?fuzzy=Skyraker%20Giant (OK 200) |
 | Skyscythe Engulfer | https://api.scryfall.com/cards/d7898399-3c52-402c-9cd7-baad2cb7f00e | https://scryfall.com/card/one/183/skyscythe-engulfer?utm_source=api | 5 generic, Green | Creature — Phyrexian Beast | Reach, trample This creature can't be blocked by creatures with flying. | 6 | 5 | Green | Green |  | https://api.scryfall.com/cards/named?fuzzy=Skyscythe%20Engulfer (OK 200) |
+| Skyship Buccaneer | https://api.scryfall.com/cards/62958fc3-55dc-4b97-a070-490d6ed27820 | https://scryfall.com/card/fdn/50/skyship-buccaneer?utm_source=api | 3 generic, Blue, Blue | Creature — Human Pirate | Flying Raid — When this creature enters, if you attacked this turn, draw a card. | 4 | 3 | Blue | Blue |  | https://api.scryfall.com/cards/named?fuzzy=Skyship%20Buccaneer (OK 200) |
 | Slaughter Singer | https://api.scryfall.com/cards/4a37aa46-bcf3-48a5-9f74-05e4878ad96f | https://scryfall.com/card/one/216/slaughter-singer?utm_source=api | Green, White | Creature — Phyrexian Cleric | Toxic 2 (Players dealt combat damage by this creature also get two poison counters.) Whenever another creature you control with toxic attacks, it gets +1/+1 until end of turn. | 2 | 2 | Green, White | Green, White |  | https://api.scryfall.com/cards/named?fuzzy=Slaughter%20Singer (OK 200) |
+| Snakeskin Veil | https://api.scryfall.com/cards/a3d2c692-7566-468e-9c86-47a9f768fde2 | https://scryfall.com/card/tdm/159/snakeskin-veil?utm_source=api | Green | Instant | Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.) |  |  | Green | Green |  | https://api.scryfall.com/cards/named?fuzzy=Snakeskin%20Veil (OK 200) |
+| Sol Ring | https://api.scryfall.com/cards/870ec754-a76c-40ea-9b81-81b3dca1f62c | https://scryfall.com/card/soc/128/sol-ring?utm_source=api | 1 generic | Artifact | [Tap]: Add [Colorless][Colorless]. |  |  | Colorless or None | Colorless or None |  | https://api.scryfall.com/cards/named?fuzzy=Sol%20Ring (OK 200) |
+| Solar Array | https://api.scryfall.com/cards/03c45b66-ddc7-43f8-95d0-fe2ad743b3a4 | https://scryfall.com/card/eoc/18/solar-array?utm_source=api | 3 generic | Artifact | [Tap]: Add one mana of any color. When you next cast an artifact spell this turn, that spell gains sunburst. (If it's a creature, it enters with a +1/+1 counter on it for each color of mana spent to cast it. Otherwise, it enters with that many charge counters on it.) |  |  | Colorless or None | Colorless or None |  | https://api.scryfall.com/cards/named?fuzzy=Solar%20Array (OK 200) |
+| Solemn Simulacrum | https://api.scryfall.com/cards/29fae212-b757-4e5f-ad9b-06cd09782f9f | https://scryfall.com/card/soc/355/solemn-simulacrum?utm_source=api | 4 generic | Artifact Creature — Golem | When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle. When this creature dies, you may draw a card. | 2 | 2 | Colorless or None | Colorless or None |  | https://api.scryfall.com/cards/named?fuzzy=Solemn%20Simulacrum (OK 200) |
 | Sonic the Hedgehog | https://api.scryfall.com/cards/072a0e6f-e636-4ce1-a253-580ab956410e | https://scryfall.com/card/sld/2087/sonic-the-hedgehog?utm_source=api | 1 generic, Blue, Red, White | Legendary Creature — Hedgehog Warrior | Haste Gotta Go Fast — Whenever Sonic the Hedgehog attacks, put a +1/+1 counter on each creature you control with flash or haste. Whenever a creature you control with flash or haste is dealt damage, create a tapped Treasure token. | 2 | 4 | Red, Blue, White | Red, Blue, White |  | https://api.scryfall.com/cards/named?fuzzy=Sonic%20the%20Hedgehog (OK 200) |
 | Soul-Guide Lantern | https://api.scryfall.com/cards/f4907e7b-d6d5-4e9b-968f-bce34ae4a577 | https://scryfall.com/card/eoc/143/soul-guide-lantern?utm_source=api | 1 generic | Artifact | When this artifact enters, exile target card from a graveyard. [Tap], Sacrifice this artifact: Exile each opponent's graveyard. [1], [Tap], Sacrifice this artifact: Draw a card. |  |  | Colorless or None | Colorless or None |  | https://api.scryfall.com/cards/named?fuzzy=Soul-Guide%20Lantern (OK 200) |
 | Spectacle Summit | https://api.scryfall.com/cards/a0a66f7b-eab4-45da-8895-c2c2c7eb05f8 | https://scryfall.com/card/sos/262/spectacle-summit?utm_source=api | 0 (no mana cost) | Land | This land enters tapped. [Tap]: Add [Blue] or [Red]. [2][Blue][Red], [Tap]: Surveil 1. (Look at the top card of your library. You may put it into your graveyard.) |  |  | Colorless or None | Red, Blue |  | https://api.scryfall.com/cards/named?fuzzy=Spectacle%20Summit (OK 200) |
@@ -521,6 +590,66 @@
 | Zenith Flare | https://api.scryfall.com/cards/0efac1ed-3f01-487c-86be-8239568b4425 | https://scryfall.com/card/iko/217/zenith-flare?utm_source=api | 2 generic, Red, White | Instant | Zenith Flare deals X damage to any target and you gain X life, where X is the number of cards with a cycling ability in your graveyard. |  |  | Red, White | Red, White |  | https://api.scryfall.com/cards/named?fuzzy=Zenith%20Flare (OK 200) |
 | Zopandrel, Hunger Dominus | https://api.scryfall.com/cards/fb419d9d-e06f-48c8-a4f8-a57f9be39e50 | https://scryfall.com/card/one/195/zopandrel-hunger-dominus?utm_source=api | 5 generic, Green, Green | Legendary Creature — Phyrexian Horror | Reach At the beginning of each combat, double the power and toughness of each creature you control until end of turn. [Green/Phyrexian][Green/Phyrexian], Sacrifice two other creatures: Put an indestructible counter on Zopandrel. ([Green/Phyrexian] can be paid with either [Green] or 2 life.) | 4 | 6 | Green | Green |  | https://api.scryfall.com/cards/named?fuzzy=Zopandrel%2C%20Hunger%20Dominus (OK 200) |
 | Zulaport Cutthroat | https://api.scryfall.com/cards/c43609fb-3cee-44e0-98d0-3ecaba1d5767 | https://scryfall.com/card/soc/233/zulaport-cutthroat?utm_source=api | 1 generic, Black | Creature — Human Rogue Ally | Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life. | 1 | 1 | Black | Black |  | https://api.scryfall.com/cards/named?fuzzy=Zulaport%20Cutthroat (OK 200) |
+## Abrade
+
+- uri: https://api.scryfall.com/cards/1add1757-c1f8-448a-b279-c6940fb7ad5f
+- scryfall_uri: https://scryfall.com/card/soc/234/abrade?utm_source=api
+- mana_cost: 1 generic, Red
+- type_line: Instant
+- oracle_text: Choose one —
+• Abrade deals 3 damage to target creature.
+• Destroy target artifact.
+- colors: Red
+- color_identity: Red
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Abrade
+- https://api.scryfall.com/cards/named?fuzzy=Abrade
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Abrade -> success (HTTP 200)
+
+## Abstract Performance
+
+- uri: https://api.scryfall.com/cards/2795c812-0850-4405-b968-b624deaccd55
+- scryfall_uri: https://scryfall.com/card/soc/17/abstract-performance?utm_source=api
+- mana_cost: 5 generic, Blue
+- type_line: Sorcery
+- oracle_text: Exile the top four cards of your library in a face-down pile, then exile the top four cards of your library in a face-up pile. An opponent chooses one of those piles. Put that pile into your graveyard. Look at the cards in the other pile. You may cast a spell from among them without paying its mana cost. Put the rest into your hand.
+- colors: Blue
+- color_identity: Blue
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Abstract%20Performance
+- https://api.scryfall.com/cards/named?fuzzy=Abstract%20Performance
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Abstract%20Performance -> success (HTTP 200)
+
+## Academy Manufactor
+
+- uri: https://api.scryfall.com/cards/76480f4d-ad6d-4ed6-82c6-fa12abc22557
+- scryfall_uri: https://scryfall.com/card/otc/251/academy-manufactor?utm_source=api
+- mana_cost: 3 generic
+- type_line: Artifact Creature — Assembly-Worker
+- oracle_text: If you would create a Clue, Food, or Treasure token, instead create one of each.
+- power/toughness: 1/3
+- colors: Colorless or None
+- color_identity: Colorless or None
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Academy%20Manufactor
+- https://api.scryfall.com/cards/named?fuzzy=Academy%20Manufactor
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Academy%20Manufactor -> success (HTTP 200)
+
 ## Action News Crew
 
 - uri: https://api.scryfall.com/cards/bc0f5ca8-47bd-4451-8fd1-a312ff7d31ec
@@ -541,6 +670,106 @@ Channel — [6], Discard this card: Put a +1/+1 counter on each creature you con
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Action%20News%20Crew -> success (HTTP 200)
+
+## Adamant Will
+
+- uri: https://api.scryfall.com/cards/1fd2c9ab-b3dd-4f68-b91f-0f075a045757
+- scryfall_uri: https://scryfall.com/card/fdn/488/adamant-will?utm_source=api
+- mana_cost: 1 generic, White
+- type_line: Instant
+- oracle_text: Target creature gets +2/+2 and gains indestructible until end of turn. (Damage and effects that say "destroy" don't destroy it.)
+- colors: White
+- color_identity: White
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Adamant%20Will
+- https://api.scryfall.com/cards/named?fuzzy=Adamant%20Will
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Adamant%20Will -> success (HTTP 200)
+
+## Adarkar Wastes
+
+- uri: https://api.scryfall.com/cards/42e0aa15-639a-4e88-9bd8-ce5e7c7d7649
+- scryfall_uri: https://scryfall.com/card/eoc/147/adarkar-wastes?utm_source=api
+- mana_cost: 0 (no mana cost)
+- type_line: Land
+- oracle_text: [Tap]: Add [Colorless].
+[Tap]: Add [White] or [Blue]. This land deals 1 damage to you.
+- colors: Colorless or None
+- color_identity: Blue, White
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Adarkar%20Wastes
+- https://api.scryfall.com/cards/named?fuzzy=Adarkar%20Wastes
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Adarkar%20Wastes -> success (HTTP 200)
+
+## Aether Gale
+
+- uri: https://api.scryfall.com/cards/4e336e87-e5af-46a0-8caf-5d9ad8d671fd
+- scryfall_uri: https://scryfall.com/card/soc/186/aether-gale?utm_source=api
+- mana_cost: 3 generic, Blue, Blue
+- type_line: Sorcery
+- oracle_text: Return six target nonland permanents to their owners' hands.
+- colors: Blue
+- color_identity: Blue
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Aether%20Gale
+- https://api.scryfall.com/cards/named?fuzzy=Aether%20Gale
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Aether%20Gale -> success (HTTP 200)
+
+## Aether Syphon
+
+- uri: https://api.scryfall.com/cards/d7033739-4cd8-4727-b9b5-099fb597006b
+- scryfall_uri: https://scryfall.com/card/dft/38/aether-syphon?utm_source=api
+- mana_cost: 1 generic, Blue, Blue
+- type_line: Artifact
+- oracle_text: Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+[2], [Tap]: Draw a card.
+Max speed — Whenever you draw a card, each opponent mills two cards. (Each opponent puts the top two cards of their library into their graveyard.)
+- colors: Blue
+- color_identity: Blue
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Aether%20Syphon
+- https://api.scryfall.com/cards/named?fuzzy=Aether%20Syphon
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Aether%20Syphon -> success (HTTP 200)
+
+## Aggressive Mammoth
+
+- uri: https://api.scryfall.com/cards/7724b978-999b-4654-96f3-58e28aa7cb34
+- scryfall_uri: https://scryfall.com/card/fdn/551/aggressive-mammoth?utm_source=api
+- mana_cost: 3 generic, Green, Green, Green
+- type_line: Creature — Elephant
+- oracle_text: Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.)
+Other creatures you control have trample.
+- power/toughness: 8/8
+- colors: Green
+- color_identity: Green
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Aggressive%20Mammoth
+- https://api.scryfall.com/cards/named?fuzzy=Aggressive%20Mammoth
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Aggressive%20Mammoth -> success (HTTP 200)
 
 ## Aisha of Sparks and Smoke
 
@@ -564,6 +793,189 @@ Whenever Aisha deals combat damage, you may cast a sorcery spell from your hand 
 
 - https://api.scryfall.com/cards/named?fuzzy=Aisha%20of%20Sparks%20and%20Smoke -> success (HTTP 200)
 
+## Ajani's Pridemate
+
+- uri: https://api.scryfall.com/cards/222c1a68-e34c-4103-b1be-17d4ceaef6ce
+- scryfall_uri: https://scryfall.com/card/fdn/135/ajanis-pridemate?utm_source=api
+- mana_cost: 1 generic, White
+- type_line: Creature — Cat Soldier
+- oracle_text: Whenever you gain life, put a +1/+1 counter on this creature.
+- power/toughness: 2/2
+- colors: White
+- color_identity: White
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Ajani%27s%20Pridemate
+- https://api.scryfall.com/cards/named?fuzzy=Ajani%27s%20Pridemate
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Ajani%27s%20Pridemate -> success (HTTP 200)
+
+## Alania's Pathmaker
+
+- uri: https://api.scryfall.com/cards/d3871fe6-e26e-4ab4-bd81-7e3c7b8135c1
+- scryfall_uri: https://scryfall.com/card/blb/123/alanias-pathmaker?utm_source=api
+- mana_cost: 3 generic, Red
+- type_line: Creature — Otter Wizard
+- oracle_text: When this creature enters, exile the top card of your library. Until the end of your next turn, you may play that card.
+- power/toughness: 4/2
+- colors: Red
+- color_identity: Red
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Alania%27s%20Pathmaker
+- https://api.scryfall.com/cards/named?fuzzy=Alania%27s%20Pathmaker
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Alania%27s%20Pathmaker -> success (HTTP 200)
+
+## Alania, Divergent Storm
+
+- uri: https://api.scryfall.com/cards/436d6a84-4cea-4ca7-94aa-9d08280652af
+- scryfall_uri: https://scryfall.com/card/blb/204/alania-divergent-storm?utm_source=api
+- mana_cost: 3 generic, Blue, Red
+- type_line: Legendary Creature — Otter Wizard
+- oracle_text: Whenever you cast a spell, if it's the first instant spell, the first sorcery spell, or the first Otter spell other than Alania you've cast this turn, you may have target opponent draw a card. If you do, copy that spell. You may choose new targets for the copy.
+- power/toughness: 3/5
+- colors: Red, Blue
+- color_identity: Red, Blue
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Alania%2C%20Divergent%20Storm
+- https://api.scryfall.com/cards/named?fuzzy=Alania%2C%20Divergent%20Storm
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Alania%2C%20Divergent%20Storm -> success (HTTP 200)
+
+## Alibou, Ancient Witness
+
+- uri: https://api.scryfall.com/cards/10ff4bac-1f93-4dd3-987a-523a6f733a1e
+- scryfall_uri: https://scryfall.com/card/eoc/113/alibou-ancient-witness?utm_source=api
+- mana_cost: 3 generic, Red, White
+- type_line: Legendary Artifact Creature — Golem
+- oracle_text: Other artifact creatures you control have haste.
+Whenever one or more artifact creatures you control attack, Alibou deals X damage to any target and you scry X, where X is the number of tapped artifacts you control.
+- power/toughness: 4/5
+- colors: Red, White
+- color_identity: Red, White
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Alibou%2C%20Ancient%20Witness
+- https://api.scryfall.com/cards/named?fuzzy=Alibou%2C%20Ancient%20Witness
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Alibou%2C%20Ancient%20Witness -> success (HTTP 200)
+
+## Amy Rose
+
+- uri: https://api.scryfall.com/cards/6ac0c02f-6428-4ed0-bd1a-bf9f4af9c3c1
+- scryfall_uri: https://scryfall.com/card/sld/2083/amy-rose?utm_source=api
+- mana_cost: 2 generic, Red, White
+- type_line: Legendary Creature — Hedgehog Warrior
+- oracle_text: Haste
+Whenever Amy Rose attacks, attach up to one target Equipment to her. Then up to one other target attacking creature gets +X/+0 until end of turn, where X is Amy Rose's power.
+- power/toughness: 3/3
+- colors: Red, White
+- color_identity: Red, White
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Amy%20Rose
+- https://api.scryfall.com/cards/named?fuzzy=Amy%20Rose
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Amy%20Rose -> success (HTTP 200)
+
+## Ancestor Dragon
+
+- uri: https://api.scryfall.com/cards/df43d9d4-3fef-4a56-8b38-d52824117201
+- scryfall_uri: https://scryfall.com/card/fdn/489/ancestor-dragon?utm_source=api
+- mana_cost: 4 generic, White, White
+- type_line: Creature — Dragon
+- oracle_text: Flying
+Whenever one or more creatures you control attack, you gain 1 life for each attacking creature.
+- power/toughness: 5/6
+- colors: White
+- color_identity: White
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Ancestor%20Dragon
+- https://api.scryfall.com/cards/named?fuzzy=Ancestor%20Dragon
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Ancestor%20Dragon -> success (HTTP 200)
+
+## Ancient Den
+
+- uri: https://api.scryfall.com/cards/d9a7b0f6-97f9-4937-865c-e25c142c3ed7
+- scryfall_uri: https://scryfall.com/card/eoc/148/ancient-den?utm_source=api
+- mana_cost: 0 (no mana cost)
+- type_line: Artifact Land
+- oracle_text: [Tap]: Add [White].
+- colors: Colorless or None
+- color_identity: White
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Ancient%20Den
+- https://api.scryfall.com/cards/named?fuzzy=Ancient%20Den
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Ancient%20Den -> success (HTTP 200)
+
+## Angel of the Ruins
+
+- uri: https://api.scryfall.com/cards/4ad8d899-5901-4fc8-b4f0-adcc0d97fc6e
+- scryfall_uri: https://scryfall.com/card/eoc/63/angel-of-the-ruins?utm_source=api
+- mana_cost: 5 generic, White, White
+- type_line: Artifact Creature — Angel
+- oracle_text: Flying
+When this creature enters, exile up to two target artifacts and/or enchantments.
+Plainscycling [2] ([2], Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)
+- power/toughness: 5/7
+- colors: White
+- color_identity: White
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Angel%20of%20the%20Ruins
+- https://api.scryfall.com/cards/named?fuzzy=Angel%20of%20the%20Ruins
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Angel%20of%20the%20Ruins -> success (HTTP 200)
+
+## Angelic Edict
+
+- uri: https://api.scryfall.com/cards/f14ed7f7-83c4-425b-a2b7-5bd76558ce76
+- scryfall_uri: https://scryfall.com/card/jmp/87/angelic-edict?utm_source=api
+- mana_cost: 4 generic, White
+- type_line: Sorcery
+- oracle_text: Exile target creature or enchantment.
+- colors: White
+- color_identity: White
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Angelic%20Edict
+- https://api.scryfall.com/cards/named?fuzzy=Angelic%20Edict
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Angelic%20Edict -> success (HTTP 200)
+
 ## Apostle of Invasion
 
 - uri: https://api.scryfall.com/cards/8a973487-5def-4771-bb77-5748cbd2f469
@@ -584,6 +996,67 @@ Corrupted — As long as an opponent has three or more poison counters, this cre
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Apostle%20of%20Invasion -> success (HTTP 200)
+
+## Arasta of the Endless Web
+
+- uri: https://api.scryfall.com/cards/95a87b4e-f0ea-457c-9517-4acf313c4ca6
+- scryfall_uri: https://scryfall.com/card/tdc/244/arasta-of-the-endless-web?utm_source=api
+- mana_cost: 2 generic, Green, Green
+- type_line: Legendary Enchantment Creature — Spider
+- oracle_text: Reach
+Whenever an opponent casts an instant or sorcery spell, create a 1/2 green Spider creature token with reach.
+- power/toughness: 3/5
+- colors: Green
+- color_identity: Green
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Arasta%20of%20the%20Endless%20Web
+- https://api.scryfall.com/cards/named?fuzzy=Arasta%20of%20the%20Endless%20Web
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Arasta%20of%20the%20Endless%20Web -> success (HTTP 200)
+
+## Arcane Denial
+
+- uri: https://api.scryfall.com/cards/4931aa7c-b77b-4002-bfb1-b75a1bac1deb
+- scryfall_uri: https://scryfall.com/card/soc/187/arcane-denial?utm_source=api
+- mana_cost: 1 generic, Blue
+- type_line: Instant
+- oracle_text: Counter target spell. Its controller may draw up to two cards at the beginning of the next turn's upkeep.
+You draw a card at the beginning of the next turn's upkeep.
+- colors: Blue
+- color_identity: Blue
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Arcane%20Denial
+- https://api.scryfall.com/cards/named?fuzzy=Arcane%20Denial
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Arcane%20Denial -> success (HTTP 200)
+
+## Arcane Epiphany
+
+- uri: https://api.scryfall.com/cards/06431793-5dfe-4cbf-990b-4bcc960d1f31
+- scryfall_uri: https://scryfall.com/card/fdn/29/arcane-epiphany?utm_source=api
+- mana_cost: 3 generic, Blue, Blue
+- type_line: Instant
+- oracle_text: This spell costs [1] less to cast if you control a Wizard.
+Draw three cards.
+- colors: Blue
+- color_identity: Blue
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Arcane%20Epiphany
+- https://api.scryfall.com/cards/named?fuzzy=Arcane%20Epiphany
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Arcane%20Epiphany -> success (HTTP 200)
 
 ## Arcane Signet
 
@@ -4673,6 +5146,321 @@ Cycling [2] ([2], Discard this card: Draw a card.)
 
 - https://api.scryfall.com/cards/named?fuzzy=Goblin%20Smuggler -> success (HTTP 200)
 
+## Goblin Surveyor
+
+- uri: https://api.scryfall.com/cards/e1efffe9-00f8-4177-a9e6-4ad62887d32f
+- scryfall_uri: https://scryfall.com/card/dft/131/goblin-surveyor?utm_source=api
+- mana_cost: 2 generic, Red
+- type_line: Creature — Goblin Scout
+- oracle_text: Trample
+Start your engines! (If you have no speed, it starts at 1. It increases once on each of your turns when an opponent loses life. Max speed is 4.)
+Max speed — [3], Exile this card from your graveyard: Draw a card.
+- power/toughness: 3/2
+- colors: Red
+- color_identity: Red
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Goblin%20Surveyor
+- https://api.scryfall.com/cards/named?fuzzy=Goblin%20Surveyor
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Goblin%20Surveyor -> success (HTTP 200)
+
+## Goldspan Dragon
+
+- uri: https://api.scryfall.com/cards/848c1951-90fa-4f01-9aed-76f1afcd9995
+- scryfall_uri: https://scryfall.com/card/soc/245/goldspan-dragon?utm_source=api
+- mana_cost: 3 generic, Red, Red
+- type_line: Creature — Dragon
+- oracle_text: Flying, haste
+Whenever this creature attacks or becomes the target of a spell, create a Treasure token.
+Treasures you control have "[Tap], Sacrifice this artifact: Add two mana of any one color."
+- power/toughness: 4/4
+- colors: Red
+- color_identity: Red
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Goldspan%20Dragon
+- https://api.scryfall.com/cards/named?fuzzy=Goldspan%20Dragon
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Goldspan%20Dragon -> success (HTTP 200)
+
+## Golem Foundry
+
+- uri: https://api.scryfall.com/cards/18724f37-d50b-4b00-bd47-c5bc6e62697a
+- scryfall_uri: https://scryfall.com/card/eoc/138/golem-foundry?utm_source=api
+- mana_cost: 3 generic
+- type_line: Artifact
+- oracle_text: Whenever you cast an artifact spell, you may put a charge counter on this artifact.
+Remove three charge counters from this artifact: Create a 3/3 colorless Golem artifact creature token.
+- colors: Colorless or None
+- color_identity: Colorless or None
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Golem%20Foundry
+- https://api.scryfall.com/cards/named?fuzzy=Golem%20Foundry
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Golem%20Foundry -> success (HTTP 200)
+
+## Golgari Rot Farm
+
+- uri: https://api.scryfall.com/cards/42486edd-24b7-4299-84fa-50559917b2a8
+- scryfall_uri: https://scryfall.com/card/ecc/151/golgari-rot-farm?utm_source=api
+- mana_cost: 0 (no mana cost)
+- type_line: Land
+- oracle_text: This land enters tapped.
+When this land enters, return a land you control to its owner's hand.
+[Tap]: Add [Black][Green].
+- colors: Colorless or None
+- color_identity: Black, Green
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Golgari%20Rot%20Farm
+- https://api.scryfall.com/cards/named?fuzzy=Golgari%20Rot%20Farm
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Golgari%20Rot%20Farm -> success (HTTP 200)
+
+## Golgari Signet
+
+- uri: https://api.scryfall.com/cards/95103b4c-d0c0-40fa-9ddd-c7416455ca0c
+- scryfall_uri: https://scryfall.com/card/dsc/246/golgari-signet?utm_source=api
+- mana_cost: 2 generic
+- type_line: Artifact
+- oracle_text: [1], [Tap]: Add [Black][Green].
+- colors: Colorless or None
+- color_identity: Black, Green
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Golgari%20Signet
+- https://api.scryfall.com/cards/named?fuzzy=Golgari%20Signet
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Golgari%20Signet -> success (HTTP 200)
+
+## Goliath Daydreamer
+
+- uri: https://api.scryfall.com/cards/88e8cd13-2a29-4df6-937c-1bed68fbeafa
+- scryfall_uri: https://scryfall.com/card/ecl/143/goliath-daydreamer?utm_source=api
+- mana_cost: 2 generic, Red, Red
+- type_line: Creature — Giant Wizard
+- oracle_text: Whenever you cast an instant or sorcery spell from your hand, exile that card with a dream counter on it instead of putting it into your graveyard as it resolves.
+Whenever this creature attacks, you may cast a spell from among cards you own in exile with dream counters on them without paying its mana cost.
+- power/toughness: 4/4
+- colors: Red
+- color_identity: Red
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Goliath%20Daydreamer
+- https://api.scryfall.com/cards/named?fuzzy=Goliath%20Daydreamer
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Goliath%20Daydreamer -> success (HTTP 200)
+
+## Gourmand's Talent
+
+- uri: https://api.scryfall.com/cards/89670a1b-a6f1-491d-bbb4-92e3382da653
+- scryfall_uri: https://scryfall.com/card/blc/31/gourmands-talent?utm_source=api
+- mana_cost: Green
+- type_line: Enchantment — Class
+- oracle_text: (Gain the next level as a sorcery to add its ability.)
+During your turn, artifacts you control are Foods in addition to their other types and have "[2], [Tap], Sacrifice this artifact: You gain 3 life."
+[2][Green]: Level 2
+Whenever you gain life for the first time each turn, create a 3/3 green Raccoon creature token.
+[3][Green]: Level 3
+Whenever you gain life for the first time each turn, put a +1/+1 counter on each creature you control.
+- colors: Green
+- color_identity: Green
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Gourmand%27s%20Talent
+- https://api.scryfall.com/cards/named?fuzzy=Gourmand%27s%20Talent
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Gourmand%27s%20Talent -> success (HTTP 200)
+
+## Great Furnace
+
+- uri: https://api.scryfall.com/cards/74c5bb44-d72c-4c1a-a38f-86b4a8f49ae1
+- scryfall_uri: https://scryfall.com/card/eoc/161/great-furnace?utm_source=api
+- mana_cost: 0 (no mana cost)
+- type_line: Artifact Land
+- oracle_text: [Tap]: Add [Red].
+- colors: Colorless or None
+- color_identity: Red
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Great%20Furnace
+- https://api.scryfall.com/cards/named?fuzzy=Great%20Furnace
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Great%20Furnace -> success (HTTP 200)
+
+## Grim Backwoods
+
+- uri: https://api.scryfall.com/cards/606c5f42-fe5f-4dcd-b8f4-b67beabe3f0a
+- scryfall_uri: https://scryfall.com/card/soc/377/grim-backwoods?utm_source=api
+- mana_cost: 0 (no mana cost)
+- type_line: Land
+- oracle_text: [Tap]: Add [Colorless].
+[2][Black][Green], [Tap], Sacrifice a creature: Draw a card.
+- colors: Colorless or None
+- color_identity: Black, Green
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Grim%20Backwoods
+- https://api.scryfall.com/cards/named?fuzzy=Grim%20Backwoods
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Grim%20Backwoods -> success (HTTP 200)
+
+## Guidelight Matrix
+
+- uri: https://api.scryfall.com/cards/cccf7fb5-c043-4a1f-ad2f-edb280cb5037
+- scryfall_uri: https://scryfall.com/card/dft/233/guidelight-matrix?utm_source=api
+- mana_cost: 2 generic
+- type_line: Artifact
+- oracle_text: When this artifact enters, draw a card.
+[2], [Tap]: Target Mount you control becomes saddled until end of turn. Activate only as a sorcery.
+[2], [Tap]: Target Vehicle you control becomes an artifact creature until end of turn.
+- colors: Colorless or None
+- color_identity: Colorless or None
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Guidelight%20Matrix
+- https://api.scryfall.com/cards/named?fuzzy=Guidelight%20Matrix
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Guidelight%20Matrix -> success (HTTP 200)
+
+## Guidelight Optimizer
+
+- uri: https://api.scryfall.com/cards/e9fc07dd-05b1-49ed-a3ee-46c31b8e0a3d
+- scryfall_uri: https://scryfall.com/card/dft/45/guidelight-optimizer?utm_source=api
+- mana_cost: 1 generic, Blue
+- type_line: Artifact Creature — Robot
+- oracle_text: [Tap]: Add [Blue]. Spend this mana only to cast an artifact spell or activate an ability.
+- power/toughness: 2/1
+- colors: Blue
+- color_identity: Blue
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Guidelight%20Optimizer
+- https://api.scryfall.com/cards/named?fuzzy=Guidelight%20Optimizer
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Guidelight%20Optimizer -> success (HTTP 200)
+
+## Guidelight Synergist
+
+- uri: https://api.scryfall.com/cards/fdaeea2c-d8aa-416f-95d6-6af888591fdf
+- scryfall_uri: https://scryfall.com/card/dft/16/guidelight-synergist?utm_source=api
+- mana_cost: 3 generic, White
+- type_line: Artifact Creature — Robot Artificer
+- oracle_text: Flying
+This creature gets +1/+0 for each artifact you control.
+- power/toughness: 0/4
+- colors: White
+- color_identity: White
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Guidelight%20Synergist
+- https://api.scryfall.com/cards/named?fuzzy=Guidelight%20Synergist
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Guidelight%20Synergist -> success (HTTP 200)
+
+## Hall of Oracles
+
+- uri: https://api.scryfall.com/cards/c29b896e-eee0-4f40-89b8-89262dae44e1
+- scryfall_uri: https://scryfall.com/card/soc/378/hall-of-oracles?utm_source=api
+- mana_cost: 0 (no mana cost)
+- type_line: Land
+- oracle_text: [Tap]: Add [Colorless].
+[1], [Tap]: Add one mana of any color.
+[Tap]: Put a +1/+1 counter on target creature. Activate only as a sorcery and only if you've cast an instant or sorcery spell this turn.
+- colors: Colorless or None
+- color_identity: Colorless or None
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Hall%20of%20Oracles
+- https://api.scryfall.com/cards/named?fuzzy=Hall%20of%20Oracles
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Hall%20of%20Oracles -> success (HTTP 200)
+
+## Hammer of Nazahn
+
+- uri: https://api.scryfall.com/cards/e77a8ac1-f40d-423e-a0b3-0a8e236a6c1e
+- scryfall_uri: https://scryfall.com/card/cmm/388/hammer-of-nazahn?utm_source=api
+- mana_cost: 4 generic
+- type_line: Legendary Artifact — Equipment
+- oracle_text: Whenever Hammer of Nazahn or another Equipment you control enters, you may attach that Equipment to target creature you control.
+Equipped creature gets +2/+0 and has indestructible.
+Equip [4]
+- colors: Colorless or None
+- color_identity: Colorless or None
+- alt_names: Piko Piko Hammer (SonictheHedgehog TurboGear)
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Hammer%20of%20Nazahn
+- https://api.scryfall.com/cards/named?fuzzy=Hammer%20of%20Nazahn
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Hammer%20of%20Nazahn -> success (HTTP 200)
+
+## Hangarback Walker
+
+- uri: https://api.scryfall.com/cards/cc387ccf-f746-4855-81e5-64f5a5e0fdda
+- scryfall_uri: https://scryfall.com/card/soc/348/hangarback-walker?utm_source=api
+- mana_cost: X (variable), X (variable)
+- type_line: Artifact Creature — Construct
+- oracle_text: This creature enters with X +1/+1 counters on it.
+When this creature dies, create a 1/1 colorless Thopter artifact creature token with flying for each +1/+1 counter on this creature.
+[1], [Tap]: Put a +1/+1 counter on this creature.
+- power/toughness: 0/0
+- colors: Colorless or None
+- color_identity: Colorless or None
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Hangarback%20Walker
+- https://api.scryfall.com/cards/named?fuzzy=Hangarback%20Walker
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Hangarback%20Walker -> success (HTTP 200)
+
 ## Haradrim Spearmaster
 
 - uri: https://api.scryfall.com/cards/6050cf98-cdce-4825-9ab8-2294a2b63faf
@@ -4694,6 +5482,27 @@ At the beginning of combat on your turn, another target creature you control get
 
 - https://api.scryfall.com/cards/named?fuzzy=Haradrim%20Spearmaster -> success (HTTP 200)
 
+## Harmonic Prodigy
+
+- uri: https://api.scryfall.com/cards/63a565e3-d7a8-469d-898f-49fef634c107
+- scryfall_uri: https://scryfall.com/card/soc/123/harmonic-prodigy?utm_source=api
+- mana_cost: 1 generic, Red
+- type_line: Creature — Human Wizard
+- oracle_text: Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
+If a triggered ability of a Shaman or another Wizard you control triggers, that ability triggers an additional time.
+- power/toughness: 1/3
+- colors: Red
+- color_identity: Red
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Harmonic%20Prodigy
+- https://api.scryfall.com/cards/named?fuzzy=Harmonic%20Prodigy
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Harmonic%20Prodigy -> success (HTTP 200)
+
 ## Harmonized Crescendo
 
 - uri: https://api.scryfall.com/cards/2715e0c0-9913-4bea-9a42-ad1164f6130a
@@ -4713,6 +5522,90 @@ Choose a creature type. Draw a card for each permanent you control of that type.
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Harmonized%20Crescendo -> success (HTTP 200)
+
+## Haunted Mire
+
+- uri: https://api.scryfall.com/cards/3e041aef-5771-4a3f-af07-e85a66c48979
+- scryfall_uri: https://scryfall.com/card/soc/379/haunted-mire?utm_source=api
+- mana_cost: 0 (no mana cost)
+- type_line: Land — Swamp Forest
+- oracle_text: ([Tap]: Add [Black] or [Green].)
+This land enters tapped.
+- colors: Colorless or None
+- color_identity: Black, Green
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Haunted%20Mire
+- https://api.scryfall.com/cards/named?fuzzy=Haunted%20Mire
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Haunted%20Mire -> success (HTTP 200)
+
+## Haywire Mite
+
+- uri: https://api.scryfall.com/cards/6f813bc3-6d81-4555-8e4b-6ecd9a6757b7
+- scryfall_uri: https://scryfall.com/card/soc/349/haywire-mite?utm_source=api
+- mana_cost: 1 generic
+- type_line: Artifact Creature — Insect
+- oracle_text: When this creature dies, you gain 2 life.
+[Green], Sacrifice this creature: Exile target noncreature artifact or noncreature enchantment.
+- power/toughness: 1/1
+- colors: Colorless or None
+- color_identity: Green
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Haywire%20Mite
+- https://api.scryfall.com/cards/named?fuzzy=Haywire%20Mite
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Haywire%20Mite -> success (HTTP 200)
+
+## Hazel of the Rootbloom
+
+- uri: https://api.scryfall.com/cards/1269ca79-907e-4932-9e77-a9a5d2929060
+- scryfall_uri: https://scryfall.com/card/blc/2/hazel-of-the-rootbloom?utm_source=api
+- mana_cost: 2 generic, Black, Green
+- type_line: Legendary Creature — Squirrel Druid
+- oracle_text: [Tap], Pay 2 life, Tap X untapped tokens you control: Add X mana in any combination of colors.
+At the beginning of your end step, create a token that's a copy of target token you control. If that token is a Squirrel, instead create two tokens that are copies of it.
+- power/toughness: 3/5
+- colors: Black, Green
+- color_identity: Black, Green
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Hazel%20of%20the%20Rootbloom
+- https://api.scryfall.com/cards/named?fuzzy=Hazel%20of%20the%20Rootbloom
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Hazel%20of%20the%20Rootbloom -> success (HTTP 200)
+
+## Hazel's Brewmaster
+
+- uri: https://api.scryfall.com/cards/52af8b70-a9c8-40d7-99da-fa51dc293688
+- scryfall_uri: https://scryfall.com/card/blc/17/hazels-brewmaster?utm_source=api
+- mana_cost: 3 generic, Black
+- type_line: Creature — Squirrel Warlock
+- oracle_text: Menace
+Whenever this creature enters or attacks, exile up to one target card from a graveyard and create a Food token.
+Foods you control have all activated abilities of all creature cards exiled with this creature.
+- power/toughness: 3/4
+- colors: Black
+- color_identity: Black
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Hazel%27s%20Brewmaster
+- https://api.scryfall.com/cards/named?fuzzy=Hazel%27s%20Brewmaster
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Hazel%27s%20Brewmaster -> success (HTTP 200)
 
 ## Helpful Hunter
 
@@ -8573,6 +9466,167 @@ When this land enters, you gain 1 life.
 
 - https://api.scryfall.com/cards/named?fuzzy=Run%20Away%20Together -> success (HTTP 200)
 
+## Run Over
+
+- uri: https://api.scryfall.com/cards/642f8fdd-6c58-49a3-904c-27f717cae980
+- scryfall_uri: https://scryfall.com/card/dft/179/run-over?utm_source=api
+- mana_cost: 1 generic, Green
+- type_line: Instant
+- oracle_text: This spell costs [1] less to cast if it targets a Mount or Vehicle you control.
+Target creature you control deals damage equal to its power to target creature an opponent controls.
+- colors: Green
+- color_identity: Green
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Run%20Over
+- https://api.scryfall.com/cards/named?fuzzy=Run%20Over
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Run%20Over -> success (HTTP 200)
+
+## Rustvale Bridge
+
+- uri: https://api.scryfall.com/cards/da54e458-1d4f-45f0-a225-99eb9c4049fb
+- scryfall_uri: https://scryfall.com/card/eoc/175/rustvale-bridge?utm_source=api
+- mana_cost: 0 (no mana cost)
+- type_line: Artifact Land
+- oracle_text: This land enters tapped.
+Indestructible
+[Tap]: Add [Red] or [White].
+- colors: Colorless or None
+- color_identity: Red, White
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Rustvale%20Bridge
+- https://api.scryfall.com/cards/named?fuzzy=Rustvale%20Bridge
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Rustvale%20Bridge -> success (HTTP 200)
+
+## Safewright Cavalry
+
+- uri: https://api.scryfall.com/cards/f7de412a-9731-4bfc-8fbc-c95988a3dd70
+- scryfall_uri: https://scryfall.com/card/ecl/191/safewright-cavalry?utm_source=api
+- mana_cost: 3 generic, Green
+- type_line: Creature — Elf Warrior
+- oracle_text: This creature can't be blocked by more than one creature.
+[5]: Target Elf you control gets +2/+2 until end of turn.
+- power/toughness: 4/4
+- colors: Green
+- color_identity: Green
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Safewright%20Cavalry
+- https://api.scryfall.com/cards/named?fuzzy=Safewright%20Cavalry
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Safewright%20Cavalry -> success (HTTP 200)
+
+## Savannah Lions
+
+- uri: https://api.scryfall.com/cards/9c9ac1bc-cdf3-4fa6-8319-a7ea164e9e47
+- scryfall_uri: https://scryfall.com/card/fdn/146/savannah-lions?utm_source=api
+- mana_cost: White
+- type_line: Creature — Cat
+- oracle_text: 
+- power/toughness: 2/1
+- colors: White
+- color_identity: White
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Savannah%20Lions
+- https://api.scryfall.com/cards/named?fuzzy=Savannah%20Lions
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Savannah%20Lions -> success (HTTP 200)
+
+## Saw in Half
+
+- uri: https://api.scryfall.com/cards/05e6a7bc-a35a-4e68-99a0-be264553b5de
+- scryfall_uri: https://scryfall.com/card/unf/88/saw-in-half?utm_source=api
+- mana_cost: 2 generic, Black
+- type_line: Instant
+- oracle_text: Destroy target creature. If that creature dies this way, its controller creates two tokens that are copies of that creature, except their power is half that creature's power and their toughness is half that creature's toughness. Round up each time.
+- colors: Black
+- color_identity: Black
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Saw%20in%20Half
+- https://api.scryfall.com/cards/named?fuzzy=Saw%20in%20Half
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Saw%20in%20Half -> success (HTTP 200)
+
+## Scorched Geyser
+
+- uri: https://api.scryfall.com/cards/5abdcad7-3b7a-43f6-a0ad-3aa99ee55c91
+- scryfall_uri: https://scryfall.com/card/soc/54/scorched-geyser?utm_source=api
+- mana_cost: 0 (no mana cost)
+- type_line: Land — Island Mountain
+- oracle_text: ([Tap]: Add [Blue] or [Red].)
+This land enters tapped unless you control two or more basic lands.
+- colors: Colorless or None
+- color_identity: Red, Blue
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Scorched%20Geyser
+- https://api.scryfall.com/cards/named?fuzzy=Scorched%20Geyser
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Scorched%20Geyser -> success (HTTP 200)
+
+## Scorching Dragonfire
+
+- uri: https://api.scryfall.com/cards/44ea09c1-d420-4e99-a968-ade614579287
+- scryfall_uri: https://scryfall.com/card/fdn/545/scorching-dragonfire?utm_source=api
+- mana_cost: 1 generic, Red
+- type_line: Instant
+- oracle_text: Scorching Dragonfire deals 3 damage to target creature or planeswalker. If that creature or planeswalker would die this turn, exile it instead.
+- colors: Red
+- color_identity: Red
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Scorching%20Dragonfire
+- https://api.scryfall.com/cards/named?fuzzy=Scorching%20Dragonfire
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Scorching%20Dragonfire -> success (HTTP 200)
+
+## Scurry of Squirrels
+
+- uri: https://api.scryfall.com/cards/c343b965-af2b-45c3-babb-9242736cf1e5
+- scryfall_uri: https://scryfall.com/card/blc/33/scurry-of-squirrels?utm_source=api
+- mana_cost: 2 generic, Green
+- type_line: Creature — Squirrel Scout
+- oracle_text: Myriad, myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token that's a copy of this creature that's tapped and attacking that player or a planeswalker they control. Then do it again. Exile the tokens at end of combat.)
+Whenever this creature deals combat damage to a player, put a +1/+1 counter on target creature you control.
+- power/toughness: 2/2
+- colors: Green
+- color_identity: Green
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Scurry%20of%20Squirrels
+- https://api.scryfall.com/cards/named?fuzzy=Scurry%20of%20Squirrels
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Scurry%20of%20Squirrels -> success (HTTP 200)
+
 ## Seachrome Coast
 
 - uri: https://api.scryfall.com/cards/9ed7441f-f624-49c8-8611-d9bba0e441ac
@@ -8593,6 +9647,148 @@ When this land enters, you gain 1 life.
 
 - https://api.scryfall.com/cards/named?fuzzy=Seachrome%20Coast -> success (HTTP 200)
 
+## Seat of the Synod
+
+- uri: https://api.scryfall.com/cards/57a194b3-2899-4dee-977a-c77df0b94dfe
+- scryfall_uri: https://scryfall.com/card/eoc/176/seat-of-the-synod?utm_source=api
+- mana_cost: 0 (no mana cost)
+- type_line: Artifact Land
+- oracle_text: [Tap]: Add [Blue].
+- colors: Colorless or None
+- color_identity: Blue
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Seat%20of%20the%20Synod
+- https://api.scryfall.com/cards/named?fuzzy=Seat%20of%20the%20Synod
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Seat%20of%20the%20Synod -> success (HTTP 200)
+
+## Secluded Steppe
+
+- uri: https://api.scryfall.com/cards/aaa5bee9-3f6a-45b0-a282-6b23222e948f
+- scryfall_uri: https://scryfall.com/card/eoc/177/secluded-steppe?utm_source=api
+- mana_cost: 0 (no mana cost)
+- type_line: Land
+- oracle_text: This land enters tapped.
+[Tap]: Add [White].
+Cycling [White] ([White], Discard this card: Draw a card.)
+- colors: Colorless or None
+- color_identity: White
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Secluded%20Steppe
+- https://api.scryfall.com/cards/named?fuzzy=Secluded%20Steppe
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Secluded%20Steppe -> success (HTTP 200)
+
+## Second Harvest
+
+- uri: https://api.scryfall.com/cards/aaecd005-b849-4e75-a8e0-24231bf2a0c9
+- scryfall_uri: https://scryfall.com/card/inr/213/second-harvest?utm_source=api
+- mana_cost: 2 generic, Green, Green
+- type_line: Instant
+- oracle_text: For each token you control, create a token that's a copy of that permanent.
+- colors: Green
+- color_identity: Green
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Second%20Harvest
+- https://api.scryfall.com/cards/named?fuzzy=Second%20Harvest
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Second%20Harvest -> success (HTTP 200)
+
+## Seize the Spoils
+
+- uri: https://api.scryfall.com/cards/4ddf4e34-a1f9-4636-942d-0a08e9f94320
+- scryfall_uri: https://scryfall.com/card/sos/129/seize-the-spoils?utm_source=api
+- mana_cost: 2 generic, Red
+- type_line: Sorcery
+- oracle_text: As an additional cost to cast this spell, discard a card.
+Draw two cards and create a Treasure token. (It's an artifact with "[Tap], Sacrifice this token: Add one mana of any color.")
+- colors: Red
+- color_identity: Red
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Seize%20the%20Spoils
+- https://api.scryfall.com/cards/named?fuzzy=Seize%20the%20Spoils
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Seize%20the%20Spoils -> success (HTTP 200)
+
+## Serra Redeemer
+
+- uri: https://api.scryfall.com/cards/230b9aef-bd9c-4332-ace4-b5b065bac6d8
+- scryfall_uri: https://scryfall.com/card/blb/387/serra-redeemer?utm_source=api
+- mana_cost: 3 generic, White, White
+- type_line: Creature — Angel Soldier
+- oracle_text: Flying
+Whenever another creature you control with power 2 or less enters, put two +1/+1 counters on that creature.
+- power/toughness: 2/4
+- colors: White
+- color_identity: White
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Serra%20Redeemer
+- https://api.scryfall.com/cards/named?fuzzy=Serra%20Redeemer
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Serra%20Redeemer -> success (HTTP 200)
+
+## Shadow the Hedgehog
+
+- uri: https://api.scryfall.com/cards/6c184959-a1e5-40d7-8faa-99310c4156ef
+- scryfall_uri: https://scryfall.com/card/sld/2086/shadow-the-hedgehog?utm_source=api
+- mana_cost: Black, Black, Red, Red
+- type_line: Legendary Creature — Hedgehog Mercenary
+- oracle_text: Haste
+Whenever Shadow the Hedgehog or another creature you control with flash or haste dies, draw a card.
+Chaos Control — Each spell you cast has split second if mana from an artifact was spent to cast it. (As long as it's on the stack, players can't cast spells or activate abilities that aren't mana abilities.)
+- power/toughness: 4/2
+- colors: Black, Red
+- color_identity: Black, Red
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Shadow%20the%20Hedgehog
+- https://api.scryfall.com/cards/named?fuzzy=Shadow%20the%20Hedgehog
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Shadow%20the%20Hedgehog -> success (HTTP 200)
+
+## Shamanic Revelation
+
+- uri: https://api.scryfall.com/cards/b3784eff-ab7b-4fd4-9a07-fbc852d116bf
+- scryfall_uri: https://scryfall.com/card/ncc/311/shamanic-revelation?utm_source=api
+- mana_cost: 3 generic, Green, Green
+- type_line: Sorcery
+- oracle_text: Draw a card for each creature you control.
+Ferocious — You gain 4 life for each creature you control with power 4 or greater.
+- colors: Green
+- color_identity: Green
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Shamanic%20Revelation
+- https://api.scryfall.com/cards/named?fuzzy=Shamanic%20Revelation
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Shamanic%20Revelation -> success (HTTP 200)
+
 ## Shark
 
 - uri: https://api.scryfall.com/cards/f9424ef2-d271-4929-83e0-12775420bac3
@@ -8612,6 +9808,90 @@ When this land enters, you gain 1 life.
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Shark -> success (HTTP 200)
+
+## Shivan Reef
+
+- uri: https://api.scryfall.com/cards/e13d0982-2542-4770-8e93-637478a0f84a
+- scryfall_uri: https://scryfall.com/card/soc/404/shivan-reef?utm_source=api
+- mana_cost: 0 (no mana cost)
+- type_line: Land
+- oracle_text: [Tap]: Add [Colorless].
+[Tap]: Add [Blue] or [Red]. This land deals 1 damage to you.
+- colors: Colorless or None
+- color_identity: Red, Blue
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Shivan%20Reef
+- https://api.scryfall.com/cards/named?fuzzy=Shivan%20Reef
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Shivan%20Reef -> success (HTTP 200)
+
+## Shore Lurker
+
+- uri: https://api.scryfall.com/cards/bb353c27-e311-4677-9277-cab6820562ce
+- scryfall_uri: https://scryfall.com/card/ecl/34/shore-lurker?utm_source=api
+- mana_cost: 3 generic, White
+- type_line: Creature — Merfolk Scout
+- oracle_text: Flying
+When this creature enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
+- power/toughness: 3/3
+- colors: White
+- color_identity: White
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Shore%20Lurker
+- https://api.scryfall.com/cards/named?fuzzy=Shore%20Lurker
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Shore%20Lurker -> success (HTTP 200)
+
+## Silken Strength
+
+- uri: https://api.scryfall.com/cards/ce0e1ded-9b00-4d7b-884c-70a429783b1f
+- scryfall_uri: https://scryfall.com/card/dft/180/silken-strength?utm_source=api
+- mana_cost: 1 generic, Green
+- type_line: Enchantment — Aura
+- oracle_text: Flash
+Enchant creature or Vehicle
+When this Aura enters, untap enchanted permanent.
+Enchanted permanent gets +1/+2 and has reach.
+- colors: Green
+- color_identity: Green
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Silken%20Strength
+- https://api.scryfall.com/cards/named?fuzzy=Silken%20Strength
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Silken%20Strength -> success (HTTP 200)
+
+## Silverbluff Bridge
+
+- uri: https://api.scryfall.com/cards/8f14540a-479f-4a3c-8e5b-f482caf48451
+- scryfall_uri: https://scryfall.com/card/eoc/180/silverbluff-bridge?utm_source=api
+- mana_cost: 0 (no mana cost)
+- type_line: Artifact Land
+- oracle_text: This land enters tapped.
+Indestructible
+[Tap]: Add [Blue] or [Red].
+- colors: Colorless or None
+- color_identity: Red, Blue
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Silverbluff%20Bridge
+- https://api.scryfall.com/cards/named?fuzzy=Silverbluff%20Bridge
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Silverbluff%20Bridge -> success (HTTP 200)
 
 ## Sinew Dancer
 
@@ -8634,6 +9914,47 @@ Corrupted — [White], [Tap]: Tap target creature. Activate only if an opponent 
 
 - https://api.scryfall.com/cards/named?fuzzy=Sinew%20Dancer -> success (HTTP 200)
 
+## Skeleton Archer
+
+- uri: https://api.scryfall.com/cards/7a959048-0d8a-41bb-8a33-52264e525085
+- scryfall_uri: https://scryfall.com/card/fdn/526/skeleton-archer?utm_source=api
+- mana_cost: 3 generic, Black
+- type_line: Creature — Skeleton Archer
+- oracle_text: When this creature enters, it deals 1 damage to any target.
+- power/toughness: 3/3
+- colors: Black
+- color_identity: Black
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Skeleton%20Archer
+- https://api.scryfall.com/cards/named?fuzzy=Skeleton%20Archer
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Skeleton%20Archer -> success (HTTP 200)
+
+## Skullclamp
+
+- uri: https://api.scryfall.com/cards/b5bb89dd-9d31-49d9-ba54-4a04798e515e
+- scryfall_uri: https://scryfall.com/card/tdc/103/skullclamp?utm_source=api
+- mana_cost: 1 generic
+- type_line: Artifact — Equipment
+- oracle_text: Equipped creature gets +1/-1.
+Whenever equipped creature dies, draw two cards.
+Equip [1]
+- colors: Colorless or None
+- color_identity: Colorless or None
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Skullclamp
+- https://api.scryfall.com/cards/named?fuzzy=Skullclamp
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Skullclamp -> success (HTTP 200)
+
 ## Skybridge Towers
 
 - uri: https://api.scryfall.com/cards/e28c871f-a96a-4e7d-a159-2e93aeb276d4
@@ -8654,6 +9975,67 @@ Corrupted — [White], [Tap]: Tap target creature. Activate only if an opponent 
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Skybridge%20Towers -> success (HTTP 200)
+
+## Skycloud Expanse
+
+- uri: https://api.scryfall.com/cards/03f8c846-d80c-49a4-a562-e817cd0c6096
+- scryfall_uri: https://scryfall.com/card/eoc/181/skycloud-expanse?utm_source=api
+- mana_cost: 0 (no mana cost)
+- type_line: Land
+- oracle_text: [1], [Tap]: Add [White][Blue].
+- colors: Colorless or None
+- color_identity: Blue, White
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Skycloud%20Expanse
+- https://api.scryfall.com/cards/named?fuzzy=Skycloud%20Expanse
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Skycloud%20Expanse -> success (HTTP 200)
+
+## Skyfisher Spider
+
+- uri: https://api.scryfall.com/cards/87300ac8-8b6f-4c37-8058-beb59eaa66be
+- scryfall_uri: https://scryfall.com/card/bro/221/skyfisher-spider?utm_source=api
+- mana_cost: 2 generic, Black, Green
+- type_line: Creature — Spider
+- oracle_text: Reach
+When this creature enters, you may sacrifice another creature. When you do, destroy target nonland permanent.
+When this creature dies, you may gain 1 life for each creature card in your graveyard. If you do, exile this card from your graveyard.
+- power/toughness: 3/3
+- colors: Black, Green
+- color_identity: Black, Green
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Skyfisher%20Spider
+- https://api.scryfall.com/cards/named?fuzzy=Skyfisher%20Spider
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Skyfisher%20Spider -> success (HTTP 200)
+
+## Skyraker Giant
+
+- uri: https://api.scryfall.com/cards/5e3fbafb-e915-43eb-8a68-245840ba73ff
+- scryfall_uri: https://scryfall.com/card/fdn/547/skyraker-giant?utm_source=api
+- mana_cost: 2 generic, Red, Red
+- type_line: Creature — Giant
+- oracle_text: Reach (This creature can block creatures with flying.)
+- power/toughness: 4/3
+- colors: Red
+- color_identity: Red
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Skyraker%20Giant
+- https://api.scryfall.com/cards/named?fuzzy=Skyraker%20Giant
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Skyraker%20Giant -> success (HTTP 200)
 
 ## Skyscythe Engulfer
 
@@ -8676,6 +10058,27 @@ This creature can't be blocked by creatures with flying.
 
 - https://api.scryfall.com/cards/named?fuzzy=Skyscythe%20Engulfer -> success (HTTP 200)
 
+## Skyship Buccaneer
+
+- uri: https://api.scryfall.com/cards/62958fc3-55dc-4b97-a070-490d6ed27820
+- scryfall_uri: https://scryfall.com/card/fdn/50/skyship-buccaneer?utm_source=api
+- mana_cost: 3 generic, Blue, Blue
+- type_line: Creature — Human Pirate
+- oracle_text: Flying
+Raid — When this creature enters, if you attacked this turn, draw a card.
+- power/toughness: 4/3
+- colors: Blue
+- color_identity: Blue
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Skyship%20Buccaneer
+- https://api.scryfall.com/cards/named?fuzzy=Skyship%20Buccaneer
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Skyship%20Buccaneer -> success (HTTP 200)
+
 ## Slaughter Singer
 
 - uri: https://api.scryfall.com/cards/4a37aa46-bcf3-48a5-9f74-05e4878ad96f
@@ -8696,6 +10099,84 @@ Whenever another creature you control with toxic attacks, it gets +1/+1 until en
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Slaughter%20Singer -> success (HTTP 200)
+
+## Snakeskin Veil
+
+- uri: https://api.scryfall.com/cards/a3d2c692-7566-468e-9c86-47a9f768fde2
+- scryfall_uri: https://scryfall.com/card/tdm/159/snakeskin-veil?utm_source=api
+- mana_cost: Green
+- type_line: Instant
+- oracle_text: Put a +1/+1 counter on target creature you control. It gains hexproof until end of turn. (It can't be the target of spells or abilities your opponents control.)
+- colors: Green
+- color_identity: Green
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Snakeskin%20Veil
+- https://api.scryfall.com/cards/named?fuzzy=Snakeskin%20Veil
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Snakeskin%20Veil -> success (HTTP 200)
+
+## Sol Ring
+
+- uri: https://api.scryfall.com/cards/870ec754-a76c-40ea-9b81-81b3dca1f62c
+- scryfall_uri: https://scryfall.com/card/soc/128/sol-ring?utm_source=api
+- mana_cost: 1 generic
+- type_line: Artifact
+- oracle_text: [Tap]: Add [Colorless][Colorless].
+- colors: Colorless or None
+- color_identity: Colorless or None
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Sol%20Ring
+- https://api.scryfall.com/cards/named?fuzzy=Sol%20Ring
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Sol%20Ring -> success (HTTP 200)
+
+## Solar Array
+
+- uri: https://api.scryfall.com/cards/03c45b66-ddc7-43f8-95d0-fe2ad743b3a4
+- scryfall_uri: https://scryfall.com/card/eoc/18/solar-array?utm_source=api
+- mana_cost: 3 generic
+- type_line: Artifact
+- oracle_text: [Tap]: Add one mana of any color. When you next cast an artifact spell this turn, that spell gains sunburst. (If it's a creature, it enters with a +1/+1 counter on it for each color of mana spent to cast it. Otherwise, it enters with that many charge counters on it.)
+- colors: Colorless or None
+- color_identity: Colorless or None
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Solar%20Array
+- https://api.scryfall.com/cards/named?fuzzy=Solar%20Array
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Solar%20Array -> success (HTTP 200)
+
+## Solemn Simulacrum
+
+- uri: https://api.scryfall.com/cards/29fae212-b757-4e5f-ad9b-06cd09782f9f
+- scryfall_uri: https://scryfall.com/card/soc/355/solemn-simulacrum?utm_source=api
+- mana_cost: 4 generic
+- type_line: Artifact Creature — Golem
+- oracle_text: When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.
+- power/toughness: 2/2
+- colors: Colorless or None
+- color_identity: Colorless or None
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Solemn%20Simulacrum
+- https://api.scryfall.com/cards/named?fuzzy=Solemn%20Simulacrum
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Solemn%20Simulacrum -> success (HTTP 200)
 
 ## Sonic the Hedgehog
 
