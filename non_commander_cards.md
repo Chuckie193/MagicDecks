@@ -1,4 +1,4 @@
-# Non-Commander-Precon Cards (generated 2026-05-27T23:25:34.575306+00:00Z)
+# Non-Commander-Precon Cards (generated 2026-05-28T12:13:52.104831+00:00Z)
 
 Cards you own that are not reserved by a Commander precon, or copies in excess of Commander precon requirements. Cards from other precons (Secret Lairs, Foundations, etc.) are included here as they are free to use in custom decks.
 
@@ -20,8 +20,8 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Angelic Edict | 1 | — |  | Colorless | not in any commander precon |
 | Apostle of Invasion | 1 | 6 | Creature | White | not in any commander precon |
 | Arcane Epiphany | 1 | — |  | Colorless | not in any commander precon |
-| Auntie's Sentence | 1 | — |  | Colorless | not in any commander precon |
-| Auspicious Starrix | 1 | — |  | Colorless | not in any commander precon |
+| Auntie's Sentence | 1 | 2 | Sorcery | Black | not in any commander precon |
+| Auspicious Starrix | 1 | 5 | Creature | Green | not in any commander precon |
 | Autarch Mammoth | 1 | 6 | Creature | Green | not in any commander precon |
 | Avishkar Raceway | 1 | 0 | Land | Colorless | not in any commander precon |
 | Barkform Harvester | 1 | 3 | Artifact Creature | Colorless | not in any commander precon |
@@ -40,7 +40,7 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Bogslither's Embrace | 1 | 2 | Sorcery | Black | not in any commander precon |
 | Bonebind Orator | 1 | 2 | Creature | Black | not in any commander precon |
 | Bonepicker Skirge | 1 | 3 | Creature | Black | not in any commander precon |
-| Brambleback Brute | 1 | — |  | Colorless | not in any commander precon |
+| Brambleback Brute | 1 | 3 | Creature | Red | not in any commander precon |
 | Bria, Riptide Rogue | 1 | 4 | Legendary Creature | Red, Blue | not in any commander precon |
 | Brineborn Cutthroat | 1 | 2 | Creature | Blue | not in any commander precon |
 | Broken Wings | 1 | 3 | Instant | Green | not in any commander precon |
@@ -51,7 +51,7 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Buzz Bots | 1 | 2 | Artifact Creature | Blue | not in any commander precon |
 | Byrke, Long Ear of the Law | 1 | 6 | Legendary Creature | Green, White | not in any commander precon |
 | Caelorna, Coral Tyrant | 1 | 2 | Legendary Creature | Blue | not in any commander precon |
-| Caldaia Strongarm | 1 | — |  | Colorless | not in any commander precon |
+| Caldaia Strongarm | 1 | 5 | Creature | Green | not in any commander precon |
 | Cancel | 1 | 3 | Instant | Blue | not in any commander precon |
 | Cankerbloom | 1 | 2 | Creature | Green | not in any commander precon |
 | Canyon Vaulter | 1 | 2 | Creature | White | not in any commander precon |
@@ -80,7 +80,7 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Crow of Dark Tidings | 1 | 3 | Creature | Black | not in any commander precon |
 | Crumb and Get It | 1 | 1 | Instant | White | not in any commander precon |
 | Cubwarden | 1 | 4 | Creature | White | not in any commander precon |
-| Dawnhand Dissident | 1 | — |  | Colorless | not in any commander precon |
+| Dawnhand Dissident | 1 | 1 | Creature | Black | not in any commander precon |
 | Dazzling Angel | 1 | 3 | Creature | White | not in any commander precon |
 | Deadly Dispute | 1 | 2 | Instant | Black | 1 copy used by Squirreled Away |
 | Deadly Plot | 1 | 4 | Instant | Black | not in any commander precon |
@@ -139,7 +139,7 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Frontier Warmonger | 1 | 4 | Creature | Red | not in any commander precon |
 | Fuel the Flames | 1 | 3 | Instant | Red | not in any commander precon |
 | Gallant Fowlknight | 1 | 4 | Creature | White | not in any commander precon |
-| Gemrazer | 1 | — |  | Colorless | not in any commander precon |
+| Gemrazer | 1 | 4 | Creature | Green | not in any commander precon |
 | Generous Gift | 1 | 3 | Instant | White | not in any commander precon |
 | Genghis Frog | 1 | 2 | Legendary Creature | Green, Blue | not in any commander precon |
 | Giant Growth | ×3 | 1 | Instant | Green | not in any commander precon |

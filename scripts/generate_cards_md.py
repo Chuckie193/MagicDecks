@@ -1020,7 +1020,13 @@ if __name__ == "__main__":
     # fetch names that are new OR have failed (not in successful list)
     to_fetch = [n for n in unique_names if n not in successful_in_raw]
     not_found = []
-    
+
+    # Evict stale failed entries so scryfall_lookup makes a fresh network request
+    for n in to_fetch:
+        entry = cache.get(n)
+        if isinstance(entry, dict) and not entry.get('data'):
+            del cache[n]
+
     if to_fetch:
         print(f"Fetching {len(to_fetch)} cards from Scryfall (skipping {len(successful_in_raw)} with successful prior fetches)...")
         for idx, name in enumerate(to_fetch, 1):
