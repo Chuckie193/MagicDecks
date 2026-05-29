@@ -1,4 +1,4 @@
-# Counter Intelligence — Jeskai Station/Proliferate Commander (Improved)
+# Counter Productive — Jeskai Station/Proliferate Commander
 
 Commander: Inspirit, Flagship Vessel (Blue, Red, White — 3 CMC, Legendary Artifact — Spacecraft)
 
@@ -287,14 +287,15 @@ Inspirit hums, hull drinking the energy of every tapped machine. Kilo proliferat
 
 ## Suggested Deck Names
 
-- **Full Charge** — Punchy two-word option; charge counters loading to max plus fleet charging into battle. Works mechanically and as battlefield imagery at any table size.
-- **Charged with Conspiracy** — Charge counter pun meets intelligence ops flavor. The fleet is charged, the mission is secret, and the pun is intentional.
-- **Counter Culture** — Counters (+1/+1 and charge) + counter-intelligence + cultural pun. References the precon name while feeling entirely fresh.
-- **Above the Law** — When your entire artifact army is hexproof and indestructible, it literally operates beyond the rules. Whether facing one opponent or four, the fleet answers to no one.
+- **Counter Productive** ✓ *(chosen)* — The deck is extremely productive *with* counters while being completely counterproductive *for* opponents. Works on both levels simultaneously.
+- **Full Charge** — Punchy two-word option; charge counters loading to max plus fleet charging into battle.
+- **Charged with Conspiracy** — Charge counter pun meets intelligence ops flavor. The fleet is charged, the mission is secret.
+- **Counter Culture** — Counters (+1/+1 and charge) + counter-intelligence + cultural pun.
+- **Above the Law** — When your entire artifact army is hexproof and indestructible, it literally operates beyond the rules.
 
 ---
 
-*Deck generated 2026-05-29. Based on Counter Intelligence precon — improved for both 1v1 and multiplayer. Excludes Prismari Artistry and Squirreled Away precon cards.*
+*Deck generated 2026-05-29. Based on Counter Intelligence precon — improved for both 1v1 and multiplayer. Excludes Prismari Artistry and Squirreled Away precon cards. Deck name: Counter Productive.*
 
 **Version:** Draft | **Status:** Working version
 
