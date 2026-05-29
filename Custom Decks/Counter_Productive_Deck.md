@@ -62,7 +62,7 @@ Inspirit hums, hull drinking the energy of every tapped machine. Kilo proliferat
 - **Empowered Autogenerator** — 4 generic, enters tapped. Tap: add a charge counter, then add X mana (X = charge counters). Proliferate grows it exponentially; becomes a mana powerhouse.
 - **Everflowing Chalice** — Multikicker {2}. Enters with a charge counter per kick; tap, remove a counter: add {1}. A mana rock that scales with proliferate.
 - **Gavel of the Righteous** — 2 generic Equipment. Equipped creature gets +1/+1 per counter on the Gavel. At 4+ counters, gains double strike. Equip by paying {3} or removing a counter. Turns Kilo or Patrolling Peacemaker into a voltron threat.
-- **Insight Engine** — 2U, Artifact. Pay {2} and tap: put a charge counter on it, then draw a card per charge counter. Explosive draw once proliferate starts stacking counters.
+- **Prophetic Prism** — 2. Artifact. ETB: draw a card. Tap, pay {1}: add one mana of any color. With both cost reducers in play, Prophetic Prism casts for zero mana and immediately draws a card — a free Jhoira trigger and another artifact for Metalcraft, Affinity, and Improvise counts.
 - **Long-Range Sensor** — 2R, Artifact. Whenever you attack, add a charge counter. Remove two counters: Discover 4. In a pod you can attack different opponents each turn, keeping the Sensor charged continuously.
 - **Lux Artillery** — 4 generic, Artifact. Artifact creature spells you cast gain Sunburst. At end step, if there are 30+ total counters among your permanents, deal 10 damage to each opponent. The primary alternate win condition — scales dramatically in multiplayer where it hits every opponent at once.
 - **Moxite Refinery** — 2 generic, Artifact. Pay {2} + tap + remove X counters: move those X counters as charge counters onto an artifact, OR as +1/+1 counters onto a creature. Flexible counter redistribution.
@@ -114,7 +114,7 @@ Inspirit hums, hull drinking the energy of every tapped machine. Kilo proliferat
 - Great Furnace — Artifact land; tap for Red.
 - Seat of the Synod — Artifact land; tap for Blue.
 
-**Dual Lands (12)**
+**Dual Lands (13)**
 - Adarkar Wastes — White/Blue with 1 damage.
 - Battlefield Forge — Red/White with 1 damage.
 - Cascade Bluffs — Blue/Red filter land.
@@ -123,6 +123,7 @@ Inspirit hums, hull drinking the energy of every tapped machine. Kilo proliferat
 - Razortide Bridge — White/Blue Artifact Bridge (enters tapped).
 - Rugged Prairie — Red/White filter land.
 - Rustvale Bridge — Red/White Artifact Bridge.
+- Seachrome Coast — White/Blue fastland; enters untapped if you have two or fewer other lands. Better early-game mana than any tapped land.
 - Shivan Reef — Blue/Red with 1 damage.
 - Silverbluff Bridge — Blue/Red Artifact Bridge.
 - Skycloud Expanse — White/Blue filter land.
@@ -154,9 +155,6 @@ Inspirit hums, hull drinking the energy of every tapped machine. Kilo proliferat
 - Mountain (x3)
 - Plains (x3)
 
-**Other (1)**
-- Irrigated Farmland — Blue/White cycling land.
-
 ---
 
 ## Key Synergies
@@ -183,6 +181,8 @@ Inspirit hums, hull drinking the energy of every tapped machine. Kilo proliferat
 | Darksteel Reactor | Requires 20 upkeep counters to win; too slow even in a proliferate deck | The Ozolith |
 | Golem Foundry | Needs 3 charge counters to make a single 3/3 Golem; Mischievous Mystic generates tokens automatically | Mischievous Mystic |
 | Lux Cannon | Needs 3 charge counters to destroy one permanent; Chaos Warp already answers anything at instant speed | Fabricate |
+| Insight Engine | Starts as "pay 2, draw 1" and only becomes powerful after multiple proliferate triggers; Prophetic Prism costs zero with both cost reducers and draws immediately on entry | Prophetic Prism |
+| Irrigated Farmland | Always enters tapped; Seachrome Coast enters untapped in the early game when tempo matters most | Seachrome Coast |
 | Mindless Automaton | Free card draw (remove 2 counters) requires the Kilo + Tekuthal combo to be impressive; Palladium Myr provides unconditional ramp with no setup | Palladium Myr |
 | Soul-Guide Lantern | Narrow graveyard hate; meta-dependent and doesn't advance the counter strategy | Swiftfoot Boots |
 | Titan Forge | 9+ mana per 9/9 Golem; far too slow in any format | Myr Battlesphere |
@@ -212,8 +212,8 @@ Inspirit hums, hull drinking the energy of every tapped machine. Kilo proliferat
 ```
 0 CMC:  3  ███ (Astral Cornucopia, Everflowing Chalice, Hangarback Walker)
 1 CMC:  5  █████ (Dispatch, Sol Ring, Swan Song, Swords to Plowshares, The Ozolith)
-2 CMC: 15  ███████████████ (Arcane Signet, Coretapper, Enthusiastic Mechanaut, Etherium Sculptor, Experimental Augury, Gavel of the Righteous, Mischievous Mystic, Moxite Refinery, Negate, Pentad Prism, Pull from Tomorrow†, Ripples of Potential, Steel Overseer, Swiftfoot Boots, Thrummingbird)
-3 CMC: 14  ██████████████ (Chaos Warp, Cloud Key, Fabricate, Generous Gift, Inspirit†, Insight Engine, Kilo, Long-Range Sensor, Palladium Myr, Patrolling Peacemaker, Resourceful Defense, Surge Conductor, Thirst for Knowledge, Uthros Research Craft)
+2 CMC: 16  ████████████████ (Arcane Signet, Coretapper, Enthusiastic Mechanaut, Etherium Sculptor, Experimental Augury, Gavel of the Righteous, Mischievous Mystic, Moxite Refinery, Negate, Pentad Prism, Prophetic Prism, Pull from Tomorrow†, Ripples of Potential, Steel Overseer, Swiftfoot Boots, Thrummingbird)
+3 CMC: 13  █████████████ (Chaos Warp, Cloud Key, Fabricate, Generous Gift, Inspirit†, Kilo, Long-Range Sensor, Palladium Myr, Patrolling Peacemaker, Resourceful Defense, Surge Conductor, Thirst for Knowledge, Uthros Research Craft)
 4 CMC: 11  ███████████ (Chain Reaction, Chrome Host Seedshark, Crystalline Crawler, Empowered Autogenerator, Emry, Etched Oracle, Jhoira, Lux Artillery, Phyrexian Metamorph, Solar Array†, Tezzeret's Gambit)
 5 CMC:  4  ████ (Alibou, Deepglow Skate, Fumigate, Tekuthal)
 6 CMC:  2  ██ (Cyberdrive Awakener, Kappa Cannoneer)
@@ -335,7 +335,7 @@ Inspirit hums, hull drinking the energy of every tapped machine. Kilo proliferat
 | Empowered Autogenerator | Artifact | Counter Intelligence |
 | Everflowing Chalice | Artifact | Counter Intelligence |
 | Gavel of the Righteous | Artifact | Counter Intelligence |
-| Insight Engine | Artifact | Counter Intelligence |
+| Prophetic Prism | Artifact | — |
 | Long-Range Sensor | Artifact | Counter Intelligence |
 | Lux Artillery | Artifact | Counter Intelligence |
 | Moxite Refinery | Artifact | Counter Intelligence |
@@ -369,7 +369,7 @@ Inspirit hums, hull drinking the energy of every tapped machine. Kilo proliferat
 | Glacial Fortress | Land | Counter Intelligence |
 | Glittering Massif | Land | Counter Intelligence |
 | Great Furnace | Land | Counter Intelligence |
-| Irrigated Farmland | Land | Counter Intelligence |
+| Seachrome Coast | Land | — |
 | Island (x3) | Land | Counter Intelligence |
 | Karn's Bastion | Land | Counter Intelligence |
 | Lonely Sandbar | Land | Counter Intelligence |
