@@ -30,12 +30,12 @@
 1 Kilo, Apogee Mind
 1 Long-Range Sensor
 1 Lux Artillery
-1 Mindless Automaton
 1 Mischievous Mystic
 1 Moxite Refinery
 1 Myr Battlesphere
 1 Negate
 1 Organic Extinction
+1 Palladium Myr
 1 Patrolling Peacemaker
 1 Pentad Prism
 1 Phyrexian Metamorph
