@@ -142,6 +142,19 @@ The `generate_cards_md.py` script uses sophisticated matching:
    - Auto-assign threshold: 0.90 (high confidence)
    - Ambiguous threshold: 0.75 (needs review)
 
+## Pull Request Workflow
+
+When pushing changes and creating or updating a PR:
+
+1. **Before creating or updating a PR**, check whether an existing PR for the current branch is already merged:
+   - Use `mcp__github__list_pull_requests` or `mcp__github__pull_request_read` to look up open PRs for the branch.
+   - If the PR state is `merged` or `closed`, do **not** try to update it — create a **new PR** instead.
+   - If no open PR exists for the branch, create a new one.
+
+2. **If a PR is still open**, you may update its title/body with `mcp__github__update_pull_request` to reflect the latest changes.
+
+3. **Always verify the PR target branch** is `main` unless explicitly told otherwise.
+
 ## Important Notes
 
 - All generated files (*.md, cache) should be committed to git
