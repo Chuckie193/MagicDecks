@@ -40,9 +40,9 @@ Inspirit hums, hull drinking the energy of every tapped machine. Kilo proliferat
 - **Jhoira, Weatherlight Captain** — 2UR, Legendary Creature. Whenever you cast a historic spell (artifact, legendary, saga), draw a card. The primary card draw engine. With cost reducers in play, each turn becomes a chain of draw triggers.
 - **Kappa Cannoneer** — 5U Improvise, Ward {4}, 0/0. Whenever you or another artifact enters, gain +1/+1 and can't be blocked this turn. Snowballs quickly and is nearly unkillable once active.
 - **Kilo, Apogee Mind** — {W}{U}{R}, 3/3 Haste, Legendary Artifact Creature. Whenever Kilo becomes tapped (including for Station), proliferate. The primary proliferate engine — tapping it for Station is a double-function action.
-- **Mindless Automaton** — 4 generic, 0/0 + 2 counters. Discard a card: add a counter. Remove two counters: draw a card. A flexible counter sink and draw outlet when other lines stall.
 - **Mischievous Mystic** — 1U, 2/1 Flying Human Wizard. Whenever you draw your second card each turn, create a 1/1 blue Faerie token with flying. Jhoira's draw triggers fuel a free air force — extra blockers matter more in a pod.
 - **Myr Battlesphere** — 7 generic, 4/7 Artifact Creature. Enters with four 1/1 Myr tokens. Tap any number of Myr: Battlesphere gets +1/+0 for each and deals that much damage to a player. Four Station fuel pieces the turn it lands; deal direct damage to whichever opponent needs answering.
+- **Palladium Myr** — 3 generic, 2/2 Artifact Creature — Myr. Tap: add {CC}. Reliable ramp that doubles as a Station fuel piece and Jhoira draw trigger; the two colourless mana helps cast expensive finishers without touching coloured mana.
 - **Patrolling Peacemaker** — 2W, 0/0 + 2 counters, Artifact Creature. Whenever an opponent commits a crime (targets you, your permanents, or your graveyard), proliferate. Free counter growth whenever opponents interact — more opponents means more triggers.
 - **Phyrexian Metamorph** — 3{U/P}, Artifact Creature. Copies any creature or artifact on the battlefield; it's always an artifact. Flexible threat or key-piece copy.
 - **Steel Overseer** — 2 generic, 1/1 Artifact Creature. Tap: put a +1/+1 counter on each artifact creature you control. Mass counter distributor — with Tekuthal, each tap affects the whole team twice.
@@ -183,6 +183,7 @@ Inspirit hums, hull drinking the energy of every tapped machine. Kilo proliferat
 | Darksteel Reactor | Requires 20 upkeep counters to win; too slow even in a proliferate deck | The Ozolith |
 | Golem Foundry | Needs 3 charge counters to make a single 3/3 Golem; Mischievous Mystic generates tokens automatically | Mischievous Mystic |
 | Lux Cannon | Needs 3 charge counters to destroy one permanent; Chaos Warp already answers anything at instant speed | Fabricate |
+| Mindless Automaton | Free card draw (remove 2 counters) requires the Kilo + Tekuthal combo to be impressive; Palladium Myr provides unconditional ramp with no setup | Palladium Myr |
 | Soul-Guide Lantern | Narrow graveyard hate; meta-dependent and doesn't advance the counter strategy | Swiftfoot Boots |
 | Titan Forge | 9+ mana per 9/9 Golem; far too slow in any format | Myr Battlesphere |
 | Universal Surveillance | XXX sorcery draw with Improvise; Jhoira and Thirst for Knowledge provide better card flow at lower cost | Negate |
@@ -212,8 +213,8 @@ Inspirit hums, hull drinking the energy of every tapped machine. Kilo proliferat
 0 CMC:  3  ███ (Astral Cornucopia, Everflowing Chalice, Hangarback Walker)
 1 CMC:  5  █████ (Dispatch, Sol Ring, Swan Song, Swords to Plowshares, The Ozolith)
 2 CMC: 15  ███████████████ (Arcane Signet, Coretapper, Enthusiastic Mechanaut, Etherium Sculptor, Experimental Augury, Gavel of the Righteous, Mischievous Mystic, Moxite Refinery, Negate, Pentad Prism, Pull from Tomorrow†, Ripples of Potential, Steel Overseer, Swiftfoot Boots, Thrummingbird)
-3 CMC: 14  ██████████████ (Chain Reaction†, Chaos Warp, Chrome Host Seedshark, Cloud Key, Fabricate, Generous Gift, Inspirit†, Insight Engine, Kilo, Long-Range Sensor, Patrolling Peacemaker, Resourceful Defense, Surge Conductor, Thirst for Knowledge, Uthros Research Craft)
-4 CMC: 11  ███████████ (Chain Reaction, Crystalline Crawler, Empowered Autogenerator, Emry, Etched Oracle, Jhoira, Lux Artillery, Mindless Automaton, Phyrexian Metamorph, Solar Array†, Tezzeret's Gambit)
+3 CMC: 15  ███████████████ (Chaos Warp, Chrome Host Seedshark, Cloud Key, Fabricate, Generous Gift, Inspirit†, Insight Engine, Kilo, Long-Range Sensor, Palladium Myr, Patrolling Peacemaker, Resourceful Defense, Surge Conductor, Thirst for Knowledge, Uthros Research Craft)
+4 CMC: 10  ██████████ (Chain Reaction, Crystalline Crawler, Empowered Autogenerator, Emry, Etched Oracle, Jhoira, Lux Artillery, Phyrexian Metamorph, Solar Array†, Tezzeret's Gambit)
 5 CMC:  4  ████ (Alibou, Deepglow Skate, Fumigate, Tekuthal)
 6 CMC:  2  ██ (Cyberdrive Awakener, Kappa Cannoneer)
 7+ CMC: 6  ██████ (Depthshaker Titan, Myr Battlesphere, Organic Extinction, Thought Monitor, Threefold Thunderhulk, Wake the Past)
@@ -319,7 +320,6 @@ Inspirit hums, hull drinking the energy of every tapped machine. Kilo proliferat
 | Jhoira, Weatherlight Captain | Creature | Counter Intelligence |
 | Kappa Cannoneer | Creature | Counter Intelligence |
 | Kilo, Apogee Mind | Creature | Counter Intelligence |
-| Mindless Automaton | Creature | Counter Intelligence |
 | Patrolling Peacemaker | Creature | Counter Intelligence |
 | Phyrexian Metamorph | Creature | Counter Intelligence |
 | Steel Overseer | Creature | Counter Intelligence |
@@ -391,9 +391,10 @@ Inspirit hums, hull drinking the energy of every tapped machine. Kilo proliferat
 | Temple of Triumph | Land | Counter Intelligence |
 | The Mycosynth Gardens | Land | Counter Intelligence |
 | Mischievous Mystic | Creature | Foundations Beginner Box |
-| Fabricate | Sorcery | — |
-| Generous Gift | Instant | — |
-| Negate | Instant | — |
 | Myr Battlesphere | Creature | — |
+| Palladium Myr | Creature | — |
 | Swiftfoot Boots | Artifact | — |
 | The Ozolith | Artifact | — |
+| Generous Gift | Instant | — |
+| Negate | Instant | — |
+| Fabricate | Sorcery | — |
