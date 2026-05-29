@@ -304,7 +304,7 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
 
 | Card | Category | Precon(s) |
 |------|----------|-----------|
-| [Card Name] | [Commander/Creature/Artifact/Enchantment/Instant/Sorcery/Land] | [Precon name(s) or "—" if not from a precon] |
+| [Card Name] | [All card types from type_line, e.g., "Creature", "Artifact Creature", "Artifact Enchantment", "Legendary Artifact", "Artifact Vehicle"] | [Precon name(s) or "—" if not from a precon] |
 ...
 
 ```
@@ -326,15 +326,32 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
    |------|----------|-----------|
    | Bria, Riptide Rogue | Commander | Otter Limits |
    | Archmage Emeritus | Creature | Prismari Artistry |
+   | Hangarback Walker | Artifact Creature | Counter Intelligence |
    | Sol Ring | Artifact | Counter Intelligence; Prismari Artistry; Squirreled Away |
    | Island (x7) | Land | Counter Intelligence; Foundations Beginner Box; Otter Limits; Prismari Artistry |
    ```
+
+   **Category column**: Show ALL card types the card has, derived from its `type_line` in `card_details.md`. Include supertypes and types but omit subtypes (the part after the em-dash `—`). Examples:
+   - A card with type_line `Artifact Creature — Thopter` → Category: `Artifact Creature`
+   - A card with type_line `Legendary Artifact` → Category: `Legendary Artifact`
+   - A card with type_line `Artifact Enchantment` → Category: `Artifact Enchantment`
+   - A card with type_line `Artifact — Vehicle` → Category: `Artifact Vehicle` (Vehicle is a subtype but treat it as a type for this column since it affects section placement)
+   - A card with type_line containing `Space Station` → include it similarly
 
    **Guidelines**:
    - **Commander row is always first.**
    - **Sort by precon group**: Group all remaining cards by which precon they came from. Order the groups by how many deck cards each precon contributes — largest first. Break ties by alphabetising the precon name. Cards with no precon (`—`) form a final group after all named precon groups.
    - **Cards in multiple precons**: A card listed under several precons belongs to the group of whichever precon contributes the most cards to the deck. If tied, use the first precon name listed in its Precon(s) column.
-   - **Within each precon group, sort by card type**: Creature → Artifact → Enchantment → Instant → Sorcery → Planeswalker → Land. Within the same type, sort alphabetically (by alt name where one exists, otherwise by card name).
+   - **Within each precon group, sort by card type**: Use the card's **primary type** (see section placement priority below) to determine its sort group. Order: Creature → Enchantment → Artifact → Instant → Sorcery → Planeswalker → Land. Within the same type group, sort alphabetically (by alt name where one exists, otherwise by card name).
+
+   **Section placement priority** (determines which deck section a card goes into AND its sort group in the table):
+   1. **Creatures** — type_line contains "Creature", "Vehicle", or "Space Station" (artifact creatures, Vehicle artifacts, and Space Station artifacts all go here)
+   2. **Enchantments** — type_line contains "Enchantment" but not "Creature" (artifact enchantments go here, not under Artifacts)
+   3. **Artifacts & Mana** — type_line contains "Artifact" but not "Creature" or "Enchantment"
+   4. **Instants** — type_line contains "Instant"
+   5. **Sorceries** — type_line contains "Sorcery"
+   6. **Planeswalkers** — type_line contains "Planeswalker"
+   7. **Lands** — type_line contains "Land"
    - **Alt names**: Check the `Alt Name(s)` column in `moxfield_cards.md` for each card. If a non-empty value is present, display the card as `"Alt Name (Original Name)"` — e.g., `Air Shoes (Swiftfoot Boots)`. Sort alphabetically by the alt name within its type group. This lets the player match the physical card art to the list.
    - For basic lands with multiple copies (e.g., `Island (x7)`), list as a single row
    - For multiple copies of the same nonbasic land (e.g., `Cascade Bluffs (x2)`), list as a single row
@@ -349,16 +366,16 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
    2. Build a set of card names from the table rows (strip the copy-count suffix, e.g., "Island (x7)" → "Island").
    3. Check: every card in the decklist must appear in the table — report any missing cards.
    4. Check: every card in the table must appear in the decklist — report any extra cards.
-   5. Check: the category assigned to each card in the table must match the section it appears in within the decklist (e.g., a card listed under ### Creatures must be categorized as "Creature" in the table, not "Artifact").
-   6. **Type-line check**: For every non-land card in the decklist, look up its `type_line` in `card_details.md` and confirm the section it was placed in is correct:
-      - Creatures section → type_line must contain "Creature"
-      - Artifacts & Mana section → type_line must contain "Artifact"
+   5. Check: each card's Category in the table shows all of its card types (supertypes + types, no subtypes) from `type_line`. A card in the Creatures section may have Category "Artifact Creature" — that is correct. What matters is that the section placement follows the priority rules in check #6 below.
+   6. **Type-line check**: For every non-land card in the decklist, look up its `type_line` in `card_details.md` and confirm the section it was placed in follows the section placement priority:
+      - Creatures section → type_line must contain "Creature", "Vehicle", or "Space Station" (priority 1; artifact creatures and Vehicles belong here, not under Artifacts)
+      - Enchantments section → type_line must contain "Enchantment" but NOT "Creature" (priority 2; artifact enchantments belong here, not under Artifacts)
+      - Artifacts & Mana section → type_line must contain "Artifact" but NOT "Creature", "Vehicle", "Space Station", or "Enchantment" (priority 3)
       - Instants section → type_line must contain "Instant" — never "Sorcery"
       - Sorceries section → type_line must contain "Sorcery" — never "Instant"
-      - Enchantments section → type_line must contain "Enchantment"
       - Planeswalkers section → type_line must contain "Planeswalker"
 
-      Report any card whose section contradicts its type_line and correct the placement before continuing. (This catches errors like Treasure Cruise appearing under Instants when it is a Sorcery.)
+      Report any card whose section contradicts its type_line priority and correct the placement before continuing. (This catches errors like Treasure Cruise appearing under Instants when it is a Sorcery, or an Artifact Creature appearing under Artifacts instead of Creatures.)
    7. Only write the deck file once all six checks pass. If any mismatch is found, fix it before writing.
 
 9. **Cards Removed Table** (improvement mode only):
