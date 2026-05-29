@@ -5,13 +5,13 @@ Commander: Inspirit, Flagship Vessel (Blue, Red, White — 3 CMC, Legendary Arti
 ## Overview
 
 - **Strategy:** Station the fleet — tap creatures (especially Kilo) to load charge counters onto Inspirit and Uthros Research Craft, then proliferate those counters across every permanent with Tekuthal doubling each trigger. Win through Lux Artillery (30+ counters = 10 damage to each opponent), a protected combat swing once Inspirit reaches 8+ counters (whole artifact army hexproof and indestructible), or Cyberdrive Awakener turning every artifact into a 4/4 flying attacker.
-- **Intended for:** Single opponent (1v1)
+- **Intended for:** Both (1v1 and multiplayer pod)
 
 ---
 
 ## Lore
 
-Inspirit hums on the horizon, hull drinking the energy of every tapped machine. Kilo proliferates, counters cascade, and by the time opponents react — *the entire fleet is immune. Call it Counter Intelligence.*
+Inspirit hums, hull drinking the energy of every tapped machine. Kilo proliferates, counters cascade — until *the fleet reaches immunity.* One opponent or four: the math always ends the same.
 
 ---
 
@@ -23,11 +23,10 @@ Inspirit hums on the horizon, hull drinking the energy of every tapped machine. 
 
 ---
 
-### Creatures (27)
+### Creatures (26)
 
-- **Alibou, Ancient Witness** — 5/2 First Strike, Vigilance. Tapping nontoken artifacts during combat deals 1 damage to each opponent and draws a card. An aggressive Station payoff that snowballs card advantage.
+- **Alibou, Ancient Witness** — 5/2 First Strike, Vigilance. Tapping nontoken artifacts during combat deals 1 damage to each opponent and draws a card. Scales in multiplayer — 3 opponents means 3 damage per artifact tapped in combat.
 - **Chrome Host Seedshark** — 2/4 Flying. Each noncreature spell you cast creates an Incubator token with +1/+1 counters equal to that spell's mana value. A free army from every artifact cast.
-- **Clinquant Skymage** *(NEW)* — 1/1 Flying Bird Wizard. Gains a +1/+1 counter whenever you draw a card. Grows huge alongside Jhoira's draw engine; a threat opponents can't ignore.
 - **Coretapper** — 1/1 Artifact Creature. Tap: put a charge counter on target artifact. Sacrifice: put two charge counters on target artifact. The most efficient charge counter loader in the deck.
 - **Crystalline Crawler** — Artifact Creature, Converge. Enters with +1/+1 counters for each color of mana spent. Tap to add a counter; remove counters for any-color mana. Multi-use mana fixer and counter source.
 - **Cyberdrive Awakener** — 5U, 3/3 Flying Artifact Creature. Turns every noncreature artifact into a 4/4 until end of turn and gives all your artifact creatures flying. The surprise combat win condition.
@@ -42,22 +41,21 @@ Inspirit hums on the horizon, hull drinking the energy of every tapped machine. 
 - **Kappa Cannoneer** — 5U Improvise, Ward {4}, 0/0. Whenever you or another artifact enters, gain +1/+1 and can't be blocked this turn. Snowballs quickly and is nearly unkillable once active.
 - **Kilo, Apogee Mind** — {W}{U}{R}, 3/3 Haste, Legendary Artifact Creature. Whenever Kilo becomes tapped (including for Station), proliferate. The primary proliferate engine — tapping it for Station is a double-function action.
 - **Mindless Automaton** — 4 generic, 0/0 + 2 counters. Discard a card: add a counter. Remove two counters: draw a card. A flexible counter sink and draw outlet when other lines stall.
-- **Mischievous Mystic** *(NEW)* — 1U, 2/1 Flying Human Wizard. Whenever you draw your second card each turn, create a 1/1 blue Faerie token with flying. Jhoira's draw triggers fuel a free air force.
-- **Egg Hammer (Myr Battlesphere)** *(NEW)* — 7 generic, 4/7 Artifact Creature. Enters with four 1/1 Myr tokens. Tap any number of Myr: +1/+0 for each until end of turn and deal that much damage to a player. Four Station fuel pieces the turn it lands; with Kilo, that's five proliferate triggers at once.
-- **Patrolling Peacemaker** — 2W, 0/0 + 2 counters, Artifact Creature. Whenever an opponent commits a crime (targets you, your permanents, or your graveyard), proliferate. Free counter growth whenever your opponent plays removal.
+- **Mischievous Mystic** — 1U, 2/1 Flying Human Wizard. Whenever you draw your second card each turn, create a 1/1 blue Faerie token with flying. Jhoira's draw triggers fuel a free air force — extra blockers matter more in a pod.
+- **Myr Battlesphere** — 7 generic, 4/7 Artifact Creature. Enters with four 1/1 Myr tokens. Tap any number of Myr: Battlesphere gets +1/+0 for each and deals that much damage to a player. Four Station fuel pieces the turn it lands; deal direct damage to whichever opponent needs answering.
+- **Patrolling Peacemaker** — 2W, 0/0 + 2 counters, Artifact Creature. Whenever an opponent commits a crime (targets you, your permanents, or your graveyard), proliferate. Free counter growth whenever opponents interact — more opponents means more triggers.
 - **Phyrexian Metamorph** — 3{U/P}, Artifact Creature. Copies any creature or artifact on the battlefield; it's always an artifact. Flexible threat or key-piece copy.
 - **Steel Overseer** — 2 generic, 1/1 Artifact Creature. Tap: put a +1/+1 counter on each artifact creature you control. Mass counter distributor — with Tekuthal, each tap affects the whole team twice.
 - **Surge Conductor** — 3 generic, 3/2 Artifact Creature. Whenever a nontoken artifact you control enters, proliferate. Effectively every artifact ETB is a free proliferate; combines with Emry recursion for repeated triggers.
-- **Tekuthal, Inquiry Dominus** — 3UU, 4/4 Flying Creature. If you would proliferate, proliferate that many times plus one additional time instead. Doubles every proliferate in the deck. The must-kill threat; protect with Ripples of Potential.
+- **Tekuthal, Inquiry Dominus** — 3UU, 4/4 Flying Creature. If you would proliferate, proliferate that many times plus one additional time instead. Doubles every proliferate in the deck. The must-kill threat at any table size; protect with Ripples of Potential.
 - **Thought Monitor** — 6UU with Affinity, 2/2 Flying Artifact Creature. ETB draw 2 cards. Late-game value that practically costs 2-3 in an artifact-heavy board.
 - **Threefold Thunderhulk** — 7 generic, 0/0 + 3 counters (3/3 effective) Artifact Creature. Whenever it enters or attacks, create Gnome tokens equal to its power. Sacrifice another artifact: add a +1/+1 counter. A self-growing token factory that synergizes with Surge Conductor and The Ozolith.
-- **Thrummingbird** — 1U, 1/1 Flying Creature. Whenever it deals combat damage to a player, proliferate. Repeatable proliferate each turn it connects — Tekuthal doubles it.
+- **Thrummingbird** — 1U, 1/1 Flying Creature. Whenever it deals combat damage to a player, proliferate. Repeatable proliferate each turn it connects — in a pod, pick the most vulnerable opponent to fly over each combat.
 
 ---
 
 ### Artifacts & Mana (16)
 
-- **Air Shoes (Swiftfoot Boots)** *(NEW)* — 2 generic Equipment. Equipped creature has hexproof and haste. Equip {1}. Protects Kilo and Tekuthal from spot removal at instant speed.
 - **Arcane Signet** — 2 generic, taps for one of commander's colors. Core mana rock for explosive early turns.
 - **Astral Cornucopia** — XXX, enters with X charge counters. Tap, remove a counter: add one mana of any color. Scales into the late game and benefits hugely from proliferate.
 - **Cloud Key** — 3 generic. Choose a card type; those spells cost {1} less. Pairs with Enthusiastic Mechanaut and Etherium Sculptor for maximum artifact cost reduction.
@@ -65,13 +63,14 @@ Inspirit hums on the horizon, hull drinking the energy of every tapped machine. 
 - **Everflowing Chalice** — Multikicker {2}. Enters with a charge counter per kick; tap, remove a counter: add {1}. A mana rock that scales with proliferate.
 - **Gavel of the Righteous** — 2 generic Equipment. Equipped creature gets +1/+1 per counter on the Gavel. At 4+ counters, gains double strike. Equip by paying {3} or removing a counter. Turns Kilo or Patrolling Peacemaker into a voltron threat.
 - **Insight Engine** — 2U, Artifact. Pay {2} and tap: put a charge counter on it, then draw a card per charge counter. Explosive draw once proliferate starts stacking counters.
-- **Long-Range Sensor** — 2R, Artifact. Whenever you attack, add a charge counter. Remove two counters: Discover 4 (cast a free spell ≤4 CMC). Free card advantage that funds itself with combat attacks.
-- **Lux Artillery** — 4 generic, Artifact. Artifact creature spells you cast gain Sunburst. At end step, if there are 30+ total counters among your permanents, deal 10 damage to each opponent. The primary alternate win condition — reach 30 counters and close out.
-- **Moxite Refinery** — 2 generic, Artifact. Pay {2} + tap + remove X counters from an artifact or creature: move those X counters as charge counters onto an artifact, OR as +1/+1 counters onto a creature. Flexible counter redistribution.
+- **Long-Range Sensor** — 2R, Artifact. Whenever you attack, add a charge counter. Remove two counters: Discover 4. In a pod you can attack different opponents each turn, keeping the Sensor charged continuously.
+- **Lux Artillery** — 4 generic, Artifact. Artifact creature spells you cast gain Sunburst. At end step, if there are 30+ total counters among your permanents, deal 10 damage to each opponent. The primary alternate win condition — scales dramatically in multiplayer where it hits every opponent at once.
+- **Moxite Refinery** — 2 generic, Artifact. Pay {2} + tap + remove X counters: move those X counters as charge counters onto an artifact, OR as +1/+1 counters onto a creature. Flexible counter redistribution.
 - **Pentad Prism** — 2 generic, Sunburst. Remove a charge counter: add one mana of any color. Colored mana fixer that proliferate refuels.
 - **Sol Ring** — 1 generic, taps for {2}. Non-negotiable mana rock.
 - **Solar Array** — Counter Intelligence precon artifact. Variable-cost charge counter synergy piece that scales with the counter engine.
-- **The Ozolith** *(NEW)* — 1 generic, Legendary Artifact. When a creature you control leaves the battlefield with counters on it, move all those counters to The Ozolith. At combat start, move all counters from The Ozolith to a creature. Counter insurance policy — Hangarback Walker's death becomes a counter delivery service.
+- **Swiftfoot Boots** — 2 generic Equipment. Equipped creature has hexproof and haste. Equip {1}. Protects Kilo and Tekuthal from spot removal — essential when multiple opponents are all pointing removal at your key pieces simultaneously.
+- **The Ozolith** — 1 generic, Legendary Artifact. When a creature you control leaves the battlefield with counters on it, move all those counters to The Ozolith. At combat start, move all counters from The Ozolith to a creature. Counter insurance — Hangarback Walker's death becomes a counter delivery service.
 - **Uthros Research Craft** — 2U, 0/8 Artifact — Spacecraft. Station: tap creatures to add charge counters equal to power. 3+ counters: whenever you cast an artifact spell, draw a card and add a charge counter. 12+ counters: Flying. A second Station target that doubles Jhoira's draw triggers.
 
 ---
@@ -81,29 +80,30 @@ Inspirit hums on the horizon, hull drinking the energy of every tapped machine. 
 - **Chaos Warp** — 2R. Shuffle any permanent into its owner's library; they reveal the top card and put it on the battlefield if it's a permanent. The catch-all single-target answer for anything Dispatch can't exile.
 - **Dispatch** — W, with Metalcraft active: exile target creature. Instant-speed exile is premium removal; Metalcraft is trivially active in this deck.
 - **Experimental Augury** — 1U. Look at top 3, put 1 in hand, rest anywhere in library. Then proliferate. A cantrip that also feeds the counter engine.
-- **Mouser Attack!** *(NEW)* — 1R. Create a 1/1 colorless Robot artifact creature token, OR give target creature +3/+0 and first strike until end of turn. Cheap Robot Station fuel or a combat trick that doubles as bluff value.
-- **Negate** *(NEW)* — 1U. Counter target noncreature spell. Protects Tekuthal, The Ozolith, or Lux Artillery from answers; essential 1v1 defensive piece.
-- **Pull from Tomorrow** — XUU. Draw X cards, discard 1. The big refill after establishing the engine; X=5 is often game-winning.
-- **Ripples of Potential** — 1U. Proliferate, then phase out any number of permanents you control that received counters. Counter spread plus emergency protection for key pieces.
-- **Swan Song** — U. Counter target enchantment, instant, or sorcery; opponent creates a 2/2 Bird. Hard counterspell for the lowest possible cost; the Bird rarely matters in 1v1 with an artifact army.
+- **Generous Gift** — 2W. Destroy target permanent; its controller creates a 3/3 green Elephant token. The catch-all answer Jeskai needs — handles planeswalkers, enchantments, and lands that Dispatch and Chaos Warp miss. The 3/3 token given to an opponent matters far less than having unconditional removal on demand.
+- **Negate** — 1U. Counter target noncreature spell. Protects Tekuthal, The Ozolith, or Lux Artillery from answers like Vandalblast or Cyclonic Rift — threats that come from multiple directions in pods.
+- **Pull from Tomorrow** — XUU. Draw X cards, discard 1. The big refill after establishing the engine.
+- **Ripples of Potential** — 1U. Proliferate, then phase out any number of permanents you control that received counters. Counter spread plus emergency protection against sweepers — more relevant when facing three opponents' worth of removal.
+- **Swan Song** — U. Counter target enchantment, instant, or sorcery; opponent creates a 2/2 Bird. Hard counterspell for the lowest possible cost.
 - **Swords to Plowshares** — W. Exile target creature; its controller gains life equal to its power. The cleanest creature removal in white.
 - **Thirst for Knowledge** — 2U. Draw 3 cards, discard 2 — or discard just 1 if you discard an artifact. Efficiently breaks even or better with an artifact in hand.
 
 ---
 
-### Sorceries (5)
+### Sorceries (6)
 
-- **Fabricate** *(NEW)* — 2U. Tutor any artifact directly to hand. Find The Ozolith, Lux Artillery, or Sol Ring as needed. Flexible and unconditional.
-- **Fumigate** — 3WW. Destroy all creatures; gain 1 life per creature destroyed. One-sided when cast before Cyberdrive Awakener turns your artifacts into creatures; life gain is a bonus.
+- **Chain Reaction** — 2RR. Deal X damage to each creature, where X is the number of creatures on the battlefield. The multiplayer board wipe: in a pod with 15+ creatures, this clears the table. In 1v1 it handles token floods and boards of small creatures. Restored from the precon for the "both" configuration.
+- **Fabricate** — 2U. Tutor any artifact directly to hand. Find The Ozolith, Lux Artillery, or Sol Ring as needed.
+- **Fumigate** — 3WW. Destroy all creatures; gain 1 life per creature destroyed. One-sided when cast before Cyberdrive Awakener turns your artifacts into creatures; life gain is a welcome buffer against multiple opponents.
 - **Organic Extinction** — 8WW with Improvise. Destroy all nonartifact creatures. Improvise lets your artifact army pay most of the cost; often a 2-3 mana wrath that leaves your entire board intact.
-- **Tezzeret's Gambit** — 3{U/P}. Draw 2 cards, then proliferate. Card draw and counter growth in one; the {U/P} can be paid with 2 life instead of Blue mana.
-- **Wake the Past** — 5RW. Return all artifact cards from your graveyard to the battlefield with haste. The comeback card: whenever combat sends artifacts to the yard, Wake the Past refills the battlefield in an instant.
+- **Tezzeret's Gambit** — 3{U/P}. Draw 2 cards, then proliferate. Card draw and counter growth in one.
+- **Wake the Past** — 5RW. Return all artifact cards from your graveyard to the battlefield with haste. The comeback card after any board wipe.
 
 ---
 
 ### Enchantments (1)
 
-- **Resourceful Defense** — 2W. Whenever a permanent you control leaves the battlefield, if it had counters, put them on another permanent you control. Backup counter insurance alongside The Ozolith; {4}{W} can also move counters between permanents at will.
+- **Resourceful Defense** — 2W. Whenever a permanent you control leaves the battlefield, if it had counters, put them on another permanent you control. Counter insurance alongside The Ozolith; {4}{W} can also move counters between permanents at will. In multiplayer with more removal coming from more directions, this matters even more.
 
 ---
 
@@ -111,8 +111,8 @@ Inspirit hums on the horizon, hull drinking the energy of every tapped machine. 
 
 **Artifact Lands (3)**
 - Ancient Den — Artifact land; tap for White. Counts as an artifact for Metalcraft, Improvise, Affinity, and Jhoira.
-- Great Furnace — Artifact land; tap for Red. Same function as Ancient Den.
-- Seat of the Synod — Artifact land; tap for Blue. Third artifact land completing the Jeskai set.
+- Great Furnace — Artifact land; tap for Red.
+- Seat of the Synod — Artifact land; tap for Blue.
 
 **Dual Lands (12)**
 - Adarkar Wastes — White/Blue with 1 damage.
@@ -128,20 +128,21 @@ Inspirit hums on the horizon, hull drinking the energy of every tapped machine. 
 - Skycloud Expanse — White/Blue filter land.
 - Sulfur Falls — Blue/Red checks land.
 
-**Triple Color (4)**
+**Triple Color (5)**
+- Command Tower — Taps for any color in commander's color identity. Auto-include.
+- Glittering Massif — Jeskai dual/triple from the precon.
 - Mystic Monastery — Taps for Blue, Red, or White (enters tapped).
-- Radiant Summit — New Jeskai triple-color land from the precon.
-- Glittering Massif — New Jeskai dual/triple from the precon.
-- Spire of Industry — Taps for any color with an artifact; otherwise {1} and 1 damage.
+- Radiant Summit — Jeskai triple-color land from the precon.
+- Spire of Industry — Taps for any color with an artifact on the battlefield.
 
 **Utility Lands (7)**
 - Buried Ruin — Sacrifice to return an artifact from your graveyard to hand. Emergency recursion.
 - Evolving Wilds — Thins deck and fetches a basic.
-- Exotic Orchard — Copies any color an opponent's land produces; excellent in 1v1.
+- Exotic Orchard — Copies any color an opponent's land produces; in a pod, color coverage is nearly perfect.
 - Karn's Bastion — {4}: Proliferate. A land that proliferates on demand.
 - Lonely Sandbar — Cycling Blue. Free pitch when flooded.
-- Secluded Steppe — Cycling White. Same.
-- The Mycosynth Gardens — Becomes a copy of any nonland artifact you control; turns into Sol Ring or a key artifact.
+- Secluded Steppe — Cycling White.
+- The Mycosynth Gardens — Becomes a copy of any nonland artifact you control.
 
 **Temple Scry Lands (3)**
 - Temple of Enlightenment — White/Blue, enters tapped, scry 1.
@@ -153,24 +154,24 @@ Inspirit hums on the horizon, hull drinking the energy of every tapped machine. 
 - Mountain (x3)
 - Plains (x3)
 
-**Other (2)**
-- Irrigated Farmland — Blue/White cycling land (Amonkhet cycling dual).
+**Other (1)**
+- Irrigated Farmland — Blue/White cycling land.
 
 ---
 
 ## Key Synergies
 
-- **Kilo, Apogee Mind + Station**: Every time you tap Kilo to load charge counters onto Inspirit, Kilo's "whenever becomes tapped" trigger fires — free proliferate. Station is now three things at once: fuel the ship, untap advantage next turn, and spread every counter everywhere. With Tekuthal in play, each Station tap on Kilo is two proliferates.
+- **Kilo, Apogee Mind + Station**: Every time you tap Kilo to load charge counters onto Inspirit, Kilo's "whenever becomes tapped" trigger fires — free proliferate. Station is now three things at once: fuel the ship, prepare for next turn, and spread every counter everywhere. With Tekuthal in play, each Station tap on Kilo is two proliferates.
 
-- **Tekuthal, Inquiry Dominus + Proliferate Sources**: Tekuthal doubles every proliferate effect — Kilo taps trigger twice, Thrummingbird's combat damage triggers twice, Ripples of Potential triggers twice. A deck with 8+ proliferate sources becomes a deck with 16+. Tekuthal is the single card opponents must answer immediately.
+- **Tekuthal, Inquiry Dominus + Proliferate Sources**: Tekuthal doubles every proliferate effect — Kilo taps trigger twice, Thrummingbird's combat damage triggers twice, Ripples of Potential triggers twice. A deck with 8+ proliferate sources becomes 16+. Tekuthal is the single card opponents must answer immediately at any table size.
 
-- **Jhoira, Weatherlight Captain + Enthusiastic Mechanaut + Etherium Sculptor**: With both cost reducers on the battlefield, artifact spells cost {2} less. A turn where you play Pentad Prism (→ 0 cost, draw), then Arcane Signet (→ 0 cost, draw), then Coretapper (→ 0 cost, draw) is suddenly a turn where you cast 6+ spells off 4 lands. This is the deck's combo-ish engine peak.
+- **Jhoira, Weatherlight Captain + Enthusiastic Mechanaut + Etherium Sculptor**: With both cost reducers on the battlefield, artifact spells cost {2} less. A turn where you play Pentad Prism (→ 0 cost, draw), then Arcane Signet (→ 0 cost, draw), then Coretapper (→ 0 cost, draw) is suddenly a turn where you cast 6+ spells off 4 lands.
 
-- **Egg Hammer (Myr Battlesphere) + Kilo + Station**: Myr Battlesphere enters with four 1/1 Myr tokens. Tap all four Myrs plus Kilo for Station — that's 4 power loading 4 charge counters onto Inspirit, and 5 "Kilo becomes tapped" triggers (Kilo taps once, firing once; the Myrs tap but don't trigger Kilo). Actually: tap Kilo = 1 proliferate; tap 4 Myrs = 4 charge counters. On the next turn, Station again with more creatures. Egg Hammer turns a slow Station deck into a fast one.
+- **Chain Reaction + Organic Extinction (the two-wipe sequence)**: When opponents have rebuilt a full board, cast Chain Reaction to deal massive damage to all creatures (in a pod with 12 creatures on the table, each creature takes 12 damage — essentially a full wipe). Follow up on a subsequent turn with Organic Extinction to clear any artifact creatures that survived, leaving your artifact board intact. In 1v1, Chain Reaction clears tokens and small boards; in multiplayer it scales with every creature across all players.
 
-- **Hangarback Walker + The Ozolith**: When Hangarback Walker dies, its counters move to The Ozolith instead of disappearing. At the start of your next combat, move those counters onto your largest creature. The Ozolith prevents any counter investment from being wasted, turning every creature death into a counter transfer.
+- **Lux Artillery + Proliferate Cascade**: Lux Artillery checks for 30+ counters total across all permanents — charge counters on Inspirit and Empowered Autogenerator, +1/+1 counters on creatures, and Astral Cornucopia all count. With Tekuthal doubling every proliferate, hitting 30 is realistic by turn 7–8. When it fires, it's 10 damage to each opponent simultaneously — in a three-player pod, that's potentially 30 total damage in one end step.
 
-- **Lux Artillery + Proliferate Cascade**: Lux Artillery checks for 30+ counters *total* across all your permanents — that means charge counters on Inspirit, +1/+1 counters on creatures, charge counters on Empowered Autogenerator, Astral Cornucopia, and Everflowing Chalice all count. With Tekuthal doubling every proliferate, hitting 30 counters is realistic by turn 7–8. When it fires, it's 10 damage to each opponent at the end of your turn.
+- **Hangarback Walker + The Ozolith**: When Hangarback Walker dies, its counters move to The Ozolith instead of disappearing. At the start of your next combat, move those counters onto your largest creature. Counter investment is never wasted; every creature death becomes a counter transfer.
 
 ---
 
@@ -178,14 +179,15 @@ Inspirit hums on the horizon, hull drinking the energy of every tapped machine. 
 
 | Card Removed | Reason | Replaced By |
 |---|---|---|
-| Angel of the Ruins | 7 CMC for artifact/enchantment removal; too slow in 1v1 where answers need to be faster | Egg Hammer (Myr Battlesphere) |
-| Chain Reaction | Redundant sweeper alongside Fumigate and Organic Extinction; less useful in 1v1 than in pods | Negate |
+| Angel of the Ruins | 7 CMC for artifact/enchantment removal; Generous Gift answers any permanent at 3 CMC instant speed | Generous Gift |
 | Darksteel Reactor | Requires 20 upkeep counters to win; too slow even in a proliferate deck | The Ozolith |
-| Golem Foundry | Slowest token engine in the deck: charges counters to make 3/3 Golems, replaced by cards that do more for less | Mouser Attack! |
-| Lux Cannon | Needs 3 charge counters to destroy a single permanent; Chaos Warp already handles anything at instant speed | Fabricate |
-| Soul-Guide Lantern | Narrow graveyard hate; meta-dependent, and doesn't advance the counter strategy | Air Shoes (Swiftfoot Boots) |
-| Titan Forge | 7+ mana investment per 9/9 Golem; far too slow for 1v1 | Clinquant Skymage |
-| Universal Surveillance | XXX draw sorcery with Improvise; Jhoira and Thirst for Knowledge provide better card flow at lower cost | Mischievous Mystic |
+| Golem Foundry | Needs 3 charge counters to make a single 3/3 Golem; Mischievous Mystic generates tokens automatically | Mischievous Mystic |
+| Lux Cannon | Needs 3 charge counters to destroy one permanent; Chaos Warp already answers anything at instant speed | Fabricate |
+| Soul-Guide Lantern | Narrow graveyard hate; meta-dependent and doesn't advance the counter strategy | Swiftfoot Boots |
+| Titan Forge | 9+ mana per 9/9 Golem; far too slow in any format | Myr Battlesphere |
+| Universal Surveillance | XXX sorcery draw with Improvise; Jhoira and Thirst for Knowledge provide better card flow at lower cost | Negate |
+
+*Chain Reaction was cut in the previous 1v1 draft as "redundant" — it is restored here because the third board wipe is essential for multiplayer resilience, and it scales with creature counts in a way Fumigate and Organic Extinction don't.*
 
 ---
 
@@ -194,12 +196,12 @@ Inspirit hums on the horizon, hull drinking the energy of every tapped machine. 
 | Token | P/T | Color | Type | Abilities | Created By |
 |---|---|---|---|---|---|
 | Bird | 2/2 | Blue | Creature — Bird | Flying | Swan Song |
+| Elephant | 3/3 | Green | Creature — Elephant | — | Generous Gift |
 | Faerie | 1/1 | Blue | Creature — Faerie | Flying | Mischievous Mystic |
 | Gnome | 1/1 | Colorless | Artifact Creature — Gnome | — | Threefold Thunderhulk |
 | Incubator | — | Colorless | Artifact — Incubator | [2]: Transform into 0/0 Phyrexian artifact creature | Chrome Host Seedshark |
-| Myr | 1/1 | Colorless | Artifact Creature — Myr | — | Egg Hammer (Myr Battlesphere) |
+| Myr | 1/1 | Colorless | Artifact Creature — Myr | — | Myr Battlesphere |
 | Phyrexian | 0/0+counters | Colorless | Artifact Creature — Phyrexian | — | Chrome Host Seedshark (transformed Incubator) |
-| Robot | 1/1 | Colorless | Artifact Creature — Robot | — | Mouser Attack! |
 | Thopter | 1/1 | Colorless | Artifact Creature — Thopter | Flying | Hangarback Walker |
 
 ---
@@ -209,16 +211,16 @@ Inspirit hums on the horizon, hull drinking the energy of every tapped machine. 
 ```
 0 CMC:  3  ███ (Astral Cornucopia, Everflowing Chalice, Hangarback Walker)
 1 CMC:  5  █████ (Dispatch, Sol Ring, Swan Song, Swords to Plowshares, The Ozolith)
-2 CMC: 16  ████████████████ (Air Shoes, Arcane Signet, Coretapper, Enthusiastic Mechanaut, Etherium Sculptor, Experimental Augury, Gavel of the Righteous, Mischievous Mystic, Moxite Refinery, Mouser Attack!, Negate, Pentad Prism, Pull from Tomorrow†, Ripples of Potential, Steel Overseer, Thrummingbird)
-3 CMC: 13  █████████████ (Chaos Warp, Chrome Host Seedshark, Cloud Key, Fabricate, Inspirit†, Insight Engine, Kilo, Long-Range Sensor, Patrolling Peacemaker, Resourceful Defense, Surge Conductor, Thirst for Knowledge, Uthros Research Craft)
-4 CMC: 11  ███████████ (Clinquant Skymage, Crystalline Crawler, Empowered Autogenerator, Emry, Etched Oracle, Jhoira, Lux Artillery, Mindless Automaton, Phyrexian Metamorph, Solar Array†, Tezzeret's Gambit)
+2 CMC: 15  ███████████████ (Arcane Signet, Coretapper, Enthusiastic Mechanaut, Etherium Sculptor, Experimental Augury, Gavel of the Righteous, Mischievous Mystic, Moxite Refinery, Negate, Pentad Prism, Pull from Tomorrow†, Ripples of Potential, Steel Overseer, Swiftfoot Boots, Thrummingbird)
+3 CMC: 14  ██████████████ (Chain Reaction†, Chaos Warp, Chrome Host Seedshark, Cloud Key, Fabricate, Generous Gift, Inspirit†, Insight Engine, Kilo, Long-Range Sensor, Patrolling Peacemaker, Resourceful Defense, Surge Conductor, Thirst for Knowledge, Uthros Research Craft)
+4 CMC: 11  ███████████ (Chain Reaction, Crystalline Crawler, Empowered Autogenerator, Emry, Etched Oracle, Jhoira, Lux Artillery, Mindless Automaton, Phyrexian Metamorph, Solar Array†, Tezzeret's Gambit)
 5 CMC:  4  ████ (Alibou, Deepglow Skate, Fumigate, Tekuthal)
 6 CMC:  2  ██ (Cyberdrive Awakener, Kappa Cannoneer)
-7+ CMC: 6  ██████ (Depthshaker Titan, Egg Hammer, Organic Extinction, Thought Monitor, Threefold Thunderhulk, Wake the Past)
+7+ CMC: 6  ██████ (Depthshaker Titan, Myr Battlesphere, Organic Extinction, Thought Monitor, Threefold Thunderhulk, Wake the Past)
 ```
-† = variable X, counted at base cost / commander counted in its CMC column
+† = variable X or commander, counted at base/printed CMC
 
-**Average CMC (non-land):** ~3.3 (actual cost significantly lower — Improvise, Affinity for artifacts, and cost reducers make many 4–8 CMC cards land for 1–3 mana in practice)
+**Average CMC (non-land):** ~3.3 (actual play cost significantly lower — Improvise, Affinity, and cost reducers make many 4–8 CMC cards land for 1–3 mana in practice)
 
 ---
 
@@ -226,65 +228,72 @@ Inspirit hums on the horizon, hull drinking the energy of every tapped machine. 
 
 **Opening hand targets:** Any 2-land hand with a 2-CMC mana rock (Sol Ring, Arcane Signet, Everflowing Chalice) plus one cost reducer (Enthusiastic Mechanaut or Etherium Sculptor) is a keep. Kilo in hand is a strong signal to keep aggressively.
 
-- **Early game (turns 1–4):** Ramp first. Sol Ring or Arcane Signet into cost reducers. Get Jhoira down by turn 3–4 if possible; she changes the game immediately. Hold up Dispatch or Swan Song if opponent is developing a key creature.
+- **Early game (turns 1–4):** Ramp first. Sol Ring or Arcane Signet into cost reducers. Get Jhoira down by turn 3–4 if possible — she changes the game immediately. In multiplayer, hold up Negate to protect Jhoira from removal; in 1v1, you can be more aggressive resolving threats.
 
-- **Mid game (turns 5–7):** Resolve Kilo and start Stationing. Each Kilo tap is a proliferate. Try to get Tekuthal down — once Tekuthal + Kilo are both active, proliferate goes from good to broken. Station Uthros Research Craft too for additional draw-per-artifact-cast.
+- **Mid game (turns 5–7):** Resolve Kilo and start Stationing. Each Kilo tap is a proliferate. In a pod, watch the table — Station Uthros Research Craft aggressively for draw triggers while opponents deal with each other. Try to get Tekuthal down; once Tekuthal + Kilo are both active, proliferate goes from good to broken.
 
-- **Late game (turns 8+):** Push Inspirit to 8+ charge counters for the "hexproof/indestructible on all artifacts" mode, then swing with a flying army or let Lux Artillery close out. Deepglow Skate can double-up counters to reach 8+ or 30+ in a single turn as a surprise closer.
+- **Late game (turns 8+):** Push Inspirit to 8+ charge counters for the hexproof/indestructible mode on all artifacts, then swing with the flying army or let Lux Artillery close out. Deepglow Skate can double-up counters to reach 8+ or 30+ in a single turn as a surprise closer. In multiplayer, Lux Artillery at 30+ counters deals 10 to each opponent simultaneously — often winning on the spot.
 
-- **Key interactions:** 
-  - Organic Extinction only destroys nonartifact creatures — cast it as a one-sided wipe while your artifact creatures survive.
-  - Moxite Refinery can move counters FROM Astral Cornucopia or Everflowing Chalice ONTO Inspirit or Lux Artillery if you need to push past a threshold.
-  - Thrummingbird + Tekuthal = two proliferates per combat damage trigger; swing early even into chump blockers to rack up counter triggers.
+- **Sequencing board wipes:**
+  - Fumigate: all creatures, good when your artifacts are NOT creatures (before Cyberdrive Awakener).
+  - Organic Extinction: leave your artifact creatures standing; use when your board is full of them.
+  - Chain Reaction: best when the table has many creatures — in a pod with 12 creatures, it deals 12 damage to each. In 1v1, use against token decks.
+  - The three wipes cover every scenario; never tap out into a board wipe on your turn unless you can follow up.
+
+- **Key interactions:**
+  - Moxite Refinery can move counters FROM Astral Cornucopia or Everflowing Chalice ONTO Inspirit or Lux Artillery to push past a threshold.
+  - Thrummingbird + Tekuthal = two proliferates per combat damage; in a pod, pick the opponent least likely to block.
+  - Patrolling Peacemaker rewards opponents interacting with you — which happens far more in multiplayer.
 
 ---
 
 ## Why These Choices (Summary)
 
-- **Focused 1v1 optimization:** Removed the three slowest alternate win conditions (Darksteel Reactor, Titan Forge) and most meta-dependent cards (Soul-Guide Lantern). In 1v1 you must threaten to win by turn 10–12, not turn 20+.
-- **Added protection for key pieces:** Air Shoes (Swiftfoot Boots) on Kilo or Tekuthal makes them nearly invulnerable to spot removal. Negate handles the most common non-creature answers (Counterspells, board wipes, artifact destruction).
-- **Token support:** Egg Hammer (Myr Battlesphere) solves the deck's Station velocity problem — four 1/1 Myrs means you can load 4 charge counters per turn without sacrificing your bigger creatures. Mouser Attack! adds a cheap 1/1 Robot that's both a Station piece and a combat trick.
-- **Counter insurance:** The Ozolith ensures no +1/+1 counters are lost when creatures die, making Hangarback Walker, Crystalline Crawler, and Etched Oracle dramatically more resilient. Resourceful Defense was already in the precon for the same reason.
-- **Card quality over card quantity:** Fabricate tutors the right artifact for any situation (Sol Ring when mana-starved, Lux Artillery to set up the win, The Ozolith after board wipes). Clinquant Skymage and Mischievous Mystic add two creatures that grow alongside Jhoira's draw engine rather than competing with it.
+- **Three board wipes for "both" format:** The 1v1 version ran only Fumigate and Organic Extinction. Chain Reaction is restored because multiplayer pods generate more creatures and the X-damage formula scales perfectly with crowded tables.
+- **Generous Gift fills the removal gap:** Jeskai has no clean answer to enchantments or planeswalkers without it. The 3/3 Elephant given to an opponent is a fair cost in exchange for unconditional instant-speed removal of anything.
+- **Card conflict resolved:** The previous draft flagged Swiftfoot Boots and Myr Battlesphere as potentially conflicting with the Dr. Eggman deck (which uses the Sonic alternate-art versions). This version uses the standard-art free copies from outside any Commander precon — no conflict.
+- **Multiplayer scaling built in:** Lux Artillery hits each opponent for 10 (30 total damage in a four-player pod), Alibou deals 1 damage to each opponent per artifact tap in combat, Patrolling Peacemaker triggers off every opponent's crimes, and Chain Reaction scales with the entire table's creature count.
+- **Counter insurance doubled up:** Both The Ozolith and Resourceful Defense protect counter investments — more necessary in multiplayer where more removal is flying around from more angles.
 
 ---
 
 ## Analysis
 
 **Strengths:**
-- Explosive mid-game power: Kilo + Tekuthal in play means every Station tap proliferates twice — charge counters, +1/+1 counters, and Empowered Autogenerator all double every turn.
-- Resilience once locked in: A flying 5/5 commander where all your artifacts have hexproof and indestructible is nearly impossible to interact with. The opponent must kill Inspirit or Tekuthal before reaching 8 counters.
-- Multiple win vectors: Lux Artillery burn, Cyberdrive Awakener + Depthshaker Titan combat swing, or simply attacking with a protected counter-bloated army.
+- Explosive mid-game power: Kilo + Tekuthal means every Station tap proliferates twice — charge counters, +1/+1 counters, and Empowered Autogenerator all double every turn.
+- Resilience once locked in: A flying 5/5 commander where all your artifacts have hexproof and indestructible is nearly impossible to interact with. Opponents must kill Inspirit or Tekuthal before reaching 8 counters.
+- Multiple win vectors: Lux Artillery burn (scales with opponent count), Cyberdrive Awakener + Depthshaker Titan combat swing, or protected combat with a counter-bloated artifact army.
 - Excellent card flow: Jhoira + Uthros + Thought Monitor + Insight Engine ensure you're never topdecking.
+- Three board wipes covering different scenarios (all creatures, nonartifact creatures, X-damage scaling).
 
 **Weaknesses / Missing Staples:**
 
-- **Physical card conflict (CRITICAL):** Swiftfoot Boots (Air Shoes) and Myr Battlesphere (Egg Hammer) are **currently committed to the Dr. Eggman deck**. You only own one copy of each. You must choose which deck gets each card before playing either deck. The Counter Intelligence deck gains more from Swiftfoot Boots (protecting Kilo/Tekuthal from spot removal is critical). Myr Battlesphere is powerful here but can be replaced by Threefold Thunderhulk or another large artifact creature.
-- **Counterspell depth:** Two counterspells (Negate, Swan Song) is minimal. Vulnerable to non-creature board wipes (e.g., Vandalblast, Austere Command) before reaching 8+ counters on Inspirit.
-- **Single-target removal:** Three pieces total (Dispatch, Swords to Plowshares, Chaos Warp). If opponent has a key creature with hexproof, answers are limited.
+- **Counterspell depth:** Two counterspells (Negate, Swan Song) is still minimal. Vulnerable to non-creature board wipes (Vandalblast, Austere Command) before reaching 8+ counters on Inspirit. In a pod, three opponents mean three times the threat of mass artifact removal.
+- **Single-target removal is light:** Three pieces total (Dispatch, Swords to Plowshares, Chaos Warp) plus Generous Gift = four. If opponents have multiple key creatures requiring answers simultaneously, the suite can run dry.
 - **Slow turn 1–3:** Without Sol Ring or a cost reducer, early turns can feel empty. Optimal hands are 25–30% of shuffles.
+- **The Elephant token:** Generous Gift gives an opponent a 3/3 Elephant. In multiplayer this is a mild political consideration — gifting a token to the player who poses the least threat is correct play.
 
 ---
 
 ## Next Steps
 
-- **Priority 1 — Resolve the physical card conflict.** Decide which deck gets Swiftfoot Boots (Air Shoes). Counter Intelligence benefits more from it. If this deck loses Air Shoes, consider replacing it with a basic hexproof equipment or an additional counterspell.
-- **Consider a second broad sweeper.** If the meta has many creature-heavy decks, adding a Wrath of God effect (if owned) would shore up the vulnerability window before Inspirit reaches 8+ counters.
-- **Test Karn's Bastion activation sequencing.** Tapping Karn's Bastion for proliferate is often better than using it for mana in the late game — don't reflexively spend it on mana when proliferating twice (with Tekuthal) might win the game.
-- **Long-Range Sensor:** In 1v1, you attack a single player, so it charges every combat. Look for spots to bank counters and Discover 4 for free spells — it can grab Chaos Warp, Fabricate, or Thirst for Knowledge for free.
+- **Consider a second Negate-type effect.** If your meta includes heavy artifact hate (Shatter, Vandalblast, Austere Command), a third counterspell would shore up the critical window before Inspirit hits 8 counters. Cancel is available in the non-precon pool if needed.
+- **Test Chain Reaction sequencing.** In multiplayer, wait until all opponents have committed to their boards before casting. In 1v1, cast it early against token strategies before they grow out of range.
+- **Long-Range Sensor in pods:** Attacking a different opponent each turn keeps this charging every combat — look for Discover 4 windows to cast Chaos Warp, Fabricate, or Thirst for Knowledge for free.
+- **Karn's Bastion activation:** In the late game, tapping Karn's Bastion for proliferate is almost always better than using it for mana — with Tekuthal in play, that's two proliferates from a land.
 
 ---
 
 ## Suggested Deck Names
 
-- **Full Charge** — Punchy two-word option; charge counters loading to max + fleet charging into battle. Works mechanically and as battlefield imagery.
+- **Full Charge** — Punchy two-word option; charge counters loading to max plus fleet charging into battle. Works mechanically and as battlefield imagery at any table size.
 - **Charged with Conspiracy** — Charge counter pun meets intelligence ops flavor. The fleet is charged, the mission is secret, and the pun is intentional.
 - **Counter Culture** — Counters (+1/+1 and charge) + counter-intelligence + cultural pun. References the precon name while feeling entirely fresh.
-- **Above the Law** — When your entire artifact army is hexproof and indestructible, it literally operates beyond the rules. A nod to the "intelligence agency operating in secret, answering to no one" flavor.
+- **Above the Law** — When your entire artifact army is hexproof and indestructible, it literally operates beyond the rules. Whether facing one opponent or four, the fleet answers to no one.
 
 ---
 
-*Deck generated 2026-05-26. Based on Counter Intelligence precon — improved for 1v1 (single opponent). Excludes Prismari Artistry and Squirreled Away precon cards.*
+*Deck generated 2026-05-29. Based on Counter Intelligence precon — improved for both 1v1 and multiplayer. Excludes Prismari Artistry and Squirreled Away precon cards.*
 
 **Version:** Draft | **Status:** Working version
 
@@ -319,7 +328,7 @@ Inspirit hums on the horizon, hull drinking the energy of every tapped machine. 
 | Thought Monitor | Creature | Counter Intelligence |
 | Threefold Thunderhulk | Creature | Counter Intelligence |
 | Thrummingbird | Creature | Counter Intelligence |
-| Arcane Signet | Artifact | Counter Intelligence; Prismari Artistry; Squirreled Away |
+| Arcane Signet | Artifact | Counter Intelligence |
 | Astral Cornucopia | Artifact | Counter Intelligence |
 | Cloud Key | Artifact | Counter Intelligence |
 | Empowered Autogenerator | Artifact | Counter Intelligence |
@@ -330,11 +339,11 @@ Inspirit hums on the horizon, hull drinking the energy of every tapped machine. 
 | Lux Artillery | Artifact | Counter Intelligence |
 | Moxite Refinery | Artifact | Counter Intelligence |
 | Pentad Prism | Artifact | Counter Intelligence |
-| Sol Ring | Artifact | Counter Intelligence; Prismari Artistry; Squirreled Away; Sonic the Hedgehog: Chasing Adventure |
+| Sol Ring | Artifact | Counter Intelligence |
 | Solar Array | Artifact | Counter Intelligence |
 | Uthros Research Craft | Artifact | Counter Intelligence |
 | Resourceful Defense | Enchantment | Counter Intelligence |
-| Chaos Warp | Instant | Counter Intelligence; Prismari Artistry |
+| Chaos Warp | Instant | Counter Intelligence |
 | Dispatch | Instant | Counter Intelligence |
 | Experimental Augury | Instant | Counter Intelligence |
 | Pull from Tomorrow | Instant | Counter Intelligence |
@@ -342,6 +351,7 @@ Inspirit hums on the horizon, hull drinking the energy of every tapped machine. 
 | Swan Song | Instant | Counter Intelligence |
 | Swords to Plowshares | Instant | Counter Intelligence |
 | Thirst for Knowledge | Instant | Counter Intelligence |
+| Chain Reaction | Sorcery | Counter Intelligence |
 | Fumigate | Sorcery | Counter Intelligence |
 | Organic Extinction | Sorcery | Counter Intelligence |
 | Tezzeret's Gambit | Sorcery | Counter Intelligence |
@@ -350,41 +360,40 @@ Inspirit hums on the horizon, hull drinking the energy of every tapped machine. 
 | Ancient Den | Land | Counter Intelligence |
 | Battlefield Forge | Land | Counter Intelligence |
 | Buried Ruin | Land | Counter Intelligence |
-| Cascade Bluffs | Land | Counter Intelligence; Prismari Artistry |
+| Cascade Bluffs | Land | Counter Intelligence |
 | Clifftop Retreat | Land | Counter Intelligence |
-| Command Tower | Land | Counter Intelligence; Prismari Artistry; Squirreled Away |
-| Evolving Wilds | Land | Counter Intelligence; Squirreled Away |
-| Exotic Orchard | Land | Counter Intelligence; Prismari Artistry; Squirreled Away |
+| Command Tower | Land | Counter Intelligence |
+| Evolving Wilds | Land | Counter Intelligence |
+| Exotic Orchard | Land | Counter Intelligence |
 | Glacial Fortress | Land | Counter Intelligence |
 | Glittering Massif | Land | Counter Intelligence |
 | Great Furnace | Land | Counter Intelligence |
 | Irrigated Farmland | Land | Counter Intelligence |
-| Island (x3) | Land | Counter Intelligence; Prismari Artistry; Foundations Beginner Box; Otter Limits |
+| Island (x3) | Land | Counter Intelligence |
 | Karn's Bastion | Land | Counter Intelligence |
 | Lonely Sandbar | Land | Counter Intelligence |
-| Mountain (x3) | Land | Counter Intelligence; Prismari Artistry; Foundations Beginner Box; Otter Limits |
+| Mountain (x3) | Land | Counter Intelligence |
 | Mystic Monastery | Land | Counter Intelligence |
-| Plains (x3) | Land | Counter Intelligence; Foundations Beginner Box; Hare Raising |
+| Plains (x3) | Land | Counter Intelligence |
 | Radiant Summit | Land | Counter Intelligence |
 | Razortide Bridge | Land | Counter Intelligence |
 | Rugged Prairie | Land | Counter Intelligence |
 | Rustvale Bridge | Land | Counter Intelligence |
 | Seat of the Synod | Land | Counter Intelligence |
 | Secluded Steppe | Land | Counter Intelligence |
-| Shivan Reef | Land | Counter Intelligence; Prismari Artistry |
+| Shivan Reef | Land | Counter Intelligence |
 | Silverbluff Bridge | Land | Counter Intelligence |
 | Skycloud Expanse | Land | Counter Intelligence |
 | Spire of Industry | Land | Counter Intelligence |
-| Sulfur Falls | Land | Counter Intelligence; Prismari Artistry |
+| Sulfur Falls | Land | Counter Intelligence |
 | Temple of Enlightenment | Land | Counter Intelligence |
-| Temple of Epiphany | Land | Counter Intelligence; Prismari Artistry |
+| Temple of Epiphany | Land | Counter Intelligence |
 | Temple of Triumph | Land | Counter Intelligence |
 | The Mycosynth Gardens | Land | Counter Intelligence |
-| Clinquant Skymage | Creature | Foundations Beginner Box |
 | Mischievous Mystic | Creature | Foundations Beginner Box |
-| Egg Hammer (Myr Battlesphere) | Creature | Sonic the Hedgehog: Turbo Gear |
-| Air Shoes (Swiftfoot Boots) | Artifact | Sonic the Hedgehog: Turbo Gear |
-| Fabricate | Sorcery | Sonic the Hedgehog: Chasing Adventure |
-| Mouser Attack! | Instant | — |
+| Fabricate | Sorcery | — |
+| Generous Gift | Instant | — |
 | Negate | Instant | — |
+| Myr Battlesphere | Creature | — |
+| Swiftfoot Boots | Artifact | — |
 | The Ozolith | Artifact | — |
