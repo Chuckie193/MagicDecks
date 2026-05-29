@@ -48,7 +48,7 @@
 
 - **Phyrexian Metamorph** — 3U (or {3}{P}). Copies any artifact or creature on the battlefield as an artifact. Clone any Tekuthal for double-double proliferate. Clone any Archmage Emeritus for additional draw. Clone an opponent's commander. Crucially, the copy enters as an artifact, which means Jhoira draws a card when Metamorph is cast.
 
-- **Solemn Simulacrum** — 4. 2/2 Artifact Robot. When it enters, search for a basic land and put it into play tapped. When it dies, draw a card. Ramp and draw in a single card, both effects being artifacts means Jhoira triggers. Goes into the graveyard naturally for Emry recursion or Wake the Past (if applicable). Every role the deck needs crammed into a 4-CMC artifact creature.
+- **Solemn Simulacrum** — 4. 2/2 Artifact Robot. When it enters, search for a basic land and put it into play tapped. When it dies, draw a card. Ramp and draw in a single card, both effects being artifacts means Jhoira triggers. Goes into the graveyard naturally for Emry to recur. Every role the deck needs crammed into a 4-CMC artifact creature.
 
 - **Steel Overseer** — 2. 1/1. Tap to put a +1/+1 counter on each artifact creature you control. With Tekuthal, each tap gives 2 counters to each artifact creature. With Surge Conductor, each proliferate gives the counter-bearing creatures +2/+0. Steel Overseer + Tekuthal is an exponential clock that turns a Thopter army into a lethal air force in two turns.
 
@@ -60,9 +60,9 @@
 
 - **Threefold Thunderhulk** — {6}{W}. 5/5. When it enters, you may remove any number of +1/+1 counters from it — create a 1/1 Gnome artifact creature token for each counter removed. A token factory: enter with 3 counters (from proliferate stacking), immediately trade them for 3 Gnome artifacts (Jhoira draws), then proliferate to grow it again. Combines with Steel Overseer and Cyberdrive Awakener.
 
-- **Thrummingbird** — 1U. 1/1 flying with infect (only for proliferate purposes). Whenever Thrummingbird deals combat damage to a player, proliferate. With Tekuthal, each combat damage proliferates twice. With Cyberdrive Awakener ensuring everything flies, Thrummingbird can deal combat damage to the safest opponent in a pod, triggering two proliferates every attack step.
+- **Thrummingbird** — 1U. 1/1 flying. Whenever Thrummingbird deals combat damage to a player, proliferate. With Tekuthal, each combat damage proliferates twice. With Cyberdrive Awakener ensuring everything flies, Thrummingbird can deal combat damage to the safest opponent in a pod, triggering two proliferates every attack step.
 
-- **Veyran, Voice of Duality** — 1UR. 2/2. Whenever you cast or copy an instant or sorcery spell, its controller's triggered abilities trigger an additional time. With Archmage Emeritus, every instant or sorcery draws 2 cards instead of 1. With Chrome Host Seedshark, every noncreature spell creates 2 Incubators. With Jhoira, legendary and artifact instants draw twice. Veyran transforms the already-strong draw engine into something overwhelming.
+- **Veyran, Voice of Duality** — 1UR. 2/2. Whenever you cast or copy an instant or sorcery spell, its controller's triggered abilities trigger an additional time. With Archmage Emeritus, every instant or sorcery draws 2 cards instead of 1. With Chrome Host Seedshark, every instant or sorcery creates 2 Incubators (Veyran doubles Seedshark's trigger — which fires on any noncreature spell — when that noncreature spell is an instant or sorcery). With Jhoira, any instant or sorcery that is also legendary or an artifact draws twice. Veyran transforms the already-strong draw engine into something overwhelming.
 
 ---
 
@@ -240,8 +240,8 @@
 0 CMC:  3  ███ (Astral Cornucopia, Everflowing Chalice, Hangarback Walker)
 1 CMC:  5  █████ (Dispatch, Sol Ring, Swan Song, Swords to Plowshares, The Ozolith)
 2 CMC: 17  █████████████████ (Arcane Denial, Arcane Signet, Coretapper, Enthusiastic Mechanaut, Etherium Sculptor, Expressive Iteration, Fellwar Stone, Gavel of the Righteous, Lightning Greaves, Moxite Refinery, Pull from Tomorrow†, Reality Shift, Ripples of Potential, Steel Overseer, Swiftfoot Boots, Talisman of Creativity, Thrummingbird)
-3 CMC: 11  ███████████ (Chaos Warp, Chrome Host Seedshark, Fabricate, Generous Gift, Inspirit†, Kilo, Long-Range Sensor, Resourceful Defense, Surge Conductor, Thirst for Knowledge, Uthros Research Craft, Veyran)
-4 CMC: 11  ███████████ (Archmage Emeritus, Crystalline Crawler, Empowered Autogenerator, Emry, Etched Oracle, Jhoira, Lux Artillery, Phyrexian Metamorph, Solar Array†, Solemn Simulacrum, Tezzeret's Gambit)
+3 CMC: 11  ███████████ (Chaos Warp, Fabricate, Generous Gift, Inspirit†, Kilo, Long-Range Sensor, Resourceful Defense, Surge Conductor, Thirst for Knowledge, Uthros Research Craft, Veyran)
+4 CMC: 12  ████████████ (Archmage Emeritus, Chrome Host Seedshark, Crystalline Crawler, Empowered Autogenerator, Emry, Etched Oracle, Jhoira, Lux Artillery, Phyrexian Metamorph, Solar Array†, Solemn Simulacrum, Tezzeret's Gambit)
 5 CMC:  5  █████ (Alibou, Deepglow Skate, Fumigate, Goldspan Dragon, Tekuthal)
 6 CMC:  2  ██ (Cyberdrive Awakener, Kappa Cannoneer)
 7+ CMC: 5  █████ (Blasphemous Act†, Dig Through Time†, Organic Extinction, Thought Monitor, Threefold Thunderhulk)
@@ -256,7 +256,7 @@
 
 **Opening hand targets:** Any 2-land hand with Sol Ring or a 2-CMC rock plus one cost reducer (Enthusiastic Mechanaut or Etherium Sculptor) is a keep. Jhoira in hand is a strong second-keep signal. Lightning Greaves in hand signals: get a target for it quickly. Kilo in opening hand is a powerful keep if you can reach turn 3.
 
-**Early game (turns 1–4):** Ramp aggressively. Sol Ring → Jhoira on turn 3 is the primary line. With both cost reducers, the deck can flood the board with zero-cost artifacts on turn 4 and draw an entire new hand. Use Arcane Denial or Swan Song to protect Jhoira if opponents try to answer her immediately. In multiplayer, flash in Archmage Emeritus at instant speed after opponents have tried to stop your early plays.
+**Early game (turns 1–4):** Ramp aggressively. Sol Ring → Jhoira on turn 3 is the primary line. With both cost reducers, the deck can flood the board with zero-cost artifacts on turn 4 and draw an entire new hand. Use Arcane Denial or Swan Song to protect Jhoira if opponents try to answer her immediately. In multiplayer, hold up blue mana after your main phase — open mana signals a counterspell and often discourages opponents from targeting your key pieces.
 
 **Mid game (turns 5–7):** Kilo + Station + Tekuthal is the primary objective. Once Tekuthal is on board, every Kilo tap is two proliferates. With Veyran also on board, instant spells draw 2 from Archmage. The hand refills faster than opponents can interact. Blasphemous Act can be held as a {R} reset button if opponents threaten to overrun you.
 
@@ -333,7 +333,7 @@ Both decks run the same core engine: Inspirit as commander, Kilo as the Station/
 | Mana rocks | Arcane Signet + Sol Ring | Arcane Signet + Sol Ring + Talisman + Fellwar Stone | Two additional T2 rocks make T3 threats significantly more consistent. |
 | Commander protection | Swiftfoot Boots | Lightning Greaves + Swiftfoot Boots | Greaves equips for free (0 mana); Inspirit lands and immediately Stations. |
 | Card selection | Experimental Augury | Dig Through Time | Dig looks at 7 for 2, nearly free with delve. Experimental Augury scries 2 and charges one counter. |
-| Draw counterspell | Negate | Arcane Denial | Arcane Denial counters creatures too; Negate cannot. Both draw a card. |
+| Counterspell | Negate | Arcane Denial | Arcane Denial counters any spell (including creatures); Negate cannot. Arcane Denial also draws you a card immediately; Negate draws nothing. |
 | Removal | — | Reality Shift | Full Deployment adds blue exile removal for indestructible or regenerating creatures. |
 | Ramp + draw | — | Solemn Simulacrum | 4 CMC but fetches a basic and draws on death. Enables T3 Jhoira more consistently. |
 | Threat | Myr Battlesphere | Goldspan Dragon | Battlesphere costs 7 and creates a token army. Dragon costs 5, has haste, creates Treasures (artifacts = Jhoira draw). Dragon is faster. |
