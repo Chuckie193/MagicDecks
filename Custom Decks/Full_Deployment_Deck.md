@@ -367,7 +367,6 @@ Blasphemous Act is the strongest board wipe available at its effective cost. In 
 |------|----------|--------|
 | Inspirit, Flagship Vessel | Commander | Counter Intelligence |
 | Alibou, Ancient Witness | Creature | Counter Intelligence |
-| Archmage Emeritus | Creature | **Prismari Artistry** |
 | Chrome Host Seedshark | Creature | Counter Intelligence |
 | Coretapper | Creature | Counter Intelligence |
 | Crystalline Crawler | Creature | Counter Intelligence |
@@ -377,63 +376,47 @@ Blasphemous Act is the strongest board wipe available at its effective cost. In 
 | Enthusiastic Mechanaut | Creature | Counter Intelligence |
 | Etched Oracle | Creature | Counter Intelligence |
 | Etherium Sculptor | Creature | Counter Intelligence |
-| Goldspan Dragon | Creature | **Prismari Artistry** |
 | Hangarback Walker | Creature | Counter Intelligence |
 | Jhoira, Weatherlight Captain | Creature | Counter Intelligence |
 | Kappa Cannoneer | Creature | Counter Intelligence |
 | Kilo, Apogee Mind | Creature | Counter Intelligence |
 | Phyrexian Metamorph | Creature | Counter Intelligence |
-| Solemn Simulacrum | Creature | **Prismari Artistry** |
 | Steel Overseer | Creature | Counter Intelligence |
 | Surge Conductor | Creature | Counter Intelligence |
 | Tekuthal, Inquiry Dominus | Creature | Counter Intelligence |
 | Thought Monitor | Creature | Counter Intelligence |
 | Threefold Thunderhulk | Creature | Counter Intelligence |
 | Thrummingbird | Creature | Counter Intelligence |
-| Veyran, Voice of Duality | Creature | **Prismari Artistry** |
 | Arcane Signet | Artifact | Counter Intelligence |
 | Astral Cornucopia | Artifact | Counter Intelligence |
 | Empowered Autogenerator | Artifact | Counter Intelligence |
 | Everflowing Chalice | Artifact | Counter Intelligence |
-| Fellwar Stone | Artifact | **Prismari Artistry** |
 | Gavel of the Righteous | Artifact | Counter Intelligence |
-| Lightning Greaves | Artifact | **Prismari Artistry** |
 | Long-Range Sensor | Artifact | Counter Intelligence |
 | Lux Artillery | Artifact | Counter Intelligence |
 | Moxite Refinery | Artifact | Counter Intelligence |
 | Sol Ring | Artifact | Counter Intelligence |
 | Solar Array | Artifact | Counter Intelligence |
-| Swiftfoot Boots | Artifact | Sonic TurboGear precon |
-| Talisman of Creativity | Artifact | **Prismari Artistry** |
-| The Ozolith | Artifact | — |
 | Uthros Research Craft | Artifact | Counter Intelligence |
 | Resourceful Defense | Enchantment | Counter Intelligence |
-| Arcane Denial | Instant | **Prismari Artistry** |
 | Chaos Warp | Instant | Counter Intelligence |
-| Dig Through Time | Instant | **Prismari Artistry** |
 | Dispatch | Instant | Counter Intelligence |
-| Generous Gift | Instant | Sonic Chasing Adventure |
 | Pull from Tomorrow | Instant | Counter Intelligence |
-| Reality Shift | Instant | **Prismari Artistry** |
 | Ripples of Potential | Instant | Counter Intelligence |
 | Swan Song | Instant | Counter Intelligence |
 | Swords to Plowshares | Instant | Counter Intelligence |
 | Thirst for Knowledge | Instant | Counter Intelligence |
-| Blasphemous Act | Sorcery | **Prismari Artistry** |
-| Expressive Iteration | Sorcery | **Prismari Artistry** |
-| Fabricate | Sorcery | Sonic Chasing Adventure |
 | Fumigate | Sorcery | Counter Intelligence |
 | Organic Extinction | Sorcery | Counter Intelligence |
 | Tezzeret's Gambit | Sorcery | Counter Intelligence |
-| Ancient Den | Land | Counter Intelligence |
 | Adarkar Wastes | Land | Counter Intelligence |
+| Ancient Den | Land | Counter Intelligence |
 | Battlefield Forge | Land | Counter Intelligence |
 | Buried Ruin | Land | Counter Intelligence |
 | Cascade Bluffs | Land | Counter Intelligence |
 | Clifftop Retreat | Land | Counter Intelligence |
 | Command Tower | Land | Counter Intelligence |
 | Exotic Orchard | Land | Counter Intelligence |
-| Fabled Passage | Land | **Prismari Artistry** |
 | Glacial Fortress | Land | Counter Intelligence |
 | Glittering Massif | Land | Counter Intelligence |
 | Great Furnace | Land | Counter Intelligence |
@@ -446,7 +429,6 @@ Blasphemous Act is the strongest board wipe available at its effective cost. In 
 | Plains (×3) | Land | Counter Intelligence |
 | Radiant Summit | Land | Counter Intelligence |
 | Razortide Bridge | Land | Counter Intelligence |
-| Reliquary Tower | Land | **Prismari Artistry** |
 | Rugged Prairie | Land | Counter Intelligence |
 | Rustvale Bridge | Land | Counter Intelligence |
 | Seat of the Synod | Land | Counter Intelligence |
@@ -458,6 +440,24 @@ Blasphemous Act is the strongest board wipe available at its effective cost. In 
 | Sulfur Falls | Land | Counter Intelligence |
 | Temple of Enlightenment | Land | Counter Intelligence |
 | Temple of Epiphany | Land | Counter Intelligence |
-| Temple of the False God | Land | **Prismari Artistry** |
 | Temple of Triumph | Land | Counter Intelligence |
 | The Mycosynth Gardens | Land | Counter Intelligence |
+| Archmage Emeritus | Creature | **Prismari Artistry** |
+| Goldspan Dragon | Creature | **Prismari Artistry** |
+| Solemn Simulacrum | Creature | **Prismari Artistry** |
+| Veyran, Voice of Duality | Creature | **Prismari Artistry** |
+| Fellwar Stone | Artifact | **Prismari Artistry** |
+| Lightning Greaves | Artifact | **Prismari Artistry** |
+| Talisman of Creativity | Artifact | **Prismari Artistry** |
+| Arcane Denial | Instant | **Prismari Artistry** |
+| Dig Through Time | Instant | **Prismari Artistry** |
+| Reality Shift | Instant | **Prismari Artistry** |
+| Blasphemous Act | Sorcery | **Prismari Artistry** |
+| Expressive Iteration | Sorcery | **Prismari Artistry** |
+| Fabled Passage | Land | **Prismari Artistry** |
+| Reliquary Tower | Land | **Prismari Artistry** |
+| Temple of the False God | Land | **Prismari Artistry** |
+| Generous Gift | Instant | Sonic Chasing Adventure |
+| Fabricate | Sorcery | Sonic Chasing Adventure |
+| Swiftfoot Boots | Artifact | Sonic TurboGear precon |
+| The Ozolith | Artifact | — |
