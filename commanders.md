@@ -1,6 +1,6 @@
 # Potential Commanders
 
-All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **44 cards**.
+All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **46 cards**.
 
 ---
 
@@ -63,6 +63,12 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 |------|------|------|--------|
 | <img src="images/commanders/Queza_Augur_of_Agonies.jpg" alt="Queza, Augur of Agonies" width="200"> | **Queza, Augur of Agonies** | Legendary Creature — Octopus Advisor |  |
 
+## Black, Green, Red, Blue, White
+
+| Card | Name | Type | Precon |
+|------|------|------|--------|
+| <img src="images/commanders/Jegantha_the_Wellspring.jpg" alt="Jegantha, the Wellspring" width="200"> | **Jegantha, the Wellspring** | Legendary Creature — Elemental Elk |  |
+
 ## Black, Red, Blue
 
 | Card | Name | Type | Precon |
@@ -80,6 +86,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | Card | Name | Type | Precon |
 |------|------|------|--------|
 | <img src="images/commanders/Genghis_Frog.jpg" alt="Genghis Frog" width="200"> | **Genghis Frog** | Legendary Creature — Frog Mutant Rogue |  |
+| <img src="images/commanders/Keruga_the_Macrosage.jpg" alt="Keruga, the Macrosage" width="200"> | **Keruga, the Macrosage** | Legendary Creature — Dinosaur Hippo |  |
 
 ## Green, Blue, White
 
