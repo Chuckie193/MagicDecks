@@ -27,6 +27,7 @@ MagicDecks/
 │   └── skills/
 │       ├── generate-deck.md      # AI deck generator skill
 │       └── README.md             # Skills documentation
+├── moxfield_collections/         # Historical Moxfield collection snapshots (dated CSVs) — check here to see what changed between collection updates
 ├── moxfield_latest.csv           # Raw card collection (Moxfield export)
 ├── moxfield_cards.md             # Readable card list with precon assignments
 └── card_details.md               # Card details from Scryfall (mana, type, text, etc.)
