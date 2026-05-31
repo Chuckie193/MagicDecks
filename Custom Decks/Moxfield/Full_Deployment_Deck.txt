@@ -23,6 +23,7 @@
 1 Fabricate
 1 Fellwar Stone
 1 Fumigate
+1 Galazeth Prismari
 1 Gavel of the Righteous
 1 Generous Gift
 1 Goldspan Dragon
@@ -57,7 +58,6 @@
 1 Threefold Thunderhulk
 1 Thrummingbird
 1 Uthros Research Craft
-1 Veyran, Voice of Duality
 1 Adarkar Wastes
 1 Ancient Den
 1 Battlefield Forge
@@ -76,8 +76,9 @@
 1 Lonely Sandbar
 2 Mountain
 1 Mystic Monastery
-3 Plains
+2 Plains
 1 Radiant Summit
+1 Raugrin Triome
 1 Razortide Bridge
 1 Reliquary Tower
 1 Rugged Prairie
