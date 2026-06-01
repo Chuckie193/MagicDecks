@@ -12,11 +12,11 @@
 
 ---
 
-### Creatures (25)
+### Creatures (27)
 
 - **Alibou, Ancient Witness** — 3RW. Whenever one or more artifact creatures you control attack, Alibou deals damage to target opponent or planeswalker equal to the number of tapped artifacts you control, then scry 1. In a developed board, every combat can drain 8–12 damage before combat damage resolves. A second win vector that requires no counter threshold.
 
-- **Archmage Emeritus** — 2UU. Whenever you cast or copy an instant or sorcery spell, draw a card. The single most important addition from the full collection. With Jhoira drawing on artifacts and Archmage drawing on instants and sorceries, a typical turn draws 3–6 cards. Pair with Veyran to draw 2 cards per instant or sorcery instead of 1.
+- **Archmage Emeritus** — 2UU. Whenever you cast or copy an instant or sorcery spell, draw a card. The single most important addition from the full collection. With Jhoira drawing on artifacts and Archmage drawing on instants and sorceries, a typical turn draws 3–5 cards.
 
 - **Chrome Host Seedshark** — 3U. Whenever you cast a noncreature spell, create an Incubator token (pay {2} to flip into a Phyrexian artifact creature with X +1/+1 counters, where X equals the number of counters on the Incubator). Every Jhoira trigger that draws is also Seedshark fodder. Token army scales with counter proliferation.
 
@@ -44,7 +44,11 @@
 
 - **Kappa Cannoneer** — 4UU (Improvise). 4/4 Ward {4}. Whenever you cast a noncreature spell, put a +1/+1 counter on Kappa Cannoneer and it becomes unblockable until end of turn. A growing unblockable threat that adds its own counters. Ward {4} taxes interaction heavily. Can reach 15+ power in a developed board.
 
-- **Kilo, Apogee Mind** — 2U. 1/4. Whenever Kilo becomes tapped, proliferate. The most important creature in the deck. Tapping Kilo to Station puts charge counters onto Inspirit AND triggers Kilo's proliferate. With Tekuthal, each Station tap on Kilo is two proliferates. With Veyran, Kilo's tapping triggers proliferate plus an additional triggered ability — note: Veyran doesn't directly double Kilo's proliferate (Kilo isn't casting a spell), but Tekuthal does. The Kilo + Tekuthal pair is the core engine.
+- **Kilo, Apogee Mind** — 2U. 1/4. Whenever Kilo becomes tapped, proliferate. The most important creature in the deck. Tapping Kilo to Station puts charge counters onto Inspirit AND triggers Kilo's proliferate. With Tekuthal, each Station tap on Kilo is two proliferates. The Kilo + Tekuthal pair is the core engine.
+
+- **Palladium Myr** — 3. Artifact Creature — Myr. Taps for {C}{C}. Fills the deck's 3 CMC ramp gap — the only reliable ramp between the 2-CMC rocks and the 4-CMC engines. When mana is not the bottleneck in the mid-to-late game, becomes a power-2 Station target. Synergises with everything in the artifact creature package: Steel Overseer counters, Cyberdrive Awakener flying, Organic Extinction protection.
+
+- **Patrolling Peacemaker** — 2W. Artifact Creature — Robot Soldier. Enters with two +1/+1 counters. Whenever an opponent commits a crime (targets any opponent, anything they control, or cards in their graveyard), proliferate. In a multiplayer pod, opponents cast removal, counterspells, and combat tricks every round — crimes are near-constant. Reliable passive proliferate attached to a counter-bearing Station target.
 
 - **Phyrexian Metamorph** — 3U (or {3}{P}). Copies any artifact or creature on the battlefield as an artifact. Clone any Tekuthal for double-double proliferate. Clone any Archmage Emeritus for additional draw. Clone an opponent's commander. Crucially, the copy enters as an artifact, which means Jhoira draws a card when Metamorph is cast.
 
@@ -62,7 +66,7 @@
 
 - **Thrummingbird** — 1U. 1/1 flying. Whenever Thrummingbird deals combat damage to a player, proliferate. With Tekuthal, each combat damage proliferates twice. With Cyberdrive Awakener ensuring everything flies, Thrummingbird can deal combat damage to the safest opponent in a pod, triggering two proliferates every attack step.
 
-- **Veyran, Voice of Duality** — 1UR. 2/2. Whenever you cast or copy an instant or sorcery spell, its controller's triggered abilities trigger an additional time. With Archmage Emeritus, every instant or sorcery draws 2 cards instead of 1. With Chrome Host Seedshark, every instant or sorcery creates 2 Incubators (Veyran doubles Seedshark's trigger — which fires on any noncreature spell — when that noncreature spell is an instant or sorcery). With Jhoira, any instant or sorcery that is also legendary or an artifact draws twice. Veyran transforms the already-strong draw engine into something overwhelming.
+- **Galazeth Prismari** — 2UR. 2/4 Flying Elder Dragon. When Galazeth enters, create a Treasure token. Artifacts you control gain "[Tap]: Add one mana of any color. Spend this mana only to cast an instant or sorcery spell." Immediate value on entry — a Treasure is an artifact, triggering Jhoira's draw. On a developed board with 10+ artifacts, Galazeth converts the idle artifact army into a mana battery for the hand full of instants and sorceries. Artifacts not used for Station, attacking, or activated abilities all tap for mana. A board with 8 untapped artifacts after Stationing can produce 8 mana to cast Dig Through Time, Organic Extinction, or Pull from Tomorrow at X=7 in a single turn.
 
 ---
 
@@ -114,11 +118,11 @@
 
 - **Generous Gift** — 2W. Destroy target permanent. Its controller creates a 3/3 green Elephant token. Universal permanent destruction at 3 CMC at instant speed. The only clean answer to enchantments and opposing combo pieces in Jeskai. The Elephant given away is a minor political chip in multiplayer — hand it to whoever needs a blocker most.
 
-- **Pull from Tomorrow** — XU. Draw X cards, discard one. In the late game with Talisman + Fellwar Stone + Sol Ring + Empowered Autogenerator online, X can reach 8–10. Draws your entire hand back. With Archmage Emeritus + Veyran, casting Pull also triggers drawing two additional cards. A game-ending refill.
+- **Pull from Tomorrow** — XU. Draw X cards, discard one. In the late game with Talisman + Fellwar Stone + Sol Ring + Empowered Autogenerator online, X can reach 8–10. Draws your entire hand back. With Archmage Emeritus online, casting Pull draws one additional card from Archmage's trigger. With Galazeth's artifact mana, reaching X=8–10 is realistic mid-game. A game-ending refill.
 
 - **Reality Shift** — 1U. Exile target creature. That creature's controller manifests the top card of their library (2/2 face-down creature; if it's a creature, it can be flipped face-up for its mana cost). Blue exile removal. Answers regenerating creatures, indestructible creatures, and anything you need permanently gone rather than destroyed. The manifest 2/2 replacement is far less threatening than the original.
 
-- **Ripples of Potential** — 1U. Proliferate, then draw a card. Two effects at instant speed for 2 mana. Cast at the end of an opponent's turn to proliferate twice (with Tekuthal), draw a card, then untap into your turn with counters already advanced. With Archmage Emeritus + Veyran, this draws 3 cards total.
+- **Ripples of Potential** — 1U. Proliferate, then draw a card. Two effects at instant speed for 2 mana. Cast at the end of an opponent's turn to proliferate twice (with Tekuthal), draw a card, then untap into your turn with counters already advanced. With Archmage Emeritus, this draws 2 cards total.
 
 - **Swan Song** — U. Counter target enchantment, instant, or sorcery. That spell's controller creates a 2/2 Bird token. The cheapest counterspell in Jeskai. Protects Jhoira, Tekuthal, and Archmage Emeritus from board wipes and targeted removal. The Bird is irrelevant against a deck this focused.
 
@@ -132,7 +136,7 @@
 
 - **Blasphemous Act** — {8}{R} reduced by 1 for each creature on the battlefield. Deals 13 damage to each creature. With 12 creatures across a four-player table, Blasphemous Act costs {1}{R} and kills everything. More reliable than Chain Reaction (which scales with creature count) because 13 is enough to kill almost any creature regardless of toughness, and the cost reduction almost always makes it castable for {R} alone in the mid-to-late game.
 
-- **Expressive Iteration** — 1R. Look at the top two cards of your library, exile one, put the other back. You may cast the exiled card this turn. Draws two cards in effect for 2 mana with full choice of which to use immediately. Triggers Archmage Emeritus (draw one more) and Veyran (double Archmage trigger = draw two more). A 2-CMC sorcery that can generate 3+ cards drawn in a turns with the engine online.
+- **Expressive Iteration** — 1R. Look at the top two cards of your library, exile one, put the other back. You may cast the exiled card this turn. Draws two cards in effect for 2 mana with full choice of which to use immediately. Triggers Archmage Emeritus (draw one more). A 2-CMC sorcery that nets 2 cards with Archmage online — and with Galazeth mana fuelling the follow-up spells, a common line is Expressive Iteration into a free Ripples of Potential or Dispatch in the same turn.
 
 - **Fabricate** — 2U. Search your library for an artifact card and put it in your hand. Universal artifact tutor. With 16 artifacts in the deck, Fabricate can find the game-winning piece: Lux Artillery to close out, Lightning Greaves to protect a threat, The Ozolith for counter insurance, Sol Ring if behind on mana, or Talisman of Creativity for fixing.
 
@@ -150,7 +154,7 @@
 
 ---
 
-### Lands (40)
+### Lands (38)
 
 **Artifact Lands (3)**
 - Ancient Den — Artifact land; taps for {W}. Counts as an artifact for Metalcraft, Affinity, Improvise, and Jhoira.
@@ -171,20 +175,20 @@
 - Skycloud Expanse — White/Blue filter land.
 - Sulfur Falls — Blue/Red check land.
 
-**Triple Color (5)**
+**Triple Color (6)**
 - Command Tower — Taps for any color in commander's color identity.
 - Glittering Massif — Jeskai tri-color land from the precon.
 - Mystic Monastery — Taps for Blue, Red, or White (enters tapped).
 - Radiant Summit — Jeskai tri-color land from the precon.
+- Raugrin Triome — Island/Mountain/Plains; taps for {W}, {U}, or {R}; enters tapped; cycles for {3}. Fixes all three colors and can be cycled in a flooded hand.
 - Spire of Industry — Taps for any color with an artifact on the battlefield.
 
-**Utility Lands (8)**
+**Utility Lands (7)**
 - Buried Ruin — Sacrifice to return an artifact from graveyard to hand.
 - Exotic Orchard — Copies any color an opponent's land produces; near-perfect color fixing in a multiplayer pod.
 - Fabled Passage — Sacrifice to search for a basic land (enters tapped in early game, untapped when you have 4+ lands). Thins the deck; better than Evolving Wilds.
 - Karn's Bastion — {4}: Proliferate. A land that proliferates on demand — and with Tekuthal, that's two proliferates per activation.
-- Lonely Sandbar — Cycling {U}. Pitch when flooded.
-- Reliquary Tower — No maximum hand size. Essential with Jhoira + Archmage Emeritus + Veyran all active — you will regularly have 12–15 cards in hand and need to keep every one of them.
+- Reliquary Tower — No maximum hand size. Essential with Jhoira + Archmage Emeritus both active — you will regularly have 10–12 cards in hand and need to keep every one of them.
 - Secluded Steppe — Cycling {W}.
 - The Mycosynth Gardens — Tap to copy any nonland artifact you control.
 
@@ -194,19 +198,18 @@
 - Temple of the False God — Tap for {C}{C} when you have 5+ lands. After turn 5, this is free extra mana that the counter-heavy late game loves.
 - Temple of Triumph — Red/White, enters tapped, scry 1.
 
-**Other (1)**
-- Irrigated Farmland — Blue/White cycling land.
-
-**Basics (7)**
+**Basics (6)**
 - Island ×2
 - Mountain ×2
-- Plains ×3
+- Plains ×2
 
 ---
 
 ## Key Synergies
 
-- **Jhoira + Archmage Emeritus + Veyran:** Jhoira draws a card when you cast any artifact. Archmage draws a card when you cast any instant or sorcery. Veyran makes Archmage's trigger fire twice. Cast an artifact instant: Jhoira draws 1 + Archmage draws 2 (Veyran doubled). Cast Sol Ring → draw from Jhoira. Cast Ripples of Potential → Archmage draws 2, Ripples itself draws 1, and the proliferate fires — total: 3 cards from one 2-mana spell. With all three permanents on the board, a single Talisman of Creativity cast draws 3+ cards before it resolves. This is not a draw engine; it is an avalanche.
+- **Jhoira + Archmage Emeritus:** Jhoira draws a card when you cast any artifact. Archmage draws a card when you cast any instant or sorcery. Cast Sol Ring → draw from Jhoira. Cast Ripples of Potential → Archmage draws 1, Ripples itself draws 1, and the proliferate fires — total: 2 cards from one 2-mana spell. With both permanents on the board, a normal turn drawing into spells generates 3–5 cards reliably.
+
+- **Galazeth Prismari + Artifact Army:** With Galazeth in play, every untapped artifact gains "[Tap]: Add one mana of any color for instants/sorceries." After Stationing with some artifacts and leaving others idle, those idle artifacts become a second mana pool earmarked for the hand full of removal and draw. A board with 8 untapped artifacts after Station resolves produces 8 mana — enough to cast Dig Through Time, Organic Extinction, or Pull from Tomorrow at X=7 without touching your land mana. Galazeth's entry Treasure also triggers Jhoira.
 
 - **Kilo + Tekuthal + Station:** Tap Kilo to Station on Inspirit: Kilo's triggered ability fires (proliferate) → Tekuthal doubles it to two proliferates. Tap Uthros Research Craft → load counter on any artifact + draw a card. Tap Solar Array → load counter on any artifact. Each turn, three Station taps are available (Kilo, Uthros, Solar Array), and each tap of Kilo produces two proliferates. A turn-5 clock with all pieces on field: Inspirit charges by 3 per Station tap, proliferates spread across Lux Artillery, Astral Cornucopia, creature counters, Empowered Autogenerator.
 
@@ -230,7 +233,7 @@
 | Incubator | — | Colorless | Artifact — Incubator | {2}: Transform into 0/0 Phyrexian artifact creature | Chrome Host Seedshark |
 | Phyrexian | 0/0+counters | Colorless | Artifact Creature — Phyrexian | — | Chrome Host Seedshark (transformed) |
 | Thopter | 1/1 | Colorless | Artifact Creature — Thopter | Flying | Hangarback Walker |
-| Treasure | — | Colorless | Artifact — Treasure | Tap, sacrifice: add any color mana | Goldspan Dragon |
+| Treasure | — | Colorless | Artifact — Treasure | Tap, sacrifice: add any color mana | Galazeth Prismari, Goldspan Dragon |
 
 ---
 
@@ -240,8 +243,8 @@
 0 CMC:  3  ███ (Astral Cornucopia, Everflowing Chalice, Hangarback Walker)
 1 CMC:  5  █████ (Dispatch, Sol Ring, Swan Song, Swords to Plowshares, The Ozolith)
 2 CMC: 17  █████████████████ (Arcane Denial, Arcane Signet, Coretapper, Enthusiastic Mechanaut, Etherium Sculptor, Expressive Iteration, Fellwar Stone, Gavel of the Righteous, Lightning Greaves, Moxite Refinery, Pull from Tomorrow†, Reality Shift, Ripples of Potential, Steel Overseer, Swiftfoot Boots, Talisman of Creativity, Thrummingbird)
-3 CMC: 11  ███████████ (Chaos Warp, Fabricate, Generous Gift, Inspirit†, Kilo, Long-Range Sensor, Resourceful Defense, Surge Conductor, Thirst for Knowledge, Uthros Research Craft, Veyran)
-4 CMC: 12  ████████████ (Archmage Emeritus, Chrome Host Seedshark, Crystalline Crawler, Empowered Autogenerator, Emry, Etched Oracle, Jhoira, Lux Artillery, Phyrexian Metamorph, Solar Array†, Solemn Simulacrum, Tezzeret's Gambit)
+3 CMC: 12  ████████████ (Chaos Warp, Fabricate, Generous Gift, Inspirit†, Kilo, Long-Range Sensor, Palladium Myr, Patrolling Peacemaker, Resourceful Defense, Surge Conductor, Thirst for Knowledge, Uthros Research Craft)
+4 CMC: 13  █████████████ (Archmage Emeritus, Chrome Host Seedshark, Crystalline Crawler, Empowered Autogenerator, Emry, Etched Oracle, Galazeth Prismari, Jhoira, Lux Artillery, Phyrexian Metamorph, Solar Array†, Solemn Simulacrum, Tezzeret's Gambit)
 5 CMC:  5  █████ (Alibou, Deepglow Skate, Fumigate, Goldspan Dragon, Tekuthal)
 6 CMC:  2  ██ (Cyberdrive Awakener, Kappa Cannoneer)
 7+ CMC: 5  █████ (Blasphemous Act†, Dig Through Time†, Organic Extinction, Thought Monitor, Threefold Thunderhulk)
@@ -258,7 +261,7 @@
 
 **Early game (turns 1–4):** Ramp aggressively. Sol Ring → Jhoira on turn 3 is the primary line. With both cost reducers, the deck can flood the board with zero-cost artifacts on turn 4 and draw an entire new hand. Use Arcane Denial or Swan Song to protect Jhoira if opponents try to answer her immediately. In multiplayer, hold up blue mana after your main phase — open mana signals a counterspell and often discourages opponents from targeting your key pieces.
 
-**Mid game (turns 5–7):** Kilo + Station + Tekuthal is the primary objective. Once Tekuthal is on board, every Kilo tap is two proliferates. With Veyran also on board, instant spells draw 2 from Archmage. The hand refills faster than opponents can interact. Blasphemous Act can be held as a {R} reset button if opponents threaten to overrun you.
+**Mid game (turns 5–7):** Kilo + Station + Tekuthal is the primary objective. Once Tekuthal is on board, every Kilo tap is two proliferates. With Galazeth in play, idle artifact creatures become mana for the growing hand of instants and sorceries. The hand refills faster than opponents can interact. Blasphemous Act can be held as a {R} reset button if opponents threaten to overrun you.
 
 **Late game (turns 8+):** Inspirit at 8+ counters makes all artifacts hexproof and indestructible. Below that threshold, protect your key permanents with Lightning Greaves/Swiftfoot Boots. Above it, swing freely. Lux Artillery fires on its own; back it up with Deepglow Skate to double counter totals as a surprise closer. Karn's Bastion: always proliferate before Deepglow Skate enters to set up the doubling threshold.
 
@@ -268,13 +271,15 @@
 - Organic Extinction: nonartifact creatures only. Best when your board is full of artifact creatures and opponents are full of nonartifact ones.
 - Three wipes covering every scenario. Do not tap out into a wipe unless you have mana up for a counterspell or the board state is immediately lethal otherwise.
 
-**Reliquary Tower check:** With Jhoira + Archmage + Veyran all active, casting three artifacts in a turn can generate 9–12 card draws. Without Reliquary Tower, you discard down to 7 at end of turn. Prioritize finding Reliquary Tower with Fabricate or Buried Ruin recursion if the draw engine is online and Tower isn't in play.
+**Reliquary Tower check:** With Jhoira + Archmage both active, casting three artifacts in a turn generates 6–8 card draws. Without Reliquary Tower, you discard down to 7 at end of turn. Prioritize finding Reliquary Tower with Fabricate or Buried Ruin recursion if the draw engine is online and Tower isn't in play.
 
 ---
 
 ## Why These Choices (Summary)
 
-- **Archmage Emeritus + Veyran = double the draw engine.** Counter Productive relied entirely on Jhoira for artifact-based draw. The full collection adds an entirely separate instant/sorcery draw trigger (Archmage) and a trigger-doubler (Veyran). A board with Jhoira + Archmage + Veyran draws 4–6 cards per turn on minimal investment.
+- **Archmage Emeritus = second draw engine.** Counter Productive relied entirely on Jhoira for artifact-based draw. The full collection adds an entirely separate instant/sorcery draw trigger. A board with Jhoira + Archmage draws 3–5 cards per turn on minimal investment.
+
+- **Galazeth Prismari = mana multiplication.** With Galazeth in play, every artifact not being used for Station, attacking, or its own ability becomes instant/sorcery mana. The deck regularly has 8–12 artifacts on the board by mid-game, meaning Galazeth effectively adds 8–12 mana specifically for the hand of draw spells and removal. This enables massive Pull from Tomorrow turns or casting Dig Through Time for free mid-combat.
 
 - **Blasphemous Act over Chain Reaction.** Blasphemous Act deals a flat 13 damage to each creature, almost always killing everything, and typically costs {R} in multiplayer. Chain Reaction dealt damage equal to creature count (12 creatures = 12 damage, which misses 13-toughness creatures). The cost reduction also means Blasphemous Act can be held in hand as a near-free emergency reset.
 
@@ -286,14 +291,12 @@
 
 - **Removed Wake the Past.** The recursion angle is already covered by Emry (recur artifacts from graveyard every turn) and Buried Ruin (artifact-specific). Wake the Past at {5}{R}{W} is a powerful recovery spell but competes for the slots occupied by Blasphemous Act and Expressive Iteration, both of which provide more consistent value. Emry recurring one artifact per turn is better distributed recursion than a one-time wake.
 
-- **Removed Patrolling Peacemaker and Palladium Myr.** With three 2-CMC rocks, Talisman, Fellwar Stone, and Sol Ring, Palladium Myr's 3-CMC tap-for-2 is redundant. Patrolling Peacemaker provides life gain on opponent crimes but doesn't advance the strategy — the slot is better used for engine pieces.
-
 ---
 
 ## Analysis
 
 **Strengths:**
-- Draw density is overwhelming. Jhoira, Archmage Emeritus, and Veyran together draw 4–6 cards per turn without dedicating additional actions to it. Opponents cannot race the card advantage.
+- Draw density is strong. Jhoira and Archmage Emeritus together draw 3–5 cards per turn without dedicating additional actions to it. Opponents cannot race the card advantage.
 - Faster setup. Four 2-CMC mana rocks plus Sol Ring means the deck often reaches Jhoira or Inspirit one full turn earlier than Counter Productive. In Commander, one turn earlier is often the difference between "answerable" and "unstoppable."
 - Blasphemous Act is essentially a free reset button in any creature-heavy pod. Held in hand as a threat, it forces opponents to play around it; cast when needed, it's a full wipe for {R}.
 - Three win conditions: Lux Artillery burn (30 counters = 10 damage per opponent), Kappa Cannoneer unblockable attacks (grows indefinitely), and Cyberdrive Awakener flying army with counter-enhanced bodies.
@@ -322,14 +325,15 @@
 
 ### Shared Core
 
-Both decks run the same core engine: Inspirit as commander, Kilo as the Station/proliferate trigger, Tekuthal as the proliferate doubler, Lux Artillery as the win condition, and Jhoira as the draw engine. The fundamental game plan — charge Inspirit with Station, proliferate everything, win with Lux Artillery or a flying artifact army — is identical. All 40 lands (with minor substitutions) are shared in concept; most differences are in the nonland spells.
+Both decks run the same core engine: Inspirit as commander, Kilo as the Station/proliferate trigger, Tekuthal as the proliferate doubler, Lux Artillery as the win condition, and Jhoira as the draw engine. The fundamental game plan — charge Inspirit with Station, proliferate everything, win with Lux Artillery or a flying artifact army — is identical. All 38 lands (with minor substitutions) are shared in concept; most differences are in the nonland spells.
 
 ### Key Differences
 
 | Slot | Counter Productive | Full Deployment | Why It Matters |
 |---|---|---|---|
 | Board wipe | Chain Reaction | Blasphemous Act | Act deals flat 13; typically costs {R} in pods. Chain Reaction is weaker against high-toughness creatures. |
-| Card draw | Jhoira only | Jhoira + Archmage Emeritus + Veyran | Full Deployment draws 4–6 cards per turn vs. CP's 1–3. |
+| Card draw | Jhoira only | Jhoira + Archmage Emeritus | Full Deployment draws 3–5 cards per turn vs. CP's 1–3. |
+| Mana engine | — | Galazeth Prismari | All artifacts tap for instant/sorcery mana — 8+ mana from idle artifacts in a developed board. Enables massive Pull from Tomorrow turns or free Dig Through Time mid-combat. |
 | Mana rocks | Arcane Signet + Sol Ring | Arcane Signet + Sol Ring + Talisman + Fellwar Stone | Two additional T2 rocks make T3 threats significantly more consistent. |
 | Commander protection | Swiftfoot Boots | Lightning Greaves + Swiftfoot Boots | Greaves equips for free (0 mana); Inspirit lands and immediately Stations. |
 | Card selection | Experimental Augury | Dig Through Time | Dig looks at 7 for 2, nearly free with delve. Experimental Augury scries 2 and charges one counter. |
@@ -337,7 +341,6 @@ Both decks run the same core engine: Inspirit as commander, Kilo as the Station/
 | Removal | — | Reality Shift | Full Deployment adds blue exile removal for indestructible or regenerating creatures. |
 | Ramp + draw | — | Solemn Simulacrum | 4 CMC but fetches a basic and draws on death. Enables T3 Jhoira more consistently. |
 | Threat | Myr Battlesphere | Goldspan Dragon | Battlesphere costs 7 and creates a token army. Dragon costs 5, has haste, creates Treasures (artifacts = Jhoira draw). Dragon is faster. |
-| Card efficiency | Palladium Myr (3 CMC for 2 mana) | Talisman of Creativity (2 CMC for 1 mana + color fixing) | Talisman enters a turn earlier and provides color fixing for Jhoira, Arcane Denial, and Emry. |
 | Recovery | Wake the Past | Emry (always present) | Full Deployment relies on Emry's ongoing recursion rather than a single recovery bomb. |
 | Counter draw | Experimental Augury (scry 2, charge counter) | Expressive Iteration (look at 2, keep best, draw this turn) | Iteration generates immediate cards; Augury is slower setup. |
 
@@ -345,13 +348,13 @@ Both decks run the same core engine: Inspirit as commander, Kilo as the Station/
 
 **Full Deployment is significantly stronger.** The margin is not close.
 
-The core improvement is the draw engine: Counter Productive draws cards primarily from Jhoira when you cast artifacts. Full Deployment draws from Jhoira (artifacts), Archmage Emeritus (instants/sorceries), and Veyran doubles Archmage's trigger. A turn with Jhoira + Archmage + Veyran active draws 5–8 cards from normal gameplay. Counter Productive's peak draw turn is 3–4 cards. The difference in hand size by turn 7 is staggering.
+The core improvement is the draw engine and mana generation: Counter Productive draws cards primarily from Jhoira when you cast artifacts. Full Deployment draws from both Jhoira (artifacts) and Archmage Emeritus (instants/sorceries). A turn with both permanents active draws 3–5 cards from normal gameplay vs. Counter Productive's 1–3. Galazeth Prismari then converts the artifact army into a secondary mana pool for instants and sorceries, enabling explosive turns where Station happens on one set of artifacts and the rest fuel a massive spell. The difference in hand size and mana flexibility by turn 7 is significant.
 
 The mana base is faster. Two additional T2 mana rocks mean Turn 3 Jhoira or Turn 3 Inspirit lines are consistent rather than aspirational. In Commander, tempo matters enormously — a deck that can reliably land its 4-CMC engines on turn 3 (via Sol Ring + Talisman T1–T2) plays a full turn ahead of one that sometimes reaches turn 4 Jhoira on turn 4.
 
 Blasphemous Act is the strongest board wipe available at its effective cost. In a pod with 12 creatures, it costs {R}, kills everything, and is held as an in-hand threat. Chain Reaction at {4} is harder to hold and sometimes fails to kill high-toughness creatures.
 
-**However, Counter Productive has a meaningful advantage: it does not conflict with any other deck.** All cards in Counter Productive are from either the Counter Intelligence precon or free copies outside any precon. Full Deployment raids the entire Prismari Artistry precon (Lightning Greaves, Archmage Emeritus, Solemn Simulacrum, Veyran, Goldspan Dragon, Blasphemous Act, Arcane Denial, Dig Through Time, Fabled Passage, Reliquary Tower, Talisman of Creativity, Fellwar Stone, Reality Shift, Temple of the False God, Expressive Iteration) and several Sonic Secret Lair cards (Fabricate, Generous Gift from Chasing Adventure; Swiftfoot Boots from TurboGear). If you want to play Rootha Artistry at the same table, you cannot simultaneously play Full Deployment in its current configuration.
+**However, Counter Productive has a meaningful advantage: it does not conflict with any other deck.** All cards in Counter Productive are from either the Counter Intelligence precon or free copies outside any precon. Full Deployment raids the Prismari Artistry precon (Lightning Greaves, Archmage Emeritus, Solemn Simulacrum, Galazeth Prismari, Goldspan Dragon, Blasphemous Act, Arcane Denial, Dig Through Time, Fabled Passage, Reliquary Tower, Talisman of Creativity, Fellwar Stone, Reality Shift, Temple of the False God, Expressive Iteration) and several Sonic Secret Lair cards (Fabricate, Generous Gift from Chasing Adventure; Swiftfoot Boots from TurboGear). If you want to play Rootha Artistry at the same table, you cannot simultaneously play Full Deployment in its current configuration.
 
 **Verdict:** Full Deployment is the competitive build. Counter Productive is the practical build. If the goal is winning — Full Deployment, by a significant margin. If the goal is playing alongside all other decks in the collection simultaneously — Counter Productive is still a genuinely strong Commander deck and outperforms the base Counter Intelligence precon substantially.
 
@@ -387,6 +390,8 @@ Blasphemous Act is the strongest board wipe available at its effective cost. In 
 | Thought Monitor | Creature | Counter Intelligence |
 | Threefold Thunderhulk | Creature | Counter Intelligence |
 | Thrummingbird | Creature | Counter Intelligence |
+| Palladium Myr | Artifact Creature | Counter Intelligence |
+| Patrolling Peacemaker | Artifact Creature | Counter Intelligence |
 | Arcane Signet | Artifact | Counter Intelligence |
 | Astral Cornucopia | Artifact | Counter Intelligence |
 | Empowered Autogenerator | Artifact | Counter Intelligence |
@@ -420,13 +425,12 @@ Blasphemous Act is the strongest board wipe available at its effective cost. In 
 | Glacial Fortress | Land | Counter Intelligence |
 | Glittering Massif | Land | Counter Intelligence |
 | Great Furnace | Land | Counter Intelligence |
-| Irrigated Farmland | Land | Counter Intelligence |
 | Island (×2) | Land | Counter Intelligence |
 | Karn's Bastion | Land | Counter Intelligence |
-| Lonely Sandbar | Land | Counter Intelligence |
 | Mountain (×2) | Land | Counter Intelligence |
 | Mystic Monastery | Land | Counter Intelligence |
-| Plains (×3) | Land | Counter Intelligence |
+| Plains (×2) | Land | Counter Intelligence |
+| Raugrin Triome | Land | — |
 | Radiant Summit | Land | Counter Intelligence |
 | Razortide Bridge | Land | Counter Intelligence |
 | Rugged Prairie | Land | Counter Intelligence |
@@ -445,7 +449,7 @@ Blasphemous Act is the strongest board wipe available at its effective cost. In 
 | Archmage Emeritus | Creature | **Prismari Artistry** |
 | Goldspan Dragon | Creature | **Prismari Artistry** |
 | Solemn Simulacrum | Creature | **Prismari Artistry** |
-| Veyran, Voice of Duality | Creature | **Prismari Artistry** |
+| Galazeth Prismari | Legendary Creature | **Prismari Artistry** |
 | Fellwar Stone | Artifact | **Prismari Artistry** |
 | Lightning Greaves | Artifact | **Prismari Artistry** |
 | Talisman of Creativity | Artifact | **Prismari Artistry** |

@@ -24,7 +24,7 @@
 1 Gavel of the Righteous
 1 Generous Gift
 1 Hangarback Walker
-1 Insight Engine
+1 Prophetic Prism
 1 Jhoira, Weatherlight Captain
 1 Kappa Cannoneer
 1 Kilo, Apogee Mind
@@ -70,7 +70,7 @@
 1 Glacial Fortress
 1 Glittering Massif
 1 Great Furnace
-1 Irrigated Farmland
+1 Seachrome Coast
 3 Island
 1 Karn's Bastion
 1 Lonely Sandbar
