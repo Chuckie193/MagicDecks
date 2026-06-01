@@ -161,7 +161,7 @@
 - Great Furnace — Artifact land; taps for {R}.
 - Seat of the Synod — Artifact land; taps for {U}.
 
-**Dual Lands (12)**
+**Dual Lands (13)**
 - Adarkar Wastes — White/Blue, {1} damage for colored mana.
 - Battlefield Forge — Red/White, {1} damage for colored mana.
 - Cascade Bluffs — Blue/Red filter land.
@@ -170,6 +170,7 @@
 - Razortide Bridge — White/Blue artifact Bridge (enters tapped).
 - Rugged Prairie — Red/White filter land.
 - Rustvale Bridge — Red/White artifact Bridge (enters tapped).
+- Seachrome Coast — White/Blue fastland; enters untapped when you control two or fewer other lands. Reliably untapped on turns 1–3 — the turns where having open mana matters most.
 - Shivan Reef — Blue/Red, {1} damage for colored mana.
 - Silverbluff Bridge — Blue/Red artifact Bridge (enters tapped).
 - Skycloud Expanse — White/Blue filter land.
@@ -183,13 +184,12 @@
 - Raugrin Triome — Island/Mountain/Plains; taps for {W}, {U}, or {R}; enters tapped; cycles for {3}. Fixes all three colors and can be cycled in a flooded hand.
 - Spire of Industry — Taps for any color with an artifact on the battlefield.
 
-**Utility Lands (7)**
+**Utility Lands (6)**
 - Buried Ruin — Sacrifice to return an artifact from graveyard to hand.
 - Exotic Orchard — Copies any color an opponent's land produces; near-perfect color fixing in a multiplayer pod.
 - Fabled Passage — Sacrifice to search for a basic land (enters tapped in early game, untapped when you have 4+ lands). Thins the deck; better than Evolving Wilds.
 - Karn's Bastion — {4}: Proliferate. A land that proliferates on demand — and with Tekuthal, that's two proliferates per activation.
 - Reliquary Tower — No maximum hand size. Essential with Jhoira + Archmage Emeritus both active — you will regularly have 10–12 cards in hand and need to keep every one of them.
-- Secluded Steppe — Cycling {W}.
 - The Mycosynth Gardens — Tap to copy any nonland artifact you control.
 
 **Scry Lands (4)**
@@ -390,7 +390,7 @@ Blasphemous Act is the strongest board wipe available at its effective cost. In 
 | Thought Monitor | Creature | Counter Intelligence |
 | Threefold Thunderhulk | Creature | Counter Intelligence |
 | Thrummingbird | Creature | Counter Intelligence |
-| Palladium Myr | Artifact Creature | Counter Intelligence |
+| Palladium Myr | Artifact Creature | — |
 | Patrolling Peacemaker | Artifact Creature | Counter Intelligence |
 | Arcane Signet | Artifact | Counter Intelligence |
 | Astral Cornucopia | Artifact | Counter Intelligence |
@@ -436,7 +436,7 @@ Blasphemous Act is the strongest board wipe available at its effective cost. In 
 | Rugged Prairie | Land | Counter Intelligence |
 | Rustvale Bridge | Land | Counter Intelligence |
 | Seat of the Synod | Land | Counter Intelligence |
-| Secluded Steppe | Land | Counter Intelligence |
+| Seachrome Coast | Land | — |
 | Shivan Reef | Land | Counter Intelligence |
 | Silverbluff Bridge | Land | Counter Intelligence |
 | Skycloud Expanse | Land | Counter Intelligence |

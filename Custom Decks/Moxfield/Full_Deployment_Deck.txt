@@ -83,8 +83,8 @@
 1 Reliquary Tower
 1 Rugged Prairie
 1 Rustvale Bridge
+1 Seachrome Coast
 1 Seat of the Synod
-1 Secluded Steppe
 1 Shivan Reef
 1 Silverbluff Bridge
 1 Skycloud Expanse

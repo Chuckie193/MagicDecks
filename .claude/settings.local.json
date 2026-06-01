@@ -12,7 +12,8 @@
       "PowerShell(Rename-Item *)",
       "WebSearch",
       "WebFetch(domain:www.precondecklist.com)",
-      "WebFetch(domain:mtg.wtf)"
+      "WebFetch(domain:mtg.wtf)",
+      "PowerShell(head *)"
     ],
     "defaultMode": "acceptEdits"
   }
