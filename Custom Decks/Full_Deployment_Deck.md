@@ -12,7 +12,7 @@
 
 ---
 
-### Creatures (25)
+### Creatures (27)
 
 - **Alibou, Ancient Witness** — 3RW. Whenever one or more artifact creatures you control attack, Alibou deals damage to target opponent or planeswalker equal to the number of tapped artifacts you control, then scry 1. In a developed board, every combat can drain 8–12 damage before combat damage resolves. A second win vector that requires no counter threshold.
 
@@ -45,6 +45,10 @@
 - **Kappa Cannoneer** — 4UU (Improvise). 4/4 Ward {4}. Whenever you cast a noncreature spell, put a +1/+1 counter on Kappa Cannoneer and it becomes unblockable until end of turn. A growing unblockable threat that adds its own counters. Ward {4} taxes interaction heavily. Can reach 15+ power in a developed board.
 
 - **Kilo, Apogee Mind** — 2U. 1/4. Whenever Kilo becomes tapped, proliferate. The most important creature in the deck. Tapping Kilo to Station puts charge counters onto Inspirit AND triggers Kilo's proliferate. With Tekuthal, each Station tap on Kilo is two proliferates. The Kilo + Tekuthal pair is the core engine.
+
+- **Palladium Myr** — 3. Artifact Creature — Myr. Taps for {C}{C}. Fills the deck's 3 CMC ramp gap — the only reliable ramp between the 2-CMC rocks and the 4-CMC engines. When mana is not the bottleneck in the mid-to-late game, becomes a power-2 Station target. Synergises with everything in the artifact creature package: Steel Overseer counters, Cyberdrive Awakener flying, Organic Extinction protection.
+
+- **Patrolling Peacemaker** — 2W. Artifact Creature — Robot Soldier. Enters with two +1/+1 counters. Whenever an opponent commits a crime (targets any opponent, anything they control, or cards in their graveyard), proliferate. In a multiplayer pod, opponents cast removal, counterspells, and combat tricks every round — crimes are near-constant. Reliable passive proliferate attached to a counter-bearing Station target.
 
 - **Phyrexian Metamorph** — 3U (or {3}{P}). Copies any artifact or creature on the battlefield as an artifact. Clone any Tekuthal for double-double proliferate. Clone any Archmage Emeritus for additional draw. Clone an opponent's commander. Crucially, the copy enters as an artifact, which means Jhoira draws a card when Metamorph is cast.
 
@@ -150,7 +154,7 @@
 
 ---
 
-### Lands (40)
+### Lands (38)
 
 **Artifact Lands (3)**
 - Ancient Den — Artifact land; taps for {W}. Counts as an artifact for Metalcraft, Affinity, Improvise, and Jhoira.
@@ -179,12 +183,11 @@
 - Raugrin Triome — Island/Mountain/Plains; taps for {W}, {U}, or {R}; enters tapped; cycles for {3}. Fixes all three colors and can be cycled in a flooded hand.
 - Spire of Industry — Taps for any color with an artifact on the battlefield.
 
-**Utility Lands (8)**
+**Utility Lands (7)**
 - Buried Ruin — Sacrifice to return an artifact from graveyard to hand.
 - Exotic Orchard — Copies any color an opponent's land produces; near-perfect color fixing in a multiplayer pod.
 - Fabled Passage — Sacrifice to search for a basic land (enters tapped in early game, untapped when you have 4+ lands). Thins the deck; better than Evolving Wilds.
 - Karn's Bastion — {4}: Proliferate. A land that proliferates on demand — and with Tekuthal, that's two proliferates per activation.
-- Lonely Sandbar — Cycling {U}. Pitch when flooded.
 - Reliquary Tower — No maximum hand size. Essential with Jhoira + Archmage Emeritus both active — you will regularly have 10–12 cards in hand and need to keep every one of them.
 - Secluded Steppe — Cycling {W}.
 - The Mycosynth Gardens — Tap to copy any nonland artifact you control.
@@ -194,9 +197,6 @@
 - Temple of Epiphany — Blue/Red, enters tapped, scry 1.
 - Temple of the False God — Tap for {C}{C} when you have 5+ lands. After turn 5, this is free extra mana that the counter-heavy late game loves.
 - Temple of Triumph — Red/White, enters tapped, scry 1.
-
-**Other (1)**
-- Irrigated Farmland — Blue/White cycling land.
 
 **Basics (6)**
 - Island ×2
@@ -243,7 +243,7 @@
 0 CMC:  3  ███ (Astral Cornucopia, Everflowing Chalice, Hangarback Walker)
 1 CMC:  5  █████ (Dispatch, Sol Ring, Swan Song, Swords to Plowshares, The Ozolith)
 2 CMC: 17  █████████████████ (Arcane Denial, Arcane Signet, Coretapper, Enthusiastic Mechanaut, Etherium Sculptor, Expressive Iteration, Fellwar Stone, Gavel of the Righteous, Lightning Greaves, Moxite Refinery, Pull from Tomorrow†, Reality Shift, Ripples of Potential, Steel Overseer, Swiftfoot Boots, Talisman of Creativity, Thrummingbird)
-3 CMC: 10  ██████████ (Chaos Warp, Fabricate, Generous Gift, Inspirit†, Kilo, Long-Range Sensor, Resourceful Defense, Surge Conductor, Thirst for Knowledge, Uthros Research Craft)
+3 CMC: 12  ████████████ (Chaos Warp, Fabricate, Generous Gift, Inspirit†, Kilo, Long-Range Sensor, Palladium Myr, Patrolling Peacemaker, Resourceful Defense, Surge Conductor, Thirst for Knowledge, Uthros Research Craft)
 4 CMC: 13  █████████████ (Archmage Emeritus, Chrome Host Seedshark, Crystalline Crawler, Empowered Autogenerator, Emry, Etched Oracle, Galazeth Prismari, Jhoira, Lux Artillery, Phyrexian Metamorph, Solar Array†, Solemn Simulacrum, Tezzeret's Gambit)
 5 CMC:  5  █████ (Alibou, Deepglow Skate, Fumigate, Goldspan Dragon, Tekuthal)
 6 CMC:  2  ██ (Cyberdrive Awakener, Kappa Cannoneer)
@@ -291,8 +291,6 @@
 
 - **Removed Wake the Past.** The recursion angle is already covered by Emry (recur artifacts from graveyard every turn) and Buried Ruin (artifact-specific). Wake the Past at {5}{R}{W} is a powerful recovery spell but competes for the slots occupied by Blasphemous Act and Expressive Iteration, both of which provide more consistent value. Emry recurring one artifact per turn is better distributed recursion than a one-time wake.
 
-- **Removed Patrolling Peacemaker and Palladium Myr.** With three 2-CMC rocks, Talisman, Fellwar Stone, and Sol Ring, Palladium Myr's 3-CMC tap-for-2 is redundant. Patrolling Peacemaker provides life gain on opponent crimes but doesn't advance the strategy — the slot is better used for engine pieces.
-
 ---
 
 ## Analysis
@@ -327,7 +325,7 @@
 
 ### Shared Core
 
-Both decks run the same core engine: Inspirit as commander, Kilo as the Station/proliferate trigger, Tekuthal as the proliferate doubler, Lux Artillery as the win condition, and Jhoira as the draw engine. The fundamental game plan — charge Inspirit with Station, proliferate everything, win with Lux Artillery or a flying artifact army — is identical. All 40 lands (with minor substitutions) are shared in concept; most differences are in the nonland spells.
+Both decks run the same core engine: Inspirit as commander, Kilo as the Station/proliferate trigger, Tekuthal as the proliferate doubler, Lux Artillery as the win condition, and Jhoira as the draw engine. The fundamental game plan — charge Inspirit with Station, proliferate everything, win with Lux Artillery or a flying artifact army — is identical. All 38 lands (with minor substitutions) are shared in concept; most differences are in the nonland spells.
 
 ### Key Differences
 
@@ -343,7 +341,6 @@ Both decks run the same core engine: Inspirit as commander, Kilo as the Station/
 | Removal | — | Reality Shift | Full Deployment adds blue exile removal for indestructible or regenerating creatures. |
 | Ramp + draw | — | Solemn Simulacrum | 4 CMC but fetches a basic and draws on death. Enables T3 Jhoira more consistently. |
 | Threat | Myr Battlesphere | Goldspan Dragon | Battlesphere costs 7 and creates a token army. Dragon costs 5, has haste, creates Treasures (artifacts = Jhoira draw). Dragon is faster. |
-| Card efficiency | Palladium Myr (3 CMC for 2 mana) | Talisman of Creativity (2 CMC for 1 mana + color fixing) | Talisman enters a turn earlier and provides color fixing for Jhoira, Arcane Denial, and Emry. |
 | Recovery | Wake the Past | Emry (always present) | Full Deployment relies on Emry's ongoing recursion rather than a single recovery bomb. |
 | Counter draw | Experimental Augury (scry 2, charge counter) | Expressive Iteration (look at 2, keep best, draw this turn) | Iteration generates immediate cards; Augury is slower setup. |
 
@@ -393,6 +390,8 @@ Blasphemous Act is the strongest board wipe available at its effective cost. In 
 | Thought Monitor | Creature | Counter Intelligence |
 | Threefold Thunderhulk | Creature | Counter Intelligence |
 | Thrummingbird | Creature | Counter Intelligence |
+| Palladium Myr | Artifact Creature | Counter Intelligence |
+| Patrolling Peacemaker | Artifact Creature | Counter Intelligence |
 | Arcane Signet | Artifact | Counter Intelligence |
 | Astral Cornucopia | Artifact | Counter Intelligence |
 | Empowered Autogenerator | Artifact | Counter Intelligence |
@@ -426,10 +425,8 @@ Blasphemous Act is the strongest board wipe available at its effective cost. In 
 | Glacial Fortress | Land | Counter Intelligence |
 | Glittering Massif | Land | Counter Intelligence |
 | Great Furnace | Land | Counter Intelligence |
-| Irrigated Farmland | Land | Counter Intelligence |
 | Island (×2) | Land | Counter Intelligence |
 | Karn's Bastion | Land | Counter Intelligence |
-| Lonely Sandbar | Land | Counter Intelligence |
 | Mountain (×2) | Land | Counter Intelligence |
 | Mystic Monastery | Land | Counter Intelligence |
 | Plains (×2) | Land | Counter Intelligence |
