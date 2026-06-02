@@ -80,7 +80,7 @@ Rootha's genius is measured in power/toughness. One cheap delve spell *cracks th
 
 ---
 
-### Instants (14)
+### Instants (13)
 
 - **Swan Song** ({U}) — Counter target enchantment, instant, or sorcery. Opponent gets a 2/2 Bird. Cheap protection for Rootha or key spells. *(Upgrade)*
 - **Prismari Charm** ({U}{R}) — Choose: Surveil 2 + draw; deal 1 damage to 1–2 targets; or bounce a nonland permanent. Swiss Army knife cantrip.
@@ -93,7 +93,6 @@ Rootha's genius is measured in power/toughness. One cheap delve spell *cracks th
 - **Thirst for Knowledge** ({2}{U}) — Draw 3 cards, discard 2 (unless you discard an artifact). Excellent card selection that fills the graveyard for Delve. *(Upgrade)*
 - **Big Score** ({3}{R}) — Discard a card, draw 2 cards, create 2 Treasure tokens. Ramp plus card draw at instant speed.
 - **Unexpected Windfall** ({2}{R}{R}) — Discard a card, draw 2 cards, create 2 Treasure tokens. Twin to Big Score at slightly higher cost for the same effect. *(Upgrade)*
-- **Aether Gale** ({2}{U}{U}) — Return up to 6 target nonland permanents to their owners' hands. Emergency mass bounce or political tool.
 - **Dig Through Time** ({6}{U}{U}, Delve) — Look at top 7, put 2 into hand. **CMC 8** with Delve means casting for {U}{U} via graveyard exile generates an 8/8 token via Rootha.
 - **Magma Opus** ({6}{U}{R}) — Deal 4 damage split among targets; tap 2 permanents; create a **4/4 blue and red Elemental** token; target player discards 2 then draws 2. Spectacular high-impact instant. Discard it early for free to get a Treasure via Prismari Command or Big Score, then hard-cast later.
 
@@ -103,7 +102,7 @@ Rootha's genius is measured in power/toughness. One cheap delve spell *cracks th
 
 - **Expressive Iteration** ({U}{R}) — Look at top 3; put one in hand, one on the bottom, exile one (castable this turn or next). Flexible cheap dig spell. CMC 2 → 2/2 Rootha trigger if nothing bigger was cast.
 - **Twinflame** ({1}{R}) — Create haste copies of any number of creatures you control (temporarily exiled at end step). At beginning of combat, massive swingers that vanish afterward.
-- **Scorched Geyser** — A newer spell from the Prismari Artistry precon. *(Details not yet in the collection database.)*
+- **Aether Gale** ({2}{U}{U}) — Return up to 6 target nonland permanents to their owners' hands. Emergency mass bounce or political tool.
 - **Abstract Performance** ({2}{U}{R}) — Create a copy of up to one target token you control and a copy of up to one target noncreature artifact you control. Double your best token and copy Idol of Oblivion or a Treasure.
 - **Deep Analysis** ({3}{U}) — Target player draws 2 cards. Flashback {1}{U} + 3 life. Draw 2 now, draw 2 more later. Fills the graveyard for Delve on both casts.
 - **Replication Technique** ({4}{U}) — Demonstrate: create a copy of target permanent you control (and optionally, an opponent copies theirs). Copy your best token or an Idol of Oblivion.
@@ -119,9 +118,9 @@ Rootha's genius is measured in power/toughness. One cheap delve spell *cracks th
 
 ---
 
-### Lands (37)
+### Lands (38)
 
-**Non-Basic Lands (22):**
+**Non-Basic Lands (23):**
 - **Command Tower** — Taps for {U} or {R}. Goes in every Commander deck.
 - **Study Hall** — {T}: Add {C}; {1},{T}: Add one mana of any color. When mana from Study Hall is spent on your commander, scry X (X = times commander has been cast). Commander synergy land.
 - **Cascade Bluffs** — Filter land: tap for {U}{U}, {U}{R}, or {R}{R} using {U/R} and a generic.
@@ -143,6 +142,7 @@ Rootha's genius is measured in power/toughness. One cheap delve spell *cracks th
 - **Temple of Epiphany** — Enters tapped, Scry 1 on entry. Minor selection.
 - **Temple of the False God** — {T}: Add {C}{C}, only if you control 5+ lands. Free ramp in the midgame.
 - **Reliquary Tower** — Unlimited hand size. Critical once Archmage Emeritus and Curiosity Crafter are running.
+- **Scorched Geyser** — A newer land from the Prismari Artistry precon. *(Details not yet in the collection database.)*
 - **Hall of Oracles** — Add {C}; {X}: Add X mana of any one color where X = the number of creature tokens you control. Late-game mana faucet fueled by your token army.
 
 **Basic Lands (15):**
@@ -294,35 +294,34 @@ Deck created from cards in your moxfield collection (moxfield_cards.md & card_de
 | Rootha, Mastering the Moment | Commander | Prismari Artistry |
 | Archmage Emeritus | Creature | Prismari Artistry |
 | Brazen Borrower // Petty Theft | Creature | Prismari Artistry |
-| Brudiclad, Telchor Engineer | Creature | Prismari Artistry |
+| Brudiclad, Telchor Engineer | Legendary Artifact Creature | Prismari Artistry |
 | Curiosity Crafter | Creature | Prismari Artistry |
 | Dirgur Focusmage // Braingeyser | Creature | Prismari Artistry |
 | Faerie Mastermind | Creature | Prismari Artistry |
-| Galazeth Prismari | Creature | Prismari Artistry |
+| Galazeth Prismari | Legendary Creature | Prismari Artistry |
 | Goldspan Dragon | Creature | Prismari Artistry |
 | Harmonic Prodigy | Creature | Prismari Artistry |
 | Inspired Skypainter // Maestro's Gift | Creature | Prismari Artistry |
 | Leitmotif Composer | Creature | Prismari Artistry |
 | Manaform Hellkite | Creature | Prismari Artistry |
 | Mirrorwing Dragon | Creature | Prismari Artistry |
-| Muddle, the Ever-Changing | Creature | Prismari Artistry |
+| Muddle, the Ever-Changing | Legendary Creature | Prismari Artistry |
 | Prismari Pianist | Creature | Prismari Artistry |
-| Rionya, Fire Dancer | Creature | Prismari Artistry |
-| Rootha, Mercurial Artist | Creature | Prismari Artistry |
-| Solemn Simulacrum | Creature | Prismari Artistry; Counter Intelligence |
+| Rionya, Fire Dancer | Legendary Creature | Prismari Artistry |
+| Rootha, Mercurial Artist | Legendary Creature | Prismari Artistry |
+| Solemn Simulacrum | Artifact Creature | Prismari Artistry |
 | Storm-Kiln Artist | Creature | Prismari Artistry |
-| Stormcatch Mentor | Creature | Prismari Artistry; Counter Intelligence |
-| Thunderclap Drake | Creature | Prismari Artistry; Counter Intelligence |
-| Veyran, Voice of Duality | Creature | Prismari Artistry |
-| Arcane Signet | Artifact | Prismari Artistry; Counter Intelligence; Squirreled Away |
+| Stormcatch Mentor | Creature | Prismari Artistry |
+| Thunderclap Drake | Creature | Prismari Artistry |
+| Veyran, Voice of Duality | Legendary Creature | Prismari Artistry |
+| Determined Iteration | Enchantment | Prismari Artistry |
+| Arcane Signet | Artifact | Prismari Artistry |
 | Cursed Mirror | Artifact | Prismari Artistry |
 | Fellwar Stone | Artifact | Prismari Artistry |
 | Lightning Greaves | Artifact | Prismari Artistry |
-| Sol Ring | Artifact | Prismari Artistry; Counter Intelligence |
+| Sol Ring | Artifact | Prismari Artistry |
 | Talisman of Creativity | Artifact | Prismari Artistry |
-| Determined Iteration | Enchantment | Prismari Artistry |
 | Abrade | Instant | Prismari Artistry |
-| Aether Gale | Instant | Prismari Artistry |
 | Arcane Denial | Instant | Prismari Artistry |
 | Big Score | Instant | Prismari Artistry |
 | Chaos Warp | Instant | Prismari Artistry |
@@ -333,6 +332,7 @@ Deck created from cards in your moxfield collection (moxfield_cards.md & card_de
 | Reality Shift | Instant | Prismari Artistry |
 | Resculpt | Instant | Prismari Artistry |
 | Abstract Performance | Sorcery | Prismari Artistry |
+| Aether Gale | Sorcery | Prismari Artistry |
 | Blasphemous Act | Sorcery | Prismari Artistry |
 | Chain Reaction | Sorcery | Prismari Artistry |
 | Creative Technique | Sorcery | Prismari Artistry |
@@ -341,7 +341,6 @@ Deck created from cards in your moxfield collection (moxfield_cards.md & card_de
 | Furygale Flocking | Sorcery | Prismari Artistry |
 | Replication Technique | Sorcery | Prismari Artistry |
 | Rite of Replication | Sorcery | Prismari Artistry |
-| Scorched Geyser | Sorcery | Prismari Artistry |
 | Surge to Victory | Sorcery | Prismari Artistry |
 | Treasure Cruise | Sorcery | Prismari Artistry |
 | Twinflame | Sorcery | Prismari Artistry |
@@ -355,12 +354,15 @@ Deck created from cards in your moxfield collection (moxfield_cards.md & card_de
 | Ferrous Lake | Land | Prismari Artistry |
 | Frostboil Snarl | Land | Prismari Artistry |
 | Hall of Oracles | Land | Prismari Artistry |
+| Island (x8) | Basic Land | Prismari Artistry |
 | Molten Tributary | Land | Prismari Artistry |
+| Mountain (x7) | Basic Land | Prismari Artistry |
 | Mystic Sanctuary | Land | Prismari Artistry |
 | Path of Ancestry | Land | Prismari Artistry |
 | Prismari Campus | Land | Prismari Artistry |
 | Reliquary Tower | Land | Prismari Artistry |
 | Restless Spire | Land | Prismari Artistry |
+| Scorched Geyser | Land | Prismari Artistry |
 | Shivan Reef | Land | Prismari Artistry |
 | Spectacle Summit | Land | Prismari Artistry |
 | Study Hall | Land | Prismari Artistry |
@@ -369,12 +371,10 @@ Deck created from cards in your moxfield collection (moxfield_cards.md & card_de
 | Temple of the False God | Land | Prismari Artistry |
 | Terramorphic Expanse | Land | Prismari Artistry |
 | Turbulent Springs | Land | Prismari Artistry |
-| Island (x8) | Land | Prismari Artistry |
-| Mountain (x7) | Land | Prismari Artistry |
-| Thirst for Knowledge | Instant | Counter Intelligence |
 | Swan Song | Instant | Counter Intelligence |
-| Bria, Riptide Rogue | Creature | Otter Limits |
+| Thirst for Knowledge | Instant | Counter Intelligence |
 | Tolarian Terror | Creature | Foundations Beginner Box |
-| Idol of Oblivion | Artifact | Squirreled Away |
-| Air Shoes (Swiftfoot Boots) | Artifact | Sonic the Hedgehog: Turbo Gear |
+| Bria, Riptide Rogue | Legendary Creature | Otter Limits |
 | Unexpected Windfall | Instant | Sonic the Hedgehog: Chasing Adventure |
+| Air Shoes (Swiftfoot Boots) | Artifact | Sonic the Hedgehog: Turbo Gear |
+| Idol of Oblivion | Artifact | Squirreled Away |

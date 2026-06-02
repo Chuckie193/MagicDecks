@@ -17,7 +17,7 @@ Dr. Eggman's robots materialize from nowhere while opponents scramble to contain
 ### Commander (1)
 - Dr. Eggman — 3/6 Flying legend; draws you a card each end step and forces each opponent to either discard or gift you a free Robot, Construct, or Vehicle from your hand onto the battlefield
 
-### Creatures (23)
+### Creatures (24)
 
 #### Artifact Creatures
 - Barkform Harvester — Changeling: is every creature type simultaneously, including Robot, Construct, and Vehicle; always a valid target for Eggman's cheat ability
@@ -45,10 +45,10 @@ Dr. Eggman's robots materialize from nowhere while opponents scramble to contain
 - Riveteers Requisitioner — 3/1 Lizard Rogue; creates a Treasure on death; Blitz [2][Red] for a haste attack plus cantrip
 - Vampire Spawn — 2/3 Vampire; ETB drains each opponent for 2 life and gains you 2; triggers all "opponent lost life" effects in one cast
 - Erudite Wizard — 2/3 Human Wizard; gets a +1/+1 counter whenever you draw your second card each turn; grows steadily in a card-draw-heavy gameplan
-
-### Artifacts & Mana (13)
-
 - Weatherlight (Tornado, Sonic's Biplane) — Legendary Artifact Vehicle (Crew 3), 4/5 Flying; whenever it deals combat damage, look at the top 5 cards and take any historic (artifact, legendary, or saga) card; elite card selection once crewed
+
+### Artifacts & Mana (12)
+
 - Power Sneakers (Lightning Greaves) — Equip 0; gives a creature haste and shroud; priority protection for Dr. Eggman on the turn he enters
 - Air Shoes (Swiftfoot Boots) — Equip [1]; gives a creature haste and hexproof; second layer of Eggman protection
 - Knuckles's Gloves (The Reaver Cleaver) — Legendary Equipment; equipped creature gets +1/+1, trample, and creates Treasure tokens equal to combat damage dealt to a player/planeswalker; equip on Knuckles for obscene Treasure generation
@@ -237,24 +237,39 @@ Deck created from cards in your Moxfield collection (moxfield_latest.csv & card_
 | Cemetery Recruitment | Sorcery | Foundations Beginner Box |
 | Dragon Fodder | Sorcery | Foundations Beginner Box |
 | Eaten Alive | Sorcery | Foundations Beginner Box |
-| Island (x10) | Land | Foundations Beginner Box; Otter Limits; Counter Intelligence; Prismari Artistry |
-| Mountain (x10) | Land | Foundations Beginner Box; Otter Limits; Counter Intelligence; Prismari Artistry |
-| Swamp (x8) | Land | Squirreled Away; Foundations Beginner Box |
+| Island (x10) | Basic Land | Foundations Beginner Box |
+| Mountain (x10) | Basic Land | Foundations Beginner Box |
+| Swamp (x8) | Basic Land | Foundations Beginner Box |
 | Uncharted Haven (x4) | Land | Foundations Beginner Box |
-| Barkform Harvester | Creature | — |
-| Buzz Bots | Creature | — |
+| Thieving Otter | Creature | Otter Limits |
+| Charmed Sleep | Enchantment | Otter Limits |
+| Sword of Vengeance | Artifact | Otter Limits |
+| Mind Spring | Sorcery | Otter Limits |
+| Swiftwater Cliffs (x4) | Land | Otter Limits |
+| Egg Hammer (Myr Battlesphere) | Artifact Creature | Sonic the Hedgehog: Turbo Gear |
+| Tornado, Sonic's Biplane (Weatherlight) | Legendary Artifact Vehicle | Sonic the Hedgehog: Turbo Gear |
+| Air Shoes (Swiftfoot Boots) | Artifact | Sonic the Hedgehog: Turbo Gear |
+| Knuckles's Gloves (The Reaver Cleaver) | Legendary Artifact | Sonic the Hedgehog: Turbo Gear |
+| Power Sneakers (Lightning Greaves) | Artifact | Sonic the Hedgehog: Turbo Gear |
+| Sol Ring | Artifact | Sonic the Hedgehog: Chasing Adventure |
+| Unexpected Windfall | Instant | Sonic the Hedgehog: Chasing Adventure |
+| Fabricate | Sorcery | Sonic the Hedgehog: Chasing Adventure |
+| Knuckles the Echidna | Legendary Creature | Sonic the Hedgehog: Friends and Foes |
+| Super State | Legendary Enchantment | Sonic the Hedgehog: Friends and Foes |
+| Barkform Harvester | Artifact Creature | — |
+| Buzz Bots | Artifact Creature | — |
 | Cindering Cutthroat | Creature | — |
 | Kulrath Mystic | Creature | — |
 | Mouth of the Storm | Creature | — |
 | Nightmare Sower | Creature | — |
-| Palladium Myr | Creature | — |
+| Palladium Myr | Artifact Creature | — |
 | Riveteers Requisitioner | Creature | — |
-| Rock Soldiers | Creature | — |
-| Walking Sarcophagus | Creature | — |
+| Rock Soldiers | Artifact Creature | — |
+| Walking Sarcophagus | Artifact Creature | — |
 | Bumbleflower's Sharepot | Artifact | — |
 | Hidden Blade | Artifact | — |
 | Starting Column | Artifact | — |
-| The Ozolith | Artifact | — |
+| The Ozolith | Legendary Artifact | — |
 | Dire Downdraft | Instant | — |
 | Easy Prey | Instant | — |
 | Harmonized Crescendo | Instant | — |
@@ -267,18 +282,3 @@ Deck created from cards in your Moxfield collection (moxfield_latest.csv & card_
 | Stargaze | Sorcery | — |
 | Strangle | Sorcery | — |
 | Escape Tunnel | Land | — |
-| Thieving Otter | Creature | Otter Limits |
-| Sword of Vengeance | Artifact | Otter Limits |
-| Mind Spring | Sorcery | Otter Limits |
-| Charmed Sleep | Enchantment | Otter Limits |
-| Swiftwater Cliffs (x4) | Land | Otter Limits |
-| Egg Hammer (Myr Battlesphere) | Creature | Sonic the Hedgehog: Turbo Gear |
-| Air Shoes (Swiftfoot Boots) | Artifact | Sonic the Hedgehog: Turbo Gear |
-| Knuckles's Gloves (The Reaver Cleaver) | Artifact | Sonic the Hedgehog: Turbo Gear |
-| Power Sneakers (Lightning Greaves) | Artifact | Sonic the Hedgehog: Turbo Gear; Prismari Artistry |
-| Tornado, Sonic's Biplane (Weatherlight) | Artifact | Sonic the Hedgehog: Turbo Gear |
-| Sol Ring | Artifact | Sonic the Hedgehog: Chasing Adventure |
-| Fabricate | Sorcery | Sonic the Hedgehog: Chasing Adventure |
-| Unexpected Windfall | Instant | Sonic the Hedgehog: Chasing Adventure |
-| Knuckles the Echidna | Creature | Sonic the Hedgehog: Friends and Foes |
-| Super State | Enchantment | Sonic the Hedgehog: Friends and Foes |

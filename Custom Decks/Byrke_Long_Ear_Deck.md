@@ -19,7 +19,7 @@ Byrke doesn't just enforce the law — she doubles it. Every ally enters loaded;
 ### Commander (1)
 - **Byrke, Long Ear of the Law** — The engine of the entire deck. Her ETB distributes +1/+1 counters on up to two creatures, and her attack trigger doubles all counters on every attacking creature that carries one — turning incremental growth into exponential threats in just a few combat steps.
 
-### Creatures (29)
+### Creatures (30)
 - **Llanowar Elves** — Turn-1 mana accelerant that allows Byrke to land on turn 5 instead of 6. Frees up subsequent turns to deploy threats.
 - **Hinterland Sanctifier** — 1-mana 1/2 that triggers life gain whenever any creature enters; fuels Ajani's Pridemate and Twinblade Paladin every time you rebuild the board.
 - **Gilded Goose** — Produces a Food token on ETB and taps for any colour once you sacrifice food. Flexible ramp and a body for Byrke's counter.
@@ -49,14 +49,14 @@ Byrke doesn't just enforce the law — she doubles it. Every ally enters loaded;
 - **End-Raze Forerunners** — 7/7 Boar with vigilance, trample, and haste; ETB grants all other creatures +2/+2, vigilance, and trample until EOT. A game-ending top-end threat.
 - **Prideful Parent** — 2/2 Cat with vigilance; ETB creates a 1/1 White Cat token. Provides two bodies for Byrke to distribute counters to, and the token can carry its own counters.
 - **Dwynen's Elite** — 2/2 Elf; ETB creates a 1/1 Green Elf Warrior token if you control another Elf (Llanowar Elves or Druid of the Cowl). Two bodies for two counters from Byrke.
+- **Surge Conductor** — 3/2 Artifact Creature — Robot for {3}; whenever another nontoken artifact you control enters, proliferate (add a counter of each kind already on any number of permanents). Every mana rock cast (Sol Ring, Arcane Signet, Fellwar Stone), every Equipment played, every Carrot Cake ETB — each triggers a free proliferate, stacking counters on every counter-bearing permanent simultaneously. Particularly devastating alongside Karn's Bastion and Patrolling Peacemaker's own proliferate.
 
-### Artifacts & Mana (10)
+### Artifacts & Mana (9)
 - **Sol Ring** — The quintessential Commander ramp piece; enables turn-2 three-drops or a turn-4 Byrke.
 - **Arcane Signet** — Taps for Green or White; ensures colour consistency on every early turn.
 - **Fellwar Stone** — Taps for any colour your opponent produces, effectively any colour in 1v1. Smooth two-mana ramp.
 - **The Ozolith** — When a creature with counters leaves the battlefield, its counters move here; at the start of combat, you can move all stored counters to a single creature. Protects the counter investment from removal and creates a monstrous attacker out of nothing.
 - **Skullclamp** — Equipped creature gets -1/+0; whenever the equipped creature dies, draw two cards. The best equipment-based card draw in the format. Equip to any 1/1 token (Rabbits from Hop to It or Carrot Cake, Cats from Prideful Parent, Elf Warriors from Dwynen's Elite) — the token draws 2 cards when it dies in combat, and pairs naturally with Hammer of Nazahn's auto-attach trigger.
-- **Surge Conductor** — 3/2 Artifact Creature — Robot for {3}; whenever another nontoken artifact you control enters, proliferate (add a counter of each kind already on any number of permanents). Every mana rock cast (Sol Ring, Arcane Signet, Fellwar Stone), every Equipment played, every Carrot Cake ETB — each triggers a free proliferate, stacking counters on every counter-bearing permanent simultaneously. Particularly devastating alongside Karn's Bastion and Patrolling Peacemaker's own proliferate.
 - **Carrot Cake** — 2-mana Artifact — Food; when this enters AND when you sacrifice it, creates a 1/1 White Rabbit token and scry 1. Sacrificing it also gains 3 life. Four effects in two triggers: two Rabbit tokens for Finneas' counter-loading attack trigger, two scry 1s for library filtering, 3 life for the life-gain sub-theme, and its ETB triggers Surge Conductor's proliferate since it is itself a nontoken artifact entering.
 - **Air Shoes (Swiftfoot Boots)** — Equip 1; grants hexproof and haste. Protect Byrke from targeted removal and give her haste to immediately double counters the turn she enters.
 - **Power Sneakers (Lightning Greaves)** — Equip 0; grants haste and shroud. Free equip makes this the fastest protection for Byrke, though shroud means you can't target her with your own spells afterward.
@@ -264,7 +264,7 @@ Average CMC (non-land, non-X): ~2.71 — down from 2.90 in the previous draft.
 | Felidar Savior | Creature | Foundations Beginner Box |
 | Helpful Hunter | Creature | Foundations Beginner Box |
 | Hinterland Sanctifier | Creature | Foundations Beginner Box |
-| Jazal Goldmane | Creature | Foundations Beginner Box |
+| Jazal Goldmane | Legendary Creature | Foundations Beginner Box |
 | Llanowar Elves | Creature | Foundations Beginner Box |
 | Prideful Parent | Creature | Foundations Beginner Box |
 | Tajuru Pathwarden | Creature | Foundations Beginner Box |
@@ -280,20 +280,20 @@ Average CMC (non-land, non-X): ~2.71 — down from 2.90 in the previous draft.
 | Snakeskin Veil | Instant | Foundations Beginner Box |
 | Biogenic Upgrade | Sorcery | Foundations Beginner Box |
 | Felling Blow | Sorcery | Foundations Beginner Box |
-| Forest (x11) | Land | Foundations Beginner Box |
-| Plains (x10) | Land | Foundations Beginner Box |
+| Forest (x11) | Basic Land | Foundations Beginner Box |
+| Plains (x10) | Basic Land | Foundations Beginner Box |
 | Uncharted Haven | Land | Foundations Beginner Box |
-| Arasta of the Endless Web | Creature | Squirreled Away |
+| Arasta of the Endless Web | Legendary Enchantment Creature | Squirreled Away |
 | End-Raze Forerunners | Creature | Squirreled Away |
 | Gilded Goose | Creature | Squirreled Away |
 | Prosperous Innkeeper | Creature | Squirreled Away |
 | Tireless Provisioner | Creature | Squirreled Away |
-| Toski, Bearer of Secrets | Creature | Squirreled Away |
+| Toski, Bearer of Secrets | Legendary Creature | Squirreled Away |
+| Beastmaster Ascension | Enchantment | Squirreled Away |
+| Wolfwillow Haven | Enchantment | Squirreled Away |
 | Arcane Signet | Artifact | Squirreled Away |
 | Skullclamp | Artifact | Squirreled Away |
 | Sol Ring | Artifact | Squirreled Away |
-| Beastmaster Ascension | Enchantment | Squirreled Away |
-| Wolfwillow Haven | Enchantment | Squirreled Away |
 | Rootcast Apprenticeship | Sorcery | Squirreled Away |
 | Command Tower | Land | Squirreled Away |
 | Evolving Wilds | Land | Squirreled Away |
@@ -302,7 +302,7 @@ Average CMC (non-land, non-X): ~2.71 — down from 2.90 in the previous draft.
 | Path of Ancestry | Land | Squirreled Away |
 | Terramorphic Expanse | Land | Squirreled Away |
 | Burrowguard Mentor | Creature | Hare Raising |
-| Finneas, Ace Archer | Creature | Hare Raising |
+| Finneas, Ace Archer | Legendary Creature | Hare Raising |
 | Pileated Provisioner | Creature | Hare Raising |
 | Serra Redeemer | Creature | Hare Raising |
 | Carrot Cake | Artifact | Hare Raising |
@@ -310,14 +310,14 @@ Average CMC (non-land, non-X): ~2.71 — down from 2.90 in the previous draft.
 | Repel Calamity | Instant | Hare Raising |
 | Hop to It | Sorcery | Hare Raising |
 | Blossoming Sands | Land | Hare Raising |
-| Surge Conductor | Artifact | Counter Intelligence |
+| Surge Conductor | Artifact Creature | Counter Intelligence |
 | Resourceful Defense | Enchantment | Counter Intelligence |
 | Swords to Plowshares | Instant | Counter Intelligence |
 | Fumigate | Sorcery | Counter Intelligence |
 | Buried Ruin | Land | Counter Intelligence |
 | Karn's Bastion | Land | Counter Intelligence |
 | Secluded Steppe | Land | Counter Intelligence |
-| Solemn Simulacrum | Creature | Prismari Artistry |
+| Solemn Simulacrum | Artifact Creature | Prismari Artistry |
 | Fellwar Stone | Artifact | Prismari Artistry |
 | Power Sneakers (Lightning Greaves) | Artifact | Prismari Artistry |
 | Fabled Passage | Land | Prismari Artistry |
@@ -326,14 +326,14 @@ Average CMC (non-land, non-X): ~2.71 — down from 2.90 in the previous draft.
 | Generous Gift | Instant | Sonic the Hedgehog: Chasing Adventure |
 | Open the Armory | Sorcery | Sonic the Hedgehog: Chasing Adventure |
 | Air Shoes (Swiftfoot Boots) | Artifact | Sonic the Hedgehog: Turbo Gear |
-| Piko Piko Hammer (Hammer of Nazahn) | Artifact | Sonic the Hedgehog: Turbo Gear |
+| Piko Piko Hammer (Hammer of Nazahn) | Legendary Artifact | Sonic the Hedgehog: Turbo Gear |
 | Action News Crew | Creature | — |
 | Bulwark Ox | Creature | — |
 | Frog Butler | Creature | — |
-| Patrolling Peacemaker | Creature | — |
-| The Ozolith | Artifact | — |
+| Patrolling Peacemaker | Artifact Creature | — |
 | Fall of Gil-galad | Enchantment | — |
 | Hunter's Talent | Enchantment | — |
+| The Ozolith | Legendary Artifact | — |
 | Reprieve | Instant | — |
 | Wear Down | Sorcery | — |
 | Lupinflower Village | Land | — |
