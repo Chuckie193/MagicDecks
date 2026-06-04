@@ -49,7 +49,7 @@
 1 Steel Overseer
 1 Surge Conductor
 1 Swan Song
-1 Swiftfoot Boots
+1 Air Shoes
 1 Swords to Plowshares
 1 Talisman of Creativity
 1 Tekuthal, Inquiry Dominus

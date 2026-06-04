@@ -424,10 +424,10 @@ Blasphemous Act is the strongest board wipe available at its effective cost. In 
 | Exotic Orchard | Land | Counter Intelligence |
 | Glacial Fortress | Land | Counter Intelligence |
 | Glittering Massif | Land | Counter Intelligence |
-| Island (×3) | Land | Counter Intelligence |
+| Island (×3) | Basic Land | Counter Intelligence |
 | Karn's Bastion | Land | Counter Intelligence |
-| Mountain (×2) | Land | Counter Intelligence |
-| Plains (×3) | Land | Counter Intelligence |
+| Mountain (×2) | Basic Land | Counter Intelligence |
+| Plains (×3) | Basic Land | Counter Intelligence |
 | Radiant Summit | Land | Counter Intelligence |
 | Rugged Prairie | Land | Counter Intelligence |
 | Shivan Reef | Land | Counter Intelligence |
@@ -455,6 +455,7 @@ Blasphemous Act is the strongest board wipe available at its effective cost. In 
 | Generous Gift | Instant | Sonic Chasing Adventure |
 | Fabricate | Sorcery | Sonic Chasing Adventure |
 | Swiftfoot Boots | Artifact | Sonic TurboGear precon |
+| Palladium Myr | Artifact Creature | — |
 | The Ozolith | Legendary Artifact | — |
 | Raugrin Triome | Land | — |
 | Seachrome Coast | Land | — |
