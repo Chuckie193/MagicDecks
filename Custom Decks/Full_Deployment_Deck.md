@@ -98,7 +98,7 @@
 
 - **Swiftfoot Boots** — 2. Equipment, equip {1}. Equipped creature gains haste and hexproof. Hexproof (cannot be targeted by opponents) is different from shroud (cannot be targeted at all): you can still target your own hexproof creature. Running both Lightning Greaves and Swiftfoot Boots means equipping whichever protection mode is needed — Greaves when you need untargetability, Boots when you need to keep targeting your own creature.
 
-- **Talisman of Creativity** — 2. Tap for {U} or {R}, dealing 1 damage if you tap for {R}. A clean two-mana rock for two of the three colors. No loss-of-tempo from entering tapped, unlike the Temple scry lands. With Arcane Signet + Fellwar Stone + Sol Ring + Talisman, the deck consistently ramps to 5–6 mana by turn 3–4.
+- **Talisman of Creativity** — 2. Tap for {U} or {R}, dealing 1 damage if you tap for {R}. A clean two-mana rock for two of the three colors. No loss-of-tempo from entering tapped. With Arcane Signet + Fellwar Stone + Sol Ring + Talisman, the deck consistently ramps to 5–6 mana by turn 3–4.
 
 - **The Ozolith** — 1. When any permanent you control with counters leaves, put all its counters on The Ozolith. At the start of combat, move any counters from The Ozolith to a creature you control. Counter insurance: every destroyed creature, every sacrificed artifact, every bounced permanent — all their counters funnel to The Ozolith and then onto your best threat. The Ozolith itself proliferates, so stored counters grow passively.
 
@@ -161,47 +161,43 @@
 - Great Furnace — Artifact land; taps for {R}.
 - Seat of the Synod — Artifact land; taps for {U}.
 
-**Dual Lands (13)**
+**Dual Lands (15)**
 - Adarkar Wastes — White/Blue, {1} damage for colored mana.
 - Battlefield Forge — Red/White, {1} damage for colored mana.
 - Cascade Bluffs — Blue/Red filter land.
 - Clifftop Retreat — Red/White check land.
+- Frostboil Snarl — Blue/Red; reveal an Island or Mountain from hand to enter untapped. Near-guaranteed untapped in this deck.
 - Glacial Fortress — White/Blue check land.
-- Razortide Bridge — White/Blue artifact Bridge (enters tapped).
+- Razortide Bridge — White/Blue artifact Bridge (enters tapped unless 3+ other artifacts — almost never tapped here).
 - Rugged Prairie — Red/White filter land.
-- Rustvale Bridge — Red/White artifact Bridge (enters tapped).
+- Rustvale Bridge — Red/White artifact Bridge (enters tapped unless 3+ other artifacts — almost never tapped here).
+- Scorched Geyser — Blue/Red; enters untapped if you control 2+ basic lands. Has basic Island and Mountain types.
 - Seachrome Coast — White/Blue fastland; enters untapped when you control two or fewer other lands. Reliably untapped on turns 1–3 — the turns where having open mana matters most.
 - Shivan Reef — Blue/Red, {1} damage for colored mana.
-- Silverbluff Bridge — Blue/Red artifact Bridge (enters tapped).
+- Silverbluff Bridge — Blue/Red artifact Bridge (enters tapped unless 3+ other artifacts — almost never tapped here).
 - Skycloud Expanse — White/Blue filter land.
 - Sulfur Falls — Blue/Red check land.
 
-**Triple Color (6)**
+**Triple Color (5)**
 - Command Tower — Taps for any color in commander's color identity.
-- Glittering Massif — Jeskai tri-color land from the precon.
-- Mystic Monastery — Taps for Blue, Red, or White (enters tapped).
-- Radiant Summit — Jeskai tri-color land from the precon.
+- Glittering Massif — Jeskai tri-color land from the precon; cycles for {2}.
+- Radiant Summit — Jeskai tri-color land from the precon; enters untapped if you control 2+ basic lands.
 - Raugrin Triome — Island/Mountain/Plains; taps for {W}, {U}, or {R}; enters tapped; cycles for {3}. Fixes all three colors and can be cycled in a flooded hand.
 - Spire of Industry — Taps for any color with an artifact on the battlefield.
 
-**Utility Lands (6)**
+**Utility Lands (7)**
 - Buried Ruin — Sacrifice to return an artifact from graveyard to hand.
 - Exotic Orchard — Copies any color an opponent's land produces; near-perfect color fixing in a multiplayer pod.
 - Fabled Passage — Sacrifice to search for a basic land (enters tapped in early game, untapped when you have 4+ lands). Thins the deck; better than Evolving Wilds.
 - Karn's Bastion — {4}: Proliferate. A land that proliferates on demand — and with Tekuthal, that's two proliferates per activation.
 - Reliquary Tower — No maximum hand size. Essential with Jhoira + Archmage Emeritus both active — you will regularly have 10–12 cards in hand and need to keep every one of them.
+- Temple of the False God — Tap for {C}{C} when you have 5+ lands. After turn 5, this is free extra mana that the counter-heavy late game loves.
 - The Mycosynth Gardens — Tap to copy any nonland artifact you control.
 
-**Scry Lands (4)**
-- Temple of Enlightenment — White/Blue, enters tapped, scry 1.
-- Temple of Epiphany — Blue/Red, enters tapped, scry 1.
-- Temple of the False God — Tap for {C}{C} when you have 5+ lands. After turn 5, this is free extra mana that the counter-heavy late game loves.
-- Temple of Triumph — Red/White, enters tapped, scry 1.
-
-**Basics (6)**
-- Island ×2
+**Basics (8)**
+- Island ×3
 - Mountain ×2
-- Plains ×2
+- Plains ×3
 
 ---
 
@@ -428,20 +424,16 @@ Blasphemous Act is the strongest board wipe available at its effective cost. In 
 | Exotic Orchard | Land | Counter Intelligence |
 | Glacial Fortress | Land | Counter Intelligence |
 | Glittering Massif | Land | Counter Intelligence |
-| Island (×2) | Basic Land | Counter Intelligence |
+| Island (×3) | Basic Land | Counter Intelligence |
 | Karn's Bastion | Land | Counter Intelligence |
 | Mountain (×2) | Basic Land | Counter Intelligence |
-| Mystic Monastery | Land | Counter Intelligence |
-| Plains (×2) | Basic Land | Counter Intelligence |
+| Plains (×3) | Basic Land | Counter Intelligence |
 | Radiant Summit | Land | Counter Intelligence |
 | Rugged Prairie | Land | Counter Intelligence |
 | Shivan Reef | Land | Counter Intelligence |
 | Skycloud Expanse | Land | Counter Intelligence |
 | Spire of Industry | Land | Counter Intelligence |
 | Sulfur Falls | Land | Counter Intelligence |
-| Temple of Enlightenment | Land | Counter Intelligence |
-| Temple of Epiphany | Land | Counter Intelligence |
-| Temple of Triumph | Land | Counter Intelligence |
 | The Mycosynth Gardens | Land | Counter Intelligence |
 | Archmage Emeritus | Creature | **Prismari Artistry** |
 | Galazeth Prismari | Legendary Creature | **Prismari Artistry** |
@@ -456,11 +448,14 @@ Blasphemous Act is the strongest board wipe available at its effective cost. In 
 | Blasphemous Act | Sorcery | **Prismari Artistry** |
 | Expressive Iteration | Sorcery | **Prismari Artistry** |
 | Fabled Passage | Land | **Prismari Artistry** |
+| Frostboil Snarl | Land | **Prismari Artistry** |
 | Reliquary Tower | Land | **Prismari Artistry** |
+| Scorched Geyser | Land | **Prismari Artistry** |
 | Temple of the False God | Land | **Prismari Artistry** |
 | Generous Gift | Instant | Sonic Chasing Adventure |
 | Fabricate | Sorcery | Sonic Chasing Adventure |
 | Swiftfoot Boots | Artifact | Sonic TurboGear precon |
+| Palladium Myr | Artifact Creature | — |
 | The Ozolith | Legendary Artifact | — |
 | Raugrin Triome | Land | — |
 | Seachrome Coast | Land | — |
