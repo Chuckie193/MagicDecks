@@ -1,6 +1,6 @@
 # Potential Commanders
 
-All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **46 cards**.
+All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **50 cards**.
 
 ---
 
@@ -11,6 +11,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Faramir_Field_Commander.jpg" alt="Faramir, Field Commander" width="200"> | **Faramir, Field Commander** | Legendary Creature — Human Soldier |  |
 | <img src="images/commanders/Jazal_Goldmane.jpg" alt="Jazal Goldmane" width="200"> | **Jazal Goldmane** | Legendary Creature — Cat Warrior | Foundations BeginnerBox |
 | <img src="images/commanders/Leonardo_Big_Brother.jpg" alt="Leonardo, Big Brother" width="200"> | **Leonardo, Big Brother** | Legendary Creature — Mutant Ninja Turtle |  |
+| <img src="images/commanders/The_Seriema.jpg" alt="The Seriema" width="200"> | **The Seriema** | Legendary Artifact — Spacecraft |  |
 
 ## Blue
 
@@ -18,6 +19,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 |------|------|------|--------|
 | <img src="images/commanders/Caelorna_Coral_Tyrant.jpg" alt="Caelorna, Coral Tyrant" width="200"> | **Caelorna, Coral Tyrant** | Legendary Creature — Octopus |  |
 | <img src="images/commanders/Emry_Lurker_of_the_Loch.jpg" alt="Emry, Lurker of the Loch" width="200"> | **Emry, Lurker of the Loch** | Legendary Creature — Merfolk Wizard | CounterIntelligence |
+| <img src="images/commanders/Mmmenon_the_Right_Hand.jpg" alt="Mm'menon, the Right Hand" width="200"> | **Mm'menon, the Right Hand** | Legendary Creature — Jellyfish Advisor |  |
 | <img src="images/commanders/Tekuthal_Inquiry_Dominus.jpg" alt="Tekuthal, Inquiry Dominus" width="200"> | **Tekuthal, Inquiry Dominus** | Legendary Creature — Phyrexian Horror | CounterIntelligence |
 
 ## Black
@@ -56,6 +58,12 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Chatterfang_Squirrel_General.jpg" alt="Chatterfang, Squirrel General" width="200"> | **Chatterfang, Squirrel General** | Legendary Creature — Squirrel Warrior | SquirreledAway |
 | <img src="images/commanders/Hazel_of_the_Rootbloom.jpg" alt="Hazel of the Rootbloom" width="200"> | **Hazel of the Rootbloom** | Legendary Creature — Squirrel Druid | SquirreledAway |
 | <img src="images/commanders/The_Odd_Acorn_Gang.jpg" alt="The Odd Acorn Gang" width="200"> | **The Odd Acorn Gang** | Legendary Creature — Squirrel Warrior | SquirreledAway |
+
+## Black, Blue
+
+| Card | Name | Type | Precon |
+|------|------|------|--------|
+| <img src="images/commanders/Alpharael_Dreaming_Acolyte.jpg" alt="Alpharael, Dreaming Acolyte" width="200"> | **Alpharael, Dreaming Acolyte** | Legendary Creature — Human Cleric |  |
 
 ## Black, Blue, White
 
@@ -137,6 +145,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Alibou_Ancient_Witness.jpg" alt="Alibou, Ancient Witness" width="200"> | **Alibou, Ancient Witness** | Legendary Artifact Creature — Golem | CounterIntelligence |
 | <img src="images/commanders/Amy_Rose.jpg" alt="Amy Rose" width="200"> | **Amy Rose** | Legendary Creature — Hedgehog Warrior | SonictheHedgehog FriendsandFoes |
 | <img src="images/commanders/Mabel_Heir_to_Cragflame.jpg" alt="Mabel, Heir to Cragflame" width="200"> | **Mabel, Heir to Cragflame** | Legendary Creature — Mouse Soldier |  |
+| <img src="images/commanders/Sami_Ships_Engineer.jpg" alt="Sami, Ship's Engineer" width="200"> | **Sami, Ship's Engineer** | Legendary Creature — Human Artificer |  |
 | <img src="images/commanders/Vikya_Scorching_Stalwart.jpg" alt="Vikya, Scorching Stalwart" width="200"> | **Vikya, Scorching Stalwart** | Legendary Creature — Human Warrior |  |
 | <img src="images/commanders/Winota_Joiner_of_Forces.jpg" alt="Winota, Joiner of Forces" width="200"> | **Winota, Joiner of Forces** | Legendary Creature — Human Warrior |  |
 
