@@ -1,6 +1,5 @@
 1 Hazel of the Rootbloom *CMDR*
 1 Academy Manufactor
-1 Air Shoes
 1 Arcane Signet
 1 Bastion of Remembrance
 1 Beastmaster Ascension
@@ -44,6 +43,7 @@
 1 Shamanic Revelation
 1 Skullclamp
 1 Skyfisher Spider
+1 Snakeskin Veil
 1 Sol Ring
 1 Squirrel Nest
 1 Squirrel Sovereign

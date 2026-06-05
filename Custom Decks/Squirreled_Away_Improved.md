@@ -14,7 +14,7 @@ Hazel taps her chittering horde as a living mana battery, then each sunset doubl
 ## Decklist (100 cards)
 
 ### Commander (1)
-- **Hazel of the Rootbloom** — The engine of the whole deck: taps tokens to produce coloured mana and doubles Squirrel tokens at each end step; protects her early with Air Shoes.
+- **Hazel of the Rootbloom** — The engine of the whole deck: taps tokens to produce coloured mana and doubles Squirrel tokens at each end step; use Snakeskin Veil reactively to shield her from targeted removal.
 
 ### Creatures (31)
 - **Academy Manufactor** — Converts any Food, Clue, or Treasure creation into all three; massively amplifies every token synergy in the deck.
@@ -49,8 +49,7 @@ Hazel taps her chittering horde as a living mana battery, then each sunset doubl
 - **Woe Strider** — Free sacrifice outlet that scries 1; creates a Goat token on ETB; can escape from graveyard as a 5/4; keeps sacrifice effects flowing without mana.
 - **Zulaport Cutthroat** — Drains each opponent 1 life whenever any creature you control dies; stacks directly with Nadier's Nightblade, Bastion, and Poison-Tip Archer.
 
-### Artifacts & Mana (10)
-- **Air Shoes (Swiftfoot Boots)** — Gives Hazel (or any key creature) hexproof and haste; the single most important upgrade — protects the engine from removal and lets Hazel attack or activate abilities the turn she lands.
+### Artifacts & Mana (9)
 - **Arcane Signet** — 2-mana rock that produces Black or Green; core ramp.
 - **Chitterspitter** — Creates Squirrel tokens for G; accumulates acorn counters when you sacrifice tokens, giving all Squirrels +1/+1 per counter; snowballs with Hazel's doublers.
 - **Golgari Signet** — 2-mana rock; standard Golgari colour fixing.
@@ -69,12 +68,13 @@ Hazel taps her chittering horde as a living mana battery, then each sunset doubl
 - **Moldervine Reclamation** — Draw a card and gain 1 life whenever any creature you control dies; outstanding sustained card advantage in sacrifice strategies.
 - **Squirrel Nest** — Enchants a land to give it a tap-to-create-Squirrel ability; continuous, resilient token generation that Hazel then doubles at end step.
 
-### Instants (6)
+### Instants (7)
 - **Cache Grab** — Mill 4 and return a permanent card to hand; creates a Food if you control a Squirrel or returned a Squirrel card; excellent card selection and recovery.
 - **Deadly Dispute** — Sacrifice a creature at instant speed to draw two cards and create a Treasure; powers up Academy Manufactor and generates mana from death.
 - **Plumb the Forbidden** — Sacrifice creatures to draw cards; copies for each creature sacrificed; spectacular when you have a board of tokens to spend.
 - **Putrefy** — Destroy target artifact or creature (can't be regenerated); staple flexible instant removal in Golgari.
 - **Second Harvest** — Creates a copy of every token you control; doubles an entire Squirrel army at instant speed in response to any threat.
+- **Snakeskin Veil** — 1G instant: gives target creature hexproof until end of turn plus a permanent +1/+1 counter; cheap reactive shield for Hazel against targeted removal; the counter permanently boosts Hazel, putting her out of range of 3-damage spells.
 - **Tear Asunder** — Exile target artifact or enchantment; kick 1B to exile any nonland permanent instead; flexible removal with a high ceiling.
 
 ### Sorceries (7)
@@ -135,7 +135,7 @@ Hazel taps her chittering horde as a living mana battery, then each sunset doubl
 | Ogre Slumlord | 5 mana, creates Rats (off-tribe), requires non-token creature deaths; rarely worth the cost | Squirrelanoids |
 | Rootcast Apprenticeship | 4-mana sorcery with modes that require existing tokens to be useful; too slow and conditional | Thrashing Brontodon |
 | Saw in Half | "Removal" that leaves weakened copies behind for opponents; rarely a real advantage | Reassembling Skeleton |
-| Wolfwillow Haven | Aura ramp vulnerable to 2-for-1; the deck has sufficient ramp from rocks and creatures | Air Shoes (Swiftfoot Boots) |
+| Wolfwillow Haven | Aura ramp vulnerable to 2-for-1; the deck has sufficient ramp from rocks and creatures | Snakeskin Veil |
 
 ---
 
@@ -159,8 +159,8 @@ Hazel taps her chittering horde as a living mana battery, then each sunset doubl
 ## Mana Curve
 
 - 0 CMC: 0 cards
-- 1 CMC: 8 cards  `████████ (8)` — Gilded Goose, Gourmand's Talent, Haywire Mite, Llanowar Elves, Ravenous Squirrel, Skullclamp, Sol Ring, Squirrelanoids
-- 2 CMC: 16 cards `████████████████ (16)` — Air Shoes, Arcane Signet, Cache Grab, Chatterstorm, Deadly Dispute, Golgari Signet, Idol of Oblivion, Plumb the Forbidden, Prosperous Innkeeper, Reassembling Skeleton, Squirrel Sovereign, Sword of the Squeak, Talisman of Resilience, Tear Asunder, Vinereap Mentor, Zulaport Cutthroat
+- 1 CMC: 9 cards  `█████████ (9)` — Gilded Goose, Gourmand's Talent, Haywire Mite, Llanowar Elves, Ravenous Squirrel, Skullclamp, Snakeskin Veil, Sol Ring, Squirrelanoids
+- 2 CMC: 15 cards `███████████████ (15)` — Arcane Signet, Cache Grab, Chatterstorm, Deadly Dispute, Golgari Signet, Idol of Oblivion, Plumb the Forbidden, Prosperous Innkeeper, Reassembling Skeleton, Squirrel Sovereign, Sword of the Squeak, Talisman of Resilience, Tear Asunder, Vinereap Mentor, Zulaport Cutthroat
 - 3 CMC: 17 cards `█████████████████ (17)` — Academy Manufactor, Bastion of Remembrance, Beastmaster Ascension, Chatterfang, Chitterspitter, Druid of the Spade, Honored Dreyleader, Maelstrom Pulse, Morbid Opportunist, Nadier's Nightblade, Plaguecrafter, Putrefy, Scurry of Squirrels, Squirrel Nest, Thrashing Brontodon, Tireless Provisioner, Woe Strider
 - 4 CMC: 9 cards  `█████████ (9)` — Binding the Old Gods, Chittering Witch, Hazel's Brewmaster, Insatiable Frugivore, Maskwood Nexus, Poison-Tip Archer, Second Harvest, Skyfisher Spider, Toski
 - 5 CMC: 6 cards  `██████ (6)` — Deep Forest Hermit, Moldervine Reclamation, Shamanic Revelation, Swarmyard Massacre, The Odd Acorn Gang, Windgrace's Judgment
@@ -173,7 +173,7 @@ Average CMC (non-land): ~3.1
 ---
 
 ## Short Mulligan and Play Notes
-- **Early game (turns 1–4):** Prioritise mana accelerants (Llanowar Elves, Sol Ring, Arcane Signet, Gilded Goose). Aim to enchant a Forest with Squirrel Nest by turn 2–3. Cast Hazel on turn 3 off an early ramp piece. Equip Air Shoes immediately on Hazel.
+- **Early game (turns 1–4):** Prioritise mana accelerants (Llanowar Elves, Sol Ring, Arcane Signet, Gilded Goose). Aim to enchant a Forest with Squirrel Nest by turn 2–3. Cast Hazel on turn 3 off an early ramp piece. Hold up 1G when possible to cast Snakeskin Veil in response to targeted removal on Hazel.
 - **Mid game (turns 5–8):** Activate Hazel's end-step ability every turn — doubly Squirrels is the core game plan. Cast Chatterfang to double all token production. Use Skullclamp to convert 1/1s into cards and keep your hand stocked. Look to establish Moldervine Reclamation or Morbid Opportunist before sacrificing tokens en masse.
 - **Late game (turn 9+):** With 15+ Squirrels, tap them all through Hazel for free mana to cast Decree of Pain, Casualties of War, or End-Raze Forerunners. If Beastmaster Ascension has 7 counters, a single attack wave with even 5 Squirrels is lethal. Stack drain effects (Nadier, Zulaport, Bastion) before a Plumb the Forbidden or mass sacrifice to close out multiple opponents simultaneously.
 - **Key interactions:** Chatterfang's token-doubling triggers from Hazel's copies — protect Chatterfang at all costs. Swarmyard can regenerate key Squirrels (Toski, Chatterfang) from targeted removal. Woe Strider provides a free sacrifice outlet at any time — never be caught unable to respond to graveyard exile or bounce effects.
@@ -182,7 +182,7 @@ Average CMC (non-land): ~3.1
 
 ## Why These Choices (Summary)
 - Every new creature is either a Squirrel (Squirrelanoids, Vinereap Mentor) or serves a role the precon's cuts freed up (Druid of the Spade as aggressive threat, Llanowar Elves as 1-drop ramp, Thrashing Brontodon as instant-speed artifact/enchantment removal, Reassembling Skeleton as recurring sac fodder).
-- Air Shoes (Swiftfoot Boots) was the clearest missing piece — Hazel is the entire engine and dies to any instant-speed removal without it. Equipping on the same turn she lands (haste) immediately lets you abuse her mana ability.
+- Snakeskin Veil is the reactive protection piece — Hazel is the entire engine and dies to any instant-speed removal. Holding up 1G lets you counter any targeted removal or bounce spell on the stack at minimal mana cost, and the +1/+1 counter permanently strengthens Hazel.
 - Cuts prioritised removing off-tribe cards (Arasta's Spiders, Ogre Slumlord's Rats) and low-impact one-offs (Saw in Half, Wolfwillow Haven aura) that competed with more synergistic slots.
 
 ---
@@ -308,7 +308,7 @@ Deck improved from **Squirreled Away** Commander precon using cards in your Moxf
 | Llanowar Elves | Creature | Foundations Beginner Box |
 | Reassembling Skeleton | Creature | Foundations Beginner Box |
 | Thrashing Brontodon | Creature | Foundations Beginner Box |
+| Snakeskin Veil | Instant | Foundations Beginner Box |
 | Druid of the Spade | Creature | Hare Raising |
-| Air Shoes (Swiftfoot Boots) | Artifact | Sonic the Hedgehog TurboGear |
 | Squirrelanoids | Creature | — |
 | Vinereap Mentor | Creature | — |
