@@ -32,8 +32,6 @@
 
 - **Enthusiastic Mechanaut** — 1R. Artifact spells cost {1} less to cast. Stacks with Etherium Sculptor. With both on the field, artifacts cost {2} less — most mana rocks become free, Thought Monitor becomes 1 mana, and every cast triggers Jhoira and Archmage Emeritus.
 
-- **Etched Oracle** — 2 + Sunburst. Enters with counters from mana colors spent. Remove 4 counters from it as a tap ability: draw 3 cards. With proliferate keeping it loaded and Crystalline Crawler refueling it, Etched Oracle is a reusable draw engine that costs only 4 mana to set up.
-
 - **Etherium Sculptor** — 1U. Artifact spells cost {1} less. The second of the cost-reduction pair alongside Enthusiastic Mechanaut. On the field together, every single-mana rock costs 0, Jhoira triggers fire for free, and the deck accelerates two full turns ahead.
 
 - **Goldspan Dragon** — 3RR. 4/4 flying haste. Whenever it attacks or becomes the target of a spell, create a Treasure token. Treasure tokens tap for {2} of any color (double mana). An immediate threat that also generates artifacts (Jhoira draw triggers) and explosive mana. Haste means it attacks the turn it lands, creating a Treasure before opponents can react.
@@ -45,6 +43,8 @@
 - **Kappa Cannoneer** — 4UU (Improvise). 4/4 Ward {4}. Whenever you cast a noncreature spell, put a +1/+1 counter on Kappa Cannoneer and it becomes unblockable until end of turn. A growing unblockable threat that adds its own counters. Ward {4} taxes interaction heavily. Can reach 15+ power in a developed board.
 
 - **Kilo, Apogee Mind** — 2U. 1/4. Whenever Kilo becomes tapped, proliferate. The most important creature in the deck. Tapping Kilo to Station puts charge counters onto Inspirit AND triggers Kilo's proliferate. With Tekuthal, each Station tap on Kilo is two proliferates. The Kilo + Tekuthal pair is the core engine.
+
+- **Mm'menon, the Right Hand** — 3UU. 3/4 Flying. You may always look at the top card of your library. You may cast artifact spells from the top of your library. Artifacts you control gain "{T}: Add {U}. Spend this mana only to cast a spell from anywhere other than your hand." With cost reducers active, tapping one idle artifact pays for an artifact on top of the library — Jhoira triggers on the cast, then the new top card may chain directly. Complements Galazeth Prismari without overlap: Galazeth converts artifact taps to mana for instants/sorceries from hand; Mm'menon converts artifact taps to mana for artifacts from the top of the library. Both in play, the artifact army splits across two separate mana pools simultaneously.
 
 - **Palladium Myr** — 3. Artifact Creature — Myr. Taps for {C}{C}. Fills the deck's 3 CMC ramp gap — the only reliable ramp between the 2-CMC rocks and the 4-CMC engines. When mana is not the bottleneck in the mid-to-late game, becomes a power-2 Station target. Synergises with everything in the artifact creature package: Steel Overseer counters, Cyberdrive Awakener flying, Organic Extinction protection.
 
@@ -82,11 +82,9 @@
 
 - **Fellwar Stone** — 2. Taps for any color an opponent's land produces. In a multi-opponent game, nearly always produces any of the three colors needed. Strictly better than Arcane Signet in multiplayer because it doesn't require commander colours to be declared.
 
-- **Gavel of the Righteous** — 1W. Equipment. Equipped creature gets +0/+1. At the beginning of combat on your turn, put a charge counter on Gavel. Equipped creature gets double strike while Gavel has 4+ counters. Auto-charges every combat, proliferates alongside everything else. On Inspirit, double strike means Station twice in a single combat tap? No — Station is triggered separately, but a double-striking Inspirit with 4+ counters deals double combat damage, closing games faster. Most valuably, the auto-charge is free counter progress each turn without casting anything.
+- **Cryogen Relic** — 1U. Artifact. When this artifact enters or leaves the battlefield, draw a card. {1}{U}, Sacrifice: Put a stun counter on up to one target tapped creature. A 2-mana artifact that draws on entry (plus Jhoira triggers on cast) and draws again when it leaves. With Emry recurring it from the graveyard each turn, Cryogen Relic draws twice per loop: cast from graveyard → Jhoira trigger + ETB draw; sacrifice for stun counter → exit draw. The stun counter utility locks a tapped creature out of untapping for a turn — useful for keeping a key blocker or tap-ability creature tapped down.
 
 - **Lightning Greaves** — 2. Equipment, equip {0}. Equipped creature gains haste and shroud. Equip costs nothing. Attach to Inspirit the turn it lands: immediate haste to Station in the same turn plus shroud (cannot be targeted at all). The best piece of protection in the deck. Pairs with Swiftfoot Boots — one protects from targeting, the other from targeting AND gives haste.
-
-- **Long-Range Sensor** — 3. Whenever Inspirit deals combat damage to a player, discover 4 (look at top 4, cast one for free, put the rest on the bottom). A bonus attached to attacking with the commander. Every Inspirit swing has the potential to cast Chaos Warp, Fabricate, or Thirst for Knowledge for free.
 
 - **Lux Artillery** — 4. At the beginning of your end step, if the total number of counters on permanents you control is 30 or more, Lux Artillery deals 10 damage to each opponent. In a four-player pod, that's 30 damage. Charge counters on Inspirit, Empowered Autogenerator, Astral Cornucopia, +1/+1 counters on creatures, The Ozolith's stored counters — all count. With Tekuthal doubling proliferates, reaching 30 by turn 8 is realistic. Backed up by Deepglow Skate doubling all counters in a single turn as a surprise finisher.
 
@@ -101,6 +99,8 @@
 - **Talisman of Creativity** — 2. Tap for {U} or {R}, dealing 1 damage if you tap for {R}. A clean two-mana rock for two of the three colors. No loss-of-tempo from entering tapped. With Arcane Signet + Fellwar Stone + Sol Ring + Talisman, the deck consistently ramps to 5–6 mana by turn 3–4.
 
 - **The Ozolith** — 1. When any permanent you control with counters leaves, put all its counters on The Ozolith. At the start of combat, move any counters from The Ozolith to a creature you control. Counter insurance: every destroyed creature, every sacrificed artifact, every bounced permanent — all their counters funnel to The Ozolith and then onto your best threat. The Ozolith itself proliferates, so stored counters grow passively.
+
+- **The Seriema** — 1WW. 5/5. Legendary Artifact — Spacecraft. When The Seriema enters, search your library for a legendary creature card, reveal it, put it into your hand, then shuffle. Station. 7+: Flying; other tapped legendary creatures you control have indestructible. A 3-mana legendary artifact (Jhoira trigger on cast) that tutors the deck's most critical pieces — Jhoira, Tekuthal, Kilo, Galazeth, or any legendary depending on board state. Kilo is always tapping for Station; at 7+ counters on The Seriema, every Station tap on Kilo also makes Kilo indestructible during that phase, protecting the proliferate engine from combat-step removal.
 
 - **Uthros Research Craft** — 3. **Station** + **Draw**: at the start of combat, tap Uthros to put a charge counter on any target artifact and draw a card. Combines Station (charges Inspirit, Lux Artillery) with card draw every combat. A free card on every turn, plus counter fuel.
 
@@ -211,7 +211,11 @@
 
 - **Blasphemous Act at 1–2 mana:** In a pod with 12+ creatures (not uncommon by turn 5–6), Blasphemous Act costs {R}. Cast it after everyone else has developed their boards — the cost reduction makes it a conditional free board wipe. This is the reason Blasphemous Act is more powerful than Chain Reaction in multiplayer: Chain Reaction's damage scales with creature count (12 creatures = 12 damage each, kills most things) but Blasphemous Act deals a fixed 13 regardless, kills things Chain Reaction can't, and frequently costs 1 mana.
 
-- **Lightning Greaves + Swiftfoot Boots + Gavel of the Righteous:** Three pieces of protection/enhancement for the commander. Lightning Greaves (equip free): immediate haste and shroud on landing. Swiftfoot Boots (equip {1}): hexproof and haste, allows you to target your own creature. Gavel (equip {1}): charges one counter each combat, grants double strike at 4. Fabricate can find any of them. Run Greaves first for speed; switch to Boots if you need to target Inspirit yourself; keep Gavel charging in the background.
+- **Lightning Greaves + Swiftfoot Boots:** Two pieces of protection for the commander. Lightning Greaves (equip free): immediate haste and shroud on landing. Swiftfoot Boots (equip {1}): hexproof and haste, allows you to target your own creature. Fabricate can find whichever is missing. Run Greaves first for speed; switch to Boots if you need to target Inspirit yourself.
+
+- **The Seriema + Legendary Engine:** The Seriema enters and immediately tutors the most critical missing piece — Jhoira if draw is needed, Tekuthal if proliferate is not yet doubled, Kilo if Station is not yet online. Once The Seriema accumulates 7+ charge counters (via Station and proliferate), every Station tap on Kilo also grants Kilo indestructible during that phase, protecting the proliferate engine from the removal window opponents most commonly exploit.
+
+- **Mm'menon + Jhoira + Artifact Army:** With Mm'menon in play, idle artifacts tap for {U} earmarked for casting spells from non-hand sources. With cost reducers active, a single artifact tap covers the cost of an artifact on top of the library. Jhoira triggers on each top-of-library cast. The chain extends as long as artifacts remain on top. Mm'menon's mana and Galazeth's mana are separate pools from the same artifact taps — splitting the army across both Galazeth (instant/sorcery mana from hand) and Mm'menon (artifact-from-top mana) is the late-game correct line.
 
 - **Goldspan Dragon + Artifact Engine:** Goldspan creates a Treasure whenever it attacks or is targeted. Treasures are artifacts — Jhoira draws a card when you cast the spell that targets Goldspan (or when it ETBs from Wake the Past if reinstated). Treasures also tap for double mana with Goldspan in play. A developing board with Goldspan, Jhoira, and 2 Treasures can generate 4 free mana from Treasure + 2 card draws each turn before spells are cast.
 
@@ -238,10 +242,10 @@
 ```
 0 CMC:  3  ███ (Astral Cornucopia, Everflowing Chalice, Hangarback Walker)
 1 CMC:  5  █████ (Dispatch, Sol Ring, Swan Song, Swords to Plowshares, The Ozolith)
-2 CMC: 17  █████████████████ (Arcane Denial, Arcane Signet, Coretapper, Enthusiastic Mechanaut, Etherium Sculptor, Expressive Iteration, Fellwar Stone, Gavel of the Righteous, Lightning Greaves, Moxite Refinery, Pull from Tomorrow†, Reality Shift, Ripples of Potential, Steel Overseer, Swiftfoot Boots, Talisman of Creativity, Thrummingbird)
-3 CMC: 12  ████████████ (Chaos Warp, Fabricate, Generous Gift, Inspirit†, Kilo, Long-Range Sensor, Palladium Myr, Patrolling Peacemaker, Resourceful Defense, Surge Conductor, Thirst for Knowledge, Uthros Research Craft)
-4 CMC: 13  █████████████ (Archmage Emeritus, Chrome Host Seedshark, Crystalline Crawler, Empowered Autogenerator, Emry, Etched Oracle, Galazeth Prismari, Jhoira, Lux Artillery, Phyrexian Metamorph, Solar Array†, Solemn Simulacrum, Tezzeret's Gambit)
-5 CMC:  5  █████ (Alibou, Deepglow Skate, Fumigate, Goldspan Dragon, Tekuthal)
+2 CMC: 17  █████████████████ (Arcane Denial, Arcane Signet, Coretapper, Cryogen Relic, Enthusiastic Mechanaut, Etherium Sculptor, Expressive Iteration, Fellwar Stone, Lightning Greaves, Moxite Refinery, Pull from Tomorrow†, Reality Shift, Ripples of Potential, Steel Overseer, Swiftfoot Boots, Talisman of Creativity, Thrummingbird)
+3 CMC: 12  ████████████ (Chaos Warp, Fabricate, Generous Gift, Inspirit†, Kilo, Palladium Myr, Patrolling Peacemaker, Resourceful Defense, The Seriema, Surge Conductor, Thirst for Knowledge, Uthros Research Craft)
+4 CMC: 12  ████████████ (Archmage Emeritus, Chrome Host Seedshark, Crystalline Crawler, Empowered Autogenerator, Emry, Galazeth Prismari, Jhoira, Lux Artillery, Phyrexian Metamorph, Solar Array†, Solemn Simulacrum, Tezzeret's Gambit)
+5 CMC:  6  ██████ (Alibou, Deepglow Skate, Fumigate, Goldspan Dragon, Mm'menon†, Tekuthal)
 6 CMC:  2  ██ (Cyberdrive Awakener, Kappa Cannoneer)
 7+ CMC: 5  █████ (Blasphemous Act†, Dig Through Time†, Organic Extinction, Thought Monitor, Threefold Thunderhulk)
 ```
@@ -356,7 +360,7 @@ Blasphemous Act is the strongest board wipe available at its effective cost. In 
 
 ---
 
-*Deck generated 2026-05-29. Based on Counter Intelligence precon — improved for both 1v1 and multiplayer using the full card collection. Conflicts with Prismari Artistry precon for the full simultaneous-play scenario. Version: Draft | Status: Working version*
+*Deck generated 2026-05-29. Updated 2026-06-05. Based on Counter Intelligence precon — improved for both 1v1 and multiplayer using the full card collection. Conflicts with Prismari Artistry precon for the full simultaneous-play scenario. Version: Draft | Status: Working version*
 
 ---
 
@@ -373,7 +377,6 @@ Blasphemous Act is the strongest board wipe available at its effective cost. In 
 | Deepglow Skate | Creature | Counter Intelligence |
 | Emry, Lurker of the Loch | Legendary Creature | Counter Intelligence |
 | Enthusiastic Mechanaut | Artifact Creature | Counter Intelligence |
-| Etched Oracle | Artifact Creature | Counter Intelligence |
 | Etherium Sculptor | Artifact Creature | Counter Intelligence |
 | Hangarback Walker | Artifact Creature | Counter Intelligence |
 | Jhoira, Weatherlight Captain | Legendary Creature | Counter Intelligence |
@@ -393,9 +396,7 @@ Blasphemous Act is the strongest board wipe available at its effective cost. In 
 | Astral Cornucopia | Artifact | Counter Intelligence |
 | Empowered Autogenerator | Artifact | Counter Intelligence |
 | Everflowing Chalice | Artifact | Counter Intelligence |
-| Gavel of the Righteous | Artifact | Counter Intelligence |
 | Great Furnace | Artifact Land | Counter Intelligence |
-| Long-Range Sensor | Artifact | Counter Intelligence |
 | Lux Artillery | Artifact | Counter Intelligence |
 | Moxite Refinery | Artifact | Counter Intelligence |
 | Razortide Bridge | Artifact Land | Counter Intelligence |
@@ -455,7 +456,10 @@ Blasphemous Act is the strongest board wipe available at its effective cost. In 
 | Generous Gift | Instant | Sonic Chasing Adventure |
 | Fabricate | Sorcery | Sonic Chasing Adventure |
 | Swiftfoot Boots | Artifact | Sonic TurboGear precon |
+| Mm'menon, the Right Hand | Legendary Creature | — |
 | Palladium Myr | Artifact Creature | — |
+| Cryogen Relic | Artifact | — |
 | The Ozolith | Legendary Artifact | — |
+| The Seriema | Legendary Artifact | — |
 | Raugrin Triome | Land | — |
 | Seachrome Coast | Land | — |
