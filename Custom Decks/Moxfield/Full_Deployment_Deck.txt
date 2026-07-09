@@ -4,40 +4,39 @@
 1 Arcane Signet
 1 Archmage Emeritus
 1 Astral Cornucopia
+1 Banishing Light
 1 Blasphemous Act
 1 Chaos Warp
 1 Chrome Host Seedshark
 1 Cryogen Relic
-1 Coretapper
 1 Crystalline Crawler
 1 Cyberdrive Awakener
 1 Deepglow Skate
 1 Dig Through Time
 1 Dispatch
 1 Emry, Lurker of the Loch
-1 Empowered Autogenerator
 1 Enthusiastic Mechanaut
 1 Etherium Sculptor
 1 Everflowing Chalice
 1 Expressive Iteration
 1 Fabricate
 1 Fellwar Stone
+1 Frontline War-Rager
 1 Fumigate
 1 Galazeth Prismari
-1 Generous Gift
 1 Goldspan Dragon
 1 Hangarback Walker
 1 Jhoira, Weatherlight Captain
 1 Kappa Cannoneer
 1 Kilo, Apogee Mind
 1 Lightning Greaves
-1 Mm'menon, the Right Hand
 1 Lux Artillery
 1 Moxite Refinery
 1 Organic Extinction
 1 Palladium Myr
 1 Patrolling Peacemaker
 1 Phyrexian Metamorph
+1 Pileated Provisioner
 1 Pull from Tomorrow
 1 Reality Shift
 1 Resourceful Defense
@@ -45,6 +44,7 @@
 1 Sol Ring
 1 Solar Array
 1 Solemn Simulacrum
+1 Starport Security
 1 Steel Overseer
 1 Surge Conductor
 1 Swan Song

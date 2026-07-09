@@ -12,7 +12,7 @@
 
 ---
 
-### Creatures (27)
+### Creatures (28)
 
 - **Alibou, Ancient Witness** — 3RW. Whenever one or more artifact creatures you control attack, Alibou deals damage to target opponent or planeswalker equal to the number of tapped artifacts you control, then scry 1. In a developed board, every combat can drain 8–12 damage before combat damage resolves. A second win vector that requires no counter threshold.
 
@@ -20,15 +20,15 @@
 
 - **Chrome Host Seedshark** — 3U. Whenever you cast a noncreature spell, create an Incubator token (pay {2} to flip into a Phyrexian artifact creature with X +1/+1 counters, where X equals the number of counters on the Incubator). Every Jhoira trigger that draws is also Seedshark fodder. Token army scales with counter proliferation.
 
-- **Coretapper** — 1W. Tap to put a charge counter on target artifact; sacrifice it to put 3 charge counters on target artifact instead. Direct charge counter fuel for Inspirit or Lux Artillery. With Emry recurring it and Tekuthal doubling proliferates, Coretapper's tap-to-charge becomes tap-to-charge-twice-through-proliferate on the same turn.
-
 - **Crystalline Crawler** — 4 (Sunburst). Enters with a +1/+1 counter for each color of mana spent. Remove counters to add one mana of any color. Add counters for 1 mana each. Both a mana sink and a mana source, and its counters proliferate with everything in the deck. In a three-color deck, typically enters as a 3/3 that can produce 3 mana.
 
 - **Cyberdrive Awakener** — 4UU. All other artifact creatures you control gain flying until end of turn whenever Cyberdrive enters or attacks. At 6+, this is a one-card swing enabler. After Inspirit reaches 12 counters, artifact creatures already can attack as if they had flying — Cyberdrive makes that into actual flying (relevant for combat damage proliferation with Thrummingbird).
 
 - **Deepglow Skate** — 4U. When Deepglow Skate enters the battlefield, double the number of each kind of counter on each permanent you control. One card that can push Inspirit from 4 to 8 (indestructible → hexproof), hit Lux Artillery's 30-counter threshold in one shot, double every creature's +1/+1 counters, and double Astral Cornucopia's mana. The deck's best single-card surprise play.
 
-- **Emry, Lurker of the Loch** — {U}{U}{U} reduced by artifact count. Usually 1U. 1/2 that mills 4 when it enters, then can tap to cast an artifact card from your graveyard each turn. Recursion for discarded artifacts (Thirst for Knowledge dumps, Emry recurs), Coretapper (sacrifice repeatedly), The Ozolith (recurring counter insurance), and any artifact destroyed by removal.
+- **Emry, Lurker of the Loch** — {U}{U}{U} reduced by artifact count. Usually 1U. 1/2 that mills 4 when it enters, then can tap to cast an artifact card from your graveyard each turn. Recursion for discarded artifacts (Thirst for Knowledge dumps, Emry recurs), The Ozolith (recurring counter insurance), and any artifact destroyed by removal.
+
+- **Frontline War-Rager** — 2R. 2/3. At the beginning of your end step, if you control two or more tapped creatures, put a +1/+1 counter on this creature. Station taps creatures every turn (Kilo, plus whoever else you tap), so this grows almost automatically — and every counter it picks up is Steel Overseer/Surge Conductor/proliferate fuel.
 
 - **Enthusiastic Mechanaut** — 1R. Artifact spells cost {1} less to cast. Stacks with Etherium Sculptor. With both on the field, artifacts cost {2} less — most mana rocks become free, Thought Monitor becomes 1 mana, and every cast triggers Jhoira and Archmage Emeritus.
 
@@ -44,15 +44,17 @@
 
 - **Kilo, Apogee Mind** — 2U. 1/4. Whenever Kilo becomes tapped, proliferate. The most important creature in the deck. Tapping Kilo to Station puts charge counters onto Inspirit AND triggers Kilo's proliferate. With Tekuthal, each Station tap on Kilo is two proliferates. The Kilo + Tekuthal pair is the core engine.
 
-- **Mm'menon, the Right Hand** — 3UU. 3/4 Flying. You may always look at the top card of your library. You may cast artifact spells from the top of your library. Artifacts you control gain "{T}: Add {U}. Spend this mana only to cast a spell from anywhere other than your hand." With cost reducers active, tapping one idle artifact pays for an artifact on top of the library — Jhoira triggers on the cast, then the new top card may chain directly. Complements Galazeth Prismari without overlap: Galazeth converts artifact taps to mana for instants/sorceries from hand; Mm'menon converts artifact taps to mana for artifacts from the top of the library. Both in play, the artifact army splits across two separate mana pools simultaneously.
-
 - **Palladium Myr** — 3. Artifact Creature — Myr. Taps for {C}{C}. Fills the deck's 3 CMC ramp gap — the only reliable ramp between the 2-CMC rocks and the 4-CMC engines. When mana is not the bottleneck in the mid-to-late game, becomes a power-2 Station target. Synergises with everything in the artifact creature package: Steel Overseer counters, Cyberdrive Awakener flying, Organic Extinction protection.
 
 - **Patrolling Peacemaker** — 2W. Artifact Creature — Robot Soldier. Enters with two +1/+1 counters. Whenever an opponent commits a crime (targets any opponent, anything they control, or cards in their graveyard), proliferate. In a multiplayer pod, opponents cast removal, counterspells, and combat tricks every round — crimes are near-constant. Reliable passive proliferate attached to a counter-bearing Station target.
 
-- **Phyrexian Metamorph** — 3U (or {3}{P}). Copies any artifact or creature on the battlefield as an artifact. Clone any Tekuthal for double-double proliferate. Clone any Archmage Emeritus for additional draw. Clone an opponent's commander. Crucially, the copy enters as an artifact, which means Jhoira draws a card when Metamorph is cast.
+- **Pileated Provisioner** — 4W. 3/4 Flying. When it enters, put a +1/+1 counter on target creature you control without flying. An evasive body that immediately feeds the counter package — a fresh target for Moxite Refinery, The Ozolith, or Steel Overseer's next tap.
+
+- **Phyrexian Metamorph** — 3U (or {3}{P}). Copies any artifact or creature on the battlefield as an artifact. Clone Archmage Emeritus for a second draw engine — it isn't legendary, so no legend-rule conflict — or Chrome Host Seedshark to double Incubator generation. Clone an opponent's commander or best threat rather than your own Tekuthal or Jhoira: both are legendary, so copying one you already control triggers the legend rule and forces an immediate sacrifice of the new copy, netting nothing. Avoid copying Hangarback Walker or Threefold Thunderhulk for their counter payoffs — counters aren't a copiable value, so the copy enters with none. Crucially, the copy enters as an artifact, which means Jhoira draws a card when Metamorph is cast.
 
 - **Solemn Simulacrum** — 4. 2/2 Artifact Robot. When it enters, search for a basic land and put it into play tapped. When it dies, draw a card. Ramp and draw in a single card, both effects being artifacts means Jhoira triggers. Goes into the graveyard naturally for Emry to recur. Every role the deck needs crammed into a 4-CMC artifact creature.
+
+- **Starport Security** — W. 1/1 Artifact Creature — Robot Soldier. {3}{W}, {T}: Tap another target creature. Costs {2} less if you control a creature with a +1/+1 counter on it — which this deck usually does, making it a pseudo-Icy Manipulator for as little as {W}. Also an artifact for Jhoira.
 
 - **Steel Overseer** — 2. 1/1. Tap to put a +1/+1 counter on each artifact creature you control. With Tekuthal, each tap gives 2 counters to each artifact creature. With Surge Conductor, each proliferate gives the counter-bearing creatures +2/+0. Steel Overseer + Tekuthal is an exponential clock that turns a Thopter army into a lethal air force in two turns.
 
@@ -70,23 +72,21 @@
 
 ---
 
-### Artifacts & Mana (16)
+### Artifacts & Mana (15)
 
 - **Arcane Signet** — 2. Taps for any color in commander's color identity. Auto-include; every Commander deck's best generic rock.
 
 - **Astral Cornucopia** — XXX (Sunburst). Enters with X charge counters for each color of mana spent. Taps for one mana of any color in its counters. Proliferates into a floating mana engine. At 3 counters per color, taps for any color — and Tekuthal growing it turns it into the deck's best mana rock over time.
 
-- **Empowered Autogenerator** — 4. Tap to add {C} for each charge counter, then put a charge counter on it. Starts slow but accelerates — by turn 8 with proliferate, this can tap for 8+ colorless mana. Its counters proliferate alongside Inspirit's charge counters, so it grows automatically.
+- **Fellwar Stone** — 2. Taps for any color an opponent's land produces. In a multi-opponent game, nearly always produces any of the three colors needed. Strictly better than Arcane Signet in multiplayer because it doesn't require commander colours to be declared.
 
 - **Everflowing Chalice** — 0 (Multikicker {2}). Enters with one charge counter per {2} spent. Free at 0 counters for a Jhoira trigger, useful at 2+ counters as mana. Proliferates up passively. Can put it at 2+ counters for actual ramp.
-
-- **Fellwar Stone** — 2. Taps for any color an opponent's land produces. In a multi-opponent game, nearly always produces any of the three colors needed. Strictly better than Arcane Signet in multiplayer because it doesn't require commander colours to be declared.
 
 - **Cryogen Relic** — 1U. Artifact. When this artifact enters or leaves the battlefield, draw a card. {1}{U}, Sacrifice: Put a stun counter on up to one target tapped creature. A 2-mana artifact that draws on entry (plus Jhoira triggers on cast) and draws again when it leaves. With Emry recurring it from the graveyard each turn, Cryogen Relic draws twice per loop: cast from graveyard → Jhoira trigger + ETB draw; sacrifice for stun counter → exit draw. The stun counter utility locks a tapped creature out of untapping for a turn — useful for keeping a key blocker or tap-ability creature tapped down.
 
 - **Lightning Greaves** — 2. Equipment, equip {0}. Equipped creature gains haste and shroud. Equip costs nothing. Attach to Inspirit the turn it lands: immediate haste to Station in the same turn plus shroud (cannot be targeted at all). The best piece of protection in the deck. Pairs with Swiftfoot Boots — one protects from targeting, the other from targeting AND gives haste.
 
-- **Lux Artillery** — 4. At the beginning of your end step, if the total number of counters on permanents you control is 30 or more, Lux Artillery deals 10 damage to each opponent. In a four-player pod, that's 30 damage. Charge counters on Inspirit, Empowered Autogenerator, Astral Cornucopia, +1/+1 counters on creatures, The Ozolith's stored counters — all count. With Tekuthal doubling proliferates, reaching 30 by turn 8 is realistic. Backed up by Deepglow Skate doubling all counters in a single turn as a surprise finisher.
+- **Lux Artillery** — 4. At the beginning of your end step, if the total number of counters on permanents you control is 30 or more, Lux Artillery deals 10 damage to each opponent. In a four-player pod, that's 30 damage. Charge counters on Inspirit, Astral Cornucopia, +1/+1 counters on creatures, The Ozolith's stored counters — all count. With Tekuthal doubling proliferates, reaching 30 by turn 8 is realistic. Backed up by Deepglow Skate doubling all counters in a single turn as a surprise finisher.
 
 - **Moxite Refinery** — 2. Artifact. Tap to move any counter from one permanent you control to another permanent you control. Transfers charge counters from Astral Cornucopia or Everflowing Chalice directly onto Inspirit or Lux Artillery to push past a threshold. Also moves +1/+1 counters between creatures to protect your best threats.
 
@@ -106,7 +106,7 @@
 
 ---
 
-### Instants (11)
+### Instants (10)
 
 - **Arcane Denial** — 1U. Counter any spell. Its controller draws two cards on their next upkeep; you draw a card now. A strict upgrade over Negate — it counters creature spells too, and the draw-a-card rider combines with Archmage Emeritus (cast a spell → draw from Archmage, plus the Arcane Denial draw later). In competitive terms, the opponent drawing two is a minor cost for a universal counterspell at 2 mana.
 
@@ -116,9 +116,7 @@
 
 - **Dispatch** — W. Tap target creature. If you control three or more artifacts (Metalcraft), exile it instead. Free instant-speed exile of any creature. With 16 artifacts in the deck, Metalcraft is active essentially all game. Dispatch trades one white mana for an exile effect that normally costs 3–4 mana.
 
-- **Generous Gift** — 2W. Destroy target permanent. Its controller creates a 3/3 green Elephant token. Universal permanent destruction at 3 CMC at instant speed. The only clean answer to enchantments and opposing combo pieces in Jeskai. The Elephant given away is a minor political chip in multiplayer — hand it to whoever needs a blocker most.
-
-- **Pull from Tomorrow** — XU. Draw X cards, discard one. In the late game with Talisman + Fellwar Stone + Sol Ring + Empowered Autogenerator online, X can reach 8–10. Draws your entire hand back. With Archmage Emeritus online, casting Pull draws one additional card from Archmage's trigger. With Galazeth's artifact mana, reaching X=8–10 is realistic mid-game. A game-ending refill.
+- **Pull from Tomorrow** — XU. Draw X cards, discard one. In the late game with Talisman + Fellwar Stone + Sol Ring online, X can reach 8–10. Draws your entire hand back. With Archmage Emeritus online, casting Pull draws one additional card from Archmage's trigger. With Galazeth's artifact mana, reaching X=8–10 is realistic mid-game. A game-ending refill.
 
 - **Reality Shift** — 1U. Exile target creature. That creature's controller manifests the top card of their library (2/2 face-down creature; if it's a creature, it can be flipped face-up for its mana cost). Blue exile removal. Answers regenerating creatures, indestructible creatures, and anything you need permanently gone rather than destroyed. The manifest 2/2 replacement is far less threatening than the original.
 
@@ -148,7 +146,9 @@
 
 ---
 
-### Enchantments (1)
+### Enchantments (2)
+
+- **Banishing Light** — 2W. When it enters, exile target nonland permanent an opponent controls until Banishing Light leaves the battlefield. Clean, repeatable-if-recurred exile for any permanent type — creature, artifact, enchantment, or planeswalker. Fills a gap the rest of the removal suite leaves: nothing else in the deck is a 3-mana catch-all.
 
 - **Resourceful Defense** — 2W. Whenever a permanent you control leaves the battlefield, if it had counters on it, put those counters on another permanent you control. {4}{W}: Move any number of counters from one permanent you control to another. Counter insurance and counter manipulation. In multiplayer with removal coming from multiple directions every round, this and The Ozolith together ensure no counter investment is ever fully lost. The activated ability also lets you redistribute counters strategically — drain Astral Cornucopia's mana counters onto Lux Artillery to hit the threshold faster.
 
@@ -207,7 +207,7 @@
 
 - **Galazeth Prismari + Artifact Army:** With Galazeth in play, every untapped artifact gains "[Tap]: Add one mana of any color for instants/sorceries." After Stationing with some artifacts and leaving others idle, those idle artifacts become a second mana pool earmarked for the hand full of removal and draw. A board with 8 untapped artifacts after Station resolves produces 8 mana — enough to cast Dig Through Time, Organic Extinction, or Pull from Tomorrow at X=7 without touching your land mana. Galazeth's entry Treasure also triggers Jhoira.
 
-- **Kilo + Tekuthal + Station:** Tap Kilo to Station on Inspirit: Kilo's triggered ability fires (proliferate) → Tekuthal doubles it to two proliferates. Tap Uthros Research Craft → load counter on any artifact + draw a card. Tap Solar Array → load counter on any artifact. Each turn, three Station taps are available (Kilo, Uthros, Solar Array), and each tap of Kilo produces two proliferates. A turn-5 clock with all pieces on field: Inspirit charges by 3 per Station tap, proliferates spread across Lux Artillery, Astral Cornucopia, creature counters, Empowered Autogenerator.
+- **Kilo + Tekuthal + Station:** Tap Kilo to Station on Inspirit: Kilo's triggered ability fires (proliferate) → Tekuthal doubles it to two proliferates. Tap Uthros Research Craft → load counter on any artifact + draw a card. Tap Solar Array → load counter on any artifact. Each turn, three Station taps are available (Kilo, Uthros, Solar Array), and each tap of Kilo produces two proliferates — and since Station taps 2+ creatures most turns, Frontline War-Rager is quietly growing a counter every end step alongside it. A turn-5 clock with all pieces on field: Inspirit charges by 3 per Station tap, proliferates spread across Lux Artillery, Astral Cornucopia, and creature counters.
 
 - **Blasphemous Act at 1–2 mana:** In a pod with 12+ creatures (not uncommon by turn 5–6), Blasphemous Act costs {R}. Cast it after everyone else has developed their boards — the cost reduction makes it a conditional free board wipe. This is the reason Blasphemous Act is more powerful than Chain Reaction in multiplayer: Chain Reaction's damage scales with creature count (12 creatures = 12 damage each, kills most things) but Blasphemous Act deals a fixed 13 regardless, kills things Chain Reaction can't, and frequently costs 1 mana.
 
@@ -215,7 +215,6 @@
 
 - **The Seriema + Legendary Engine:** The Seriema enters and immediately tutors the most critical missing piece — Jhoira if draw is needed, Tekuthal if proliferate is not yet doubled, Kilo if Station is not yet online. Once The Seriema accumulates 7+ charge counters (via Station and proliferate), every Station tap on Kilo also grants Kilo indestructible during that phase, protecting the proliferate engine from the removal window opponents most commonly exploit.
 
-- **Mm'menon + Jhoira + Artifact Army:** With Mm'menon in play, idle artifacts tap for {U} earmarked for casting spells from non-hand sources. With cost reducers active, a single artifact tap covers the cost of an artifact on top of the library. Jhoira triggers on each top-of-library cast. The chain extends as long as artifacts remain on top. Mm'menon's mana and Galazeth's mana are separate pools from the same artifact taps — splitting the army across both Galazeth (instant/sorcery mana from hand) and Mm'menon (artifact-from-top mana) is the late-game correct line.
 
 - **Goldspan Dragon + Artifact Engine:** Goldspan creates a Treasure whenever it attacks or is targeted. Treasures are artifacts — Jhoira draws a card when you cast the spell that targets Goldspan (or when it ETBs from Wake the Past if reinstated). Treasures also tap for double mana with Goldspan in play. A developing board with Goldspan, Jhoira, and 2 Treasures can generate 4 free mana from Treasure + 2 card draws each turn before spells are cast.
 
@@ -228,7 +227,6 @@
 | Token | P/T | Color | Type | Abilities | Created By |
 |---|---|---|---|---|---|
 | Bird | 2/2 | Blue | Creature — Bird | Flying | Swan Song |
-| Elephant | 3/3 | Green | Creature — Elephant | — | Generous Gift |
 | Gnome | 1/1 | Colorless | Artifact Creature — Gnome | — | Threefold Thunderhulk |
 | Incubator | — | Colorless | Artifact — Incubator | {2}: Transform into 0/0 Phyrexian artifact creature | Chrome Host Seedshark |
 | Phyrexian | 0/0+counters | Colorless | Artifact Creature — Phyrexian | — | Chrome Host Seedshark (transformed) |
@@ -241,11 +239,11 @@
 
 ```
 0 CMC:  3  ███ (Astral Cornucopia, Everflowing Chalice, Hangarback Walker)
-1 CMC:  5  █████ (Dispatch, Sol Ring, Swan Song, Swords to Plowshares, The Ozolith)
-2 CMC: 17  █████████████████ (Arcane Denial, Arcane Signet, Coretapper, Cryogen Relic, Enthusiastic Mechanaut, Etherium Sculptor, Expressive Iteration, Fellwar Stone, Lightning Greaves, Moxite Refinery, Pull from Tomorrow†, Reality Shift, Ripples of Potential, Steel Overseer, Swiftfoot Boots, Talisman of Creativity, Thrummingbird)
-3 CMC: 12  ████████████ (Chaos Warp, Fabricate, Generous Gift, Inspirit†, Kilo, Palladium Myr, Patrolling Peacemaker, Resourceful Defense, The Seriema, Surge Conductor, Thirst for Knowledge, Uthros Research Craft)
-4 CMC: 12  ████████████ (Archmage Emeritus, Chrome Host Seedshark, Crystalline Crawler, Empowered Autogenerator, Emry, Galazeth Prismari, Jhoira, Lux Artillery, Phyrexian Metamorph, Solar Array†, Solemn Simulacrum, Tezzeret's Gambit)
-5 CMC:  6  ██████ (Alibou, Deepglow Skate, Fumigate, Goldspan Dragon, Mm'menon†, Tekuthal)
+1 CMC:  6  ██████ (Dispatch, Sol Ring, Starport Security, Swan Song, Swords to Plowshares, The Ozolith)
+2 CMC: 16  ████████████████ (Arcane Denial, Arcane Signet, Cryogen Relic, Enthusiastic Mechanaut, Etherium Sculptor, Expressive Iteration, Fellwar Stone, Lightning Greaves, Moxite Refinery, Pull from Tomorrow†, Reality Shift, Ripples of Potential, Steel Overseer, Swiftfoot Boots, Talisman of Creativity, Thrummingbird)
+3 CMC: 13  █████████████ (Banishing Light, Chaos Warp, Fabricate, Frontline War-Rager, Inspirit†, Kilo, Palladium Myr, Patrolling Peacemaker, Resourceful Defense, The Seriema, Surge Conductor, Thirst for Knowledge, Uthros Research Craft)
+4 CMC: 11  ███████████ (Archmage Emeritus, Chrome Host Seedshark, Crystalline Crawler, Emry, Galazeth Prismari, Jhoira, Lux Artillery, Phyrexian Metamorph, Solar Array†, Solemn Simulacrum, Tezzeret's Gambit)
+5 CMC:  6  ██████ (Alibou, Deepglow Skate, Fumigate, Goldspan Dragon, Pileated Provisioner, Tekuthal)
 6 CMC:  2  ██ (Cyberdrive Awakener, Kappa Cannoneer)
 7+ CMC: 5  █████ (Blasphemous Act†, Dig Through Time†, Organic Extinction, Thought Monitor, Threefold Thunderhulk)
 ```
@@ -354,13 +352,13 @@ The mana base is faster. Two additional T2 mana rocks mean Turn 3 Jhoira or Turn
 
 Blasphemous Act is the strongest board wipe available at its effective cost. In a pod with 12 creatures, it costs {R}, kills everything, and is held as an in-hand threat. Chain Reaction at {4} is harder to hold and sometimes fails to kill high-toughness creatures.
 
-**However, Counter Productive has a meaningful advantage: it does not conflict with any other deck.** All cards in Counter Productive are from either the Counter Intelligence precon or free copies outside any precon. Full Deployment raids the Prismari Artistry precon (Lightning Greaves, Archmage Emeritus, Solemn Simulacrum, Galazeth Prismari, Goldspan Dragon, Blasphemous Act, Arcane Denial, Dig Through Time, Fabled Passage, Reliquary Tower, Talisman of Creativity, Fellwar Stone, Reality Shift, Temple of the False God, Expressive Iteration) and several Sonic Secret Lair cards (Fabricate, Generous Gift from Chasing Adventure; Swiftfoot Boots from TurboGear). If you want to play Rootha Artistry at the same table, you cannot simultaneously play Full Deployment in its current configuration.
+**However, Counter Productive has a meaningful advantage: it does not conflict with any other deck.** All cards in Counter Productive are from either the Counter Intelligence precon or free copies outside any precon. Full Deployment raids the Prismari Artistry precon (Lightning Greaves, Archmage Emeritus, Solemn Simulacrum, Galazeth Prismari, Goldspan Dragon, Blasphemous Act, Arcane Denial, Dig Through Time, Fabled Passage, Reliquary Tower, Talisman of Creativity, Fellwar Stone, Reality Shift, Temple of the False God, Expressive Iteration) and several Sonic Secret Lair cards (Fabricate from Chasing Adventure; Swiftfoot Boots from TurboGear). If you want to play Rootha Artistry at the same table, you cannot simultaneously play Full Deployment in its current configuration.
 
 **Verdict:** Full Deployment is the competitive build. Counter Productive is the practical build. If the goal is winning — Full Deployment, by a significant margin. If the goal is playing alongside all other decks in the collection simultaneously — Counter Productive is still a genuinely strong Commander deck and outperforms the base Counter Intelligence precon substantially.
 
 ---
 
-*Deck generated 2026-05-29. Updated 2026-06-05. Based on Counter Intelligence precon — improved for both 1v1 and multiplayer using the full card collection. Conflicts with Prismari Artistry precon for the full simultaneous-play scenario. Version: Draft | Status: Working version*
+*Deck generated 2026-05-29. Updated 2026-06-05, 2026-07-09. Based on Counter Intelligence precon — improved for both 1v1 and multiplayer using the full card collection. Conflicts with Prismari Artistry precon for the full simultaneous-play scenario. Version: Draft | Status: Working version*
 
 ---
 
@@ -371,7 +369,6 @@ Blasphemous Act is the strongest board wipe available at its effective cost. In 
 | Inspirit, Flagship Vessel | Commander | Counter Intelligence |
 | Alibou, Ancient Witness | Legendary Artifact Creature | Counter Intelligence |
 | Chrome Host Seedshark | Creature | Counter Intelligence |
-| Coretapper | Artifact Creature | Counter Intelligence |
 | Crystalline Crawler | Artifact Creature | Counter Intelligence |
 | Cyberdrive Awakener | Artifact Creature | Counter Intelligence |
 | Deepglow Skate | Creature | Counter Intelligence |
@@ -394,7 +391,6 @@ Blasphemous Act is the strongest board wipe available at its effective cost. In 
 | Ancient Den | Artifact Land | Counter Intelligence |
 | Arcane Signet | Artifact | Counter Intelligence |
 | Astral Cornucopia | Artifact | Counter Intelligence |
-| Empowered Autogenerator | Artifact | Counter Intelligence |
 | Everflowing Chalice | Artifact | Counter Intelligence |
 | Great Furnace | Artifact Land | Counter Intelligence |
 | Lux Artillery | Artifact | Counter Intelligence |
@@ -453,11 +449,13 @@ Blasphemous Act is the strongest board wipe available at its effective cost. In 
 | Reliquary Tower | Land | **Prismari Artistry** |
 | Scorched Geyser | Land | **Prismari Artistry** |
 | Temple of the False God | Land | **Prismari Artistry** |
-| Generous Gift | Instant | Sonic Chasing Adventure |
 | Fabricate | Sorcery | Sonic Chasing Adventure |
 | Swiftfoot Boots | Artifact | Sonic TurboGear precon |
-| Mm'menon, the Right Hand | Legendary Creature | — |
+| Frontline War-Rager | Creature | — |
 | Palladium Myr | Artifact Creature | — |
+| Pileated Provisioner | Creature | — |
+| Starport Security | Artifact Creature | — |
+| Banishing Light | Enchantment | — |
 | Cryogen Relic | Artifact | — |
 | The Ozolith | Legendary Artifact | — |
 | The Seriema | Legendary Artifact | — |
