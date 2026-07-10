@@ -36,11 +36,11 @@
 1 Palladium Myr
 1 Patrolling Peacemaker
 1 Phyrexian Metamorph
-1 Pileated Provisioner
 1 Pull from Tomorrow
 1 Reality Shift
 1 Resourceful Defense
 1 Ripples of Potential
+1 Sami, Ship's Engineer
 1 Sol Ring
 1 Solar Array
 1 Solemn Simulacrum

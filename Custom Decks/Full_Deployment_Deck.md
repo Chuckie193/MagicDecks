@@ -48,7 +48,7 @@
 
 - **Patrolling Peacemaker** — 2W. Artifact Creature — Robot Soldier. Enters with two +1/+1 counters. Whenever an opponent commits a crime (targets any opponent, anything they control, or cards in their graveyard), proliferate. In a multiplayer pod, opponents cast removal, counterspells, and combat tricks every round — crimes are near-constant. Reliable passive proliferate attached to a counter-bearing Station target.
 
-- **Pileated Provisioner** — 4W. 3/4 Flying. When it enters, put a +1/+1 counter on target creature you control without flying. An evasive body that immediately feeds the counter package — a fresh target for Moxite Refinery, The Ozolith, or Steel Overseer's next tap.
+- **Sami, Ship's Engineer** — 2RW. 2/4 Legendary Creature — Human Artificer. At the beginning of your end step, if you control two or more tapped creatures, create a tapped 2/2 colorless Robot artifact creature token. Station taps 2+ creatures most turns already, so this rides the deck's core mechanic for a free body every turn — each token is fresh Steel Overseer/Cyberdrive Awakener/Alibou fuel, and another artifact for Metalcraft.
 
 - **Phyrexian Metamorph** — 3U (or {3}{P}). Copies any artifact or creature on the battlefield as an artifact. Clone Archmage Emeritus for a second draw engine — it isn't legendary, so no legend-rule conflict — or Chrome Host Seedshark to double Incubator generation. Clone an opponent's commander or best threat rather than your own Tekuthal or Jhoira: both are legendary, so copying one you already control triggers the legend rule and forces an immediate sacrifice of the new copy, netting nothing. Avoid copying Hangarback Walker or Threefold Thunderhulk for their counter payoffs — counters aren't a copiable value, so the copy enters with none. Crucially, the copy enters as an artifact, which means Jhoira draws a card when Metamorph is cast.
 
@@ -207,7 +207,7 @@
 
 - **Galazeth Prismari + Artifact Army:** With Galazeth in play, every untapped artifact gains "[Tap]: Add one mana of any color for instants/sorceries." After Stationing with some artifacts and leaving others idle, those idle artifacts become a second mana pool earmarked for the hand full of removal and draw. A board with 8 untapped artifacts after Station resolves produces 8 mana — enough to cast Dig Through Time, Organic Extinction, or Pull from Tomorrow at X=7 without touching your land mana. Galazeth's entry Treasure also triggers Jhoira.
 
-- **Kilo + Tekuthal + Station:** Tap Kilo to Station on Inspirit: Kilo's triggered ability fires (proliferate) → Tekuthal doubles it to two proliferates. Tap Uthros Research Craft → load counter on any artifact + draw a card. Tap Solar Array → load counter on any artifact. Each turn, three Station taps are available (Kilo, Uthros, Solar Array), and each tap of Kilo produces two proliferates — and since Station taps 2+ creatures most turns, Frontline War-Rager is quietly growing a counter every end step alongside it. A turn-5 clock with all pieces on field: Inspirit charges by 3 per Station tap, proliferates spread across Lux Artillery, Astral Cornucopia, and creature counters.
+- **Kilo + Tekuthal + Station:** Tap Kilo to Station on Inspirit: Kilo's triggered ability fires (proliferate) → Tekuthal doubles it to two proliferates. Tap Uthros Research Craft → load counter on any artifact + draw a card. Tap Solar Array → load counter on any artifact. Each turn, three Station taps are available (Kilo, Uthros, Solar Array), and each tap of Kilo produces two proliferates — and since Station taps 2+ creatures most turns, Frontline War-Rager is quietly growing a counter every end step while Sami is quietly making a free 2/2 Robot on the same trigger condition. A turn-5 clock with all pieces on field: Inspirit charges by 3 per Station tap, proliferates spread across Lux Artillery, Astral Cornucopia, and creature counters.
 
 - **Blasphemous Act at 1–2 mana:** In a pod with 12+ creatures (not uncommon by turn 5–6), Blasphemous Act costs {R}. Cast it after everyone else has developed their boards — the cost reduction makes it a conditional free board wipe. This is the reason Blasphemous Act is more powerful than Chain Reaction in multiplayer: Chain Reaction's damage scales with creature count (12 creatures = 12 damage each, kills most things) but Blasphemous Act deals a fixed 13 regardless, kills things Chain Reaction can't, and frequently costs 1 mana.
 
@@ -242,8 +242,8 @@
 1 CMC:  6  ██████ (Dispatch, Sol Ring, Starport Security, Swan Song, Swords to Plowshares, The Ozolith)
 2 CMC: 16  ████████████████ (Arcane Denial, Arcane Signet, Cryogen Relic, Enthusiastic Mechanaut, Etherium Sculptor, Expressive Iteration, Fellwar Stone, Lightning Greaves, Moxite Refinery, Pull from Tomorrow†, Reality Shift, Ripples of Potential, Steel Overseer, Swiftfoot Boots, Talisman of Creativity, Thrummingbird)
 3 CMC: 13  █████████████ (Banishing Light, Chaos Warp, Fabricate, Frontline War-Rager, Inspirit†, Kilo, Palladium Myr, Patrolling Peacemaker, Resourceful Defense, The Seriema, Surge Conductor, Thirst for Knowledge, Uthros Research Craft)
-4 CMC: 11  ███████████ (Archmage Emeritus, Chrome Host Seedshark, Crystalline Crawler, Emry, Galazeth Prismari, Jhoira, Lux Artillery, Phyrexian Metamorph, Solar Array†, Solemn Simulacrum, Tezzeret's Gambit)
-5 CMC:  6  ██████ (Alibou, Deepglow Skate, Fumigate, Goldspan Dragon, Pileated Provisioner, Tekuthal)
+4 CMC: 12  ████████████ (Archmage Emeritus, Chrome Host Seedshark, Crystalline Crawler, Emry, Galazeth Prismari, Jhoira, Lux Artillery, Phyrexian Metamorph, Sami, Ship's Engineer, Solar Array†, Solemn Simulacrum, Tezzeret's Gambit)
+5 CMC:  5  █████ (Alibou, Deepglow Skate, Fumigate, Goldspan Dragon, Tekuthal)
 6 CMC:  2  ██ (Cyberdrive Awakener, Kappa Cannoneer)
 7+ CMC: 5  █████ (Blasphemous Act†, Dig Through Time†, Organic Extinction, Thought Monitor, Threefold Thunderhulk)
 ```
@@ -453,7 +453,7 @@ Blasphemous Act is the strongest board wipe available at its effective cost. In 
 | Swiftfoot Boots | Artifact | Sonic TurboGear precon |
 | Frontline War-Rager | Creature | — |
 | Palladium Myr | Artifact Creature | — |
-| Pileated Provisioner | Creature | — |
+| Sami, Ship's Engineer | Legendary Creature | — |
 | Starport Security | Artifact Creature | — |
 | Banishing Light | Enchantment | — |
 | Cryogen Relic | Artifact | — |
