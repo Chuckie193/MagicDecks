@@ -1,4 +1,4 @@
-# Byrke, Long Ear of the Law — Selesnya +1/+1 Counters Commander
+# Jacked Rabbits — Selesnya +1/+1 Counters Commander
 
 Commander: Byrke, Long Ear of the Law (4GW, Green/White)
 
