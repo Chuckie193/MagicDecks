@@ -1,4 +1,4 @@
-# Byrke, Long Ear of the Law — Selesnya +1/+1 Counters Commander
+# Jacked Rabbits — Selesnya +1/+1 Counters Commander
 
 Commander: Byrke, Long Ear of the Law (4GW, Green/White)
 
@@ -10,7 +10,7 @@ Commander: Byrke, Long Ear of the Law (4GW, Green/White)
 
 ## Lore
 
-Byrke doesn't just enforce the law — she doubles it. Every ally enters loaded; every swing multiplies the verdict. In her one-on-one courtroom, crimes *accumulate*, and the sentence is always *lethal*.
+Byrke doesn't just enforce the law — he doubles it. Every ally that joins his patrol enters loaded; every charge down the byways of Fountainport multiplies the reckoning. On his beat, crimes *accumulate*, and the sentence is always *lethal*.
 
 ---
 
