@@ -687,6 +687,96 @@
 | Zookeeper Mechan | https://api.scryfall.com/cards/8d5cd0be-4337-4aba-a4f6-5adab7735a73 | https://scryfall.com/card/eoe/170/zookeeper-mechan?utm_source=api | 1 generic, Red | Artifact Creature — Robot | [Tap]: Add [Red]. [6][Red]: Target creature you control gets +4/+0 until end of turn. Activate only as a sorcery. | 1 | 3 | Red | Red |  | https://api.scryfall.com/cards/named?fuzzy=Zookeeper%20Mechan (OK 200) |
 | Zopandrel, Hunger Dominus | https://api.scryfall.com/cards/fb419d9d-e06f-48c8-a4f8-a57f9be39e50 | https://scryfall.com/card/one/195/zopandrel-hunger-dominus?utm_source=api | 5 generic, Green, Green | Legendary Creature — Phyrexian Horror | Reach At the beginning of each combat, double the power and toughness of each creature you control until end of turn. [Green/Phyrexian][Green/Phyrexian], Sacrifice two other creatures: Put an indestructible counter on Zopandrel. ([Green/Phyrexian] can be paid with either [Green] or 2 life.) | 4 | 6 | Green | Green |  | https://api.scryfall.com/cards/named?fuzzy=Zopandrel%2C%20Hunger%20Dominus (OK 200) |
 | Zulaport Cutthroat | https://api.scryfall.com/cards/c43609fb-3cee-44e0-98d0-3ecaba1d5767 | https://scryfall.com/card/soc/233/zulaport-cutthroat?utm_source=api | 1 generic, Black | Creature — Human Rogue Ally | Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life. | 1 | 1 | Black | Black |  | https://api.scryfall.com/cards/named?fuzzy=Zulaport%20Cutthroat (OK 200) |
+
+# Not found or errors
+
+- Anchovy & Banana Pizza
+- April O'Neil, Kunoichi Trainee
+- April, Reporter of the Weird
+- Ashe, Princess of Dalmasca
+- Bebop, Warthog Warrior
+- Brilliance Unleashed
+- Crustacean Commando
+- Death in the Family
+- Dimension X
+- Don & Raph, Hard Science
+- Donatello, Turtle Techie
+- EPF Point Squad
+- East Wind Avatar
+- Everything Pizza
+- Foot Elite
+- Foot Headquarters
+- Foot Mystic
+- Foot Ninjas
+- Fugitive Droid
+- General Traag, Heart of Stone
+- Go Ninja Go
+- Grounded for Life
+- Guac & Marshmallow Pizza
+- Hamato Guardian Stance
+- High-Flying Ace
+- Ice Cream Kitty
+- Illegitimate Business
+- Insectoid Exterminator
+- Jennika, Bad Apple Big Sister
+- Karai, Future of the Foot
+- Koya, Death from Above
+- Leader's Talent
+- Leonardo's Technique
+- Leonardo, Leader in Blue
+- Lessons from Life
+- Lord Dregg, Insect Invader
+- Madame Null, Power Broker
+- Make Your Move
+- Manhole Missile
+- Mechanized Ninja Cavalry
+- Metalhead
+- Michelangelo, Game Master
+- Mind Transfer Protocol
+- Mouser Foundry
+- Mouser Mark III
+- Mutant Chain Reaction
+- New Generation's Technique
+- Nobody
+- Null Group Biological Assets
+- Omni-Cheese Pizza
+- Ooze Spill
+- Oroku Saki, Shredder Rising
+- Primordial Pachyderm
+- Punk Frogs
+- Quintessential Katana
+- Ragamuffin Raptor
+- Raphael, Tough Turtle
+- Rat King, Verminister
+- Retro-Mutation
+- Return to the Sewers
+- Rocksteady, Crash Courser
+- Sally Pride, Lioness Leader
+- Sewer-veillance Cam
+- Shredder's Revenge
+- Shredder, Unrelenting
+- Skateboard
+- Slithering Cryptid
+- Spicy Oatmeal Pizza
+- Splinter's Technique
+- Splinter, Hamato Yoshi
+- Stockman, Mad Fly-entist
+- Stomped by the Foot
+- TCRI Building
+- Technodrome
+- Tenderize
+- The Last Ronin
+- The Last Ronin's Technique
+- Tunnel Rats
+- Turtle Blimp
+- Turtle Lair
+- Turtle Van
+- Uneasy Alliance
+- Utrom Scientists
+- West Wind Avatar
+- Zog, Triceraton Castaway
+- Zoo Escapees
+
 ## Abrade
 
 - uri: https://api.scryfall.com/cards/1add1757-c1f8-448a-b279-c6940fb7ad5f
@@ -1075,6 +1165,19 @@ Whenever one or more creatures you control attack, you gain 1 life for each atta
 
 - https://api.scryfall.com/cards/named?fuzzy=Ancestor%20Dragon -> success (HTTP 200)
 
+## Anchovy & Banana Pizza
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Anchovy%20%26%20Banana%20Pizza
+- https://api.scryfall.com/cards/named?fuzzy=Anchovy%20%26%20Banana%20Pizza
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Anchovy%20%26%20Banana%20Pizza -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Ancient Den
 
 - uri: https://api.scryfall.com/cards/d9a7b0f6-97f9-4937-865c-e25c142c3ed7
@@ -1175,6 +1278,32 @@ Corrupted — As long as an opponent has three or more poison counters, this cre
 
 - https://api.scryfall.com/cards/named?fuzzy=Apostle%20of%20Invasion -> success (HTTP 200)
 
+## April O'Neil, Kunoichi Trainee
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=April%20O%27Neil%2C%20Kunoichi%20Trainee
+- https://api.scryfall.com/cards/named?fuzzy=April%20O%27Neil%2C%20Kunoichi%20Trainee
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=April%20O%27Neil%2C%20Kunoichi%20Trainee -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## April, Reporter of the Weird
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=April%2C%20Reporter%20of%20the%20Weird
+- https://api.scryfall.com/cards/named?fuzzy=April%2C%20Reporter%20of%20the%20Weird
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=April%2C%20Reporter%20of%20the%20Weird -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Arasta of the Endless Web
 
 - uri: https://api.scryfall.com/cards/95a87b4e-f0ea-457c-9517-4acf313c4ca6
@@ -1274,6 +1403,19 @@ Draw three cards.
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Archmage%20Emeritus -> success (HTTP 200)
+
+## Ashe, Princess of Dalmasca
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Ashe%2C%20Princess%20of%20Dalmasca
+- https://api.scryfall.com/cards/named?fuzzy=Ashe%2C%20Princess%20of%20Dalmasca
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Ashe%2C%20Princess%20of%20Dalmasca -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Astral Cornucopia
 
@@ -1582,6 +1724,19 @@ As long as this enchantment has seven or more quest counters on it, creatures yo
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Beastmaster%20Ascension -> success (HTTP 200)
+
+## Bebop, Warthog Warrior
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Bebop%2C%20Warthog%20Warrior
+- https://api.scryfall.com/cards/named?fuzzy=Bebop%2C%20Warthog%20Warrior
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Bebop%2C%20Warthog%20Warrior -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Beledros Witherbloom
 
@@ -2053,6 +2208,19 @@ Whenever you cast a noncreature spell, target creature you control can't be bloc
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Bria%2C%20Riptide%20Rogue -> success (HTTP 200)
+
+## Brilliance Unleashed
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Brilliance%20Unleashed
+- https://api.scryfall.com/cards/named?fuzzy=Brilliance%20Unleashed
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Brilliance%20Unleashed -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Brineborn Cutthroat
 
@@ -3183,6 +3351,19 @@ Target creature you control gets +2/+2 until end of turn. If the gift was promis
 
 - https://api.scryfall.com/cards/named?fuzzy=Crumb%20and%20Get%20It -> success (HTTP 200)
 
+## Crustacean Commando
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Crustacean%20Commando
+- https://api.scryfall.com/cards/named?fuzzy=Crustacean%20Commando
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Crustacean%20Commando -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Cryogen Relic
 
 - uri: https://api.scryfall.com/cards/7bfb33b6-e2bf-498f-8c58-ae21a840cf75
@@ -3537,6 +3718,19 @@ Draw two cards and create a Treasure token. (It's an artifact with "[Tap], Sacri
 
 - https://api.scryfall.com/cards/named?fuzzy=Death%20Baron -> success (HTTP 200)
 
+## Death in the Family
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Death%20in%20the%20Family
+- https://api.scryfall.com/cards/named?fuzzy=Death%20in%20the%20Family
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Death%20in%20the%20Family -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Decree of Pain
 
 - uri: https://api.scryfall.com/cards/bd594aeb-f5cc-4435-8ea8-c35c5824b58c
@@ -3719,6 +3913,19 @@ Look at the top seven cards of your library. Put two of them into your hand and 
 
 - https://api.scryfall.com/cards/named?fuzzy=Dig%20Through%20Time -> success (HTTP 200)
 
+## Dimension X
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Dimension%20X
+- https://api.scryfall.com/cards/named?fuzzy=Dimension%20X
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Dimension%20X -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Dinosaur Beast
 
 - uri: https://api.scryfall.com/cards/9d447365-3aca-4996-9098-efcbe6f28f57
@@ -3877,6 +4084,32 @@ Metalcraft — If you control three or more artifacts, exile that creature.
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Dispatch -> success (HTTP 200)
+
+## Don & Raph, Hard Science
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Don%20%26%20Raph%2C%20Hard%20Science
+- https://api.scryfall.com/cards/named?fuzzy=Don%20%26%20Raph%2C%20Hard%20Science
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Don%20%26%20Raph%2C%20Hard%20Science -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Donatello, Turtle Techie
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Donatello%2C%20Turtle%20Techie
+- https://api.scryfall.com/cards/named?fuzzy=Donatello%2C%20Turtle%20Techie
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Donatello%2C%20Turtle%20Techie -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Dr. Eggman
 
@@ -4121,6 +4354,32 @@ When this artifact enters, up to one target creature gets -3/-3 until end of tur
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=D%C3%BAnedain%20Rangers -> success (HTTP 200)
+
+## EPF Point Squad
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=EPF%20Point%20Squad
+- https://api.scryfall.com/cards/named?fuzzy=EPF%20Point%20Squad
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=EPF%20Point%20Squad -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## East Wind Avatar
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=East%20Wind%20Avatar
+- https://api.scryfall.com/cards/named?fuzzy=East%20Wind%20Avatar
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=East%20Wind%20Avatar -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Easterling Vanguard
 
@@ -4656,6 +4915,19 @@ Enchanted creature gets +1/+0 and has flying.
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Evershrike%27s%20Gift -> success (HTTP 200)
+
+## Everything Pizza
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Everything%20Pizza
+- https://api.scryfall.com/cards/named?fuzzy=Everything%20Pizza
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Everything%20Pizza -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Evolving Wilds
 
@@ -5299,6 +5571,58 @@ When this creature enters, another target creature you control with toxic gets +
 
 - https://api.scryfall.com/cards/named?fuzzy=Fleshless%20Gladiator -> success (HTTP 200)
 
+## Foot Elite
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Foot%20Elite
+- https://api.scryfall.com/cards/named?fuzzy=Foot%20Elite
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Foot%20Elite -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Foot Headquarters
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Foot%20Headquarters
+- https://api.scryfall.com/cards/named?fuzzy=Foot%20Headquarters
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Foot%20Headquarters -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Foot Mystic
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Foot%20Mystic
+- https://api.scryfall.com/cards/named?fuzzy=Foot%20Mystic
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Foot%20Mystic -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Foot Ninjas
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Foot%20Ninjas
+- https://api.scryfall.com/cards/named?fuzzy=Foot%20Ninjas
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Foot%20Ninjas -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Forest
 
 - uri: https://api.scryfall.com/cards/5f533364-0f91-4e49-aaeb-83c4c1f6d316
@@ -5439,6 +5763,19 @@ Cycling [2] ([2], Discard this card: Draw a card.)
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Fuel%20the%20Flames -> success (HTTP 200)
+
+## Fugitive Droid
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Fugitive%20Droid
+- https://api.scryfall.com/cards/named?fuzzy=Fugitive%20Droid
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Fugitive%20Droid -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Fumigate
 
@@ -5667,6 +6004,19 @@ Landfall — Whenever a land you control enters, target creature has base power 
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Genemorph%20Imago -> success (HTTP 200)
+
+## General Traag, Heart of Stone
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=General%20Traag%2C%20Heart%20of%20Stone
+- https://api.scryfall.com/cards/named?fuzzy=General%20Traag%2C%20Heart%20of%20Stone
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=General%20Traag%2C%20Heart%20of%20Stone -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Generous Gift
 
@@ -5920,6 +6270,19 @@ Cycling [2] ([2], Discard this card: Draw a card.)
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Gnarlbark%20Elm -> success (HTTP 200)
+
+## Go Ninja Go
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Go%20Ninja%20Go
+- https://api.scryfall.com/cards/named?fuzzy=Go%20Ninja%20Go
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Go%20Ninja%20Go -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Goblin
 
@@ -6229,6 +6592,32 @@ Whenever you gain life for the first time each turn, put a +1/+1 counter on each
 
 - https://api.scryfall.com/cards/named?fuzzy=Grim%20Backwoods -> success (HTTP 200)
 
+## Grounded for Life
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Grounded%20for%20Life
+- https://api.scryfall.com/cards/named?fuzzy=Grounded%20for%20Life
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Grounded%20for%20Life -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Guac & Marshmallow Pizza
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Guac%20%26%20Marshmallow%20Pizza
+- https://api.scryfall.com/cards/named?fuzzy=Guac%20%26%20Marshmallow%20Pizza
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Guac%20%26%20Marshmallow%20Pizza -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Guidelight Matrix
 
 - uri: https://api.scryfall.com/cards/cccf7fb5-c043-4a1f-ad2f-edb280cb5037
@@ -6311,6 +6700,19 @@ This creature gets +1/+0 for each artifact you control.
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Hall%20of%20Oracles -> success (HTTP 200)
+
+## Hamato Guardian Stance
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Hamato%20Guardian%20Stance
+- https://api.scryfall.com/cards/named?fuzzy=Hamato%20Guardian%20Stance
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Hamato%20Guardian%20Stance -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Hammer of Nazahn
 
@@ -6584,6 +6986,19 @@ Equip [2]
 
 - https://api.scryfall.com/cards/named?fuzzy=Hidden%20Blade -> success (HTTP 200)
 
+## High-Flying Ace
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=High-Flying%20Ace
+- https://api.scryfall.com/cards/named?fuzzy=High-Flying%20Ace
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=High-Flying%20Ace -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Highborn Vampire
 
 - uri: https://api.scryfall.com/cards/24c40082-516e-4381-a4cc-e61c5a9a6cac
@@ -6791,6 +7206,19 @@ Equip [4] ([4]: Attach to target creature you control. Equip only as a sorcery.)
 
 - https://api.scryfall.com/cards/named?fuzzy=Hylderblade -> success (HTTP 200)
 
+## Ice Cream Kitty
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Ice%20Cream%20Kitty
+- https://api.scryfall.com/cards/named?fuzzy=Ice%20Cream%20Kitty
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Ice%20Cream%20Kitty -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Icecave Crasher
 
 - uri: https://api.scryfall.com/cards/e6c1ed0c-0c0d-47a7-8ebc-67854cb226e0
@@ -6852,6 +7280,19 @@ When this creature enters, draw a card, then discard a card.
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Idol%20of%20Oblivion -> success (HTTP 200)
+
+## Illegitimate Business
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Illegitimate%20Business
+- https://api.scryfall.com/cards/named?fuzzy=Illegitimate%20Business
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Illegitimate%20Business -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Illvoi Galeblade
 
@@ -6998,6 +7439,19 @@ Void — At the beginning of your end step, if a nonland permanent left the batt
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Insatiable%20Skittermaw -> success (HTTP 200)
+
+## Insectoid Exterminator
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Insectoid%20Exterminator
+- https://api.scryfall.com/cards/named?fuzzy=Insectoid%20Exterminator
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Insectoid%20Exterminator -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Insight Engine
 
@@ -7226,6 +7680,19 @@ Cycling [2] ([2], Discard this card: Draw a card.)
 
 - https://api.scryfall.com/cards/named?fuzzy=Jegantha%2C%20the%20Wellspring -> success (HTTP 200)
 
+## Jennika, Bad Apple Big Sister
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Jennika%2C%20Bad%20Apple%20Big%20Sister
+- https://api.scryfall.com/cards/named?fuzzy=Jennika%2C%20Bad%20Apple%20Big%20Sister
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Jennika%2C%20Bad%20Apple%20Big%20Sister -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Jhoira, Weatherlight Captain
 
 - uri: https://api.scryfall.com/cards/776f490a-2f75-4c18-8164-56bd65bb09c6
@@ -7327,6 +7794,19 @@ Whenever this creature or another artifact you control enters, put a +1/+1 count
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Kappa%20Cannoneer -> success (HTTP 200)
+
+## Karai, Future of the Foot
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Karai%2C%20Future%20of%20the%20Foot
+- https://api.scryfall.com/cards/named?fuzzy=Karai%2C%20Future%20of%20the%20Foot
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Karai%2C%20Future%20of%20the%20Foot -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Kargan Dragonrider
 
@@ -7533,6 +8013,19 @@ Treasure Hunter — At the beginning of your upkeep, if you control thirty or mo
 
 - https://api.scryfall.com/cards/named?fuzzy=Knuckles%20the%20Echidna -> success (HTTP 200)
 
+## Koya, Death from Above
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Koya%2C%20Death%20from%20Above
+- https://api.scryfall.com/cards/named?fuzzy=Koya%2C%20Death%20from%20Above
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Koya%2C%20Death%20from%20Above -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Kulrath Mystic
 
 - uri: https://api.scryfall.com/cards/377d257c-920c-4dd4-a4b1-01cbc631ef8f
@@ -7654,6 +8147,19 @@ Cycling [2] ([2], Discard this card: Draw a card.)
 
 - https://api.scryfall.com/cards/named?fuzzy=Lava%20Serpent -> success (HTTP 200)
 
+## Leader's Talent
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Leader%27s%20Talent
+- https://api.scryfall.com/cards/named?fuzzy=Leader%27s%20Talent
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Leader%27s%20Talent -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Leitmotif Composer
 
 - uri: https://api.scryfall.com/cards/2511b281-f822-427c-ac5f-d376b64fa6cf
@@ -7676,6 +8182,19 @@ Whenever you cast an instant or sorcery spell with mana value 5 or greater, crea
 
 - https://api.scryfall.com/cards/named?fuzzy=Leitmotif%20Composer -> success (HTTP 200)
 
+## Leonardo's Technique
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Leonardo%27s%20Technique
+- https://api.scryfall.com/cards/named?fuzzy=Leonardo%27s%20Technique
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Leonardo%27s%20Technique -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Leonardo, Big Brother
 
 - uri: https://api.scryfall.com/cards/e802838f-cc8c-4313-8c3b-32a6a7248e64
@@ -7696,6 +8215,19 @@ Leonardo gets +1/+0 for each other creature you control.
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Leonardo%2C%20Big%20Brother -> success (HTTP 200)
+
+## Leonardo, Leader in Blue
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Leonardo%2C%20Leader%20in%20Blue
+- https://api.scryfall.com/cards/named?fuzzy=Leonardo%2C%20Leader%20in%20Blue
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Leonardo%2C%20Leader%20in%20Blue -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Leonin Skyhunter
 
@@ -7736,6 +8268,19 @@ Leonardo gets +1/+0 for each other creature you control.
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Leonin%20Vanguard -> success (HTTP 200)
+
+## Lessons from Life
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Lessons%20from%20Life
+- https://api.scryfall.com/cards/named?fuzzy=Lessons%20from%20Life
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Lessons%20from%20Life -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Lightning Greaves
 
@@ -7858,6 +8403,19 @@ Choose target creature you control and target creature you don't control. Put a 
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Longstalk%20Brawl -> success (HTTP 200)
+
+## Lord Dregg, Insect Invader
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Lord%20Dregg%2C%20Insect%20Invader
+- https://api.scryfall.com/cards/named?fuzzy=Lord%20Dregg%2C%20Insect%20Invader
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Lord%20Dregg%2C%20Insect%20Invader -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Lunar Convocation
 
@@ -8002,6 +8560,19 @@ When Mabel enters, create Cragflame, a legendary colorless Equipment artifact to
 
 - https://api.scryfall.com/cards/named?fuzzy=Mabel%2C%20Heir%20to%20Cragflame -> success (HTTP 200)
 
+## Madame Null, Power Broker
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Madame%20Null%2C%20Power%20Broker
+- https://api.scryfall.com/cards/named?fuzzy=Madame%20Null%2C%20Power%20Broker
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Madame%20Null%2C%20Power%20Broker -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Maelstrom Pulse
 
 - uri: https://api.scryfall.com/cards/66f17263-b916-40f4-b175-fcfd5630103d
@@ -8103,6 +8674,19 @@ Whenever this creature mutates, you gain 4 life.
 
 - https://api.scryfall.com/cards/named?fuzzy=Majestic%20Auricorn -> success (HTTP 200)
 
+## Make Your Move
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Make%20Your%20Move
+- https://api.scryfall.com/cards/named?fuzzy=Make%20Your%20Move
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Make%20Your%20Move -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Mana Geyser
 
 - uri: https://api.scryfall.com/cards/dfbda387-3c7d-4c80-97c3-60c9d4757244
@@ -8142,6 +8726,19 @@ Whenever you cast a noncreature spell, create an X/X red Dragon Illusion creatur
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Manaform%20Hellkite -> success (HTTP 200)
+
+## Manhole Missile
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Manhole%20Missile
+- https://api.scryfall.com/cards/named?fuzzy=Manhole%20Missile
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Manhole%20Missile -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Maskwood Nexus
 
@@ -8203,6 +8800,19 @@ As long as an artifact entered the battlefield under your control this turn, thi
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Mechan%20Shieldmate -> success (HTTP 200)
+
+## Mechanized Ninja Cavalry
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Mechanized%20Ninja%20Cavalry
+- https://api.scryfall.com/cards/named?fuzzy=Mechanized%20Ninja%20Cavalry
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Mechanized%20Ninja%20Cavalry -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Meldweb Strider
 
@@ -8309,6 +8919,32 @@ When this creature enters, create a 1/1 white and blue Merfolk creature token.
 
 - https://api.scryfall.com/cards/named?fuzzy=Merrow%20Skyswimmer -> success (HTTP 200)
 
+## Metalhead
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Metalhead
+- https://api.scryfall.com/cards/named?fuzzy=Metalhead
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Metalhead -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Michelangelo, Game Master
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Michelangelo%2C%20Game%20Master
+- https://api.scryfall.com/cards/named?fuzzy=Michelangelo%2C%20Game%20Master
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Michelangelo%2C%20Game%20Master -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Migloz, Maze Crusher
 
 - uri: https://api.scryfall.com/cards/c1171899-07d8-4e60-a79b-f162f59dc3ce
@@ -8414,6 +9050,19 @@ Whenever a Vehicle you control enters, draw a card if it has flying. Otherwise, 
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Mind%20Spring -> success (HTTP 200)
+
+## Mind Transfer Protocol
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Mind%20Transfer%20Protocol
+- https://api.scryfall.com/cards/named?fuzzy=Mind%20Transfer%20Protocol
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Mind%20Transfer%20Protocol -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Mindless Automaton
 
@@ -8702,6 +9351,32 @@ Whenever you sacrifice an artifact, put a +1/+1 counter on this creature and you
 
 - https://api.scryfall.com/cards/named?fuzzy=Mouser%20Attack%21 -> success (HTTP 200)
 
+## Mouser Foundry
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Mouser%20Foundry
+- https://api.scryfall.com/cards/named?fuzzy=Mouser%20Foundry
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Mouser%20Foundry -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Mouser Mark III
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Mouser%20Mark%20III
+- https://api.scryfall.com/cards/named?fuzzy=Mouser%20Mark%20III
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Mouser%20Mark%20III -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Mouth of the Storm
 
 - uri: https://api.scryfall.com/cards/380f16d6-ad43-4e0d-9645-6abde6248182
@@ -8764,6 +9439,19 @@ When this creature enters, creatures your opponents control get -3/-0 until your
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Muddle%2C%20the%20Ever-Changing -> success (HTTP 200)
+
+## Mutant Chain Reaction
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Mutant%20Chain%20Reaction
+- https://api.scryfall.com/cards/named?fuzzy=Mutant%20Chain%20Reaction
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Mutant%20Chain%20Reaction -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Mutant Surveyor
 
@@ -8991,6 +9679,19 @@ When this land enters untapped, you may put target instant or sorcery card from 
 
 - https://api.scryfall.com/cards/named?fuzzy=Nested%20Shambler -> success (HTTP 200)
 
+## New Generation's Technique
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=New%20Generation%27s%20Technique
+- https://api.scryfall.com/cards/named?fuzzy=New%20Generation%27s%20Technique
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=New%20Generation%27s%20Technique -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## New Horizons
 
 - uri: https://api.scryfall.com/cards/86b3923c-c35c-4eb2-9dd3-b15c13778ecf
@@ -9079,6 +9780,19 @@ You may cast creature spells from your graveyard using their sneak abilities.
 
 - https://api.scryfall.com/cards/named?fuzzy=Ninja%20Teen -> success (HTTP 200)
 
+## Nobody
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Nobody
+- https://api.scryfall.com/cards/named?fuzzy=Nobody
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Nobody -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Noxious Assault
 
 - uri: https://api.scryfall.com/cards/9649de6c-a9f7-4f0a-8bf7-cacaea60ed54
@@ -9097,6 +9811,19 @@ You may cast creature spells from your graveyard using their sneak abilities.
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Noxious%20Assault -> success (HTTP 200)
+
+## Null Group Biological Assets
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Null%20Group%20Biological%20Assets
+- https://api.scryfall.com/cards/named?fuzzy=Null%20Group%20Biological%20Assets
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Null%20Group%20Biological%20Assets -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Offer Immortality
 
@@ -9138,6 +9865,19 @@ Rats you control have deathtouch.
 
 - https://api.scryfall.com/cards/named?fuzzy=Ogre%20Slumlord -> success (HTTP 200)
 
+## Omni-Cheese Pizza
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Omni-Cheese%20Pizza
+- https://api.scryfall.com/cards/named?fuzzy=Omni-Cheese%20Pizza
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Omni-Cheese%20Pizza -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Ooze Patrol
 
 - uri: https://api.scryfall.com/cards/101d22c6-830d-4908-9003-6b206f694eba
@@ -9157,6 +9897,19 @@ Rats you control have deathtouch.
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Ooze%20Patrol -> success (HTTP 200)
+
+## Ooze Spill
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Ooze%20Spill
+- https://api.scryfall.com/cards/named?fuzzy=Ooze%20Spill
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Ooze%20Spill -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Open the Armory
 
@@ -9257,6 +10010,19 @@ Destroy all nonartifact creatures.
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Organic%20Extinction -> success (HTTP 200)
+
+## Oroku Saki, Shredder Rising
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Oroku%20Saki%2C%20Shredder%20Rising
+- https://api.scryfall.com/cards/named?fuzzy=Oroku%20Saki%2C%20Shredder%20Rising
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Oroku%20Saki%2C%20Shredder%20Rising -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Pacifism
 
@@ -9705,6 +10471,19 @@ When this creature enters, create a 1/1 white Cat creature token.
 
 - https://api.scryfall.com/cards/named?fuzzy=Prideful%20Parent -> success (HTTP 200)
 
+## Primordial Pachyderm
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Primordial%20Pachyderm
+- https://api.scryfall.com/cards/named?fuzzy=Primordial%20Pachyderm
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Primordial%20Pachyderm -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Prismari Campus
 
 - uri: https://api.scryfall.com/cards/7c464dee-dd89-4955-ae40-8bb74e9ff42a
@@ -9913,6 +10692,19 @@ When this creature enters, you gain X life, where X is the greatest power among 
 
 - https://api.scryfall.com/cards/named?fuzzy=Pummeler%20for%20Hire -> success (HTTP 200)
 
+## Punk Frogs
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Punk%20Frogs
+- https://api.scryfall.com/cards/named?fuzzy=Punk%20Frogs
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Punk%20Frogs -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Putrefy
 
 - uri: https://api.scryfall.com/cards/ad6ed9f1-2014-49e2-91c6-2b55c8d60cdc
@@ -10032,6 +10824,19 @@ When this creature enters, draw a card, then discard a card.
 
 - https://api.scryfall.com/cards/named?fuzzy=Quicksilver%20Fisher -> success (HTTP 200)
 
+## Quintessential Katana
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Quintessential%20Katana
+- https://api.scryfall.com/cards/named?fuzzy=Quintessential%20Katana
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Quintessential%20Katana -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Rabbit Response
 
 - uri: https://api.scryfall.com/cards/c4ded450-346d-4917-917a-b62bc0267509
@@ -10129,6 +10934,19 @@ This land enters tapped unless you control two or more basic lands.
 
 - https://api.scryfall.com/cards/named?fuzzy=Radiant%20Summit -> success (HTTP 200)
 
+## Ragamuffin Raptor
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Ragamuffin%20Raptor
+- https://api.scryfall.com/cards/named?fuzzy=Ragamuffin%20Raptor
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Ragamuffin%20Raptor -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Raging Redcap
 
 - uri: https://api.scryfall.com/cards/9627b0a7-bda9-44df-81c9-aa70cc976331
@@ -10188,6 +11006,32 @@ When this creature enters, create two Treasure tokens. (They're artifacts with "
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Rapacious%20Dragon -> success (HTTP 200)
+
+## Raphael, Tough Turtle
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Raphael%2C%20Tough%20Turtle
+- https://api.scryfall.com/cards/named?fuzzy=Raphael%2C%20Tough%20Turtle
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Raphael%2C%20Tough%20Turtle -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Rat King, Verminister
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Rat%20King%2C%20Verminister
+- https://api.scryfall.com/cards/named?fuzzy=Rat%20King%2C%20Verminister
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Rat%20King%2C%20Verminister -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Raugrin Triome
 
@@ -10576,6 +11420,32 @@ Whenever this land attacks, scry 1.
 
 - https://api.scryfall.com/cards/named?fuzzy=Restless%20Spire -> success (HTTP 200)
 
+## Retro-Mutation
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Retro-Mutation
+- https://api.scryfall.com/cards/named?fuzzy=Retro-Mutation
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Retro-Mutation -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Return to the Sewers
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Return%20to%20the%20Sewers
+- https://api.scryfall.com/cards/named?fuzzy=Return%20to%20the%20Sewers
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Return%20to%20the%20Sewers -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Ride's End
 
 - uri: https://api.scryfall.com/cards/2f96b33b-c952-45ac-9626-40169b2bd4ef
@@ -10756,6 +11626,19 @@ Blitz [2][Red] (If you cast this spell for its blitz cost, it gains haste and "W
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Rock%20Soldiers -> success (HTTP 200)
+
+## Rocksteady, Crash Courser
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Rocksteady%2C%20Crash%20Courser
+- https://api.scryfall.com/cards/named?fuzzy=Rocksteady%2C%20Crash%20Courser
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Rocksteady%2C%20Crash%20Courser -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Rohirrim Lancer
 
@@ -11002,6 +11885,19 @@ Indestructible
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Safewright%20Cavalry -> success (HTTP 200)
+
+## Sally Pride, Lioness Leader
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Sally%20Pride%2C%20Lioness%20Leader
+- https://api.scryfall.com/cards/named?fuzzy=Sally%20Pride%2C%20Lioness%20Leader
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Sally%20Pride%2C%20Lioness%20Leader -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Sami, Ship's Engineer
 
@@ -11301,6 +12197,19 @@ Whenever another creature you control with power 2 or less enters, put two +1/+1
 
 - https://api.scryfall.com/cards/named?fuzzy=Serra%20Redeemer -> success (HTTP 200)
 
+## Sewer-veillance Cam
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Sewer-veillance%20Cam
+- https://api.scryfall.com/cards/named?fuzzy=Sewer-veillance%20Cam
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Sewer-veillance%20Cam -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Shadow the Hedgehog
 
 - uri: https://api.scryfall.com/cards/6c184959-a1e5-40d7-8faa-99310c4156ef
@@ -11447,6 +12356,32 @@ When this creature enters, surveil 1. (Look at the top card of your library. You
 
 - https://api.scryfall.com/cards/named?fuzzy=Shore%20Lurker -> success (HTTP 200)
 
+## Shredder's Revenge
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Shredder%27s%20Revenge
+- https://api.scryfall.com/cards/named?fuzzy=Shredder%27s%20Revenge
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Shredder%27s%20Revenge -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Shredder, Unrelenting
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Shredder%2C%20Unrelenting
+- https://api.scryfall.com/cards/named?fuzzy=Shredder%2C%20Unrelenting
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Shredder%2C%20Unrelenting -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Silken Strength
 
 - uri: https://api.scryfall.com/cards/ce0e1ded-9b00-4d7b-884c-70a429783b1f
@@ -11510,6 +12445,19 @@ Corrupted — [White], [Tap]: Tap target creature. Activate only if an opponent 
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Sinew%20Dancer -> success (HTTP 200)
+
+## Skateboard
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Skateboard
+- https://api.scryfall.com/cards/named?fuzzy=Skateboard
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Skateboard -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Skeleton Archer
 
@@ -11718,6 +12666,19 @@ Whenever another creature you control with toxic attacks, it gets +1/+1 until en
 
 - https://api.scryfall.com/cards/named?fuzzy=Slaughter%20Singer -> success (HTTP 200)
 
+## Slithering Cryptid
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Slithering%20Cryptid
+- https://api.scryfall.com/cards/named?fuzzy=Slithering%20Cryptid
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Slithering%20Cryptid -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Snakeskin Veil
 
 - uri: https://api.scryfall.com/cards/a3d2c692-7566-468e-9c86-47a9f768fde2
@@ -11923,6 +12884,19 @@ Flying
 
 - https://api.scryfall.com/cards/named?fuzzy=Spellgyre -> success (HTTP 200)
 
+## Spicy Oatmeal Pizza
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Spicy%20Oatmeal%20Pizza
+- https://api.scryfall.com/cards/named?fuzzy=Spicy%20Oatmeal%20Pizza
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Spicy%20Oatmeal%20Pizza -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Spiral into Solitude
 
 - uri: https://api.scryfall.com/cards/e7a12664-a930-4159-8311-19862488fb05
@@ -11984,6 +12958,32 @@ When this creature enters, tap up to one target creature and put a stun counter 
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Splash%20Lasher -> success (HTTP 200)
+
+## Splinter's Technique
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Splinter%27s%20Technique
+- https://api.scryfall.com/cards/named?fuzzy=Splinter%27s%20Technique
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Splinter%27s%20Technique -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Splinter, Hamato Yoshi
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Splinter%2C%20Hamato%20Yoshi
+- https://api.scryfall.com/cards/named?fuzzy=Splinter%2C%20Hamato%20Yoshi
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Splinter%2C%20Hamato%20Yoshi -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Sprite Dragon
 
@@ -12210,6 +13210,32 @@ Max speed — [Tap], Sacrifice this artifact: Draw two cards, then discard a car
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Steel%20Overseer -> success (HTTP 200)
+
+## Stockman, Mad Fly-entist
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Stockman%2C%20Mad%20Fly-entist
+- https://api.scryfall.com/cards/named?fuzzy=Stockman%2C%20Mad%20Fly-entist
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Stockman%2C%20Mad%20Fly-entist -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Stomped by the Foot
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Stomped%20by%20the%20Foot
+- https://api.scryfall.com/cards/named?fuzzy=Stomped%20by%20the%20Foot
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Stomped%20by%20the%20Foot -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Storm Fleet Spy
 
@@ -12696,6 +13722,19 @@ Equip [2]
 
 - https://api.scryfall.com/cards/named?fuzzy=Swords%20to%20Plowshares -> success (HTTP 200)
 
+## TCRI Building
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=TCRI%20Building
+- https://api.scryfall.com/cards/named?fuzzy=TCRI%20Building
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=TCRI%20Building -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Tainted Wood
 
 - uri: https://api.scryfall.com/cards/3da7ab6b-b10a-4786-b1eb-92de7e66690e
@@ -12796,6 +13835,19 @@ Exile target artifact or enchantment. If this spell was kicked, exile target non
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Tear%20Asunder -> success (HTTP 200)
+
+## Technodrome
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Technodrome
+- https://api.scryfall.com/cards/named?fuzzy=Technodrome
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Technodrome -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Tekuthal, Inquiry Dominus
 
@@ -12961,6 +14013,19 @@ Target opponent reveals their hand. You choose a nonland card from it. That play
 
 - https://api.scryfall.com/cards/named?fuzzy=Tend%20the%20Sprigs -> success (HTTP 200)
 
+## Tenderize
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Tenderize
+- https://api.scryfall.com/cards/named?fuzzy=Tenderize
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Tenderize -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Terramorphic Expanse
 
 - uri: https://api.scryfall.com/cards/9a4c5629-fadd-42b9-850f-9f8586a2ca50
@@ -13081,6 +14146,32 @@ II, III — Create a token that's a copy of a card exiled with this Saga, except
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=The%20Cloning%20of%20Shredder -> success (HTTP 200)
+
+## The Last Ronin
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=The%20Last%20Ronin
+- https://api.scryfall.com/cards/named?fuzzy=The%20Last%20Ronin
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=The%20Last%20Ronin -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## The Last Ronin's Technique
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=The%20Last%20Ronin%27s%20Technique
+- https://api.scryfall.com/cards/named?fuzzy=The%20Last%20Ronin%27s%20Technique
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=The%20Last%20Ronin%27s%20Technique -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## The Mycosynth Gardens
 
@@ -13599,6 +14690,19 @@ Draw three cards.
 
 - https://api.scryfall.com/cards/named?fuzzy=Treeguard%20Duo -> success (HTTP 200)
 
+## Tunnel Rats
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Tunnel%20Rats
+- https://api.scryfall.com/cards/named?fuzzy=Tunnel%20Rats
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Tunnel%20Rats -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Turbulent Springs
 
 - uri: https://api.scryfall.com/cards/a25cb813-aa6d-469c-aa29-61ffa32267f2
@@ -13618,6 +14722,45 @@ This land enters tapped unless your opponents control eight or more lands.
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Turbulent%20Springs -> success (HTTP 200)
+
+## Turtle Blimp
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Turtle%20Blimp
+- https://api.scryfall.com/cards/named?fuzzy=Turtle%20Blimp
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Turtle%20Blimp -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Turtle Lair
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Turtle%20Lair
+- https://api.scryfall.com/cards/named?fuzzy=Turtle%20Lair
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Turtle%20Lair -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Turtle Van
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Turtle%20Van
+- https://api.scryfall.com/cards/named?fuzzy=Turtle%20Van
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Turtle%20Van -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Tweeze
 
@@ -13821,6 +14964,19 @@ Toxic 3 (Players dealt combat damage by this creature also get three poison coun
 
 - https://api.scryfall.com/cards/named?fuzzy=Undying%20Malice -> success (HTTP 200)
 
+## Uneasy Alliance
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Uneasy%20Alliance
+- https://api.scryfall.com/cards/named?fuzzy=Uneasy%20Alliance
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Uneasy%20Alliance -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Unexpected Windfall
 
 - uri: https://api.scryfall.com/cards/bae6a5fb-39f5-4cf8-85f7-661cb4570507
@@ -13903,6 +15059,19 @@ This Spacecraft gets +1/+0 for each artifact you control.
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Uthros%20Research%20Craft -> success (HTTP 200)
+
+## Utrom Scientists
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Utrom%20Scientists
+- https://api.scryfall.com/cards/named?fuzzy=Utrom%20Scientists
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Utrom%20Scientists -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Vampire Interloper
 
@@ -14394,6 +15563,19 @@ Warp [2][White] (You may cast this card from your hand for its warp cost. Exile 
 
 - https://api.scryfall.com/cards/named?fuzzy=Weftblade%20Enhancer -> success (HTTP 200)
 
+## West Wind Avatar
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=West%20Wind%20Avatar
+- https://api.scryfall.com/cards/named?fuzzy=West%20Wind%20Avatar
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=West%20Wind%20Avatar -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
 ## Wick's Patrol
 
 - uri: https://api.scryfall.com/cards/5fa0c53d-fe7b-4b8b-ad81-7967ca318ff7
@@ -14638,6 +15820,32 @@ Whenever enchanted land is tapped for mana, its controller adds an additional [G
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Zenith%20Flare -> success (HTTP 200)
+
+## Zog, Triceraton Castaway
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Zog%2C%20Triceraton%20Castaway
+- https://api.scryfall.com/cards/named?fuzzy=Zog%2C%20Triceraton%20Castaway
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Zog%2C%20Triceraton%20Castaway -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Zoo Escapees
+
+- Not found on Scryfall or error occurred.
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Zoo%20Escapees
+- https://api.scryfall.com/cards/named?fuzzy=Zoo%20Escapees
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Zoo%20Escapees -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Zookeeper Mechan
 
