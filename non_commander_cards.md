@@ -1,4 +1,4 @@
-# Non-Commander-Precon Cards (generated 2026-07-09T20:07:35.298206+00:00Z)
+# Non-Commander-Precon Cards (generated 2026-07-14T20:29:45.720172+00:00Z)
 
 Cards you own that are not reserved by a Commander precon, or copies in excess of Commander precon requirements. Cards from other precons (Secret Lairs, Foundations, etc.) are included here as they are free to use in custom decks.
 

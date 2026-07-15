@@ -1,4 +1,5 @@
 1 Inspirit, Flagship Vessel *CMDR*
+1 Air Shoes
 1 Alibou, Ancient Witness
 1 Arcane Denial
 1 Arcane Signet
@@ -24,6 +25,7 @@
 1 Frontline War-Rager
 1 Fumigate
 1 Galazeth Prismari
+1 Galvanizing Sawship
 1 Goldspan Dragon
 1 Hangarback Walker
 1 Jhoira, Weatherlight Captain
@@ -42,13 +44,11 @@
 1 Ripples of Potential
 1 Sami, Ship's Engineer
 1 Sol Ring
-1 Solar Array
 1 Solemn Simulacrum
 1 Starport Security
 1 Steel Overseer
 1 Surge Conductor
 1 Swan Song
-1 Air Shoes
 1 Swords to Plowshares
 1 Talisman of Creativity
 1 Tekuthal, Inquiry Dominus
