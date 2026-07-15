@@ -102179,3 +102179,691 @@
 
 - https://api.scryfall.com/cards/named?fuzzy=Zookeeper%20Mechan → **Success** (HTTP 200)
 
+## Anchovy & Banana Pizza
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Anchovy%20%26%20Banana%20Pizza → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## April O'Neil, Kunoichi Trainee
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=April%20O%27Neil%2C%20Kunoichi%20Trainee → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## April, Reporter of the Weird
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=April%2C%20Reporter%20of%20the%20Weird → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Ashe, Princess of Dalmasca
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Ashe%2C%20Princess%20of%20Dalmasca → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Bebop, Warthog Warrior
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Bebop%2C%20Warthog%20Warrior → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Brilliance Unleashed
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Brilliance%20Unleashed → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Crustacean Commando
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Crustacean%20Commando → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Death in the Family
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Death%20in%20the%20Family → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Dimension X
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Dimension%20X → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Don & Raph, Hard Science
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Don%20%26%20Raph%2C%20Hard%20Science → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Donatello, Turtle Techie
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Donatello%2C%20Turtle%20Techie → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## EPF Point Squad
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=EPF%20Point%20Squad → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## East Wind Avatar
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=East%20Wind%20Avatar → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Everything Pizza
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Everything%20Pizza → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Foot Elite
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Foot%20Elite → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Foot Headquarters
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Foot%20Headquarters → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Foot Mystic
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Foot%20Mystic → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Foot Ninjas
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Foot%20Ninjas → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Fugitive Droid
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Fugitive%20Droid → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## General Traag, Heart of Stone
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=General%20Traag%2C%20Heart%20of%20Stone → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Go Ninja Go
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Go%20Ninja%20Go → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Grounded for Life
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Grounded%20for%20Life → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Guac & Marshmallow Pizza
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Guac%20%26%20Marshmallow%20Pizza → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Hamato Guardian Stance
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Hamato%20Guardian%20Stance → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## High-Flying Ace
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=High-Flying%20Ace → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Ice Cream Kitty
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Ice%20Cream%20Kitty → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Illegitimate Business
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Illegitimate%20Business → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Insectoid Exterminator
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Insectoid%20Exterminator → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Jennika, Bad Apple Big Sister
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Jennika%2C%20Bad%20Apple%20Big%20Sister → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Karai, Future of the Foot
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Karai%2C%20Future%20of%20the%20Foot → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Koya, Death from Above
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Koya%2C%20Death%20from%20Above → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Leader's Talent
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Leader%27s%20Talent → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Leonardo's Technique
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Leonardo%27s%20Technique → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Leonardo, Leader in Blue
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Leonardo%2C%20Leader%20in%20Blue → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Lessons from Life
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Lessons%20from%20Life → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Lord Dregg, Insect Invader
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Lord%20Dregg%2C%20Insect%20Invader → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Madame Null, Power Broker
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Madame%20Null%2C%20Power%20Broker → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Make Your Move
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Make%20Your%20Move → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Manhole Missile
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Manhole%20Missile → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Mechanized Ninja Cavalry
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Mechanized%20Ninja%20Cavalry → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Metalhead
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Metalhead → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Michelangelo, Game Master
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Michelangelo%2C%20Game%20Master → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Mind Transfer Protocol
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Mind%20Transfer%20Protocol → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Mouser Foundry
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Mouser%20Foundry → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Mouser Mark III
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Mouser%20Mark%20III → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Mutant Chain Reaction
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Mutant%20Chain%20Reaction → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## New Generation's Technique
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=New%20Generation%27s%20Technique → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Nobody
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Nobody → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Null Group Biological Assets
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Null%20Group%20Biological%20Assets → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Omni-Cheese Pizza
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Omni-Cheese%20Pizza → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Ooze Spill
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Ooze%20Spill → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Oroku Saki, Shredder Rising
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Oroku%20Saki%2C%20Shredder%20Rising → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Primordial Pachyderm
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Primordial%20Pachyderm → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Punk Frogs
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Punk%20Frogs → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Quintessential Katana
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Quintessential%20Katana → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Ragamuffin Raptor
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Ragamuffin%20Raptor → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Raphael, Tough Turtle
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Raphael%2C%20Tough%20Turtle → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Rat King, Verminister
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Rat%20King%2C%20Verminister → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Retro-Mutation
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Retro-Mutation → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Return to the Sewers
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Return%20to%20the%20Sewers → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Rocksteady, Crash Courser
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Rocksteady%2C%20Crash%20Courser → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Sally Pride, Lioness Leader
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Sally%20Pride%2C%20Lioness%20Leader → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Sewer-veillance Cam
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Sewer-veillance%20Cam → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Shredder's Revenge
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Shredder%27s%20Revenge → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Shredder, Unrelenting
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Shredder%2C%20Unrelenting → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Skateboard
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Skateboard → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Slithering Cryptid
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Slithering%20Cryptid → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Spicy Oatmeal Pizza
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Spicy%20Oatmeal%20Pizza → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Splinter's Technique
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Splinter%27s%20Technique → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Splinter, Hamato Yoshi
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Splinter%2C%20Hamato%20Yoshi → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Stockman, Mad Fly-entist
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Stockman%2C%20Mad%20Fly-entist → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Stomped by the Foot
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Stomped%20by%20the%20Foot → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## TCRI Building
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=TCRI%20Building → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Technodrome
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Technodrome → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Tenderize
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Tenderize → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## The Last Ronin
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=The%20Last%20Ronin → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## The Last Ronin's Technique
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=The%20Last%20Ronin%27s%20Technique → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Tunnel Rats
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Tunnel%20Rats → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Turtle Blimp
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Turtle%20Blimp → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Turtle Lair
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Turtle%20Lair → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Turtle Van
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Turtle%20Van → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Uneasy Alliance
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Uneasy%20Alliance → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Utrom Scientists
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Utrom%20Scientists → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## West Wind Avatar
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=West%20Wind%20Avatar → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Zog, Triceraton Castaway
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Zog%2C%20Triceraton%20Castaway → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
+## Zoo Escapees
+
+**Status:** Failed or Not Found
+
+**Attempted URLs:**
+
+- https://api.scryfall.com/cards/named?fuzzy=Zoo%20Escapees → **Failed** (<urlopen error Tunnel connection failed: 403 Forbidden>)
+
