@@ -14,7 +14,9 @@
       "WebFetch(domain:www.precondecklist.com)",
       "WebFetch(domain:mtg.wtf)",
       "PowerShell(head *)",
-      "PowerShell(Copy-Item *)"
+      "PowerShell(Copy-Item *)",
+      "WebFetch(domain:gatherer.wizards.com)",
+      "WebFetch(domain:edhrec.com)"
     ],
     "defaultMode": "acceptEdits"
   }
