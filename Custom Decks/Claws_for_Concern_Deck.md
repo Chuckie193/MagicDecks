@@ -4,7 +4,12 @@ Commander: Tovolar, Dire Overlord // Tovolar, the Midnight Scourge (2RG, Red/Gre
 
 ## Overview
 - **Strategy**: A werewolf/wolf tribal aggro deck. Cheap creatures flood the board and transform into bigger, scarier night-side threats; anthem effects (Immerwolf, Silverfur Partisan, Full Moon's Rise, Howlpack Resurgence) pump the whole team, and Tovolar rewards every werewolf/wolf connection with a card. Nightpack Ambusher and the newer daybound/nightbound werewolves push the game toward night, while transform-matters payoffs (Ascendant Packleader, Cult of the Waxing Moon, Runebound Wolf) turn each flip into value or reach.
+- **Intended for**: Both — the low curve (average CMC ~3.0, 26 cards at 1-2 mana) and cheap, targeted removal suit fast 1v1 games, while the wide Wolf token production and Tovolar's per-hit card draw keep scaling as more opponents join a pod.
 - **Source**: Supplied directly by the user (not generated from the owned Moxfield collection), so no cards here are cross-referenced against owned precons.
+
+## Lore
+
+Under Tovolar's rule, the moon doesn't rise — it *recruits*. One howl and the pack goes from picket fence to pack of teeth. Gruul doesn't do subtle. It does *fang-tastic*.
 
 ---
 
@@ -103,6 +108,92 @@ Commander: Tovolar, Dire Overlord // Tovolar, the Midnight Scourge (2RG, Red/Gre
 - **Sheltered Thicket** — Tapped Gruul dual with cycling for graveyard fuel.
 - **Temple of Abandon** — Tapped Gruul dual with a scry trigger.
 - **Temple of the False God** — Colorless land with a large mana burst once the board is developed.
+
+---
+
+## Key Synergies
+
+- **Tovolar, Dire Overlord + Immerwolf + Silverfur Partisan**: Every Wolf/Werewolf connection draws a card off Tovolar; Immerwolf pumps the team and locks non-Human Werewolves at their bigger night-side stats, while Silverfur Partisan re-triggers its own +1/+1 anthem every time another Werewolf transforms — a single upkeep can buff the board two or three times over.
+- **Into the Night / Unnatural Moonrise + daybound werewolves**: Both cards force it to become night immediately, flipping every daybound creature (Instigator Gang, Kruin Outlaw, Sage of Ancient Lore, etc.) to their stronger side a turn early for a surprise alpha strike, while replacing themselves with a loot or a card draw trigger.
+- **Nightpack Ambusher + Cult of the Waxing Moon**: Nightpack Ambusher mints a 2/2 Wolf every turn it becomes night; each of those transforms/tokens is itself a non-Human creature entering, so Cult of the Waxing Moon can chain off transformations elsewhere on the board for even more tokens.
+- **Runebound Wolf + go-wide Wolf tokens**: Huntmaster of the Fells, Tovolar's Huntmaster, Silverfur Partisan, Nightpack Ambusher, and the Arlinn planeswalkers all flood the board with 2/2 Wolves; Runebound Wolf taps to convert that count directly into reach damage, giving the deck a finisher that doesn't need combat.
+- **Moonmist + a full night-side board**: Once the team has transformed, Moonmist fogs all damage from anything that isn't a Wolf or Werewolf while also flipping any remaining Humans — a one-sided combat blowout against a swarm of non-tribal attackers.
+
+---
+
+## Tokens Generated
+
+| Token | P/T | Color | Type | Abilities | Created By |
+|-------|-----|-------|------|-----------|------------|
+| Wolf | 2/2 | Green | Creature — Wolf | — | Child of the Pack // Savage Packmate; Cult of the Waxing Moon; Huntmaster of the Fells // Ravager of the Fells; Mayor of Avabruck // Howlpack Alpha; Nightpack Ambusher; Silverfur Partisan; Tovolar's Huntmaster // Tovolar's Packleader; Ranger Class; Arlinn Kord // Arlinn, Embraced by the Moon; Arlinn, the Pack's Hope // Arlinn, the Moon's Fury; Arlinn, Voice of the Pack |
+| Emblem — Arlinn Kord | — | — | Emblem | Creatures you control have haste and "{T}: This creature deals damage equal to its power to any target." | Arlinn Kord // Arlinn, Embraced by the Moon |
+
+---
+
+## Mana Curve
+
+- 0 CMC: 0 cards
+- 1 CMC: 4 cards  | ████ (4)
+- 2 CMC: 22 cards | ██████████████████████ (22)
+- 3 CMC: 17 cards | █████████████████ (17) *(includes Tovolar, Dire Overlord)*
+- 4 CMC: 13 cards | █████████████ (13)
+- 5 CMC: 4 cards  | ████ (4)
+- 6 CMC: 3 cards  | ███ (3)
+- 7+ CMC: 0 cards
+
+Average CMC (non-land, exc. commander): ~3.0
+
+---
+
+## Short Mulligan and Play Notes
+
+- **Early game (turns 1–3)**: Sol Ring or Mind Stone on turn 1–2 into a cheap werewolf (Village Messenger, Ascendant Packleader, Scorned Villager); Immerwolf or Duskwatch Recruiter on turn 3 to start locking in team stats and digging for more threats. Keep hands with 3–4 lands and at least one one- or two-drop werewolf.
+- **Mid game (turns 4–6)**: Land Tovolar behind Sol Ring/Mind Stone acceleration once three-plus Wolves/Werewolves are out; deploy Nightpack Ambusher at instant speed on an opponent's end step, and use Full Moon's Rise or Howlpack Resurgence to blow out combat once the board is transformed.
+- **Late game (turn 7+)**: Runebound Wolf and Kessig Wolf Run close games once the token count is high; Tovolar's repeated card draw off combat damage should keep gas flowing, and Into the Night/Unnatural Moonrise can force an early flip for a surprise lethal swing.
+- **Key interactions**: Immerwolf stops non-Human Werewolves from flipping back to day, so cast it before committing to combat with daybound creatures you want to keep on their bigger side. Watch spell counts each turn carefully — casting exactly one spell keeps daybound creatures transforming to night, while two or more flips everything back to day.
+
+---
+
+## Why These Choices (Summary)
+
+- **Low, aggressive curve**: 26 of 63 non-land cards cost 1–2 mana, letting the deck flood the board early and start the day/night transform engine before opponents stabilize.
+- **Anthem-heavy tribal shell**: Immerwolf, Silverfur Partisan, Full Moon's Rise, and Howlpack Resurgence all pump the same Wolf/Werewolf base that Tovolar and Runebound Wolf already care about, so every card pulls double duty.
+- **Removal is all targeted, no dedicated wipe**: Abrade, Bite Down, Chaos Warp, Moonlight Hunt, and Wolf Strike answer individual threats; Decimate is the closest thing to a sweeper, hitting one of each permanent type at once.
+- **Reach without extra combo pieces**: Runebound Wolf and Kessig Wolf Run give the deck a way to close games off token count alone, reducing reliance on connecting with Tovolar in combat.
+
+---
+
+## Analysis
+
+**Strengths**:
+- Multiple layers of anthem effects mean the board keeps getting bigger even after a token sweep
+- Card draw is baked into the plan via Tovolar, Ascendant Packleader, and Duskwatch Recruiter — the deck rarely runs out of gas
+- Low curve and flash/instant-speed threats (Nightpack Ambusher) let it play well on either player's turn
+- Runebound Wolf and Kessig Wolf Run provide finishers that don't depend on Tovolar surviving combat
+
+**Weaknesses/Missing Staples**:
+- **Board wipes**: No true sweeper (Blasphemous Act, Chain Reaction) — Decimate is the closest substitute but only removes one of each permanent type
+- **Commander protection**: No hexproof/indestructible equipment or protection spell dedicated to keeping Tovolar alive through removal
+- **Graveyard recursion**: No way to rebuy a key werewolf or planeswalker once it's removed
+- **Ramp density**: Sol Ring, Mind Stone, The Celestus, and Rampant Growth are the only acceleration — colour-screwed hands can stumble before hitting the low curve's sweet spot
+
+---
+
+## Next Steps (Optional Suggestions)
+
+- Consider a dedicated board wipe (e.g., Blasphemous Act) if multiplayer pod games run long enough for opponents to stabilize
+- A cheap protection piece (Swiftfoot Boots, Lightning Greaves) would help Tovolar survive removal before he starts drawing cards
+- Test whether Immerwolf's "can't transform back to day" clause ever costs value against Ascendant Packleader/Silverfur Partisan triggers that want repeated transforms
+- If the collection expands, look for additional werewolf tribal payoffs or a second wrath effect to round out the removal suite
+
+---
+
+## Suggested Deck Names
+
+- **Howl of the Wild** — Straightforward and evocative of the deck's aggressive, ever-growing wolf pack
+- **Full Moon Fever** — Plays on the day/night transform mechanic driving the whole strategy
+- **Pack Mentality** — Captures the tribal anthem-stacking plan where every wolf makes every other wolf better
+- **Claws for Concern** — A pun on "cause for concern"; the deck presents an escalating board state that only gets scarier at night
 
 ---
 

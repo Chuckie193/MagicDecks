@@ -16,7 +16,12 @@
       "PowerShell(head *)",
       "PowerShell(Copy-Item *)",
       "WebFetch(domain:gatherer.wizards.com)",
-      "WebFetch(domain:edhrec.com)"
+      "WebFetch(domain:edhrec.com)",
+      "Bash(python3 -)",
+      "Bash(PYTHONIOENCODING=utf-8 python3 -)",
+      "Bash(python3 -c ' *)",
+      "Bash(git show *)",
+      "Bash(rm old_tovolar_tmp.txt)"
     ],
     "defaultMode": "acceptEdits"
   }
