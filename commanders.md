@@ -1,6 +1,6 @@
 # Potential Commanders
 
-All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **78 cards**.
+All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **89 cards**.
 
 ---
 
@@ -61,6 +61,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Arasta_of_the_Endless_Web.jpg" alt="Arasta of the Endless Web" width="200"> | **Arasta of the Endless Web** | Legendary Enchantment Creature — Spider | SquirreledAway |
 | <img src="images/commanders/Michelangelo_Game_Master.jpg" alt="Michelangelo, Game Master" width="200"> | **Michelangelo, Game Master** | Legendary Creature — Mutant Ninja Turtle |  |
 | <img src="images/commanders/Rocksteady_Crash_Courser.jpg" alt="Rocksteady, Crash Courser" width="200"> | **Rocksteady, Crash Courser** | Legendary Creature — Rhino Mutant |  |
+| <img src="images/commanders/Selvala_Heart_of_the_Wilds.jpg" alt="Selvala, Heart of the Wilds" width="200"> | **Selvala, Heart of the Wilds** | Legendary Creature — Elf Scout |  |
 | <img src="images/commanders/Toski_Bearer_of_Secrets.jpg" alt="Toski, Bearer of Secrets" width="200"> | **Toski, Bearer of Secrets** | Legendary Creature — Squirrel | SquirreledAway |
 | <img src="images/commanders/Zopandrel_Hunger_Dominus.jpg" alt="Zopandrel, Hunger Dominus" width="200"> | **Zopandrel, Hunger Dominus** | Legendary Creature — Phyrexian Horror |  |
 
@@ -79,6 +80,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Hazel_of_the_Rootbloom.jpg" alt="Hazel of the Rootbloom" width="200"> | **Hazel of the Rootbloom** | Legendary Creature — Squirrel Druid | SquirreledAway |
 | <img src="images/commanders/Lord_Dregg_Insect_Invader.jpg" alt="Lord Dregg, Insect Invader" width="200"> | **Lord Dregg, Insect Invader** | Legendary Creature — Insect Warrior |  |
 | <img src="images/commanders/The_Odd_Acorn_Gang.jpg" alt="The Odd Acorn Gang" width="200"> | **The Odd Acorn Gang** | Legendary Creature — Squirrel Warrior | SquirreledAway |
+| <img src="images/commanders/Ygra_Eater_of_All.jpg" alt="Ygra, Eater of All" width="200"> | **Ygra, Eater of All** | Legendary Creature — Elemental Cat |  |
 
 ## Black, Blue
 
@@ -92,11 +94,21 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 |------|------|------|--------|
 | <img src="images/commanders/Queza_Augur_of_Agonies.jpg" alt="Queza, Augur of Agonies" width="200"> | **Queza, Augur of Agonies** | Legendary Creature — Octopus Advisor |  |
 
+## Black, Green, Blue
+
+| Card | Name | Type | Precon |
+|------|------|------|--------|
+| <img src="images/commanders/Muldrotha_the_Gravetide.jpg" alt="Muldrotha, the Gravetide" width="200"> | **Muldrotha, the Gravetide** | Legendary Creature — Elemental Avatar |  |
+| <img src="images/commanders/Yarok_the_Desecrated.jpg" alt="Yarok, the Desecrated" width="200"> | **Yarok, the Desecrated** | Legendary Creature — Elemental Horror |  |
+
 ## Black, Green, Red, Blue, White
 
 | Card | Name | Type | Precon |
 |------|------|------|--------|
+| <img src="images/commanders/Ashling_the_Limitless.jpg" alt="Ashling, the Limitless" width="200"> | **Ashling, the Limitless** | Legendary Creature — Elemental Sorcerer |  |
+| <img src="images/commanders/Horde_of_Notions.jpg" alt="Horde of Notions" width="200"> | **Horde of Notions** | Legendary Creature — Elemental |  |
 | <img src="images/commanders/Jegantha_the_Wellspring.jpg" alt="Jegantha, the Wellspring" width="200"> | **Jegantha, the Wellspring** | Legendary Creature — Elemental Elk |  |
+| <img src="images/commanders/Mass_of_Mysteries.jpg" alt="Mass of Mysteries" width="200"> | **Mass of Mysteries** | Legendary Creature — Elemental |  |
 
 ## Black, Red, Blue
 
@@ -137,6 +149,15 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 |------|------|------|--------|
 | <img src="images/commanders/Migloz_Maze_Crusher.jpg" alt="Migloz, Maze Crusher" width="200"> | **Migloz, Maze Crusher** | Legendary Creature — Phyrexian Beast |  |
 | <img src="images/commanders/Muerra_Trash_Tactician.jpg" alt="Muerra, Trash Tactician" width="200"> | **Muerra, Trash Tactician** | Legendary Creature — Raccoon Warrior |  |
+| <img src="images/commanders/Omnath_Locus_of_Rage.jpg" alt="Omnath, Locus of Rage" width="200"> | **Omnath, Locus of Rage** | Legendary Creature — Elemental |  |
+| <img src="images/commanders/Tovolar_Dire_Overlord_Tovolar_the_Midnight_Scourge.jpg" alt="Tovolar, Dire Overlord // Tovolar, the Midnight Scourge" width="200"> | **Tovolar, Dire Overlord // Tovolar, the Midnight Scourge** | Legendary Creature — Human Werewolf // Legendary Creature — Werewolf |  |
+
+## Green, Red, Blue
+
+| Card | Name | Type | Precon |
+|------|------|------|--------|
+| <img src="images/commanders/Maelstrom_Wanderer.jpg" alt="Maelstrom Wanderer" width="200"> | **Maelstrom Wanderer** | Legendary Creature — Elemental |  |
+| <img src="images/commanders/Omnath_Locus_of_the_Roil.jpg" alt="Omnath, Locus of the Roil" width="200"> | **Omnath, Locus of the Roil** | Legendary Creature — Elemental |  |
 
 ## Green, White
 
