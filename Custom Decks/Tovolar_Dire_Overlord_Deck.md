@@ -5,11 +5,10 @@ Commander: Tovolar, Dire Overlord // Tovolar, the Midnight Scourge (2RG, Red/Gre
 ## Overview
 - **Strategy**: A werewolf/wolf tribal aggro deck. Cheap creatures flood the board and transform into bigger, scarier night-side threats; anthem effects (Immerwolf, Silverfur Partisan, Full Moon's Rise, Howlpack Resurgence) pump the whole team, and Tovolar rewards every werewolf/wolf connection with a card. Nightpack Ambusher and the newer daybound/nightbound werewolves push the game toward night, while transform-matters payoffs (Ascendant Packleader, Cult of the Waxing Moon, Runebound Wolf) turn each flip into value or reach.
 - **Source**: Supplied directly by the user (not generated from the owned Moxfield collection), so no cards here are cross-referenced against owned precons.
-- **Card count note**: This list is **101 cards**, one over the legal 100-card Commander limit. Per the user's instruction, no card has been cut — the trim will happen on Moxfield.
 
 ---
 
-## Decklist (101 cards)
+## Decklist (100 cards)
 
 ### Commander (1)
 - **Tovolar, Dire Overlord // Tovolar, the Midnight Scourge** — Draws a card whenever a Werewolf or Wolf you control deals combat damage to a player; transforms into a 7/6 that does the same to opponents' devoured/discarded creatures. The card-advantage and payoff engine for the whole tribal plan.
@@ -56,10 +55,9 @@ Commander: Tovolar, Dire Overlord // Tovolar, the Midnight Scourge (2RG, Red/Gre
 - **Howlpack Resurgence** — Flash anthem: Wolves/Werewolves you control get +1/+1 and trample — great as a combat trick or a wrath-dodge.
 - **Ranger Class** — Ramps and fixes early, becomes removal (fight) at Level 2, then a double-strike anthem at Level 3.
 
-### Artifacts & Mana (5)
+### Artifacts & Mana (4)
 - **Heirloom Blade** — Cheap Equipment that pumps and grants menace; menace helps push through with a wide werewolf board.
 - **Mind Stone** — Two-mana ramp that cracks for a card later in the game when mana is no longer needed.
-- **Scroll of Fate** — Repeatable manifest engine that turns excess cards into 2/2 bodies, tapping into the wide-board plan.
 - **Sol Ring** — The best ramp piece in Commander; accelerates into Tovolar and the rest of the curve.
 - **The Celestus** — Ramps and fixes mana while pushing the day/night cycle forward every turn, directly supporting the deck's transform payoffs.
 
@@ -110,7 +108,7 @@ Commander: Tovolar, Dire Overlord // Tovolar, the Midnight Scourge (2RG, Red/Gre
 
 *Deck list supplied by the user; not generated from the owned Moxfield collection.*
 
-**Version**: Draft | **Status**: 101 cards — pending a 1-card trim by the user
+**Version**: Draft | **Status**: Working version
 **Generated**: 2026-08-02
 
 ---
@@ -160,7 +158,6 @@ Commander: Tovolar, Dire Overlord // Tovolar, the Midnight Scourge (2RG, Red/Gre
 | Ranger Class | Enchantment | — |
 | Heirloom Blade | Artifact | — |
 | Mind Stone | Artifact | — |
-| Scroll of Fate | Artifact | — |
 | Sol Ring | Artifact | — |
 | The Celestus | Legendary Artifact | — |
 | Abrade | Instant | — |

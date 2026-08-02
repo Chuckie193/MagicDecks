@@ -39,7 +39,6 @@
 1 Ranger Class
 1 Heirloom Blade
 1 Mind Stone
-1 Scroll of Fate
 1 Sol Ring
 1 The Celestus
 1 Abrade
