@@ -38,7 +38,7 @@
 1 Howlpack Resurgence
 1 Ranger Class
 1 Heirloom Blade
-1 Mind Stone
+1 Scroll of Fate
 1 Sol Ring
 1 The Celestus
 1 Abrade
@@ -61,18 +61,18 @@
 1 Arlinn Kord // Arlinn, Embraced by the Moon
 1 Arlinn, the Pack's Hope // Arlinn, the Moon's Fury
 1 Arlinn, Voice of the Pack
+1 Bristling Backwoods
 1 Command Tower
 12 Forest
-1 Gruul Guildgate
-1 Gruul Turf
+1 Gongaga, Reactor Town
 1 Kessig Wolf Run
-1 Mossfire Valley
 12 Mountain
-1 Omashu City
 1 Ominous Cemetery
 1 Path of Ancestry
+1 Raging Ravine
 1 Rugged Highlands
 1 Savage Mansion
 1 Sheltered Thicket
+1 Study Hall
 1 Temple of Abandon
 1 Temple of the False God

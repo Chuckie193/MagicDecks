@@ -57,7 +57,7 @@ Commander: Tovolar, Dire Overlord // Tovolar, the Midnight Scourge (2RG, Red/Gre
 
 ### Artifacts & Mana (4)
 - **Heirloom Blade** — Cheap Equipment that pumps and grants menace; menace helps push through with a wide werewolf board.
-- **Mind Stone** — Two-mana ramp that cracks for a card later in the game when mana is no longer needed.
+- **Scroll of Fate** — Repeatable manifest engine that turns excess cards into 2/2 bodies, tapping into the wide-board plan.
 - **Sol Ring** — The best ramp piece in Commander; accelerates into Tovolar and the rest of the curve.
 - **The Celestus** — Ramps and fixes mana while pushing the day/night cycle forward every turn, directly supporting the deck's transform payoffs.
 
@@ -88,19 +88,19 @@ Commander: Tovolar, Dire Overlord // Tovolar, the Midnight Scourge (2RG, Red/Gre
 - **Arlinn, Voice of the Pack** — Makes Wolves, protects the board from a wrath, and pumps the team with reach — a stand-alone werewolf payoff.
 
 ### Lands (37)
+- **Bristling Backwoods** — Tapped Gruul dual (Desert) that pings an opponent for 1 on ETB — free reach before it ever taps for mana.
 - **Command Tower** — Taps for Red or Green with no downside.
 - **12 Forest** — Green basics.
-- **12 Mountain** — Red basics.
-- **Gruul Guildgate** — Tapped Gruul dual, simple fixing.
-- **Gruul Turf** — Tapped Gruul dual that can be sacrificed to ramp a land into play.
+- **Gongaga, Reactor Town** — Tapped Gruul dual, simple fixing.
 - **Kessig Wolf Run** — Finisher land: pump and trample for any creature, scaling with mana invested.
-- **Mossfire Valley** — Tapped Gruul dual, minor damage upside when tapped for mana.
-- **Omashu City** — Tapped Gruul dual that can later be sacrificed to draw a card.
+- **12 Mountain** — Red basics.
 - **Ominous Cemetery** — Colorless utility land that can exile and shuffle away a problem creature late.
 - **Path of Ancestry** — Gruul dual with a scry trigger when casting a creature that shares a type with Tovolar (Werewolf/Wolf).
+- **Raging Ravine** — Tapped Gruul dual that can become a growing 3/3+ creature — a mana source that doubles as a resilient late-game threat.
 - **Rugged Highlands** — Tapped Gruul dual with a small life gain trigger.
 - **Savage Mansion** — Gruul dual that can cycle away in the late game.
 - **Sheltered Thicket** — Tapped Gruul dual with cycling for graveyard fuel.
+- **Study Hall** — Taps for colorless or, for {1} more, any color; scries when that mana casts Tovolar from the command zone.
 - **Temple of Abandon** — Tapped Gruul dual with a scry trigger.
 - **Temple of the False God** — Colorless land with a large mana burst once the board is developed.
 
@@ -157,7 +157,7 @@ Commander: Tovolar, Dire Overlord // Tovolar, the Midnight Scourge (2RG, Red/Gre
 | Howlpack Resurgence | Enchantment | — |
 | Ranger Class | Enchantment | — |
 | Heirloom Blade | Artifact | — |
-| Mind Stone | Artifact | — |
+| Scroll of Fate | Artifact | — |
 | Sol Ring | Artifact | — |
 | The Celestus | Legendary Artifact | — |
 | Abrade | Instant | — |
@@ -180,18 +180,18 @@ Commander: Tovolar, Dire Overlord // Tovolar, the Midnight Scourge (2RG, Red/Gre
 | Arlinn Kord // Arlinn, Embraced by the Moon | Legendary Planeswalker | — |
 | Arlinn, the Pack's Hope // Arlinn, the Moon's Fury | Legendary Planeswalker | — |
 | Arlinn, Voice of the Pack | Legendary Planeswalker | — |
+| Bristling Backwoods | Land | — |
 | Command Tower | Land | — |
 | Forest (x12) | Basic Land | — |
-| Gruul Guildgate | Land | — |
-| Gruul Turf | Land | — |
+| Gongaga, Reactor Town | Land | — |
 | Kessig Wolf Run | Land | — |
-| Mossfire Valley | Land | — |
 | Mountain (x12) | Basic Land | — |
-| Omashu City | Land | — |
 | Ominous Cemetery | Land | — |
 | Path of Ancestry | Land | — |
+| Raging Ravine | Land | — |
 | Rugged Highlands | Land | — |
 | Savage Mansion | Land | — |
 | Sheltered Thicket | Land | — |
+| Study Hall | Land | — |
 | Temple of Abandon | Land | — |
 | Temple of the False God | Land | — |
