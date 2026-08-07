@@ -4,8 +4,8 @@ Commander: Tovolar, Dire Overlord // Tovolar, the Midnight Scourge (2RG, Red/Gre
 
 ## Overview
 - **Strategy**: A werewolf/wolf tribal aggro deck. Cheap creatures flood the board and transform into bigger, scarier night-side threats; anthem effects (Immerwolf, Silverfur Partisan, Full Moon's Rise, Howlpack Resurgence) pump the whole team, and Tovolar rewards every werewolf/wolf connection with a card. Nightpack Ambusher and the newer daybound/nightbound werewolves push the game toward night, while transform-matters payoffs (Ascendant Packleader, Cult of the Waxing Moon, Runebound Wolf) turn each flip into value or reach.
-- **Intended for**: Both — the low curve (average CMC ~3.2, 25 cards at 1-2 mana) and cheap, targeted removal suit fast 1v1 games, while the wide Wolf token production, Tovolar's per-hit card draw, and the Blasphemous Act/Volcanic Torrent sweepers keep scaling as more opponents join a pod.
-- **Source**: Original 100 supplied directly by the user; this revision cross-references the full decklist against the full owned Moxfield collection (including cards committed to Commander precon decks) and upgrades nine slots to shore up board wipes, commander protection, recursion, and ramp density.
+- **Intended for**: Both — the low curve (average CMC ~3.2, 24 cards at 1-2 mana) and cheap, targeted removal suit fast 1v1 games, while the wide Wolf token production, Tovolar's per-hit card draw, and the Blasphemous Act/Volcanic Torrent sweepers keep scaling as more opponents join a pod.
+- **Source**: Original 100 supplied directly by the user; this revision cross-references the full decklist against the full owned Moxfield collection (including cards committed to Commander precon decks) and upgrades nine slots to shore up board wipes, commander protection, recursion, and ramp density. It also restores Scroll of Fate, which an earlier session had trimmed from the user's supplied list to hit the 100-card limit before this deck's own improvement work began — the user's physical deck confirms it belongs, and Bite Down was cut to make room for it.
 
 ## Lore
 
@@ -61,17 +61,17 @@ Under Tovolar's rule, the moon doesn't rise — it *recruits*. One howl and the 
 - **Howlpack Resurgence** — Flash anthem: Wolves/Werewolves you control get +1/+1 and trample — great as a combat trick or a wrath-dodge.
 - **Ranger Class** — Ramps and fixes early, becomes removal (fight) at Level 2, then a double-strike anthem at Level 3.
 
-### Artifacts & Mana (6)
+### Artifacts & Mana (7)
 - **Air Shoes (Swiftfoot Boots)** — Equipped creature gains hexproof and haste; ongoing, re-equippable protection for Tovolar that Overprotect's one-shot save can't offer.
 - **Arcane Signet** — Two-mana rock that taps for either color in Tovolar's identity; pure acceleration into the curve.
 - **Fellwar Stone** — Two-mana rock that almost always taps for Red or Green off an opponent's lands; more early ramp density.
 - **Mind Stone** — Two-mana ramp that cracks for a card later in the game when mana is no longer needed.
+- **Scroll of Fate** — Repeatable manifest engine: tap to put a card from hand face down as a 2/2, turning excess cards into extra bodies that feed the anthem/token plan and can flip face up for their mana cost if they're creatures.
 - **Sol Ring** — The best ramp piece in Commander; accelerates into Tovolar and the rest of the curve.
 - **The Celestus** — Ramps and fixes mana while pushing the day/night cycle forward every turn, directly supporting the deck's transform payoffs.
 
-### Instants (8)
+### Instants (7)
 - **Abrade** — Flexible removal: 3 damage to a creature or destroy an artifact.
-- **Bite Down** — Free-ish fight spell using a creature's own power as removal.
 - **Chaos Warp** — Catch-all removal that hits any permanent, including problematic ones creature removal can't touch.
 - **Moonlight Hunt** — Every Wolf/Werewolf you control fights a single target — a one-sided team wipe against a key blocker.
 - **Moonmist** — Transforms all Humans (flipping werewolves early) and fogs all non-Wolf/Werewolf damage — a surprise combat blowout.
@@ -120,6 +120,7 @@ Under Tovolar's rule, the moon doesn't rise — it *recruits*. One howl and the 
 - **Moonmist + a full night-side board**: Once the team has transformed, Moonmist fogs all damage from anything that isn't a Wolf or Werewolf while also flipping any remaining Humans — a one-sided combat blowout against a swarm of non-tribal attackers.
 - **Blasphemous Act + Overprotect or Air Shoes**: Overprotect's indestructible (or Air Shoes' hexproof) lets a key attacker — Tovolar included — walk through your own Blasphemous Act untouched, so the deck can wipe a stalled board and still keep its best threat standing to swing back immediately. Volcanic Torrent never needs this trick, since it only hits opponents.
 - **Greenwarden of Murasa + Blasphemous Act**: A 5/4 body that shrugs off the deck's own board wipe better than most — even if it dies to Blasphemous Act, its death trigger fires to rebuy something else from the graveyard on the way out.
+- **Scroll of Fate + Immerwolf/Silverfur Partisan**: Scroll of Fate turns any excess card in hand into a fresh 2/2 body every turn, and that body still benefits from the deck's blanket anthems even though it isn't itself a Wolf or Werewolf — a way to keep flooding the board with mana that would otherwise go unused.
 
 ---
 
@@ -128,7 +129,8 @@ Under Tovolar's rule, the moon doesn't rise — it *recruits*. One howl and the 
 | Card Removed | Reason | Replaced By |
 |-------------|--------|-------------|
 | Ancient Grudge | Narrow artifact-only removal, redundant with Abrade/Chaos Warp/Decimate already covering artifacts | Blasphemous Act |
-| Friendly Rivalry | Situational fight spell requiring a second legendary creature, redundant with Bite Down/Wolf Strike/Moonlight Hunt | Overprotect |
+| Bite Down | Redundant third fight-based removal spell alongside Moonlight Hunt/Wolf Strike; cut to make room for restoring Scroll of Fate | Scroll of Fate |
+| Friendly Rivalry | Situational fight spell requiring a second legendary creature, redundant with Wolf Strike/Moonlight Hunt | Overprotect |
 | Heirloom Blade | Weak stand-alone equipment with no wider synergy | Fellwar Stone |
 | Horrid Vigor | Combat trick largely superseded by Overprotect's stronger, similarly-costed protection | Air Shoes (Swiftfoot Boots) |
 | Packsong Pup | Slow incremental value creature, outclassed by a real second recursion piece | Greenwarden of Murasa |
@@ -152,8 +154,8 @@ Under Tovolar's rule, the moon doesn't rise — it *recruits*. One howl and the 
 
 - 0 CMC: 0 cards
 - 1 CMC: 4 cards  | ████ (4)
-- 2 CMC: 21 cards | █████████████████████ (21)
-- 3 CMC: 16 cards | ████████████████ (16) *(includes Tovolar, Dire Overlord)*
+- 2 CMC: 20 cards | ████████████████████ (20)
+- 3 CMC: 17 cards | █████████████████ (17) *(includes Tovolar, Dire Overlord)*
 - 4 CMC: 13 cards | █████████████ (13)
 - 5 CMC: 4 cards  | ████ (4)
 - 6 CMC: 4 cards  | ████ (4)
@@ -174,9 +176,9 @@ Average CMC (non-land, exc. commander): ~3.2
 
 ## Why These Choices (Summary)
 
-- **Low, aggressive curve**: 25 of 63 non-land cards cost 1–2 mana, letting the deck flood the board early and start the day/night transform engine before opponents stabilize.
+- **Low, aggressive curve**: 24 of 63 non-land cards cost 1–2 mana, letting the deck flood the board early and start the day/night transform engine before opponents stabilize.
 - **Anthem-heavy tribal shell**: Immerwolf, Silverfur Partisan, Full Moon's Rise, and Howlpack Resurgence all pump the same Wolf/Werewolf base that Tovolar and Runebound Wolf already care about, so every card pulls double duty.
-- **Removal splits targeted and swept**: Abrade, Bite Down, Chaos Warp, Moonlight Hunt, and Wolf Strike answer individual threats, Decimate hits one of each permanent type, and Blasphemous Act plus Volcanic Torrent give the deck two real sweepers for stalled multiplayer boards — one symmetric (with Overprotect/Air Shoes able to shield a key attacker through it), one that only hits opponents.
+- **Removal splits targeted and swept**: Abrade, Chaos Warp, Moonlight Hunt, and Wolf Strike answer individual threats, Decimate hits one of each permanent type, and Blasphemous Act plus Volcanic Torrent give the deck two real sweepers for stalled multiplayer boards — one symmetric (with Overprotect/Air Shoes able to shield a key attacker through it), one that only hits opponents.
 - **Reach without extra combo pieces**: Runebound Wolf and Kessig Wolf Run give the deck a way to close games off token count alone, reducing reliance on connecting with Tovolar in combat.
 - **Filling the gaps from the collection**: Elvish Regrower and Greenwarden of Murasa add recursion where the deck previously had none, Arcane Signet and Fellwar Stone push ramp density from 4 to 6 pieces, Air Shoes gives Tovolar ongoing protection, and Mild-Mannered Librarian is one more cheap on-theme body that scales into the tribal count later.
 
@@ -272,10 +274,10 @@ Average CMC (non-land, exc. commander): ~3.2
 | Arcane Signet | Artifact | — |
 | Fellwar Stone | Artifact | — |
 | Mind Stone | Artifact | — |
+| Scroll of Fate | Artifact | — |
 | Sol Ring | Artifact | — |
 | The Celestus | Legendary Artifact | — |
 | Abrade | Instant | — |
-| Bite Down | Instant | — |
 | Chaos Warp | Instant | — |
 | Moonlight Hunt | Instant | — |
 | Moonmist | Instant | — |

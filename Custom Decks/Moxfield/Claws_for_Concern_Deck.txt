@@ -7,7 +7,6 @@
 1 Arlinn, Voice of the Pack
 1 Arlinn, the Pack's Hope // Arlinn, the Moon's Fury
 1 Ascendant Packleader
-1 Bite Down
 1 Blasphemous Act
 1 Breakneck Rider // Neck Breaker
 1 Chaos Warp
@@ -48,6 +47,7 @@
 1 Runebound Wolf
 1 Sage of Ancient Lore // Werewolf of Ancient Hunger
 1 Scorned Villager // Moonscarred Werewolf
+1 Scroll of Fate
 1 Silverfur Partisan
 1 Sol Ring
 1 The Celestus
