@@ -10,7 +10,6 @@
 1 Bite Down
 1 Blasphemous Act
 1 Breakneck Rider // Neck Breaker
-1 Chain Reaction
 1 Chaos Warp
 1 Child of the Pack // Savage Packmate
 1 Cult of the Waxing Moon
@@ -57,6 +56,7 @@
 1 Unnatural Moonrise
 1 Village Messenger // Moonrise Intruder
 1 Volatile Arsonist // Dire-Strain Anarchist
+1 Volcanic Torrent
 1 Weaver of Blossoms // Blossom-Clad Werewolf
 1 Werewolf Pack Leader
 1 Wolf Strike
