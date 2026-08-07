@@ -1,6 +1,7 @@
 1 Tovolar, Dire Overlord // Tovolar, the Midnight Scourge *CMDR*
 1 Abrade
 1 Afflicted Deserter // Werewolf Ransacker
+1 Air Shoes
 1 Arcane Signet
 1 Arlinn Kord // Arlinn, Embraced by the Moon
 1 Arlinn, Voice of the Pack
@@ -9,6 +10,7 @@
 1 Bite Down
 1 Blasphemous Act
 1 Breakneck Rider // Neck Breaker
+1 Chain Reaction
 1 Chaos Warp
 1 Child of the Pack // Savage Packmate
 1 Cult of the Waxing Moon
@@ -20,8 +22,8 @@
 1 Fellwar Stone
 1 Full Moon's Rise
 1 Geier Reach Bandit // Vildin-Pack Alpha
+1 Greenwarden of Murasa
 1 Hermit of the Natterknolls // Lone Wolf of the Natterknolls
-1 Horrid Vigor
 1 Hound Tamer // Untamed Pup
 1 Howlpack Piper // Wildsong Howler
 1 Howlpack Resurgence
@@ -41,11 +43,9 @@
 1 Nightpack Ambusher
 1 Outland Liberator // Frenzied Trapbreaker
 1 Overprotect
-1 Packsong Pup
 1 Rampant Growth
 1 Ranger Class
 1 Reckless Stormseeker // Storm-Charged Slasher
-1 Ruinous Intrusion
 1 Runebound Wolf
 1 Sage of Ancient Lore // Werewolf of Ancient Hunger
 1 Scorned Villager // Moonscarred Werewolf

@@ -4,8 +4,8 @@ Commander: Tovolar, Dire Overlord // Tovolar, the Midnight Scourge (2RG, Red/Gre
 
 ## Overview
 - **Strategy**: A werewolf/wolf tribal aggro deck. Cheap creatures flood the board and transform into bigger, scarier night-side threats; anthem effects (Immerwolf, Silverfur Partisan, Full Moon's Rise, Howlpack Resurgence) pump the whole team, and Tovolar rewards every werewolf/wolf connection with a card. Nightpack Ambusher and the newer daybound/nightbound werewolves push the game toward night, while transform-matters payoffs (Ascendant Packleader, Cult of the Waxing Moon, Runebound Wolf) turn each flip into value or reach.
-- **Intended for**: Both — the low curve (average CMC ~3.1, 26 cards at 1-2 mana) and cheap, targeted removal suit fast 1v1 games, while the wide Wolf token production, Tovolar's per-hit card draw, and the new Blasphemous Act sweeper keep scaling as more opponents join a pod.
-- **Source**: Original 100 supplied directly by the user; this revision cross-references the full decklist against the owned Moxfield collection and upgrades six slots using cards from `non_commander_cards.md` (Commander precons excluded from the pool) to shore up board wipes, commander protection, recursion, and ramp density.
+- **Intended for**: Both — the low curve (average CMC ~3.2, 25 cards at 1-2 mana) and cheap, targeted removal suit fast 1v1 games, while the wide Wolf token production, Tovolar's per-hit card draw, and the Blasphemous Act/Chain Reaction sweepers keep scaling as more opponents join a pod.
+- **Source**: Original 100 supplied directly by the user; upgraded across two revisions using the owned Moxfield collection — the first pass drew from `non_commander_cards.md` (Commander precons excluded), the second pulled in three more staples from the full collection, including cards committed to Commander precon decks, to further shore up board wipes, commander protection, and recursion.
 
 ## Lore
 
@@ -26,9 +26,10 @@ Under Tovolar's rule, the moon doesn't rise — it *recruits*. One howl and the 
 - **Cult of the Waxing Moon** — Creates a 2/2 Wolf token whenever a permanent you control transforms into a non-Human creature.
 - **Daybreak Ranger // Nightfall Predator** — Old-style werewolf; pings creatures by day, becomes a hasty removal machine by night.
 - **Duskwatch Recruiter // Krallenhorde Howler** — Digs for creatures by day; draws extra cards off the top at night. Premium card selection.
-- **Elvish Regrower** — ETB rebuys any permanent card from the graveyard back to hand, the deck's only recursion — insurance against Tovolar or Immerwolf falling to removal.
+- **Elvish Regrower** — ETB rebuys any permanent card from the graveyard back to hand — insurance against Tovolar or Immerwolf falling to removal.
 - **Fangblade Brigand // Fangblade Eviscerator** — Daybound pump-and-first-strike werewolf that buffs the whole team once it flips.
 - **Geier Reach Bandit // Vildin-Pack Alpha** — Old-style werewolf that grows the team's power as it and others transform.
+- **Greenwarden of Murasa** — Rebuys twice: ETB returns a card from the graveyard to hand, and when it dies it can exile itself to return another — the deck's second recursion source, and a beefy 5/4 body along the way.
 - **Hermit of the Natterknolls // Lone Wolf of the Natterknolls** — Old-style werewolf; solid stats on both sides, bigger at night.
 - **Hound Tamer // Untamed Pup** — Daybound creature that grows other Wolves/Werewolves as it and they transform.
 - **Howlpack Piper // Wildsong Howler** — Cheats creatures into play by day; refills the hand with a creature at night.
@@ -43,7 +44,6 @@ Under Tovolar's rule, the moon doesn't rise — it *recruits*. One howl and the 
 - **Mild-Mannered Librarian** — Cheap one-drop that can pay later to become a Werewolf, picking up two +1/+1 counters and a card — a low-cost body early that upgrades into another tribal body once the game slows down.
 - **Nightpack Ambusher** — Flash threat that makes a 2/2 Wolf every turn it becomes night — a key engine for pushing and profiting from the day/night cycle.
 - **Outland Liberator // Frenzied Trapbreaker** — Daybound artifact/enchantment removal by day, becomes a bigger threat by night.
-- **Packsong Pup** — Grows with a +1/+1 counter each combat if you control another Wolf/Werewolf; gains life on death.
 - **Reckless Stormseeker // Storm-Charged Slasher** — Daybound; grants a creature +1/+0 and haste by day, +2/+0 and trample by night. Excellent aggressive enabler.
 - **Runebound Wolf** — Taps to deal damage equal to your Wolf/Werewolf count to an opponent — a reach/finisher piece that scales with the tribal count.
 - **Sage of Ancient Lore // Werewolf of Ancient Hunger** — Old-style werewolf; draws a card and gains life by day, doubles the life gain by night.
@@ -61,27 +61,27 @@ Under Tovolar's rule, the moon doesn't rise — it *recruits*. One howl and the 
 - **Howlpack Resurgence** — Flash anthem: Wolves/Werewolves you control get +1/+1 and trample — great as a combat trick or a wrath-dodge.
 - **Ranger Class** — Ramps and fixes early, becomes removal (fight) at Level 2, then a double-strike anthem at Level 3.
 
-### Artifacts & Mana (5)
+### Artifacts & Mana (6)
+- **Air Shoes (Swiftfoot Boots)** — Equipped creature gains hexproof and haste; ongoing, re-equippable protection for Tovolar that Overprotect's one-shot save can't offer.
 - **Arcane Signet** — Two-mana rock that taps for either color in Tovolar's identity; pure acceleration into the curve.
 - **Fellwar Stone** — Two-mana rock that almost always taps for Red or Green off an opponent's lands; more early ramp density.
 - **Mind Stone** — Two-mana ramp that cracks for a card later in the game when mana is no longer needed.
 - **Sol Ring** — The best ramp piece in Commander; accelerates into Tovolar and the rest of the curve.
 - **The Celestus** — Ramps and fixes mana while pushing the day/night cycle forward every turn, directly supporting the deck's transform payoffs.
 
-### Instants (10)
+### Instants (8)
 - **Abrade** — Flexible removal: 3 damage to a creature or destroy an artifact.
 - **Bite Down** — Free-ish fight spell using a creature's own power as removal.
 - **Chaos Warp** — Catch-all removal that hits any permanent, including problematic ones creature removal can't touch.
-- **Horrid Vigor** — Combat trick: +2/+2 and can't be countered, protecting a key attacker.
 - **Moonlight Hunt** — Every Wolf/Werewolf you control fights a single target — a one-sided team wipe against a key blocker.
 - **Moonmist** — Transforms all Humans (flipping werewolves early) and fogs all non-Wolf/Werewolf damage — a surprise combat blowout.
 - **Overprotect** — +3/+3, trample, hexproof, and indestructible for two mana — the deck's best way to save Tovolar or a key attacker from removal or a bad block.
-- **Ruinous Intrusion** — Instant-speed removal/utility spell for the Gruul toolbox.
 - **Uncaged Fury** — Doubles a creature's power until end of turn — a huge, cheap finisher trick.
 - **Wolf Strike** — Pumps a creature (more at night) then has it fight an opposing creature — removal and a combat trick in one.
 
-### Sorceries (5)
+### Sorceries (6)
 - **Blasphemous Act** — The deck's first true board wipe; usually costs 1-3 mana with a developed board and clears a stalled opposing board that the deck's own anthem/token plan can rebuild from faster than most.
+- **Chain Reaction** — A second true sweeper: deals damage to every creature on the battlefield equal to the total creature count — devastating once a pod's boards are wide, and Overprotect can again save one attacker through it.
 - **Decimate** — Four-for-one removal, hitting an artifact, creature, enchantment, and land simultaneously.
 - **Into the Night** — Pushes the game to night immediately (flipping every daybound werewolf) while looting for gas.
 - **Rampant Growth** — Standard ramp/fixing, finding any basic land.
@@ -118,7 +118,8 @@ Under Tovolar's rule, the moon doesn't rise — it *recruits*. One howl and the 
 - **Nightpack Ambusher + Cult of the Waxing Moon**: Nightpack Ambusher mints a 2/2 Wolf every turn it becomes night; each of those transforms/tokens is itself a non-Human creature entering, so Cult of the Waxing Moon can chain off transformations elsewhere on the board for even more tokens.
 - **Runebound Wolf + go-wide Wolf tokens**: Huntmaster of the Fells, Tovolar's Huntmaster, Silverfur Partisan, Nightpack Ambusher, and the Arlinn planeswalkers all flood the board with 2/2 Wolves; Runebound Wolf taps to convert that count directly into reach damage, giving the deck a finisher that doesn't need combat.
 - **Moonmist + a full night-side board**: Once the team has transformed, Moonmist fogs all damage from anything that isn't a Wolf or Werewolf while also flipping any remaining Humans — a one-sided combat blowout against a swarm of non-tribal attackers.
-- **Blasphemous Act + Overprotect**: Overprotect's indestructible lets a key attacker (Tovolar included) walk through your own Blasphemous Act untouched, so the deck can wipe a stalled board and still keep its best threat standing to swing back immediately.
+- **Blasphemous Act / Chain Reaction + Overprotect or Air Shoes**: Overprotect's indestructible (or Air Shoes' hexproof, which dodges Chain Reaction's damage entirely) lets a key attacker — Tovolar included — walk through either sweeper untouched, so the deck can wipe a stalled board and still keep its best threat standing to swing back immediately.
+- **Greenwarden of Murasa + a sweeper**: A 5/4 body that shrugs off the deck's own board wipes better than most — even if it dies to Blasphemous Act or Chain Reaction, its death trigger fires to rebuy something else from the graveyard on the way out.
 
 ---
 
@@ -129,6 +130,9 @@ Under Tovolar's rule, the moon doesn't rise — it *recruits*. One howl and the 
 | Ancient Grudge | Narrow artifact-only removal, redundant with Abrade/Chaos Warp/Decimate already covering artifacts | Blasphemous Act |
 | Friendly Rivalry | Situational fight spell requiring a second legendary creature, redundant with Bite Down/Wolf Strike/Moonlight Hunt | Overprotect |
 | Heirloom Blade | Weak stand-alone equipment with no wider synergy | Fellwar Stone |
+| Horrid Vigor | Combat trick largely superseded by Overprotect's stronger, similarly-costed protection | Air Shoes (Swiftfoot Boots) |
+| Packsong Pup | Slow incremental value creature, outclassed by a real second recursion piece | Greenwarden of Murasa |
+| Ruinous Intrusion | Narrow artifact/enchantment removal with a minor counters upside the deck doesn't otherwise lean on | Chain Reaction |
 | Snakeskin Veil | Only hexproof (no indestructible) for a similar cost to the stronger Overprotect | Arcane Signet |
 | Thrill of Possibility | Generic card filtering, less impactful than an on-theme werewolf body | Mild-Mannered Librarian |
 | Village Watch // Village Reavers | Vanilla-ish body with no text beyond stats, weakest of the deck's many werewolves | Elvish Regrower |
@@ -148,14 +152,14 @@ Under Tovolar's rule, the moon doesn't rise — it *recruits*. One howl and the 
 
 - 0 CMC: 0 cards
 - 1 CMC: 4 cards  | ████ (4)
-- 2 CMC: 22 cards | ██████████████████████ (22)
+- 2 CMC: 21 cards | █████████████████████ (21)
 - 3 CMC: 16 cards | ████████████████ (16) *(includes Tovolar, Dire Overlord)*
 - 4 CMC: 14 cards | ██████████████ (14)
 - 5 CMC: 3 cards  | ███ (3)
-- 6 CMC: 3 cards  | ███ (3)
+- 6 CMC: 4 cards  | ████ (4)
 - 7+ CMC: 1 card   | █ (1) *(Blasphemous Act, MV 9)*
 
-Average CMC (non-land, exc. commander): ~3.1
+Average CMC (non-land, exc. commander): ~3.2
 
 ---
 
@@ -170,11 +174,11 @@ Average CMC (non-land, exc. commander): ~3.1
 
 ## Why These Choices (Summary)
 
-- **Low, aggressive curve**: 26 of 63 non-land cards cost 1–2 mana, letting the deck flood the board early and start the day/night transform engine before opponents stabilize.
+- **Low, aggressive curve**: 25 of 63 non-land cards cost 1–2 mana, letting the deck flood the board early and start the day/night transform engine before opponents stabilize.
 - **Anthem-heavy tribal shell**: Immerwolf, Silverfur Partisan, Full Moon's Rise, and Howlpack Resurgence all pump the same Wolf/Werewolf base that Tovolar and Runebound Wolf already care about, so every card pulls double duty.
-- **Removal splits targeted and swept**: Abrade, Bite Down, Chaos Warp, Moonlight Hunt, and Wolf Strike answer individual threats, Decimate hits one of each permanent type, and Blasphemous Act now gives the deck a real sweeper for stalled multiplayer boards — with Overprotect able to shield a key attacker through it.
+- **Removal splits targeted and swept**: Abrade, Bite Down, Chaos Warp, Moonlight Hunt, and Wolf Strike answer individual threats, Decimate hits one of each permanent type, and Blasphemous Act plus Chain Reaction now give the deck two real sweepers for stalled multiplayer boards — with Overprotect or Air Shoes able to shield a key attacker through either one.
 - **Reach without extra combo pieces**: Runebound Wolf and Kessig Wolf Run give the deck a way to close games off token count alone, reducing reliance on connecting with Tovolar in combat.
-- **Filling the gaps from the collection**: Elvish Regrower adds the deck's only recursion, Arcane Signet and Fellwar Stone push ramp density from 4 to 6 pieces, and Mild-Mannered Librarian is one more cheap on-theme body that scales into the tribal count later.
+- **Filling the gaps from the collection**: Elvish Regrower and Greenwarden of Murasa add recursion where the deck previously had none, Arcane Signet and Fellwar Stone push ramp density from 4 to 6 pieces, Air Shoes gives Tovolar ongoing protection, and Mild-Mannered Librarian is one more cheap on-theme body that scales into the tribal count later.
 
 ---
 
@@ -187,19 +191,19 @@ Average CMC (non-land, exc. commander): ~3.1
 - Runebound Wolf and Kessig Wolf Run provide finishers that don't depend on Tovolar surviving combat
 
 **Weaknesses/Missing Staples**:
-- **Board wipes**: Blasphemous Act gives one true sweeper; a second (e.g. Chain Reaction) would help longer multiplayer pod games where the board resets more than once
-- **Commander protection**: Overprotect covers a one-shot save, but there's still no equipment offering ongoing hexproof/indestructible for Tovolar
-- **Graveyard recursion**: Elvish Regrower is a single one-shot rebuy — the deck still can't recur a second lost threat later in the game
-- **Ramp density**: Now 6 pieces (Sol Ring, Mind Stone, The Celestus, Rampant Growth, Arcane Signet, Fellwar Stone), better than before but still light for a deck wanting to hit its curve on turn 3
+- **Board wipes**: Two true sweepers now (Blasphemous Act, Chain Reaction) — enough for most pod games, though Chain Reaction hits the deck's own board too, so sequence it carefully
+- **Commander protection**: Air Shoes gives Tovolar ongoing, re-equippable hexproof and Overprotect covers a one-shot combat save — solid coverage, though neither stops non-targeted effects like Chain Reaction unless equipped/cast in time
+- **Graveyard recursion**: Elvish Regrower and Greenwarden of Murasa give two rebuys — good insurance, though both are one-shot (no repeatable recursion engine)
+- **Ramp density**: 6 pieces (Sol Ring, Mind Stone, The Celestus, Rampant Growth, Arcane Signet, Fellwar Stone) — comfortable for a curve topping out around 4-5 mana
 
 ---
 
 ## Next Steps (Optional Suggestions)
 
-- A dedicated protection equipment (Swiftfoot Boots, Lightning Greaves) would give Tovolar ongoing hexproof/shroud instead of Overprotect's one-shot save
-- A second board wipe would help longer multiplayer pod games that outlast a single Blasphemous Act
+- Consider a second copy-effect or a way to reuse Chain Reaction/Blasphemous Act's Overprotect/Air Shoes protection trick, since both sweepers hit your own board too
+- Lightning Greaves (a second copy is owned) would let two threats carry protection equipment at once if the meta gets removal-heavy
 - Test whether Immerwolf's "can't transform back to day" clause ever costs value against Ascendant Packleader/Silverfur Partisan triggers that want repeated transforms
-- If the collection expands, look for additional werewolf tribal payoffs or a second recursion piece to round out the graveyard plan
+- If the collection expands, look for a repeatable recursion engine (e.g. a graveyard-to-battlefield loop) to replace the one-shot Elvish Regrower/Greenwarden pair
 
 ---
 
@@ -212,10 +216,10 @@ Average CMC (non-land, exc. commander): ~3.1
 
 ---
 
-*Original deck list supplied by the user; this revision's upgrades were drawn from the owned Moxfield collection (non_commander_cards.md, Commander precons excluded).*
+*Original deck list supplied by the user; upgraded across two revisions from the owned Moxfield collection — the second revision draws from the full collection, including cards committed to Commander precon decks.*
 
 **Version**: Draft | **Status**: Working version
-**Generated**: 2026-08-02 | **Revised**: 2026-08-06
+**Generated**: 2026-08-02 | **Revised**: 2026-08-06, 2026-08-07
 
 ---
 
@@ -226,6 +230,8 @@ Average CMC (non-land, exc. commander): ~3.1
 | Tovolar, Dire Overlord // Tovolar, the Midnight Scourge | Commander | — |
 | Elvish Regrower | Creature | Foundations Beginner Box |
 | Mild-Mannered Librarian | Creature | Foundations Beginner Box |
+| Chain Reaction | Sorcery | Counter Intelligence |
+| Air Shoes (Swiftfoot Boots) | Artifact | Sonic the Hedgehog TurboGear |
 | Afflicted Deserter // Werewolf Ransacker | Creature | — |
 | Ascendant Packleader | Creature | — |
 | Breakneck Rider // Neck Breaker | Creature | — |
@@ -235,6 +241,7 @@ Average CMC (non-land, exc. commander): ~3.1
 | Duskwatch Recruiter // Krallenhorde Howler | Creature | — |
 | Fangblade Brigand // Fangblade Eviscerator | Creature | — |
 | Geier Reach Bandit // Vildin-Pack Alpha | Creature | — |
+| Greenwarden of Murasa | Creature | — |
 | Hermit of the Natterknolls // Lone Wolf of the Natterknolls | Creature | — |
 | Hound Tamer // Untamed Pup | Creature | — |
 | Howlpack Piper // Wildsong Howler | Creature | — |
@@ -248,7 +255,6 @@ Average CMC (non-land, exc. commander): ~3.1
 | Mayor of Avabruck // Howlpack Alpha | Creature | — |
 | Nightpack Ambusher | Creature | — |
 | Outland Liberator // Frenzied Trapbreaker | Creature | — |
-| Packsong Pup | Creature | — |
 | Reckless Stormseeker // Storm-Charged Slasher | Creature | — |
 | Runebound Wolf | Creature | — |
 | Sage of Ancient Lore // Werewolf of Ancient Hunger | Creature | — |
@@ -271,11 +277,9 @@ Average CMC (non-land, exc. commander): ~3.1
 | Abrade | Instant | — |
 | Bite Down | Instant | — |
 | Chaos Warp | Instant | — |
-| Horrid Vigor | Instant | — |
 | Moonlight Hunt | Instant | — |
 | Moonmist | Instant | — |
 | Overprotect | Instant | — |
-| Ruinous Intrusion | Instant | — |
 | Uncaged Fury | Instant | — |
 | Wolf Strike | Instant | — |
 | Blasphemous Act | Sorcery | — |
