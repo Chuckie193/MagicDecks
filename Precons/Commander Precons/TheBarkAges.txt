@@ -2,7 +2,7 @@
 1 Abrade (2XM) 114
 1 Afflicted Deserter // Werewolf Ransacker (DKA) 81
 1 Ancient Grudge (PLST)
-1 Arlinn Kord // Arlinn, Embraced by the Moon (PLST) SOI-243
+1 Arlinn Kord // Arlinn, Embraced by the Moon (PLST)
 1 Arlinn, the Pack's Hope // Arlinn, the Moon's Fury (MID) 279
 1 Arlinn, Voice of the Pack (WAR) 150
 1 Ascendant Packleader (VOW) 186
