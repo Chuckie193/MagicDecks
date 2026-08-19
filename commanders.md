@@ -1,6 +1,6 @@
 # Potential Commanders
 
-All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **118 cards**.
+All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **119 cards**.
 
 ---
 
@@ -36,6 +36,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Mmmenon_the_Right_Hand.jpg" alt="Mm'menon, the Right Hand" width="200"> | **Mm'menon, the Right Hand** | Legendary Creature — Jellyfish Advisor |  |
 | <img src="images/commanders/Stockman_Mad_Fly_entist.jpg" alt="Stockman, Mad Fly-entist" width="200"> | **Stockman, Mad Fly-entist** | Legendary Creature — Insect Mutant Scientist |  |
 | <img src="images/commanders/Tekuthal_Inquiry_Dominus.jpg" alt="Tekuthal, Inquiry Dominus" width="200"> | **Tekuthal, Inquiry Dominus** | Legendary Creature — Phyrexian Horror | CounterIntelligence |
+| <img src="images/commanders/The_Lord_of_the_Eagles.jpg" alt="The Lord of the Eagles" width="200"> | **The Lord of the Eagles** | Legendary Creature — Bird Noble |  |
 
 ## Black
 

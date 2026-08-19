@@ -397,6 +397,7 @@
 | Gitaxian Raptor | https://api.scryfall.com/cards/4f5e95f8-c04d-405f-bba4-e83a8f6bf463 | https://scryfall.com/card/one/53/gitaxian-raptor?utm_source=api | 2 generic, Blue | Creature — Phyrexian Bird | Flying This creature enters with three oil counters on it. Remove an oil counter from this creature: This creature gets +1/-1 until end of turn. | 1 | 4 | Blue | Blue |  | https://api.scryfall.com/cards/named?fuzzy=Gitaxian%20Raptor (OK 200) |
 | Glacial Fortress | https://api.scryfall.com/cards/a1fc8d86-b118-46e3-92a5-8cbf2ca282f7 | https://scryfall.com/card/eoc/160/glacial-fortress?utm_source=api | 0 (no mana cost) | Land | This land enters tapped unless you control a Plains or an Island. [Tap]: Add [White] or [Blue]. |  |  | Colorless or None | Blue, White |  | https://api.scryfall.com/cards/named?fuzzy=Glacial%20Fortress (OK 200) |
 | Glamermite | https://api.scryfall.com/cards/b8b7c23a-0034-453c-ab44-f6ec0f31d1eb | https://scryfall.com/card/ecl/50/glamermite?utm_source=api | 2 generic, Blue | Creature — Faerie Rogue | Flash Flying When this creature enters, choose one — • Tap target creature. • Untap target creature. | 2 | 2 | Blue | Blue |  | https://api.scryfall.com/cards/named?fuzzy=Glamermite (OK 200) |
+| Gleaming Splendor | https://api.scryfall.com/cards/3b087bd4-bbb7-4963-bdb6-0a700ff19a04 | https://scryfall.com/card/hob/15/gleaming-splendor?utm_source=api | 1 generic, White | Enchantment | Whenever an opponent draws their second card each turn, you create a Treasure token. [2][White]: Two target players each draw a card. |  |  | White | White |  | https://api.scryfall.com/cards/named?fuzzy=Gleaming%20Splendor (OK 200) |
 | Glistener Seer | https://api.scryfall.com/cards/c22aaaec-bad5-43e9-8e92-9c4bde95fcfd | https://scryfall.com/card/one/54/glistener-seer?utm_source=api | Blue | Creature — Phyrexian Advisor | This creature enters with three oil counters on it. [Tap], Remove an oil counter from this creature: Scry 1. (Look at the top card of your library. You may put that card on the bottom.) | 0 | 3 | Blue | Blue |  | https://api.scryfall.com/cards/named?fuzzy=Glistener%20Seer (OK 200) |
 | Glittering Massif | https://api.scryfall.com/cards/0f741296-c523-49bd-9ff4-ce2a1a70883e | https://scryfall.com/card/soc/376/glittering-massif?utm_source=api | 0 (no mana cost) | Land — Mountain Plains | ([Tap]: Add [Red] or [White].) This land enters tapped. Cycling [2] ([2], Discard this card: Draw a card.) |  |  | Colorless or None | Red, White |  | https://api.scryfall.com/cards/named?fuzzy=Glittering%20Massif (OK 200) |
 | Glóin the Mighty // Easy Pickings | https://api.scryfall.com/cards/5793b8eb-2fc5-454d-8fa2-20346fef167a | https://scryfall.com/card/hob/99/gl%C3%B3in-the-mighty-easy-pickings?utm_source=api | 5 generic, Red, Red | Legendary Creature — Dwarf Warrior // Sorcery — Adventure |  | 4 | 3 | Red | Red |  | https://api.scryfall.com/cards/named?fuzzy=Gl%C3%B3in%20the%20Mighty%20%2F%2F%20Easy%20Pickings (OK 200) |
@@ -1028,6 +1029,7 @@
 | The Eagles Are Coming! | https://api.scryfall.com/cards/0bda1b62-47fc-42c2-a841-ccad8ea0db48 | https://scryfall.com/card/hob/12/the-eagles-are-coming!?utm_source=api | 1 generic, White | Instant | Kicker [2][White][White] (You may pay an additional [2][White][White] as you cast this spell.) Choose target creature you own. If this spell was kicked, instead choose any number of target creatures you own. Return each chosen creature to your hand. At the beginning of the next upkeep, create a 4/4 white Bird Soldier creature token with flying for each creature returned to your hand this way. |  |  | White | White |  | https://api.scryfall.com/cards/named?fuzzy=The%20Eagles%20Are%20Coming%21 (OK 200) |
 | The Last Ronin | https://api.scryfall.com/cards/72ab3ccf-3ddb-4dd1-9cfb-98802a18d954 | https://scryfall.com/card/tmt/154/the-last-ronin?utm_source=api | 4 generic, Black, Green | Enchantment — Saga | (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) I — Destroy all creatures. II — Mill four cards. When you do, return target creature card from your graveyard to your hand. III — Whenever a creature you control attacks alone this turn, put three +1/+1 counters on it. It gains trample, lifelink, and indestructible until end of turn. |  |  | Black, Green | Black, Green |  | https://api.scryfall.com/cards/named?fuzzy=The%20Last%20Ronin (OK 200) |
 | The Last Ronin's Technique | https://api.scryfall.com/cards/dfb18239-d373-4795-8598-c82abae2cb62 | https://scryfall.com/card/tmt/12/the-last-ronins-technique?utm_source=api | 3 generic, White | Instant | Sneak [1][White] (You may cast this spell for [1][White] if you also return an unblocked attacker you control to hand during the declare blockers step.) Create three 1/1 white Ninja Turtle Spirit creature tokens. If this spell's sneak cost was paid, they enter tapped and attacking. |  |  | White | White |  | https://api.scryfall.com/cards/named?fuzzy=The%20Last%20Ronin%27s%20Technique (OK 200) |
+| The Lord of the Eagles | https://api.scryfall.com/cards/fa0554fc-9448-4ae2-8712-4f4f7af3c7b4 | https://scryfall.com/card/hob/46/the-lord-of-the-eagles?utm_source=api | 7 generic, Blue, Blue | Legendary Creature — Bird Noble | Flash This spell costs [X (variable)] less to cast, where X is the total power of creatures you control with flying. Flying | 8 | 8 | Blue | Blue |  | https://api.scryfall.com/cards/named?fuzzy=The%20Lord%20of%20the%20Eagles (OK 200) |
 | The Master of Lake-town | https://api.scryfall.com/cards/3788ada6-34a9-41af-a31c-2d090550e503 | https://scryfall.com/card/hob/77/the-master-of-lake-town?utm_source=api | 1 generic, Black, Black | Legendary Creature — Human Advisor | Deathtouch Whenever a player loses life, that player mills that many cards. (Damage causes loss of life.) When The Master of Lake-town dies, draw a card for each graveyard with seven or more cards in it. | 3 | 2 | Black | Black |  | https://api.scryfall.com/cards/named?fuzzy=The%20Master%20of%20Lake-town (OK 200) |
 | The Misty Mountains Cold | https://api.scryfall.com/cards/3d5f35ff-4146-4844-9da5-031461cc8c05 | https://scryfall.com/card/hob/104/the-misty-mountains-cold?utm_source=api | 2 generic, Red | Enchantment — Saga | (As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.) I, II, III, IV — Create a Treasure token. Then if you control four or more Treasures, sacrifice this Saga. If you do, create a 6/6 red Dragon creature token with flying. (A Treasure token is an artifact with "[Tap], Sacrifice this token: Add one mana of any color.") |  |  | Red | Red |  | https://api.scryfall.com/cards/named?fuzzy=The%20Misty%20Mountains%20Cold (OK 200) |
 | The Mountain-king's Return | https://api.scryfall.com/cards/68f4893d-e9a5-4f89-ade3-9ab78a834ad5 | https://scryfall.com/card/hob/22/the-mountain-kings-return?utm_source=api | 2 generic, White | Enchantment — Saga | (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.) I — Recruit. (Draw a card, then discard a card. If you discarded a nonland card, create a 1/1 white Human Soldier creature token.) II — Return target creature card with mana value 3 or less from your graveyard to the battlefield. III — Put a +1/+1 counter on up to one target creature. |  |  | White | White |  | https://api.scryfall.com/cards/named?fuzzy=The%20Mountain-king%27s%20Return (OK 200) |
@@ -9233,6 +9235,26 @@ When this creature enters, choose one —
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Glamermite -> success (HTTP 200)
+
+## Gleaming Splendor
+
+- uri: https://api.scryfall.com/cards/3b087bd4-bbb7-4963-bdb6-0a700ff19a04
+- scryfall_uri: https://scryfall.com/card/hob/15/gleaming-splendor?utm_source=api
+- mana_cost: 1 generic, White
+- type_line: Enchantment
+- oracle_text: Whenever an opponent draws their second card each turn, you create a Treasure token.
+[2][White]: Two target players each draw a card.
+- colors: White
+- color_identity: White
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Gleaming%20Splendor
+- https://api.scryfall.com/cards/named?fuzzy=Gleaming%20Splendor
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Gleaming%20Splendor -> success (HTTP 200)
 
 ## Glistener Seer
 
@@ -22119,6 +22141,28 @@ Create three 1/1 white Ninja Turtle Spirit creature tokens. If this spell's snea
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=The%20Last%20Ronin%27s%20Technique -> success (HTTP 200)
+
+## The Lord of the Eagles
+
+- uri: https://api.scryfall.com/cards/fa0554fc-9448-4ae2-8712-4f4f7af3c7b4
+- scryfall_uri: https://scryfall.com/card/hob/46/the-lord-of-the-eagles?utm_source=api
+- mana_cost: 7 generic, Blue, Blue
+- type_line: Legendary Creature — Bird Noble
+- oracle_text: Flash
+This spell costs [X (variable)] less to cast, where X is the total power of creatures you control with flying.
+Flying
+- power/toughness: 8/8
+- colors: Blue
+- color_identity: Blue
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=The%20Lord%20of%20the%20Eagles
+- https://api.scryfall.com/cards/named?fuzzy=The%20Lord%20of%20the%20Eagles
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=The%20Lord%20of%20the%20Eagles -> success (HTTP 200)
 
 ## The Master of Lake-town
 

@@ -1,9 +1,9 @@
-# Non-Commander-Precon Cards (generated 2026-08-12T20:46:55.739862+00:00Z)
+# Non-Commander-Precon Cards (generated 2026-08-19T19:41:27.237053+00:00Z)
 
 Cards you own that are not reserved by a Commander precon, or copies in excess of Commander precon requirements. Cards from other precons (Secret Lairs, Foundations, etc.) are included here as they are free to use in custom decks.
 
-**Total distinct cards:** 874  
-**Total copies:** 1427
+**Total distinct cards:** 876  
+**Total copies:** 1436
 
 | Card | Copies | CMC | Type | Color Identity | Notes |
 |------|:------:|:---:|------|----------------|-------|
@@ -57,7 +57,7 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Bear Cub | 1 | 2 | Creature | Green | not in any commander precon |
 | Beast-Kin Ranger | 1 | 3 | Creature | Green | not in any commander precon |
 | Bebop, Warthog Warrior | ×3 | 5 | Legendary Creature | Black | not in any commander precon |
-| Belladonna Took | ×2 | 2 | Legendary Creature | White | not in any commander precon |
+| Belladonna Took | ×3 | 2 | Legendary Creature | White | not in any commander precon |
 | Bellowing Crier | ×3 | 2 | Creature | Blue | not in any commander precon |
 | Beorn the Fierce | 1 | 5 | Legendary Creature | Green | not in any commander precon |
 | Beorn, Reluctant Host // Till and Tend | ×2 | 5 | Legendary Creature | Green | not in any commander precon |
@@ -302,6 +302,7 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Gilt-Leaf's Embrace | 1 | 3 | Enchantment | Green | not in any commander precon |
 | Gitaxian Raptor | 1 | 3 | Creature | Blue | not in any commander precon |
 | Glamermite | 1 | 3 | Creature | Blue | not in any commander precon |
+| Gleaming Splendor | 1 | 2 | Enchantment | White | not in any commander precon |
 | Glistener Seer | 1 | 1 | Creature | Blue | not in any commander precon |
 | Glóin the Mighty // Easy Pickings | ×2 | 4 | Legendary Creature | Red | not in any commander precon |
 | Gnarlbark Elm | ×2 | 3 | Creature | Black | not in any commander precon |
@@ -321,7 +322,7 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Gollum, Silent Slinker // Meager Meal | ×2 | 4 | Legendary Creature | Black | not in any commander precon |
 | Gongaga, Reactor Town | 1 | 0 | Land | Green, Red | not in any commander precon |
 | Gravblade Heavy | 1 | 4 | Creature | Black | not in any commander precon |
-| Great Fierce Bee | 1 | 3 | Creature | Black | not in any commander precon |
+| Great Fierce Bee | ×2 | 3 | Creature | Black | not in any commander precon |
 | Great Gilded Boat | 1 | 3 | Artifact | Blue | not in any commander precon |
 | Great Ugly-Looking Goblin // Clap! Snap! | ×2 | 6 | Creature | Black | not in any commander precon |
 | Grounded for Life | ×2 | 5 | Instant | White | not in any commander precon |
@@ -535,7 +536,7 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Open the Armory | 1 | 2 | Sorcery | White | not in any commander precon |
 | Opt | 1 | 1 | Instant | Blue | not in any commander precon |
 | Oracle's Restoration | 1 | 1 | Sorcery | Green | not in any commander precon |
-| Ordinary Bear | ×3 | 4 | Creature | Green | not in any commander precon |
+| Ordinary Bear | ×4 | 4 | Creature | Green | not in any commander precon |
 | Oreplate Pangolin | ×2 | 2 | Artifact Creature | Red | not in any commander precon |
 | Ori, Keeper of Songs | ×2 | 3 | Legendary Creature | White | not in any commander precon |
 | Oroku Saki, Shredder Rising | ×3 | 3 | Legendary Creature | Black | not in any commander precon |
@@ -693,7 +694,7 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Sol Ring | ×2 | 1 | Artifact | Colorless | 4 copies used by Counter Intelligence; Dance Of The Elements; Prismari Artistry; Squirreled Away |
 | Sonic the Hedgehog | 1 | 4 | Legendary Creature | Red, Blue, White | not in any commander precon |
 | Soul-Guide Gryff | 1 | 5 | Creature | White | not in any commander precon |
-| Sound the Trumpets | 1 | 3 | Instant | Blue | not in any commander precon |
+| Sound the Trumpets | ×2 | 3 | Instant | Blue | not in any commander precon |
 | Spectacle Summit | 1 | 0 | Land | Red, Blue | 1 copy used by Prismari Artistry |
 | Spectral Sailor | 1 | 1 | Creature | Blue | not in any commander precon |
 | Spellgyre | 1 | 4 | Instant | Blue | not in any commander precon |
@@ -715,7 +716,7 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Starseer Mentor | 1 | 5 | Creature | Black, White | not in any commander precon |
 | Starting Column | 1 | 3 | Artifact | Colorless | not in any commander precon |
 | Sting, Bilbo's Sword | 1 | 2 | Legendary Artifact | Colorless | not in any commander precon |
-| Stir Up Trouble | ×3 | 1 | Sorcery | Black | not in any commander precon |
+| Stir Up Trouble | ×4 | 1 | Sorcery | Black | not in any commander precon |
 | Stirring Honormancer | 1 | 5 | Creature | Black, White | not in any commander precon |
 | Stock Up | 1 | 3 | Sorcery | Blue | not in any commander precon |
 | Stockman, Mad Fly-entist | ×2 | 5 | Legendary Creature | Blue | not in any commander precon |
@@ -760,11 +761,12 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Thawbringer | ×2 | 3 | Creature | Green | not in any commander precon |
 | The Black Arrow | ×2 | 3 | Legendary Artifact | Colorless | not in any commander precon |
 | The Celestus | 1 | 3 | Legendary Artifact | Colorless | not in any commander precon |
-| The Chief Warg | 1 | 4 | Legendary Creature | Black, Green | not in any commander precon |
+| The Chief Warg | ×2 | 4 | Legendary Creature | Black, Green | not in any commander precon |
 | The Cloning of Shredder | ×2 | 6 | Enchantment | Black | not in any commander precon |
 | The Eagles Are Coming! | 1 | 2 | Instant | White | not in any commander precon |
 | The Last Ronin | 1 | 6 | Enchantment | Black, Green | not in any commander precon |
 | The Last Ronin's Technique | 1 | 4 | Instant | White | not in any commander precon |
+| The Lord of the Eagles | 1 | 9 | Legendary Creature | Blue | not in any commander precon |
 | The Master of Lake-town | 1 | 3 | Legendary Creature | Black | not in any commander precon |
 | The Misty Mountains Cold | 1 | 3 | Enchantment | Red | not in any commander precon |
 | The Mountain-king's Return | ×2 | 3 | Enchantment | White | not in any commander precon |
@@ -841,7 +843,7 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Vivisection Evangelist | 1 | 5 | Creature | Black, White | not in any commander precon |
 | Volatile Arsonist // Dire-Strain Anarchist | 1 | 5 | Creature | Red | not in any commander precon |
 | Volley Veteran | 1 | 4 | Creature | Red | not in any commander precon |
-| Vow to Erebor | ×4 | 2 | Instant | White | not in any commander precon |
+| Vow to Erebor | ×5 | 2 | Instant | White | not in any commander precon |
 | Vulpikeet | 1 | 4 | Creature | White | not in any commander precon |
 | Walking Sarcophagus | 1 | 2 | Artifact Creature | Colorless | not in any commander precon |
 | Wanderbrine Trapper | 1 | 1 | Creature | White | not in any commander precon |
