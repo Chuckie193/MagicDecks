@@ -1,15 +1,29 @@
 # Black-Green Staples
 
-Gold (multicolor) staples and mana fixing specific to Black-Green decks. Doesn't repeat mono-Black or mono-Green staples — see [`General Staples`](General%20Staples.md) and consider a dedicated mono-color list if that's wanted later.
+**Gold (multicolor) cards and Black-Green mana fixing only.** For single-color staples also check [`Mono-Black`](Mono-Black.md) and [`Mono-Green`](Mono-Green.md). Price legend: see [`README`](README.md). Figures without ✓ are **estimates**.
 
-## Value & Engines
-- **Meren of Clan Nel Toth** — recurring reanimation each turn, the defining BG value/recursion commander.
-- **Deathrite Shaman** — mana dork, graveyard hate, and reach/lifedrain all in one 1-drop.
-- **Jarad, Golgari Lich Lord** — sacrifice outlet that converts creature power into direct damage; strong finisher.
+## Value & Recursion
 
-## Removal & Interaction
-- **Golgari Charm** — modal instant: regenerate your creatures, destroy artifacts, or wipe 0-toughness-boosted tokens.
+| Card | Mana Cost | Price | Notes |
+|---|---|---|---|
+| Meren of Clan Nel Toth | 2 generic, Black, Green | ~€4 💛 | Builds experience counters as your creatures die, then reanimates one every end step. The defining Black-Green commander. |
+| Deathrite Shaman | Black or Green (hybrid) | ~€2 💚 | A one-drop that is mana ramp, graveyard hate, and a drain outlet all at once. |
+| Jarad, Golgari Lich Lord | 2 generic, Black, Green | ~€2 💚 | Sacrifice a creature to drain each opponent for its power. Converts a wide board into lethal. |
+| Grismold, the Dreadsower | 2 generic, Black, Green | ~€1 💚 | Tokens for everyone whenever a creature dies — but with a sacrifice outlet you profit far more. |
+| Golgari Charm | Black, Green | ~€1 💚 | Modal: all creatures get -1/-1 (a token sweeper); **or** destroy an enchantment; **or** regenerate your team through a wrath. |
+
+## Ramp & Card Advantage
+
+| Card | Mana Cost | Price | Notes |
+|---|---|---|---|
+| Casualties of War | 2 generic, Black, Black, Green, Green | €0.18 ✓ 💚 | Destroys an artifact, a creature, an enchantment, a land, **and** a planeswalker. Enormous swing. |
+| Hogaak, Arisen Necropolis | Black, Black, Green, Green | ~€3 💛 | Castable for free by tapping/exiling creatures; recurs itself from the graveyard endlessly. |
+| Old Stickfingers | X, Black, Green | ~€2 💚 | Fills the graveyard on cast, scaling with X. A reanimator enabler and threat in one. |
 
 ## Mana Fixing
-- Golgari Signet / Golgari Locket / Golgari Cluestone
-- Overgrown Tomb, Woodland Cemetery, Llanowar Wastes, Golgari Guildgate
+
+| Card | Mana Cost | Price | Notes |
+|---|---|---|---|
+| Golgari Signet | 2 generic | €0.37 ✓ 💚 | Two-mana rock, filters into Black-Green. |
+| Overgrown Tomb | — (land) | ~€10 🔴 | Shock land.<br>**Cheaper alternatives:** *Woodland Cemetery* (~€2, check land), *Llanowar Wastes* (~€2, pain land), *Jungle Hollow* (~€0.20, gain land). |
+| Woodland Cemetery / Blooming Marsh / Jungle Hollow / Golgari Guildgate | — (land) | ~€0.20–4 💚 | Budget dual land options. |
