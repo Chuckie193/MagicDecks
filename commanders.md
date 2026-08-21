@@ -1,6 +1,6 @@
 # Potential Commanders
 
-All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **119 cards**.
+All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **120 cards**.
 
 ---
 
@@ -61,6 +61,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 |------|------|------|--------|
 | <img src="images/commanders/Dori_Bearer_of_Friends.jpg" alt="Dori, Bearer of Friends" width="200"> | **Dori, Bearer of Friends** | Legendary Creature — Dwarf Warrior |  |
 | <img src="images/commanders/Dáin_Ironfoot.jpg" alt="Dáin Ironfoot" width="200"> | **Dáin Ironfoot** | Legendary Creature — Dwarf Warrior |  |
+| <img src="images/commanders/Gandalf_Goblins_Bane_Flameshape.jpg" alt="Gandalf, Goblins' Bane // Flameshape" width="200"> | **Gandalf, Goblins' Bane // Flameshape** | Legendary Creature — Avatar Wizard // Sorcery — Adventure |  |
 | <img src="images/commanders/Gandalf_Spark_Starter.jpg" alt="Gandalf, Spark Starter" width="200"> | **Gandalf, Spark Starter** | Legendary Creature — Avatar Wizard |  |
 | <img src="images/commanders/General_Traag_Heart_of_Stone.jpg" alt="General Traag, Heart of Stone" width="200"> | **General Traag, Heart of Stone** | Legendary Artifact Creature — Elemental Soldier |  |
 | <img src="images/commanders/Glóin_the_Mighty_Easy_Pickings.jpg" alt="Glóin the Mighty // Easy Pickings" width="200"> | **Glóin the Mighty // Easy Pickings** | Legendary Creature — Dwarf Warrior // Sorcery — Adventure |  |

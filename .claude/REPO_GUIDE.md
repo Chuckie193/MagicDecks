@@ -30,6 +30,7 @@ MagicDecks/
 ├── moxfield_collections/         # Historical Moxfield collection snapshots (dated CSVs) — check here to see what changed between collection updates
 ├── moxfield_latest.csv           # Raw card collection (Moxfield export)
 ├── moxfield_cards.md             # Readable card list with precon assignments
+├── reserved_decks.md             # Hand-maintained: decks currently assembled and off-limits for new builds
 └── card_details.md               # Card details from Scryfall (mana, type, text, etc.)
 ```
 
@@ -46,6 +47,12 @@ MagicDecks/
   - Optional first line ending with ":" to set deck title
   - Supports alt names in square brackets: `Card Name [Alt Name]`
 - **Precons/*.txt**: Non-Commander precons and Secret Lair drops (e.g. Foundations Beginner Box, Sonic Secret Lair packs)
+
+- **reserved_decks.md**: Hand-maintained list of decks that are **physically assembled and sleeved right now**, with a path to each one's card list. Nothing generates this file — edit it when a deck is built or dismantled.
+  - Backs the "Avoid reserved decks" card-pool option in `/generate-deck`
+  - Reserves *copies*, not card names: if you own three Sol Rings and one is in a reserved deck, two are still available
+  - Compute the pool as `moxfield_latest.csv` counts minus the summed counts across every reserved list, resolving alt names first (see the file's own instructions)
+  - Distinct from `non_commander_cards.md`, which excludes *all* Commander precons regardless of whether they are assembled
 
 ### Generated Files
 

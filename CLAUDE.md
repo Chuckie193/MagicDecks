@@ -10,8 +10,20 @@ See `.claude/REPO_GUIDE.md` for the full repo structure, file descriptions, work
 
 Two tiers of precon exist in this repo:
 
-- **`Precons/Commander Precons/`** — Commander format precon decklists. Cards here may or may not be available for custom decks depending on what the user wants — always ask. When the user wants to preserve their Commander precons, use `non_commander_cards.md` as the eligible pool. When the user is happy to draw from everything, use `moxfield_latest.csv`.
+- **`Precons/Commander Precons/`** — Commander format precon decklists. Cards here may or may not be available for custom decks depending on what the user wants — always ask.
 - **`Precons/*.txt`** — Non-Commander precons and Secret Lair drops. Cards from these are always freely available and are already included in `non_commander_cards.md`.
+
+Always ask which of the three card pools to use before building:
+
+| Option | Eligible pool |
+|---|---|
+| **No Commander-precon cards** | `min(non_commander_cards.md Copies, owned − reserved)` |
+| **Avoid reserved decks** | `owned − reserved` |
+| **Full collection** | `owned` — everything in `moxfield_latest.csv` |
+
+`reserved_decks.md` lists the decks that are physically assembled right now and is maintained by hand. It reserves **copies, not card names** — a card with three copies of which one sits in a reserved deck still has two available. Resolve alt names (`Air Shoes` → Swiftfoot Boots) before subtracting, or the reservation silently fails to apply.
+
+The two filters **compose**; they are not alternatives. `non_commander_cards.md` knows nothing about `reserved_decks.md`, so it lists cards that are physically sleeved in a reserved custom deck — the reserved subtraction must be applied on top of it, or the strictest-sounding option will hand you unplayable cards.
 
 ---
 

@@ -92,6 +92,7 @@
 | Bite Down | https://api.scryfall.com/cards/f8d70b3b-f6f9-4b3c-ad70-0ce369e812b5 | https://scryfall.com/card/fdn/212/bite-down?utm_source=api | 1 generic, Green | Instant | Target creature you control deals damage equal to its power to target creature or planeswalker you don't control. |  |  | Green | Green |  | https://api.scryfall.com/cards/named?fuzzy=Bite%20Down (OK 200) |
 | Blasphemous Act | https://api.scryfall.com/cards/175eb155-7262-4c2e-85c3-e0cc9be855e5 | https://scryfall.com/card/soc/238/blasphemous-act?utm_source=api | 8 generic, Red | Sorcery | This spell costs [1] less to cast for each creature on the battlefield. Blasphemous Act deals 13 damage to each creature. |  |  | Red | Red |  | https://api.scryfall.com/cards/named?fuzzy=Blasphemous%20Act (OK 200) |
 | Blightbelly Rat | https://api.scryfall.com/cards/9255cd01-a611-4fec-b9ec-b271687740ba | https://scryfall.com/card/one/85/blightbelly-rat?utm_source=api | 1 generic, Black | Creature — Phyrexian Rat | Toxic 1 (Players dealt combat damage by this creature also get a poison counter.) When this creature dies, proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.) | 2 | 2 | Black | Black |  | https://api.scryfall.com/cards/named?fuzzy=Blightbelly%20Rat (OK 200) |
+| Blood Curdle | https://api.scryfall.com/cards/4184c851-1419-476c-ba9c-9f0cb1137114 | https://scryfall.com/card/iko/75/blood-curdle?utm_source=api | 3 generic, Black | Instant | Destroy target creature. Put a menace counter on a creature you control. (It can't be blocked except by two or more creatures.) |  |  | Black | Black |  | https://api.scryfall.com/cards/named?fuzzy=Blood%20Curdle (OK 200) |
 | Bloodtithe Collector | https://api.scryfall.com/cards/37931135-100d-4a23-a6e3-baf90fb259ee | https://scryfall.com/card/fdn/751/bloodtithe-collector?utm_source=api | 4 generic, Black | Creature — Vampire Noble | Flying When this creature enters, if an opponent lost life this turn, each opponent discards a card. | 3 | 4 | Black | Black |  | https://api.scryfall.com/cards/named?fuzzy=Bloodtithe%20Collector (OK 200) |
 | Blooming Blast | https://api.scryfall.com/cards/0cd92a83-cec3-4085-a929-3f204e3e0140 | https://scryfall.com/card/blb/126/blooming-blast?utm_source=api | 1 generic, Red | Instant | Gift a Treasure (You may promise an opponent a gift as you cast this spell. If you do, they create a Treasure token before its other effects. It's an artifact with "[Tap], Sacrifice this token: Add one mana of any color.") Blooming Blast deals 2 damage to target creature. If the gift was promised, Blooming Blast also deals 3 damage to that creature's controller. |  |  | Red | Red |  | https://api.scryfall.com/cards/named?fuzzy=Blooming%20Blast (OK 200) |
 | Blossoming Sands | https://api.scryfall.com/cards/0a9df994-e0f4-4919-af99-4f643eb9199c | https://scryfall.com/card/tdm/251/blossoming-sands?utm_source=api | 0 (no mana cost) | Land | This land enters tapped. When this land enters, you gain 1 life. [Tap]: Add [Green] or [White]. |  |  | Colorless or None | Green, White |  | https://api.scryfall.com/cards/named?fuzzy=Blossoming%20Sands (OK 200) |
@@ -373,6 +374,7 @@
 | Galion, Elvenking's Butler | https://api.scryfall.com/cards/985bd676-58c4-42c7-a570-1b413e9aa94c | https://scryfall.com/card/hob/125/galion-elvenkings-butler?utm_source=api | 2 generic, Green, Green | Legendary Creature — Elf Advisor | Whenever Galion attacks, choose up to one other target creature you control. Its base power and toughness become equal to Galion's power and toughness until end of turn. | 4 | 4 | Green | Green |  | https://api.scryfall.com/cards/named?fuzzy=Galion%2C%20Elvenking%27s%20Butler (OK 200) |
 | Gallant Fowlknight | https://api.scryfall.com/cards/fb6096ba-8083-4207-9a3f-c1e4ff095204 | https://scryfall.com/card/ecl/17/gallant-fowlknight?utm_source=api | 3 generic, White | Creature — Kithkin Knight | When this creature enters, creatures you control get +1/+0 until end of turn. Kithkin creatures you control also gain first strike until end of turn. | 3 | 4 | White | White |  | https://api.scryfall.com/cards/named?fuzzy=Gallant%20Fowlknight (OK 200) |
 | Galvanizing Sawship | https://api.scryfall.com/cards/5bbce9fb-401f-4e78-acd5-9d3b506687fd | https://scryfall.com/card/eoe/136/galvanizing-sawship?utm_source=api | 5 generic, Red | Artifact — Spacecraft | Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 3+.) 3+ \| Flying, haste | 6 | 5 | Red | Red |  | https://api.scryfall.com/cards/named?fuzzy=Galvanizing%20Sawship (OK 200) |
+| Gandalf, Goblins' Bane // Flameshape | https://api.scryfall.com/cards/9b0d29a1-7da9-4fb3-8536-8ff8d8acae0b | https://scryfall.com/card/hob/96/gandalf-goblins-bane-flameshape?utm_source=api | 3 generic, Red, Red | Legendary Creature — Avatar Wizard // Sorcery — Adventure |  | 2 | 3 | Red | Red |  | https://api.scryfall.com/cards/named?fuzzy=Gandalf%2C%20Goblins%27%20Bane%20%2F%2F%20Flameshape (OK 200) |
 | Gandalf, Spark Starter | https://api.scryfall.com/cards/7c5c6f1c-35cf-4172-b5a1-b73222b0723b | https://scryfall.com/card/hob/97/gandalf-spark-starter?utm_source=api | 4 generic, Red, Red | Legendary Creature — Avatar Wizard | Reach When Gandalf enters, he deals 3 damage divided as you choose among one, two, or three targets. | 4 | 3 | Red | Red |  | https://api.scryfall.com/cards/named?fuzzy=Gandalf%2C%20Spark%20Starter (OK 200) |
 | Gandalf, Wandering Wizard | https://api.scryfall.com/cards/1f8403a2-849c-4a59-b0ed-c8803995028d | https://scryfall.com/card/hob/41/gandalf-wandering-wizard?utm_source=api | 4 generic, Blue | Legendary Creature — Avatar Wizard | Ward [3] (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays [3].) [6]: Gandalf's owner shuffles him into their library and draws three cards. | 4 | 5 | Blue | Blue |  | https://api.scryfall.com/cards/named?fuzzy=Gandalf%2C%20Wandering%20Wizard (OK 200) |
 | Garruk's Uprising | https://api.scryfall.com/cards/b58c4033-f764-42f6-966f-b7202a2babbf | https://scryfall.com/card/ecc/109/garruks-uprising?utm_source=api | 2 generic, Green | Enchantment | When this enchantment enters, if you control a creature with power 4 or greater, draw a card. Creatures you control have trample. (Each of those creatures can deal excess combat damage to the player or planeswalker it's attacking.) Whenever a creature you control with power 4 or greater enters, draw a card. |  |  | Green | Green |  | https://api.scryfall.com/cards/named?fuzzy=Garruk%27s%20Uprising (OK 200) |
@@ -453,6 +455,7 @@
 | Hazel of the Rootbloom | https://api.scryfall.com/cards/1269ca79-907e-4932-9e77-a9a5d2929060 | https://scryfall.com/card/blc/2/hazel-of-the-rootbloom?utm_source=api | 2 generic, Black, Green | Legendary Creature — Squirrel Druid | [Tap], Pay 2 life, Tap X untapped tokens you control: Add X mana in any combination of colors. At the beginning of your end step, create a token that's a copy of target token you control. If that token is a Squirrel, instead create two tokens that are copies of it. | 3 | 5 | Black, Green | Black, Green |  | https://api.scryfall.com/cards/named?fuzzy=Hazel%20of%20the%20Rootbloom (OK 200) |
 | Hazel's Brewmaster | https://api.scryfall.com/cards/52af8b70-a9c8-40d7-99da-fa51dc293688 | https://scryfall.com/card/blc/17/hazels-brewmaster?utm_source=api | 3 generic, Black | Creature — Squirrel Warlock | Menace Whenever this creature enters or attacks, exile up to one target card from a graveyard and create a Food token. Foods you control have all activated abilities of all creature cards exiled with this creature. | 3 | 4 | Black | Black |  | https://api.scryfall.com/cards/named?fuzzy=Hazel%27s%20Brewmaster (OK 200) |
 | Hazel's Nocturne | https://api.scryfall.com/cards/239363df-4de8-4b64-80fc-a1f4b5c36027 | https://scryfall.com/card/blb/97/hazels-nocturne?utm_source=api | 3 generic, Black | Instant | Return up to two target creature cards from your graveyard to your hand. Each opponent loses 2 life and you gain 2 life. |  |  | Black | Black |  | https://api.scryfall.com/cards/named?fuzzy=Hazel%27s%20Nocturne (OK 200) |
+| Head of the Hunt | https://api.scryfall.com/cards/3ffe34d4-72f4-4562-a948-8909b9321e59 | https://scryfall.com/card/hob/75/head-of-the-hunt?utm_source=api | 2 generic, Black, Black | Creature — Wolf | Flash If a creature an opponent controls would die, exile it instead. When you do, create a 2/2 green Wolf creature token. | 4 | 3 | Black | Black |  | https://api.scryfall.com/cards/named?fuzzy=Head%20of%20the%20Hunt (OK 200) |
 | Heated Argument | https://api.scryfall.com/cards/0038d212-3d95-4f98-8c2e-7b2404d0ced7 | https://scryfall.com/card/sos/118/heated-argument?utm_source=api | 4 generic, Red | Instant | Heated Argument deals 6 damage to target creature. You may exile a card from your graveyard. If you do, Heated Argument also deals 2 damage to that creature's controller. |  |  | Red | Red |  | https://api.scryfall.com/cards/named?fuzzy=Heated%20Argument (OK 200) |
 | Heirloom Blade | https://api.scryfall.com/cards/49fe8b13-3f83-4a35-aa2d-2292b96f3d3e | https://scryfall.com/card/lcc/303/heirloom-blade?utm_source=api | 3 generic | Artifact — Equipment | Equipped creature gets +3/+1. Whenever equipped creature dies, you may reveal cards from the top of your library until you reveal a creature card that shares a creature type with it. Put that card into your hand and the rest on the bottom of your library in a random order. Equip [1] |  |  | Colorless or None | Colorless or None |  | https://api.scryfall.com/cards/named?fuzzy=Heirloom%20Blade (OK 200) |
 | Hellkite Overlord | https://api.scryfall.com/cards/d99869b4-0bb6-444a-bdc4-5916371c9d29 | https://scryfall.com/card/2x2/225/hellkite-overlord?utm_source=api | 4 generic, Black, Red, Red, Green | Creature — Dragon | Flying, trample, haste [Red]: This creature gets +1/+0 until end of turn. [Black][Green]: Regenerate this creature. | 8 | 8 | Black, Green, Red | Black, Green, Red |  | https://api.scryfall.com/cards/named?fuzzy=Hellkite%20Overlord (OK 200) |
@@ -3016,6 +3019,25 @@ When this creature dies, proliferate. (Choose any number of permanents and/or pl
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Blightbelly%20Rat -> success (HTTP 200)
+
+## Blood Curdle
+
+- uri: https://api.scryfall.com/cards/4184c851-1419-476c-ba9c-9f0cb1137114
+- scryfall_uri: https://scryfall.com/card/iko/75/blood-curdle?utm_source=api
+- mana_cost: 3 generic, Black
+- type_line: Instant
+- oracle_text: Destroy target creature. Put a menace counter on a creature you control. (It can't be blocked except by two or more creatures.)
+- colors: Black
+- color_identity: Black
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Blood%20Curdle
+- https://api.scryfall.com/cards/named?fuzzy=Blood%20Curdle
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Blood%20Curdle -> success (HTTP 200)
 
 ## Bloodtithe Collector
 
@@ -8736,6 +8758,26 @@ Artifacts you control have "[Tap]: Add one mana of any color. Spend this mana on
 
 - https://api.scryfall.com/cards/named?fuzzy=Galvanizing%20Sawship -> success (HTTP 200)
 
+## Gandalf, Goblins' Bane // Flameshape
+
+- uri: https://api.scryfall.com/cards/9b0d29a1-7da9-4fb3-8536-8ff8d8acae0b
+- scryfall_uri: https://scryfall.com/card/hob/96/gandalf-goblins-bane-flameshape?utm_source=api
+- mana_cost: 3 generic, Red, Red
+- type_line: Legendary Creature — Avatar Wizard // Sorcery — Adventure
+- oracle_text: 
+- power/toughness: 2/3
+- colors: Red
+- color_identity: Red
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Gandalf%2C%20Goblins%27%20Bane%20%2F%2F%20Flameshape
+- https://api.scryfall.com/cards/named?fuzzy=Gandalf%2C%20Goblins%27%20Bane%20%2F%2F%20Flameshape
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Gandalf%2C%20Goblins%27%20Bane%20%2F%2F%20Flameshape -> success (HTTP 200)
+
 ## Gandalf, Spark Starter
 
 - uri: https://api.scryfall.com/cards/7c5c6f1c-35cf-4172-b5a1-b73222b0723b
@@ -10388,6 +10430,27 @@ Foods you control have all activated abilities of all creature cards exiled with
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Hazel%27s%20Nocturne -> success (HTTP 200)
+
+## Head of the Hunt
+
+- uri: https://api.scryfall.com/cards/3ffe34d4-72f4-4562-a948-8909b9321e59
+- scryfall_uri: https://scryfall.com/card/hob/75/head-of-the-hunt?utm_source=api
+- mana_cost: 2 generic, Black, Black
+- type_line: Creature — Wolf
+- oracle_text: Flash
+If a creature an opponent controls would die, exile it instead. When you do, create a 2/2 green Wolf creature token.
+- power/toughness: 4/3
+- colors: Black
+- color_identity: Black
+
+### Constructed request URLs
+
+- https://api.scryfall.com/cards/named?exact=Head%20of%20the%20Hunt
+- https://api.scryfall.com/cards/named?fuzzy=Head%20of%20the%20Hunt
+
+### Tried URLs (results)
+
+- https://api.scryfall.com/cards/named?fuzzy=Head%20of%20the%20Hunt -> success (HTTP 200)
 
 ## Heated Argument
 
