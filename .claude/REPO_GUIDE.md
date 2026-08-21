@@ -16,6 +16,10 @@ MagicDecks/
 │   └── *.txt                     # Non-Commander precons and Secret Lair drops (e.g. Foundations Beginner Box, Sonic Secret Lair)
 ├── Custom Decks/                 # AI-generated or custom deck lists
 │   └── *.md                      # Generated Commander decks (markdown format)
+├── Commander Staples/             # Personal reference lists of EDH staples, by color — not wired into any automation
+│   ├── README.md                 # Explains purpose and caveats
+│   ├── General Staples.md        # Broadly useful staples (any color)
+│   └── [Color]-[Color].md        # One file per two-color combo (10 total), labeled by color not guild name
 ├── scripts/cache/                        # Cache files for Scryfall data
 │   ├── cards_cache.json          # Scryfall API response cache
 │   └── scryfall_raw_responses.md # Raw JSON responses from Scryfall API
@@ -47,6 +51,8 @@ MagicDecks/
   - Optional first line ending with ":" to set deck title
   - Supports alt names in square brackets: `Card Name [Alt Name]`
 - **Precons/*.txt**: Non-Commander precons and Secret Lair drops (e.g. Foundations Beginner Box, Sonic Secret Lair packs)
+
+- **Commander Staples/**: Hand-maintained personal reference lists of well-known EDH staples, split into `General Staples.md` (any color) and one file per two-color combo, labeled by color (e.g. `White-Blue.md`) rather than guild name. Reference only — not cross-checked against ownership and not used by `/generate-deck` or any script. See its own `README.md` for details.
 
 - **reserved_decks.md**: Hand-maintained list of decks that are **physically assembled and sleeved right now**, with a path to each one's card list. Nothing generates this file — edit it when a deck is built or dismantled.
   - Backs the "Avoid reserved decks" card-pool option in `/generate-deck`
