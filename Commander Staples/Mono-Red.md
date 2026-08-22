@@ -18,7 +18,6 @@ Single-color Red staples. Price legend and caveats: see [`README`](README.md). F
 | Card | Mana Cost | Price | Notes |
 |---|---|---|---|
 | Jeska's Will | 2 generic, Red | €27.85 ✓ 🔴 | Mana burst plus card advantage; doubles up if you control your commander.<br>**Cheaper alternatives:** *Seething Song* (~€1), *Pyretic Ritual* (~€0.50), *Big Score* (~€0.50). |
-| Dockside Extortionist | 1 generic, Red | €7.57 ✓ 💛 | Treasures equal to opponents' artifacts and enchantments. Format-warping in artifact-heavy metas. |
 | Storm-Kiln Artist | 3 generic, Red | €1.06 ✓ 💚 | A Treasure per instant/sorcery cast, and it grows. Superb in spellslinger decks. |
 | Treasure Nabber | 2 generic, Red | €1.63 ✓ 💚 | Steals opponents' mana rocks whenever they tap them. Punishes the Sol Ring/Signet decks. |
 

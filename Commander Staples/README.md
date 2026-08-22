@@ -42,4 +42,5 @@ It reads each `Commander Staples/**/*.md`, looks up every card in the local Scry
 
 - **Not a shopping list and not a collection check.** A card appearing here says nothing about whether it's owned, reserved in a physically-assembled deck, or locked in a Commander precon. Always cross-reference `moxfield_latest.csv`, `reserved_decks.md`, and `non_commander_cards.md` per the card-pool rules in `CLAUDE.md` before adding one of these to a deck.
 - **Curated, not exhaustive.** A starting point for "what should I consider," not a complete power ranking. Prune and extend over time.
+- **Commander-legal as of 2026-08-23.** Every entry was checked against Scryfall's `legalities.commander`. The banlist changes, so re-check before trusting an old entry — Dockside Extortionist sat in `Mono-Red.md` for a while after being banned. To re-audit, look up each card name in `scripts/cache/cards_cache.json` and assert `data.legalities.commander == "legal"`.
 - **Color-pair files are gold-only.** Building White-Blue? Read `White-Blue.md` *plus* `Mono-White.md` and `Mono-Blue.md`.
