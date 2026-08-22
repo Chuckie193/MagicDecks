@@ -6,24 +6,24 @@
 
 | Card | Mana Cost | Price | Notes |
 |---|---|---|---|
-| Terminate | Black, Red | ~€1 💚 | Two mana, destroys any creature, no regeneration. About as efficient as removal gets. |
-| Bedevil | Black, Black, Red | ~€2 💚 | Destroys a creature, artifact, **or** planeswalker at instant speed. |
-| Angrath's Rampage | Black, Red | ~€1 💚 | Each mode makes a player sacrifice — gets around hexproof and indestructible entirely. |
-| Terminal Agony | 2 generic, Black, Red | ~€0.30 💚 | Budget removal with madness for a discount in graveyard decks. |
+| Terminate | Black, Red | €0.27 ✓ 💚 | Two mana, destroys any creature, no regeneration. About as efficient as removal gets. |
+| Bedevil | Black, Black, Red | €0.24 ✓ 💚 | Destroys a creature, artifact, **or** planeswalker at instant speed. |
+| Angrath's Rampage | Black, Red | €0.15 ✓ 💚 | Each mode makes a player sacrifice — gets around hexproof and indestructible entirely. |
+| Terminal Agony | 2 generic, Black, Red | €0.05 ✓ 💚 | Budget removal with madness for a discount in graveyard decks. |
 
 ## Value & Payoffs
 
 | Card | Mana Cost | Price | Notes |
 |---|---|---|---|
-| Kolaghan's Command | 1 generic, Black, Red | ~€3 💛 | Choose two: 2 damage, destroy an artifact, return a creature from graveyard to hand, or force a discard. Always a two-for-one. |
-| Rakdos, Lord of Riots | 2 generic, Black, Black, Red, Red | ~€2 💚 | Your creature spells cost 1 less per damage dealt to opponents this turn — but you can't cast creatures unless an opponent was damaged. |
-| Judith, the Scourge Diva | 1 generic, Black, Red | ~€2 💚 | Anthem for your nontokens plus a ping every time one of your creatures dies. An aristocrats staple. |
-| Rakdos Charm | Black, Red | ~€1 💚 | Modal: exile a graveyard; **or** a creature deals its power to its controller; **or** destroy an artifact. |
+| Kolaghan's Command | 1 generic, Black, Red | €0.33 ✓ 💚 | Choose two: 2 damage, destroy an artifact, return a creature from graveyard to hand, or force a discard. Always a two-for-one. |
+| Rakdos, Lord of Riots | 2 generic, Black, Black, Red, Red | €0.77 ✓ 💚 | Your creature spells cost 1 less per damage dealt to opponents this turn — but you can't cast creatures unless an opponent was damaged. |
+| Judith, the Scourge Diva | 1 generic, Black, Red | €0.07 ✓ 💚 | Anthem for your nontokens plus a ping every time one of your creatures dies. An aristocrats staple. |
+| Rakdos Charm | Black, Red | €0.60 ✓ 💚 | Modal: exile a graveyard; **or** a creature deals its power to its controller; **or** destroy an artifact. |
 
 ## Mana Fixing
 
 | Card | Mana Cost | Price | Notes |
 |---|---|---|---|
-| Rakdos Signet | 2 generic | ~€1 💚 | Two-mana rock, filters into Black-Red. |
-| Blood Crypt | — (land) | ~€10 🔴 | Shock land.<br>**Cheaper alternatives:** *Dragonskull Summit* (~€2, check land), *Sulfurous Springs* (~€3, pain land), *Bloodfell Caves* (~€0.20, gain land). |
+| Rakdos Signet | 2 generic | €0.73 ✓ 💚 | Two-mana rock, filters into Black-Red. |
+| Blood Crypt | — (land) | €9.25 ✓ 💛 | Shock land. |
 | Dragonskull Summit / Blackcleave Cliffs / Bloodfell Caves / Rakdos Guildgate | — (land) | ~€0.20–4 💚 | Budget dual land options. |
