@@ -43,6 +43,7 @@ import os
 import re
 import sys
 import time
+import urllib.error
 import urllib.parse
 import urllib.request
 
@@ -50,8 +51,17 @@ REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 STAPLES_DIR = os.path.join(REPO_ROOT, "Commander Staples")
 CACHE_PATH = os.path.join(REPO_ROOT, "scripts", "cache", "cards_cache.json")
 
+# Windows consoles default to cp1252, which cannot encode the tier emoji or the
+# euro sign. Without this the script dies on its first successful lookup.
+for _stream in (sys.stdout, sys.stderr):
+    try:
+        _stream.reconfigure(encoding="utf-8", errors="replace")
+    except (AttributeError, ValueError):
+        pass
+
 HEADERS = {"User-Agent": "MagicDecks/1.0", "Accept": "application/json"}
-REQUEST_DELAY = 0.1  # Scryfall asks for 50-100ms between requests
+REQUEST_DELAY = 0.15  # Scryfall asks for 50-100ms; pad it, we make a lot of calls
+MAX_RETRIES = 5       # 429s are common when walking every printing of every card
 
 BUDGET = "\U0001F49A"   # green heart  - under EUR 3
 MID = "\U0001F49B"      # yellow heart - EUR 3 to EUR 10
@@ -94,18 +104,117 @@ def save_cache(cache: dict) -> None:
 
 
 def fetch_json(url: str):
-    req = urllib.request.Request(url, headers=HEADERS)
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        return json.load(resp)
+    """GET url as JSON, retrying on rate limits and transient server errors.
+
+    Walking prints_search_uri for every card generates thousands of requests, so
+    429s are expected rather than exceptional. Without a retry a single throttle
+    silently drops that card's price for the whole run.
+    """
+    delay = 1.0
+    for attempt in range(MAX_RETRIES):
+        req = urllib.request.Request(url, headers=HEADERS)
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                return json.load(resp)
+        except urllib.error.HTTPError as exc:
+            if exc.code not in (429, 500, 502, 503, 504) or attempt == MAX_RETRIES - 1:
+                raise
+            # Honour Retry-After when the server sends one.
+            wait = delay
+            retry_after = exc.headers.get("Retry-After") if exc.headers else None
+            if retry_after:
+                try:
+                    wait = max(wait, float(retry_after))
+                except ValueError:
+                    pass
+            time.sleep(wait)
+            delay = min(delay * 2, 30.0)
+        except urllib.error.URLError:
+            if attempt == MAX_RETRIES - 1:
+                raise
+            time.sleep(delay)
+            delay = min(delay * 2, 30.0)
+    raise RuntimeError(f"exhausted retries for {url}")
+
+
+# Printings that carry a EUR price but are not a card you can buy and sleeve:
+# World Championship decks are gold-bordered and tournament-illegal, oversized
+# Commander/planechase cards are display pieces, and art series / memorabilia
+# are not playable cards at all.
+EXCLUDED_SET_TYPES = {"memorabilia", "art_series", "token", "double_faced_token"}
+
+# Summer Magic / Edgar is a legitimate, tournament-legal 1994 set, but Cardmarket
+# carries placeholder prices for it (every card ~EUR 0.02) against a real market
+# value in the hundreds or thousands. Because we take the MINIMUM across
+# printings, one bad data point silently becomes the answer: it was quoting
+# Wheel of Fortune at EUR 0.02 when the cheapest buyable copy is EUR 279
+# (Revised), and Wrath of God at EUR 0.02 against a real EUR 1.99 (9th Edition).
+# Excluded on data quality, not on legality.
+EXCLUDED_SETS = {"sum"}
+
+# If the cheapest printing is this far below the next cheapest, the run reports
+# it. Legitimate cases exist (an old rare with one bulk Commander reprint), so
+# this only warns -- it never silently substitutes a different price.
+OUTLIER_RATIO = 0.05
+
+
+def is_buyable_paper_en(card: dict) -> bool:
+    """True if this printing is an English paper card you could actually buy."""
+    if card.get("lang") != "en":
+        return False
+    if card.get("digital"):
+        return False
+    if "paper" not in (card.get("games") or []):
+        return False
+    if card.get("oversized"):
+        return False
+    if card.get("border_color") == "gold":  # World Championship decks
+        return False
+    if card.get("set_type") in EXCLUDED_SET_TYPES:
+        return False
+    if card.get("set") in EXCLUDED_SETS:
+        return False
+    return True
+
+
+def with_lang_en(prints_uri: str) -> str:
+    """Add `lang:en` to a prints_search_uri query.
+
+    Scryfall search defaults to English, but the default is not a guarantee and
+    prints_search_uri arrives with include_extras/include_variations already set.
+    Being explicit costs nothing and makes the intent auditable.
+    """
+    parts = urllib.parse.urlsplit(prints_uri)
+    params = urllib.parse.parse_qsl(parts.query, keep_blank_values=True)
+    out = []
+    seen_q = False
+    for key, value in params:
+        if key == "q":
+            seen_q = True
+            if "lang:" not in value:
+                value = f"{value} lang:en"
+        out.append((key, value))
+    if not seen_q:
+        return prints_uri
+    return urllib.parse.urlunsplit(
+        (parts.scheme, parts.netloc, parts.path, urllib.parse.urlencode(out), parts.fragment)
+    )
 
 
 def cheapest_eur_from_prints(prints_uri: str):
-    """Return the lowest non-foil EUR price across all printings, or None."""
-    best = None
-    url = prints_uri
+    """Lowest non-foil EUR price across English paper printings, or None.
+
+    The EUR figure is Cardmarket's, so a printing that has one is by definition
+    sold in Europe; printings with no EUR price are skipped rather than being
+    converted from USD.
+    """
+    found = []
+    url = with_lang_en(prints_uri)
     while url:
         data = fetch_json(url)
         for card in data.get("data", []):
+            if not is_buyable_paper_en(card):
+                continue
             raw = (card.get("prices") or {}).get("eur")
             if not raw:
                 continue
@@ -113,12 +222,21 @@ def cheapest_eur_from_prints(prints_uri: str):
                 val = float(raw)
             except ValueError:
                 continue
-            if best is None or val < best:
-                best = val
+            found.append((val, card.get("set", "?")))
         url = data.get("next_page") if data.get("has_more") else None
         if url:
             time.sleep(REQUEST_DELAY)
-    return best
+
+    if not found:
+        return None, None
+    found.sort()
+    warning = None
+    if len(found) > 1 and found[0][0] < found[1][0] * OUTLIER_RATIO:
+        warning = (
+            f"cheapest is €{found[0][0]:.2f} ({found[0][1]}) but next is "
+            f"€{found[1][0]:.2f} ({found[1][1]}) -- verify before trusting"
+        )
+    return found[0][0], warning
 
 
 def lookup_price(name: str, cache: dict, offline: bool):
@@ -126,11 +244,14 @@ def lookup_price(name: str, cache: dict, offline: bool):
     entry = cache.get(name)
     if entry:
         data = entry.get("data") or {}
-        cached_prints = entry.get("cheapest_eur")
+        # Deliberately a different key from the old `cheapest_eur`: values stored
+        # before the English/paper filter existed are not comparable, so an old
+        # cache is ignored rather than trusted.
+        cached_prints = entry.get("cheapest_eur_en_paper")
         if cached_prints is not None:
             return cached_prints, "cache"
         raw = (data.get("prices") or {}).get("eur")
-        if raw and offline:
+        if raw and offline and is_buyable_paper_en(data):
             try:
                 return float(raw), "cache(owned-printing)"
             except ValueError:
@@ -141,17 +262,20 @@ def lookup_price(name: str, cache: dict, offline: bool):
 
     try:
         q = urllib.parse.quote(name)
-        data = fetch_json(f"https://api.scryfall.com/cards/named?exact={q}")
+        # &lang=en so the named lookup itself resolves to the English printing.
+        data = fetch_json(f"https://api.scryfall.com/cards/named?exact={q}&lang=en")
         time.sleep(REQUEST_DELAY)
         prints_uri = data.get("prints_search_uri")
-        eur = cheapest_eur_from_prints(prints_uri) if prints_uri else None
-        if eur is None:
+        eur, warning = cheapest_eur_from_prints(prints_uri) if prints_uri else (None, None)
+        if warning:
+            print(f"  ? {name}: {warning}", file=sys.stderr)
+        if eur is None and is_buyable_paper_en(data):
             raw = (data.get("prices") or {}).get("eur")
             eur = float(raw) if raw else None
         # Persist so the next run is fast.
         entry = cache.setdefault(name, {"data": data, "urls": []})
         entry["data"] = data
-        entry["cheapest_eur"] = eur
+        entry["cheapest_eur_en_paper"] = eur
         return eur, "scryfall"
     except Exception as exc:  # network, 404, malformed payload
         print(f"  ! {name}: lookup failed ({exc})", file=sys.stderr)
