@@ -16,11 +16,18 @@ MagicDecks/
 │   └── *.txt                     # Non-Commander precons and Secret Lair drops (e.g. Foundations Beginner Box, Sonic Secret Lair)
 ├── Custom Decks/                 # AI-generated or custom deck lists
 │   └── *.md                      # Generated Commander decks (markdown format)
+├── Commander Staples/             # Personal reference lists of EDH staples — not wired into any automation
+│   ├── README.md                 # Purpose, price legend, caveats
+│   ├── General Staples.md        # Colorless/universal staples
+│   ├── Mono-[Color].md           # One per single color (5 total)
+│   ├── [Color]-[Color].md        # One per two-color combo (10 total), labeled by color not guild name
+│   └── Archetypes/               # Staples by deck strategy (tokens, +1/+1 counters, control, etc.)
 ├── scripts/cache/                        # Cache files for Scryfall data
 │   ├── cards_cache.json          # Scryfall API response cache
 │   └── scryfall_raw_responses.md # Raw JSON responses from Scryfall API
 ├── scripts/
 │   ├── generate_cards_md.py      # Main script to process collection
+│   ├── add_staple_prices.py      # Refresh EUR prices in Commander Staples/**/*.md
 │   └── README.md                 # Script documentation
 ├── .claude/
 │   ├── REPO_GUIDE.md             # This guide
@@ -47,6 +54,8 @@ MagicDecks/
   - Optional first line ending with ":" to set deck title
   - Supports alt names in square brackets: `Card Name [Alt Name]`
 - **Precons/*.txt**: Non-Commander precons and Secret Lair drops (e.g. Foundations Beginner Box, Sonic Secret Lair packs)
+
+- **Commander Staples/**: Hand-maintained personal reference lists of well-known EDH staples — `General Staples.md` (colorless/universal), five `Mono-[Color].md` files, ten two-color files labeled by color (e.g. `White-Blue.md`) rather than guild name, and an `Archetypes/` folder grouping staples by strategy. Every card lists its mana cost in plain English and an approximate EUR price; prices marked ✓ are exact (from the Scryfall cache), everything else is an estimate. Reference only — not cross-checked against ownership and not used by `/generate-deck`. See its own `README.md` for the price legend and caveats.
 
 - **reserved_decks.md**: Hand-maintained list of decks that are **physically assembled and sleeved right now**, with a path to each one's card list. Nothing generates this file — edit it when a deck is built or dismantled.
   - Backs the "Avoid reserved decks" card-pool option in `/generate-deck`
