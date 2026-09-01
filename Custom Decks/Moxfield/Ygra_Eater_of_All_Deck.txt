@@ -1,39 +1,38 @@
 1 Ygra, Eater of All *CMDR*
 1 Anchovy & Banana Pizza
+1 Arcane Signet
 1 Arnyn, Deathbloom Botanist
+1 Azog, Moria's Ruin
 1 Bakersbane Duo
-1 Blood Curdle
+1 Bite Down
+1 Bogslither's Embrace
 1 Bumbleflower's Sharepot
+1 Cankerbloom
 1 Command Tower
 1 Courier of Comestibles
 1 Deadly Dispute
+1 Dina's Guidance
 1 Diresight
-1 Down, Down to Goblin-town
-1 Dream Beavers
 1 Druid of the Cowl
 1 Dubious Delicacy
+1 Duskwatch Recruiter // Krallenhorde Howler
 1 Eaten Alive
 1 Eccentric Farmer
 1 Elvish Regrower
 1 Escape Tunnel
-1 Evolving Wilds
 1 Exotic Orchard
-1 Fell
-1 Foul Play
 1 Gnashing of Teeth
 1 Gollum the Abandoned
-1 Hall of Oracles
 1 Hazel's Nocturne
 1 Hero's Downfall
-1 Hobbit Hole
 1 Honored Dreyleader
 1 Hungry Ghoul
 1 Ice Cream Kitty
 1 Illegitimate Business
 1 Infernal Grasp
+1 Leech Collector // Bloodletting
 1 Llanowar Elves
 1 Lord Dregg, Insect Invader
-1 Maalfeld Twins
 1 Mind Stone
 1 Mirkwood
 1 Mudflat Village
@@ -41,39 +40,37 @@
 1 Nocturnal Hunger
 1 Noxious Newt
 1 Oakhollow Village
-1 Old Thrush
 1 Omni-Cheese Pizza
+1 Outland Liberator // Frenzied Trapbreaker
 1 Overprotect
 1 Path of Ancestry
 1 Power Sneakers
 1 Pull from the Grave
-1 Ragamuffin Raptor
-1 Rampant Growth
 1 Rat King, Verminister
 1 Reassembling Skeleton
-1 Sneering Shadewriter
+1 Seedship Impact
+1 Snakeskin Veil
 1 Sol Ring
-1 Soul-Guide Lantern
+1 Splinter's Technique
+1 Stir Up Trouble
+1 Studious First-Year // Rampant Growth
 1 Supper for Spiders
-1 Swarm Culler
 1 Sword of Vengeance
 1 Technodrome
-1 Terramorphic Expanse
+1 Terrasymbiosis
 1 The Last Ronin
 1 The Sackville-Bagginses
 1 Thornplate Intimidator
 1 Thornvault Forager
 1 Thrashing Brontodon
-1 Thrór's Map
 1 Titan's Grave
 1 Tom, Bert, and William
-1 Tunnel Rats
 1 Uncharted Haven
-1 Vampire Neonate
 1 Vampire Spawn
 1 Vengeful Bloodwitch
 1 Vinereap Mentor
+1 Wood Elves
 1 Zombify
 1 Zopandrel, Hunger Dominus
 12 Forest
-11 Swamp
+14 Swamp
