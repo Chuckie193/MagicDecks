@@ -1,6 +1,8 @@
 # Potential Commanders
 
-All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **120 cards**.
+All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **127 cards**.
+
+> Generated from `moxfield_latest.csv`, the source of truth for ownership. Every card listed here is owned. Cards from `Commander Staples/` are deliberately excluded — that folder is a want-list, not a collection.
 
 ---
 
@@ -46,6 +48,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Azog_Morias_Ruin.jpg" alt="Azog, Moria's Ruin" width="200"> | **Azog, Moria's Ruin** | Legendary Creature — Goblin Soldier |  |
 | <img src="images/commanders/Bebop_Warthog_Warrior.jpg" alt="Bebop, Warthog Warrior" width="200"> | **Bebop, Warthog Warrior** | Legendary Creature — Boar Mutant Warrior |  |
 | <img src="images/commanders/Gollum_the_Abandoned.jpg" alt="Gollum the Abandoned" width="200"> | **Gollum the Abandoned** | Legendary Creature — Halfling Horror |  |
+| <img src="images/commanders/Gollum_Riddle_Master.jpg" alt="Gollum, Riddle Master" width="200"> | **Gollum, Riddle Master** | Legendary Creature — Halfling Horror |  |
 | <img src="images/commanders/Gollum_Silent_Slinker_Meager_Meal.jpg" alt="Gollum, Silent Slinker // Meager Meal" width="200"> | **Gollum, Silent Slinker // Meager Meal** | Legendary Creature — Halfling Horror // Sorcery — Adventure |  |
 | <img src="images/commanders/Kalakscion_Hunger_Tyrant.jpg" alt="Kalakscion, Hunger Tyrant" width="200"> | **Kalakscion, Hunger Tyrant** | Legendary Creature — Crocodile |  |
 | <img src="images/commanders/Madame_Null_Power_Broker.jpg" alt="Madame Null, Power Broker" width="200"> | **Madame Null, Power Broker** | Legendary Creature — Demon Advisor |  |
@@ -54,11 +57,13 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Shredder_Unrelenting.jpg" alt="Shredder, Unrelenting" width="200"> | **Shredder, Unrelenting** | Legendary Creature — Human Ninja |  |
 | <img src="images/commanders/Splinter_Hamato_Yoshi.jpg" alt="Splinter, Hamato Yoshi" width="200"> | **Splinter, Hamato Yoshi** | Legendary Creature — Mutant Ninja Rat |  |
 | <img src="images/commanders/The_Master_of_Lake_town.jpg" alt="The Master of Lake-town" width="200"> | **The Master of Lake-town** | Legendary Creature — Human Advisor |  |
+| <img src="images/commanders/The_Sackville_Bagginses.jpg" alt="The Sackville-Bagginses" width="200"> | **The Sackville-Bagginses** | Legendary Creature — Halfling Citizen |  |
 
 ## Red
 
 | Card | Name | Type | Precon |
 |------|------|------|--------|
+| <img src="images/commanders/Bombur_Gentle_Dreamer.jpg" alt="Bombur, Gentle Dreamer" width="200"> | **Bombur, Gentle Dreamer** | Legendary Creature — Dwarf Bard |  |
 | <img src="images/commanders/Dori_Bearer_of_Friends.jpg" alt="Dori, Bearer of Friends" width="200"> | **Dori, Bearer of Friends** | Legendary Creature — Dwarf Warrior |  |
 | <img src="images/commanders/Dáin_Ironfoot.jpg" alt="Dáin Ironfoot" width="200"> | **Dáin Ironfoot** | Legendary Creature — Dwarf Warrior |  |
 | <img src="images/commanders/Gandalf_Goblins_Bane_Flameshape.jpg" alt="Gandalf, Goblins' Bane // Flameshape" width="200"> | **Gandalf, Goblins' Bane // Flameshape** | Legendary Creature — Avatar Wizard // Sorcery — Adventure |  |
@@ -95,6 +100,8 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | Card | Name | Type | Precon |
 |------|------|------|--------|
 | <img src="images/commanders/Shadow_the_Hedgehog.jpg" alt="Shadow the Hedgehog" width="200"> | **Shadow the Hedgehog** | Legendary Creature — Hedgehog Mercenary | SonictheHedgehog FriendsandFoes |
+| <img src="images/commanders/Smaug_the_Impenetrable.jpg" alt="Smaug the Impenetrable" width="200"> | **Smaug the Impenetrable** | Legendary Creature — Dragon |  |
+| <img src="images/commanders/Smaug_Wicked_Worm.jpg" alt="Smaug, Wicked Worm" width="200"> | **Smaug, Wicked Worm** | Legendary Creature — Dragon |  |
 
 ## Black, Green
 
@@ -126,6 +133,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | Card | Name | Type | Precon |
 |------|------|------|--------|
 | <img src="images/commanders/Muldrotha_the_Gravetide.jpg" alt="Muldrotha, the Gravetide" width="200"> | **Muldrotha, the Gravetide** | Legendary Creature — Elemental Avatar | DanceOfTheElements |
+| <img src="images/commanders/Thranduil_the_Elvenking.jpg" alt="Thranduil, the Elvenking" width="200"> | **Thranduil, the Elvenking** | Legendary Creature — Elf Noble |  |
 | <img src="images/commanders/Yarok_the_Desecrated.jpg" alt="Yarok, the Desecrated" width="200"> | **Yarok, the Desecrated** | Legendary Creature — Elemental Horror | DanceOfTheElements |
 
 ## Black, Green, Red, Blue, White
@@ -155,6 +163,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | Card | Name | Type | Precon |
 |------|------|------|--------|
 | <img src="images/commanders/Bard_the_Bowman.jpg" alt="Bard the Bowman" width="200"> | **Bard the Bowman** | Legendary Creature — Human Archer |  |
+| <img src="images/commanders/Bard_King_of_Dale.jpg" alt="Bard, King of Dale" width="200"> | **Bard, King of Dale** | Legendary Creature — Human Noble Archer |  |
 | <img src="images/commanders/Miles_Tails_Prower.jpg" alt="Miles &quot;Tails&quot; Prower" width="200"> | **Miles "Tails" Prower** | Legendary Creature — Fox Artificer | SonictheHedgehog FriendsandFoes |
 
 ## Green, Blue

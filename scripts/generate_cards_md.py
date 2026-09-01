@@ -513,6 +513,22 @@ def append_raw_response(path: str, name: str, data: dict, urls: list):
         fh.write('\n')
 
 
+def owned_cache_subset(cache: dict, rows) -> dict:
+    """
+    Restrict the Scryfall cache to cards actually present in moxfield_latest.csv.
+
+    cards_cache.json is a shared accumulator: add_staple_prices.py writes every
+    Commander Staples entry into it too, whether or not it is owned. Both
+    card_details.md and commanders.md are generated straight from the cache, so
+    without this filter they advertise hundreds of cards the collection does not
+    contain (325 of 1536 entries as of 2026-09-01). moxfield_latest.csv is the
+    source of truth for ownership; the cache is only a data store.
+    """
+    owned = {(r.get('Name') or '').strip() for r in rows}
+    owned.discard('')
+    return {name: entry for name, entry in cache.items() if name in owned}
+
+
 def append_card_details(path: str, cache_dict: dict, not_found: list, alt_name_map=None):
     """
     Write a complete card_details.md file (overwrites) using the current cache dict.
@@ -947,6 +963,11 @@ def write_commanders_md(path: str, cache: dict, image_paths: dict, precon_map: d
             f"All Legendary Creatures and Legendary Spacecraft (Station mechanic) "
             f"in your collection — **{len(commanders)} cards**.\n\n"
         )
+        fh.write(
+            "> Generated from `moxfield_latest.csv`, the source of truth for ownership. "
+            "Every card listed here is owned. Cards from `Commander Staples/` are "
+            "deliberately excluded — that folder is a want-list, not a collection.\n\n"
+        )
         fh.write("---\n\n")
         for ci in ci_order:
             if ci not in by_ci:
@@ -1057,20 +1078,28 @@ if __name__ == "__main__":
     except Exception:
         pass
     
+    # Restrict the shared cache to owned cards before writing any collection file.
+    # add_staple_prices.py also writes into cards_cache.json, so the raw cache is a
+    # superset of the collection — see owned_cache_subset().
+    owned_cache = owned_cache_subset(cache, rows)
+    dropped = len(cache) - len(owned_cache)
+    if dropped:
+        print(f"Excluding {dropped} cached cards not present in {args.csv} (staples//reference entries)")
+
     # now create card_details.md from the cache
-    append_card_details(card_details_path, cache, not_found, alt_name_map)
+    append_card_details(card_details_path, owned_cache, not_found, alt_name_map)
     print(f"WROTE/UPDATED {card_details_path}")
 
     # download commander images only (skip any already on disk), then write Commanders.md
     commanders_cache = {
-        name: entry for name, entry in cache.items()
+        name: entry for name, entry in owned_cache.items()
         if isinstance(entry, dict) and is_commander_candidate(entry.get("data"))
     }
     precon_map = {r.get('Name', ''): r.get('Precon', '') for r in rows}
     print(f"\nDownloading {len(commanders_cache)} commander images to {args.images_dir}/ (0.5s between each)...")
     image_paths = download_card_images(commanders_cache, args.images_dir, delay=0.5)
-    write_commanders_md(args.commanders_out, cache, image_paths, precon_map)
+    write_commanders_md(args.commanders_out, owned_cache, image_paths, precon_map)
 
     # Write non-commander-precon cards list
-    write_non_commander_md(args.non_commander_out, rows, commander_decks, cache)
+    write_non_commander_md(args.non_commander_out, rows, commander_decks, owned_cache)
     print(f"WROTE {args.non_commander_out}")
