@@ -1,6 +1,6 @@
 # Potential Commanders
 
-All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **127 cards**.
+All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **128 cards**.
 
 > Generated from `moxfield_latest.csv`, the source of truth for ownership. Every card listed here is owned. Cards from `Commander Staples/` are deliberately excluded — that folder is a want-list, not a collection.
 
@@ -111,6 +111,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Chatterfang_Squirrel_General.jpg" alt="Chatterfang, Squirrel General" width="200"> | **Chatterfang, Squirrel General** | Legendary Creature — Squirrel Warrior | SquirreledAway |
 | <img src="images/commanders/Hazel_of_the_Rootbloom.jpg" alt="Hazel of the Rootbloom" width="200"> | **Hazel of the Rootbloom** | Legendary Creature — Squirrel Druid | SquirreledAway |
 | <img src="images/commanders/Lord_Dregg_Insect_Invader.jpg" alt="Lord Dregg, Insect Invader" width="200"> | **Lord Dregg, Insect Invader** | Legendary Creature — Insect Warrior |  |
+| <img src="images/commanders/Old_Stickfingers.jpg" alt="Old Stickfingers" width="200"> | **Old Stickfingers** | Legendary Creature — Horror |  |
 | <img src="images/commanders/The_Chief_Warg.jpg" alt="The Chief Warg" width="200"> | **The Chief Warg** | Legendary Creature — Wolf |  |
 | <img src="images/commanders/The_Odd_Acorn_Gang.jpg" alt="The Odd Acorn Gang" width="200"> | **The Odd Acorn Gang** | Legendary Creature — Squirrel Warrior | SquirreledAway |
 | <img src="images/commanders/Tom_Bert_and_William.jpg" alt="Tom, Bert, and William" width="200"> | **Tom, Bert, and William** | Legendary Creature — Troll |  |
