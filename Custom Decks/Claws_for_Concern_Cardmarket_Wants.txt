@@ -1,0 +1,99 @@
+=============================================================
+CARDMARKET WANTS LIST — Claws for Concern: Upgraded
+17 cards. Generated 2026-09-06.
+=============================================================
+
+LANGUAGE: Cardmarket has no per-line language syntax. Set it once
+on the wants list itself — open the list, click "Edit Wants List"
+(or the pencil on a row) and set Language = English. It applies to
+every entry. Do not try to encode it in the text below.
+
+-------------------------------------------------------------
+OPTION A — ANY PRINTING (recommended)
+No expansion given, so Cardmarket matches every printing and you
+get the cheapest available seller. Paste this block.
+-------------------------------------------------------------
+
+1 Avabruck Caretaker
+1 Beast Within
+1 Cinder Glade
+1 Game Trail
+1 Garruk's Uprising
+1 Growing Rites of Itlimoc
+1 Heroic Intervention
+1 Hollowhenge Overlord
+1 Hungry Ridgewolf
+1 Karplusan Forest
+1 Master of the Wild Hunt
+1 Pyreheart Wolf
+1 Realmwalker
+1 Rhythm of the Wild
+1 Rootbound Crag
+1 Swiftfoot Boots
+1 Ulrich of the Krallenhorde
+
+
+-------------------------------------------------------------
+OPTION B — YOUR EXACT PRINTINGS
+Locks each card to the expansion in your Moxfield wishlist.
+Narrower search, usually more expensive, and some will have few
+or no sellers. Use only if you want these specific versions.
+-------------------------------------------------------------
+
+1 Avabruck Caretaker (Secret Lair Drop)
+1 Beast Within (Battlebond)
+1 Cinder Glade (Bloomburrow Commander)
+1 Game Trail (Bloomburrow Commander)
+1 Garruk's Uprising (Wilds of Eldraine: Enchanting Tales)
+1 Growing Rites of Itlimoc (Ixalan)
+1 Heroic Intervention (Commander Masters)
+1 Hollowhenge Overlord (Crimson Vow Commander)
+1 Hungry Ridgewolf (Innistrad: Double Feature)
+1 Karplusan Forest (Dominaria United)
+1 Master of the Wild Hunt (Jumpstart 2022)
+1 Pyreheart Wolf (Dark Ascension)
+1 Realmwalker (Commander Masters)
+1 Rhythm of the Wild (Neon Dynasty Commander)
+1 Rootbound Crag (Bloomburrow Commander)
+1 Swiftfoot Boots (Foundations)
+1 Ulrich of the Krallenhorde (Eldritch Moon)
+
+
+=============================================================
+NOTES
+=============================================================
+
+DOUBLE-FACED CARDS — front face only.
+Cardmarket lists transforming cards under their front face, so
+these are written WITHOUT the "//" second half:
+
+  Avabruck Caretaker        not  ... // Hollowhenge Huntmaster
+  Growing Rites of Itlimoc  not  ... // Itlimoc, Cradle of the Sun
+  Ulrich of the Krallenhorde not ... // Ulrich, Uncontested Alpha
+
+Pasting the "//" form will fail to match.
+
+FOIL — your wishlist marks Avabruck Caretaker (SLD 1608) as foil
+(*F*). There is no per-line foil syntax either; set it with the
+"Foil" toggle on that row after import. Note the Secret Lair foil
+is the most expensive printing of that card by a wide margin —
+the standard Crimson Vow printing is about EUR 4.65. Option A
+will find it for you.
+
+WHY OPTION A: this is a shopping list, not a collection. Six of
+your seventeen picks are premium or promo printings (Secret Lair,
+Enchanting Tales, Commander Masters, Jumpstart 2022). Dropping
+the expansion typically saves a large fraction of the total and
+never changes what the card does.
+
+EXPECTED TOTAL — about EUR 37.64 at cheapest printings.
+Cheapest-printing prices, Cardmarket via Scryfall, 2026-09-06.
+
+FORMAT REFERENCE (from Cardmarket's own documentation)
+  4    Dark Ritual                              any printing, 4 copies
+  4x   High Tide (V.1) (Fallen Empires)         specific version + set
+       Tarmogoyf                                1 copy, any printing
+  2    Dark Confidant (Modern Masters)          2 copies, specific set
+
+Version numbers "(V.1)" only apply to cards with multiple arts in
+one expansion — none of the 17 here need one.
