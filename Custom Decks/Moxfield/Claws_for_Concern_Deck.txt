@@ -12,13 +12,12 @@
 1 Burly Breaker // Dire-Strain Demolisher
 1 Chaos Warp
 1 Child of the Pack // Savage Packmate
-1 Cult of the Waxing Moon
 1 Daybreak Ranger // Nightfall Predator
 1 Duskwatch Recruiter // Krallenhorde Howler
 1 Elvish Regrower
 1 Fangblade Brigand // Fangblade Eviscerator
-1 Full Moon's Rise
 1 Geier Reach Bandit // Vildin-Pack Alpha
+1 Hermit of the Natterknolls // Lone Wolf of the Natterknolls
 1 Hound Tamer // Untamed Pup
 1 Howlpack Piper // Wildsong Howler
 1 Howlpack Resurgence
@@ -53,6 +52,7 @@
 1 Unnatural Growth
 1 Unnatural Moonrise
 1 Village Messenger // Moonrise Intruder
+1 Village Watch // Village Reavers
 1 Volatile Arsonist // Dire-Strain Anarchist
 1 Warg Tactics
 1 Wargling

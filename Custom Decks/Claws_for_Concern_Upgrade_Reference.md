@@ -144,3 +144,132 @@ Strictly better than Wrap in Vigor — buy this instead if the delta is comforta
 
 The closest partial answer is **Vivien, Champion of the Wilds (€0.50)** in Tier 3. The free route to night is casting *zero* spells on your own turn, which a 40-creature deck can never afford. Vivien lets you cast creatures as though they had flash, so you deploy on opponents' end steps and casting nothing on your turn stops being a sacrifice.
 
+---
+
+## F. Added from field research (2026-09-06)
+
+Compared against **7 sources**: the EDHREC Tovolar page (aggregate of **15,632 decks**), the EDHREC werewolves theme page, and **5 individual Archidekt decklists** pulled via API.
+
+| Card | Cost | Type | Effect | Price | Field support |
+|---|---|---|---|---|---|
+| **Beast Within** | {2}{G} | Instant | Destroy target permanent. Its controller creates a 3/3 green Beast. | **BUY — €0.55** | **5/5 decks, 49% EDHREC** |
+| **Tribute to the World Tree** | {G}{G}{G} | Enchantment | Whenever a creature you control enters, draw a card if its power is 3 or greater. Otherwise, put two +1/+1 counters on it. | **BUY — €9.78** | 4/5 decks |
+| **Nature's Lore** | {1}{G} | Sorcery | Search your library for a Forest card, put it onto the battlefield (untapped). | **BUY — €2.21** | 2/5 decks |
+| **Wolfcaller's Howl** | {3}{G} | Enchantment | Upkeep: create X 2/2 green Wolf tokens, X = opponents with 4+ cards in hand. | **BUY — €1.22** | 1/5 decks |
+| **Anara, Wolvid Familiar** | {3}{G} | Legendary Creature — Wolf Beast | During your turn, commanders you control have indestructible. | **BUY — €0.42** | 1/5 decks |
+| **Goblin Anarchomancer** | {R}{G} | Creature — Goblin Shaman | Each spell you cast that's red or green costs {1} less. | **BUY — €0.42** | 2/5 decks |
+| **Ruby, Daring Tracker** | {R}{G} | Legendary Creature — Human Scout | Haste; taps for {R} or {G}; grows when attacking alongside a 4-power creature. | **BUY — €0.13** | 2/5 decks |
+
+**Why these three matter most**
+- **Beast Within** is the clearest gap the research found. It is the only unconditional instant-speed *destroy target permanent* in Gruul, and the deck's sole other catch-all is Chaos Warp — which is a random re-roll that can hand an opponent something better.
+- **Tribute to the World Tree** works with Wolf tokens where Garruk's Uprising does not: a 2/2 token has power 2, so it takes **two +1/+1 counters and becomes a permanent 4/4**, which then satisfies Wargling's ferocious, Werewolf Pack Leader's pack tactics and Hunter's Talent's 4-power check.
+- **Anara, Wolvid Familiar** is a **Wolf** that gives Tovolar indestructible on your turn — on-theme, and it partly answers the deck's #1 documented weakness.
+
+### Reinstate from cards you already own (free, both Werewolves)
+
+| Card | Field | Why we were wrong to cut it |
+|---|---|---|
+| **Hermit of the Natterknolls // Lone Wolf of the Natterknolls** | **5/5 decks** | Cut for "the draw trigger depends on opponents acting on your turn" — correct for 1v1, wrong for a pod, and this deck is tuned for **Both**. The night side draws **two** per opponent spell. |
+| **Village Watch // Village Reavers** | 4/5 decks | Cut as "haste the deck already supplies more cheaply." Three revisions later we rejected Second Harvest **specifically because the deck has no mass haste**. Village Reavers reads *"Wolves and Werewolves you control have haste."* Our own later analysis created the need this card fills. |
+
+### Rejected after review — with reasons
+
+| Card | € | Why not |
+|---|---|---|
+| **Yavimaya, Cradle of Growth** | 11.23 | Fixes **green only**, and the deck has five double-**red** costs. Of our three type-checking lands it turns on **Rootbound Crag alone** — Cinder Glade checks for *basic* lands (Yavimaya grants a type, not the supertype) and Game Trail checks your *hand*. Decisively: the five duals cost **€2.46** and fix both colours. |
+| **Guardian Project** | 11.91 | The **nontoken** clause is disqualifying in a deck whose main output is Wolf tokens. Tribute to the World Tree costs the same and *does* work with tokens. |
+| **Berserkers' Onslaught** | 0.36 | 2/5, 26%. Double strike multiplies damage on a board already doubled twice — the same over-served "make the board bigger" role. |
+| **Relentless Assault** | 1.81 | The maths is real (a second combat re-triggers both doublers and compounds: 2/2 → 8/8 → 32/32). Still a five-mana sorcery that does nothing without a board. 2/5. |
+| **Rockfall Vale** | 1.71 | 5/5 in the field, but **Cinder Glade (€0.21) does the same job** — untapped from turn 3 — and carries the Mountain Forest types so Nature's Lore can fetch it. |
+| **Spire Garden** | 4.66 | Untapped only with **two or more opponents** — a tapped land in every 1v1 game. |
+| **Blasphemous Act** | *owned* | 49% on EDHREC is its rate in red decks generally, not a Tovolar signal. 13 damage kills our own doubled board, and all three win conditions need a board — a symmetric wipe is asymmetric **against** us. *Meta-contingent: if your table reliably out-boards you, this rejection is wrong.* |
+
+### Open question for you: tutors
+
+The field runs Chord of Calling, Natural Order, Signal the Clans and Gamble. This deck has **zero**, which is the reason every version of it caps at bracket 2–3. Chord of Calling (**€4.08**, instant, convoke) off a wide board fetches Avabruck Caretaker or Zopandrel.
+
+This is a **bracket decision, not a card decision** — adding tutors changes how consistent the deck feels at the table, which may not be what you want.
+
+### What the research validated
+
+Three independent passes — my own analysis, a critique agent, and an unanchored build agent — all landed on **Hollowhenge Overlord** as the single best purchase. The field agrees (4/5 decks, 62%).
+
+And the strongest corroboration of your own instinct: **Endurance, Fury, Selvala, Greenwarden and Toski appear in 0 of 5 decks.** The field runs none of the five cards you said felt off-theme.
+
+*Price basis throughout: cheapest paper printing on Cardmarket via Scryfall. Default-printing prices run 20–30% higher.*
+
+---
+
+## G. Current deck state and the Phase 2 swap plan (2026-09-06)
+
+**`Claws_for_Concern_Deck.md` has been updated.** Two free swaps applied from owned cards:
+
+| Out | In | Effect |
+|---|---|---|
+| Cult of the Waxing Moon *(off-tribe Human Shaman)* | **Village Watch // Village Reavers** | Werewolf; night side gives **all Wolves and Werewolves haste** — the deck's only mass-haste effect |
+| Full Moon's Rise *(Werewolves only — missed all 8 Wolves and every token)* | **Hermit of the Natterknolls** | Werewolf; draws on opponent spells during your turn, **two** at night |
+
+**Deck is now 28 Werewolves / 8 Wolves / 1 changeling = 37 tribal bodies** — above every online deck sampled, one werewolf below The Bark Ages precon. Average CMC unchanged at ~3.06.
+
+> **Correction on record:** Moonmist was cut in the first pass and then **reinstated**. It is not a plain fog — *"prevent all combat damage that would be dealt this turn by creatures other than Werewolves and Wolves"* is **one-sided**, since almost nothing you control is affected. Full Moon's Rise was the genuinely weaker card and was cut instead.
+
+### Consequence: the deck now has ZERO wrath insurance
+
+Cutting Full Moon's Rise removed the only regeneration effect, thin as it was. **Elvish Regrower rebuying one card is the entire plan against a sweeper.** This re-prioritises the buy list — **Wrap in Vigor has been promoted to Tier 1.**
+
+### Phase 2 — the €14.65 that clears "beats low bracket 3"
+
+| Buy | € | Cut from the deck |
+|---|---:|---|
+| **5 duals** — Cinder Glade, Rootbound Crag, Game Trail, Karplusan Forest, Copperline Gorge | 2.46 | Bristling Backwoods, Rugged Highlands, Sheltered Thicket, Temple of Abandon, Gongaga |
+| **Hollowhenge Overlord** *(Wolf)* | 5.94 | Runebound Wolf |
+| **Avabruck Caretaker** *(Werewolf)* | 4.69 | Sage of Ancient Lore |
+| **Ulrich of the Krallenhorde** *(Werewolf)* | 3.34 | Howlpack Piper |
+| **Ballista Watcher** *(Werewolf)* | 0.09 | Terrasymbiosis |
+| **Bird Admirer** *(Werewolf)* | 0.04 | Hunter's Talent |
+| **Beast Within** | 0.55 | Warg Tactics *(Full Moon's Rise, the original cut target, is already gone)* |
+| **Wrap in Vigor** | 1.13 | Bite Down — restores the wrath insurance Full Moon's Rise used to provide |
+
+Land count stays 36. **Result: 30 Werewolves, 39 tribal** — above the precon, with every addition improving the deck.
+
+### The four load-bearing purchases
+
+Judged against the stated bar — *"win against lower bracket 3 decks"* — only these four move the needle:
+
+1. **The five duals (€2.46)** — the deck has **zero untapped Gruul duals** and 7 of 10 nonbasics enter tapped. Games are lost to stumbling on mana more often than to card quality. Buy this first even if you buy nothing else.
+2. **Avabruck Caretaker (€4.69)** — night side gives **all your permanents hexproof**, and Immerwolf locks it there permanently. Blanks the "kill Tovolar" plan, which is exactly how a bracket 3 deck beats a commander-dependent deck.
+3. **Hollowhenge Overlord (€5.94)** — a Wolf making a token per Wolf/Werewolf every upkeep, with flash.
+4. **Wrap in Vigor (€1.13)** *or* **Heroic Intervention (€7.99)** — the deck has no wrath insurance at all now.
+
+Ulrich, Ballista Watcher and Bird Admirer are theme-and-value, not load-bearing. Everything in Tier 3 is optional.
+
+### Deliberately not done: maximising werewolf count
+
+You own 8 more Werewolves. Adding all of them would reach 33 Werewolves / 43 tribal — but **6 of the 8 are filler or vanilla** (Kessig Forgemaster is a 1/1 that pings its blocker; Tavern Ruffian, Harvesttide Infiltrator and Tireless Hauler are French vanilla), and fitting them means cutting removal, ramp or draw.
+
+The werewolf *feel* in this deck comes from the day/night decisions — counting spells to hold night, ordering the doubling triggers, holding up Nightpack Ambusher by casting nothing — not from raw count. Vanilla bodies make the list read more thematic and play flatter. **For reference: the online field averages 23.6 Werewolves; you are at 28.**
+
+### Counter density check — why Inspiring Call was demoted
+
+Audited the deck for +1/+1 counter sources: **9 total, but only 2 hit every creature** (Wilderland Scrounger on attack; Arlinn's +1 on creatures entering, for one turn). Four are single-target, two are self-only.
+
+**On a typical 6–8 creature board only 2–3 carry counters**, so Inspiring Call is usually "draw 2–3 for three mana" and makes only those creatures indestructible. Its ceiling — draw 8 and blank a wrath — requires Wilderland Scrounger to have attacked first.
+
+The distinction against Terrasymbiosis, which stays: **Terrasymbiosis needs *frequency*** (one counter placement per turn, and Packsong Pup guarantees that free every combat). **Inspiring Call needs *breadth*** — many creatures carrying counters at once — which this deck doesn't reliably produce.
+
+- **Moved to Tier 3.** **Wrap in Vigor (€1.13)** is the reliable wrath answer: regenerate *each* creature, no conditions.
+- **Inspiring Call becomes Tier 1 material if you buy Metallic Mimic (€0.69)** naming Wolf — every Wolf token would then enter with a counter, across 10 token producers. Same effect from Tribute to the World Tree (2/2 tokens take two counters each).
+
+### Removed from the buy list: Waxing Moon
+
+`{1}{G}` instant — *"Transform up to one target Werewolf you control. Creatures you control gain trample until end of turn."*
+
+**Cut for two reasons, both specific to this deck:**
+
+1. **Daybound permanents cannot be transformed by any effect.** This deck runs **15 daybound werewolves against 12 old-border ones**, so Waxing Moon's transform half is dead against more than half the tribe — and it only targets *one* creature even when it works.
+2. **The trample half is the 12th trample source in a deck that already has 11** — Arlinn Kord, Neck Breaker, Untamed Pup, Hunter's Talent, Kessig Wolf Run, Reckless Stormseeker, Tovolar's `{X}{R}{G}`, Unnatural Moonrise, Warg Tactics, Wargling and Werewolf Pack Leader. Howlpack Resurgence, already in the deck, gives +1/+1 **and** trample at flash speed, permanently, and covers Wolves too.
+
+Its one real use — flipping Instigator Gang into Wildblood Pack mid-combat, or Kruin Outlaw into double strike — needs one specific card of twelve to be on the battlefield.
+
+**Selection error worth recording:** it was picked up largely because EDHREC shows ~31% inclusion, without checking fit against *this* deck's daybound-heavy composition. Field popularity is not synergy — the same error flagged in Section F's methodology notes.
+
