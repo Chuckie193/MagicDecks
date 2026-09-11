@@ -24,7 +24,9 @@
       "Bash(rm old_tovolar_tmp.txt)",
       "Bash(mkdir -p \"images/Claws_for_Concern_Transform_Fronts\")",
       "Bash(python3)",
-      "WebFetch(domain:api.scryfall.com)"
+      "WebFetch(domain:api.scryfall.com)",
+      "WebFetch(domain:mtg.fandom.com)",
+      "WebFetch(domain:playgroup.gg)"
     ],
     "defaultMode": "acceptEdits"
   }

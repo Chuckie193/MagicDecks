@@ -1,9 +1,9 @@
-# Non-Commander-Precon Cards (generated 2026-09-05T21:55:04.955859+00:00Z)
+# Non-Commander-Precon Cards (generated 2026-09-10T19:41:19.031919+00:00Z)
 
 Cards you own that are not reserved by a Commander precon, or copies in excess of Commander precon requirements. Cards from other precons (Secret Lairs, Foundations, etc.) are included here as they are free to use in custom decks.
 
-**Total distinct cards:** 893  
-**Total copies:** 1470
+**Total distinct cards:** 903  
+**Total copies:** 1487
 
 | Card | Copies | CMC | Type | Color Identity | Notes |
 |------|:------:|:---:|------|----------------|-------|
@@ -15,6 +15,7 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Aggressive Mammoth | 1 | 6 | Creature | Green | not in any commander precon |
 | Aisha of Sparks and Smoke | 1 | 3 | Legendary Creature | Red, White | not in any commander precon |
 | Ajani's Pridemate | 1 | 2 | Creature | White | not in any commander precon |
+| Ajani's Response | 1 | 5 | Instant | White | not in any commander precon |
 | Ajani, Outland Chaperone | 1 | 3 | Legendary Planeswalker | White | not in any commander precon |
 | Alania's Pathmaker | ×4 | 4 | Creature | Red | not in any commander precon |
 | Alania, Divergent Storm | 1 | 5 | Legendary Creature | Red, Blue | not in any commander precon |
@@ -99,6 +100,7 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Burn, Burn, Tree and Fern | ×3 | 4 | Enchantment | Red | not in any commander precon |
 | Burrog Befuddler | 1 | 2 | Creature | Blue | not in any commander precon |
 | Burrowguard Mentor | ×2 | 2 | Creature | Green, White | not in any commander precon |
+| Burst Lightning | 1 | 1 | Instant | Red | not in any commander precon |
 | Buzz Bots | ×2 | 2 | Artifact Creature | Blue | not in any commander precon |
 | Byrke, Long Ear of the Law | 1 | 6 | Legendary Creature | Green, White | not in any commander precon |
 | Caelorna, Coral Tyrant | 1 | 2 | Legendary Creature | Blue | not in any commander precon |
@@ -216,7 +218,7 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Elvenking's Harper | ×2 | 2 | Creature | Blue | not in any commander precon |
 | Elvish Archdruid | 1 | 3 | Creature | Green | not in any commander precon |
 | Elvish Regrower | 1 | 4 | Creature | Green | not in any commander precon |
-| Embrace the Paradox | 1 | 5 | Instant | Green, Blue | not in any commander precon |
+| Embrace the Paradox | ×2 | 5 | Instant | Green, Blue | not in any commander precon |
 | Enchanted River's Grasp | ×3 | 3 | Enchantment | Blue | not in any commander precon |
 | Endrider Catalyzer | 1 | 2 | Creature | Red | not in any commander precon |
 | Enduring Angel // Angelic Enforcer | 1 | 5 | Creature | White | not in any commander precon |
@@ -274,8 +276,8 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Forest | ×43 | 0 | Basic Land | Green | 29 copies used by Dance Of The Elements; Squirreled Away; The Bark Ages |
 | Foul Play | 1 | 2 | Sorcery | Black | not in any commander precon |
 | Fountainport Bell | ×2 | 1 | Artifact | Colorless | not in any commander precon |
-| Fractal | ×3 | 0 | Token Creature | Green, Blue | not in any commander precon |
-| Fractal Tender | 1 | 5 | Creature | Green, Blue | not in any commander precon |
+| Fractal | ×4 | 0 | Token Creature | Green, Blue | not in any commander precon |
+| Fractal Tender | ×2 | 5 | Creature | Green, Blue | not in any commander precon |
 | Frenzied Goblin | 1 | 1 | Creature | Red | not in any commander precon |
 | Frog Butler | ×2 | 2 | Creature | Green | not in any commander precon |
 | Front Porch Sentries | ×3 | 2 | Creature | Black | not in any commander precon |
@@ -329,6 +331,7 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Gollum, Riddle Master | 1 | 2 | Legendary Creature | Black | not in any commander precon |
 | Gollum, Silent Slinker // Meager Meal | ×3 | 4 | Legendary Creature | Black | not in any commander precon |
 | Gravblade Heavy | 1 | 4 | Creature | Black | not in any commander precon |
+| Grave Researcher // Reanimate | 1 | 3 | Creature | Black | not in any commander precon |
 | Great Fierce Bee | ×2 | 3 | Creature | Black | not in any commander precon |
 | Great Gilded Boat | 1 | 3 | Artifact | Blue | not in any commander precon |
 | Great Ugly-Looking Goblin // Clap! Snap! | ×2 | 6 | Creature | Black | not in any commander precon |
@@ -388,6 +391,7 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Incinerating Blast | 1 | 5 | Sorcery | Red | not in any commander precon |
 | Infernal Grasp | 1 | 2 | Instant | Black | not in any commander precon |
 | Ingenious Leonin | 1 | 5 | Creature | White | not in any commander precon |
+| Inkling | 1 | 0 | Token Creature | Colorless | not in any commander precon |
 | Inkling Mascot | 1 | 2 | Creature | Black, White | not in any commander precon |
 | Insatiable Hemophage | 1 | 4 | Creature | Black | not in any commander precon |
 | Insatiable Skittermaw | ×2 | 3 | Creature | Black | not in any commander precon |
@@ -435,6 +439,7 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Lattice-Blade Mantis | 1 | 4 | Creature | Green | not in any commander precon |
 | Lava Serpent | 1 | 6 | Creature | Red | not in any commander precon |
 | Leader's Talent | 1 | 2 | Enchantment | White | not in any commander precon |
+| Lecturing Scornmage | 1 | 1 | Creature | Black | not in any commander precon |
 | Leech Collector // Bloodletting | 1 | 2 | Creature | Black | not in any commander precon |
 | Leonardo's Technique | 1 | 4 | Sorcery | White | not in any commander precon |
 | Leonardo, Big Brother | ×2 | 3 | Legendary Creature | White | not in any commander precon |
@@ -574,7 +579,7 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Pinecone Strike | ×3 | 2 | Instant | Red | not in any commander precon |
 | Pinnacle Kill-Ship | 1 | 7 | Artifact | Colorless | not in any commander precon |
 | Pirate's Cutlass | 1 | 3 | Artifact | Colorless | not in any commander precon |
-| Plains | ×55 | 0 | Basic Land | White | 5 copies used by Counter Intelligence; Dance Of The Elements |
+| Plains | ×56 | 0 | Basic Land | White | 5 copies used by Counter Intelligence; Dance Of The Elements |
 | Playful Shove | 1 | 2 | Sorcery | Red | not in any commander precon |
 | Plunder the Trollshaws | ×3 | 2 | Instant | Blue | not in any commander precon |
 | Pond Prophet | ×2 | 2 | Creature | Green, Blue | not in any commander precon |
@@ -589,7 +594,7 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Prophetic Prism | 1 | 2 | Artifact | Colorless | not in any commander precon |
 | Psychic Whorl | 1 | 3 | Sorcery | Black | not in any commander precon |
 | Pterafractyl | ×2 | 2 | Creature | Green, Blue | not in any commander precon |
-| Pull from the Grave | ×3 | 3 | Sorcery | Black | not in any commander precon |
+| Pull from the Grave | ×4 | 3 | Sorcery | Black | not in any commander precon |
 | Pulsar Squadron Ace | 1 | 2 | Creature | White | not in any commander precon |
 | Pummeler for Hire | 1 | 5 | Creature | Green | not in any commander precon |
 | Punk Frogs | 1 | 5 | Creature | Green, Blue | not in any commander precon |
@@ -690,6 +695,7 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Skystinger | 1 | 3 | Creature | Green | not in any commander precon |
 | Slaughter Singer | 1 | 2 | Creature | Green, White | not in any commander precon |
 | Slithering Cryptid | 1 | 3 | Creature | Green, Blue | not in any commander precon |
+| Smallpox | 1 | 2 | Sorcery | Black | not in any commander precon |
 | Smaug the Impenetrable | 1 | 7 | Legendary Creature | Black, Red | not in any commander precon |
 | Smaug the Magnificent | 1 | 4 | Legendary Creature | Red | not in any commander precon |
 | Smaug's Fury | ×2 | 2 | Instant | Red | not in any commander precon |
@@ -710,6 +716,7 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Spicy Oatmeal Pizza | ×2 | 3 | Artifact | Red | not in any commander precon |
 | Spiral into Solitude | 1 | 2 | Enchantment | White | not in any commander precon |
 | Spirit | 1 | 0 | Card | Colorless | not in any commander precon |
+| Spirit of Resilience | 1 | 3 | Creature | Red | not in any commander precon |
 | Splash Lasher | 1 | 4 | Creature | Blue | not in any commander precon |
 | Splinter's Technique | 1 | 4 | Sorcery | Black | not in any commander precon |
 | Splinter, Hamato Yoshi | 1 | 2 | Legendary Creature | Black | not in any commander precon |
@@ -737,6 +744,7 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Stony-Voiced Goblins | ×4 | 2 | Creature | Black | not in any commander precon |
 | Storm Fleet Spy | 1 | 3 | Creature | Blue | not in any commander precon |
 | Storm Skreelix | 1 | 5 | Creature | Red, Blue | not in any commander precon |
+| Stormcarved Coast | 1 | 0 | Land | Red, Blue | not in any commander precon |
 | Stormcatch Mentor | ×2 | 2 | Creature | Red, Blue | 1 copy used by Prismari Artistry |
 | Stormwild Capridor | 1 | 3 | Creature | White | not in any commander precon |
 | Strangle | 1 | 1 | Sorcery | Red | not in any commander precon |
@@ -807,7 +815,7 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Three Tree Scribe | 1 | 2 | Creature | Green | not in any commander precon |
 | Thrummingbird | 1 | 2 | Creature | Blue | 1 copy used by Counter Intelligence |
 | Thrór's Map | 1 | 2 | Legendary Artifact | Colorless | not in any commander precon |
-| Thunderdrum Soloist | 1 | 2 | Creature | Red | not in any commander precon |
+| Thunderdrum Soloist | ×2 | 2 | Creature | Red | not in any commander precon |
 | Tidings of War | ×3 | 1 | Sorcery | Red | not in any commander precon |
 | Tireless Hauler // Dire-Strain Brawler | 1 | 5 | Creature | Green | not in any commander precon |
 | Titan's Grave | 1 | 0 | Land | Black, Green | not in any commander precon |
@@ -817,6 +825,7 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Tome Blast | 1 | 2 | Sorcery | Red | not in any commander precon |
 | Tovolar's Huntmaster // Tovolar's Packleader | 1 | 6 | Creature | Green | not in any commander precon |
 | Tovolar, Dire Overlord // Tovolar, the Midnight Scourge | 1 | 3 | Legendary Creature | Green, Red | not in any commander precon |
+| Tragedy Feaster | 1 | 4 | Creature | Black | not in any commander precon |
 | Transcendent Archaic | 1 | 7 | Creature | Colorless | not in any commander precon |
 | Treasure | ×7 | 0 | Token Creature | Green | not in any commander precon |
 | Treeguard Duo | ×4 | 4 | Creature | Green | not in any commander precon |
@@ -839,6 +848,7 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Unexpected Windfall | 1 | 4 | Instant | Red | not in any commander precon |
 | Unnatural Growth | ×2 | 5 | Enchantment | Green | not in any commander precon |
 | Unruly Mob | 1 | 2 | Creature | White | not in any commander precon |
+| Unsubtle Mockery | 1 | 3 | Instant | Red | not in any commander precon |
 | Untamed Hunger | 1 | 3 | Enchantment | Black | not in any commander precon |
 | Utrom Scientists | ×2 | 3 | Artifact Creature | Blue | not in any commander precon |
 | Valley Mightcaller | 1 | 1 | Creature | Green | not in any commander precon |
@@ -895,7 +905,7 @@ Cards you own that are not reserved by a Commander precon, or copies in excess o
 | Zenith Flare | 1 | 4 | Instant | Red, White | not in any commander precon |
 | Zog, Triceraton Castaway | ×2 | 5 | Legendary Creature | Red | not in any commander precon |
 | Zombie | 1 | 0 | Token Creature | Black | not in any commander precon |
-| Zombify | 1 | 4 | Sorcery | Black | not in any commander precon |
+| Zombify | ×2 | 4 | Sorcery | Black | not in any commander precon |
 | Zoo Escapees | 1 | 2 | Creature | Green | not in any commander precon |
 | Zookeeper Mechan | 1 | 2 | Artifact Creature | Red | not in any commander precon |
 | Zopandrel, Hunger Dominus | 1 | 7 | Legendary Creature | Green | not in any commander precon |
