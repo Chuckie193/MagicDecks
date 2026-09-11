@@ -178,9 +178,86 @@ Base deck: the **Limit Break** Final Fantasy Commander precon. **33 swaps, land 
 | Sunscorched Divide | `{1}`,`{T}` filter — too slow | Sigarda's Aid |
 | Trailblazer's Boots | Nonbasic landwalk is unreliable — **and Cloud's draw never needed evasion**, since it triggers on declare attackers | Kaldra Compleat |
 | Ultimate Magic: Meteor | 7 damage to **each** creature — wipes your own board | Nettlecyst |
-| Unfinished Business | {3}{W}{W} in the deck's most congested slot; Equipment recursion is already on Forge Anew, Cid, Red XIII and Nahiri's `−2` | Auriok Steelshaper |
+| Unfinished Business | {3}{W}{W} in the deck's most congested slot; Equipment recursion is already on Forge Anew, Cid, Red XIII and Nahiri's `−2` | Akiri, Fearless Voyager |
 | Vanquish the Horde | An eight-mana wrath in a deck that must hold a board | Reyav, Master Smith |
 | Zack Fair | One-shot sacrifice effect on a 1/2 | Generous Gift |
+
+---
+
+## Cards Added
+
+**33 cards in, matched 1-for-1 against the cuts above.** Prices are approximate EUR at time of writing; the 28 purchased non-basic cards come to roughly **€114**, of which four cards (Stoneforge Mystic, Sigarda's Aid, Piko Piko Hammer, Sacred Foundry) are over half the total.
+
+### Free attachment and equip-cost reduction (9) — *the actual upgrade*
+
+The precon's central flaw is that every Equipment costs mana **twice** — once to cast, once to equip — so it can only ever arm one or two creatures a turn, which caps Cloud's per-creature draw at one or two. These nine cards are the fix and are the reason the rest of the deck works.
+
+| Card Added | Cost | ~EUR | Why it's here | Replaces |
+|---|---|---|---|---|
+| **Piko Piko Hammer** (Hammer of Nazahn) | {4} | 10.97 | **Every Equipment you control attaches free as it enters**, and the wearer is indestructible. The backbone, and the reason Darksteel Plate became redundant. | Austere Command |
+| **Sigarda's Aid** | {W} | 15.37 | Equipment gains **flash** *and* attaches free on entry. Deploy at end of turn, untap into a full attack. | Sunscorched Divide |
+| **Forge Anew** | {2}{W} | 3.53 | Three abilities in one card: rebuys an Equipment from the yard, **instant-speed equip during your turn**, and the **first equip each turn is free**. | Inspiring Statuary |
+| **Bruenor Battlehammer** | {2}{R}{W} | 2.24 | **First equip each turn costs {0}**, and every creature gets **+2/+0 per Equipment on it** — four equipped attackers is +8 power spread across the board, and it pushes Cloud toward the power-7 check. | Avalanche of Sector 7 |
+| **Nahiri, the Lithomancer** | {3}{W}{W} | 0.81 | `+2` makes a Kor Soldier **and attaches an Equipment to it in one activation** — a brand-new equipped attacker every turn, compounding Cloud's draw. `−2` puts an Equipment from hand **or graveyard** onto the battlefield, which re-triggers Piko Piko Hammer and Sigarda's Aid on top. | Secret Rendezvous |
+| **Brass Squire** | {3} | 0.85 | `{T}`: attach an Equipment to **another** creature — free, repeatable, and **not sorcery-restricted**, so it moves gear at instant speed on any turn. Also the 21st artifact for metalcraft. | Aerith, Last Ancient |
+| **Leonin Shikari** | {1}{W} | 2.13 | **Equip at instant speed on any turn** — move Equipment after blockers are declared, or in response to removal. | Elena, Turk Recruit |
+| **Auriok Steelshaper** | {1}{W} | 0.66 | **All equip costs you pay cost {1} less**, permanently, for two mana. Also a Soldier for SOLDIER Military Program. | Helitrooper |
+| **Ardenn, Intrepid Archaeologist** | {2}{W} | 3.88 | Mass-moves your Auras and Equipment at combat — **onto a single target**, so it stacks rather than spreads. The one-card route to power 7, and the rescue button when a carrier is about to die. | Armory Automaton |
+
+### Card draw and trample (4)
+
+| Card Added | Cost | ~EUR | Why it's here | Replaces |
+|---|---|---|---|---|
+| **Sram, Senior Edificer** | {1}{W} | 0.85 | Draws on **every** Equipment spell cast. With 16 Equipment it is a two-mana engine. | Cait Sith, Fortune Teller |
+| **Nahiri, Forged in Fury** | {4}{R}{W} | 7.88 | Affinity for Equipment drops her to {R}{W}–{2}{R}{W} in practice. Every equipped attacker exiles a card you may play, **and Equipment cast this way is free**. | Lifestream's Blessing |
+| **Akiri, Fearless Voyager** | {1}{R}{W} | 0.45 | A card per attack, but the real draw is `{W}`: unattach an Equipment to tap a creature and make it **indestructible** — one-mana insurance against removal. | Unfinished Business |
+| **Garruk's Uprising** | {2}{G} | 0.56 | **Trample for the whole team** — what stops a 17/17 Colossus Hammer carrier being chump-blocked — plus a card off each of the ten 4-power creatures. | Furious Rise |
+
+### Equipment tutors (3)
+
+Four tutors total (counting Nahiri's `−2`) make a seven-mana Kaldra Compleat a turn-three play.
+
+| Card Added | Cost | ~EUR | Why it's here | Replaces |
+|---|---|---|---|---|
+| **Stoneforge Mystic** | {1}{W} | 16.84 | Tutors any Equipment, then **cheats it onto the battlefield** for {1}{W}. The most expensive card here and worth it. | Heidegger, Shinra Executive |
+| **Stonehewer Giant** | {3}{W}{W} | 4.36 | `{1}{W}`,`{T}`: fetch an Equipment onto the battlefield **and attach it** — at **instant speed**, and the Equipment *entering* re-triggers Piko Piko Hammer and Sigarda's Aid for a second free attach. Best mana sink in the deck. | Harmonize |
+| **Steelshaper's Gift** | {W} | 4.60 | One mana, finds whatever the hand is missing. | Explorer's Scope |
+
+### New Equipment (6)
+
+| Card Added | Cost | ~EUR | Why it's here | Replaces |
+|---|---|---|---|---|
+| **Kaldra Compleat** | {7} | 5.46 | Living weapon brings its **own 5/5 first strike / trample / indestructible / haste body** that is itself an equipped attacker, and exiles anything it damages. | Trailblazer's Boots |
+| **Embercleave** | {4}{R}{R} | 6.66 | Costs {1} less per attacking creature (routinely 2–3 mana), flashes in, attaches free, grants **double strike and trample**. | Hero's Blade |
+| **Nettlecyst** | {3} | 1.98 | Living weapon again — a second free body — at **+1/+1 per artifact *and* enchantment**, typically +19/+19 across two creatures. | Ultimate Magic: Meteor |
+| **Bloodforged Battle-Axe** | {1} | 1.99 | **Copies itself on every connection**, and each copy *entering* re-triggers the free-attach effects. With Reyav's double strike it copies **twice** per combat. | Conformer Shuriken |
+| **Maul of the Skyclaves** | {2}{W} | 0.28 | Free attach on entry for +2/+2 with **flying and first strike** — real evasion. | Behemoth Sledge |
+| **Air Shoes** (Swiftfoot Boots) | {2} | ~1.00 | Hexproof and haste at equip {1}. Chosen over Lightning Greaves because **shroud blocks your own equip abilities** and switches off Professor Hojo. | Lightning Greaves |
+
+### Combat payoffs (2)
+
+| Card Added | Cost | ~EUR | Why it's here | Replaces |
+|---|---|---|---|---|
+| **Reyav, Master Smith** | {R}{W} | 0.18 | Two mana: **every equipped attacker gains double strike**. Doubles the damage of the exact board Cloud is drawing off, and doubles Bloodforged Battle-Axe. | Vanquish the Horde |
+| **Moraug, Fury of Akoum** | {4}{R}{R} | 2.58 | A 6/6, +1/+0 to the team per prior attack, and a **land entering during your main phase grants an extra combat** with everything untapped. Chosen over Aurelia, the Warleader because {4}{R}{R} is far easier than {2}{R}{R}{W}{W}. | Summon: Kujata |
+
+### Removal (2)
+
+| Card Added | Cost | ~EUR | Why it's here | Replaces |
+|---|---|---|---|---|
+| **Swords to Plowshares** | {W} | 2.05 | One mana, exiles any creature — the most efficient removal in the colours. | Decimate |
+| **Generous Gift** | {2}{W} | 0.95 | Answers **any permanent** for three mana. | Zack Fair |
+
+### Mana (7)
+
+| Card Added | Cost | ~EUR | Why it's here | Replaces |
+|---|---|---|---|---|
+| **Talisman of Conviction** | {2} | 0.28 | A third rock, untapped, in the two heaviest colours. Sol Ring and Arcane Signet alone were thin for a 5-mana three-colour commander with equip taxes on top. | Darksteel Plate |
+| **Three Visits** | {1}{G} | 4.88 | A second Nature's Lore — a Forest-typed dual **untapped** for two mana, and it triggers Moraug from the main phase. | Rampant Growth |
+| **Sacred Foundry** | — | ~10.00 | Untapped Mountain Plains. The single best fix for the deck's four `{W}{W}` and three `{R}{R}` costs. | Mossfire Valley |
+| **Karplusan Forest** | — | 0.92 | Untapped R/G, replacing a `{1}`,`{T}` filter land. | Sungrass Prairie |
+| **Plains** ×2 | — | — | Basics go 3/3/3 → 5/4/3 to match **33 white pips against 21 red and 11 green**. Also feeds Cultivate, Sword of the Animist, and the "two or more basics" clause on Canopy Vista and Cinder Glade. | Ash Barrens, Scavenger Grounds |
+| **Mountain** | — | — | Same rebalance; second-heaviest colour. | Evolving Wilds |
 
 ---
 
