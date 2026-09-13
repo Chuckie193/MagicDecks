@@ -1,4 +1,4 @@
-# Moxfield Latest — Cards with Precon Assignments (generated 2026-09-10T19:40:58.983565+00:00Z)
+# Moxfield Latest — Cards with Precon Assignments (generated 2026-09-13T23:49:16.632735+00:00Z)
 
 ## All cards (table)
 
@@ -10,8 +10,8 @@
 |Abundant Countryside|ecc|1|DanceOfTheElements|||
 |Abundant Growth|ecc|1|DanceOfTheElements|||
 |Academy Manufactor|blc|1|SquirreledAway|||
-|Action News Crew|tmt|1|||Yes (2)|
 |Action News Crew|tmt|2|||Yes (2)|
+|Action News Crew|tmt|1|||Yes (2)|
 |Adamant Will|fdn|1|Foundations BeginnerBox|||
 |Adarkar Wastes|eoc|1|CounterIntelligence|||
 |Additive Evolution|sos|1||||
@@ -30,6 +30,7 @@
 |All-Fates Scroll|eoe|1||||
 |Alpharael, Dreaming Acolyte|eoe|1||||
 |Amy Rose|sld|1|SonictheHedgehog FriendsandFoes|||
+|An Unexpected Party // At the Door|hob|1||||
 |Ancestor Dragon|fdn|1|Foundations BeginnerBox|||
 |Anchovy & Banana Pizza|tmt|1||||
 |Ancient Den|eoc|1|CounterIntelligence|||
@@ -47,9 +48,9 @@
 |Arcane Epiphany|fdn|1|Foundations BeginnerBox|||
 |Arcane Infusion|mid|1||||
 |Arcane Signet|eoc|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; SquirreledAway|||
-|Arcane Signet|blc|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; SquirreledAway|||
 |Arcane Signet|ecc|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; SquirreledAway|||
 |Arcane Signet|soc|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; SquirreledAway|||
+|Arcane Signet|blc|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; SquirreledAway|||
 |Archaic's Agony|sos|1||||
 |Archmage Emeritus|soc|1|PrismariArtistry|||
 |Arlinn Kord // Arlinn, Embraced by the Moon|plst|1||||
@@ -62,8 +63,8 @@
 |Ashling, the Limitless|ecc|1|DanceOfTheElements|||
 |Astral Cornucopia|eoc|1|CounterIntelligence|||
 |Attercop|hob|1|||Yes (3)|
-|Attercop|hob|2|||Yes (3)|
 |Attercop|hob|1|||Yes (3)|
+|Attercop|hob|2|||Yes (3)|
 |Auntie's Sentence|ecl|1|||Yes (2)|
 |Auntie's Sentence|ecl|1|||Yes (2)|
 |Auspicious Starrix|iko|1||||
@@ -76,8 +77,8 @@
 |Bakersbane Duo|blb|1|||Yes (2)|
 |Bane of Progress|ecc|1|DanceOfTheElements|||
 |Baneblade Scoundrel // Baneclaw Marauder|mid|1||||
-|Banishing Light|blb|1||||
 |Banishing Light|eoe|1|||Yes (2)|
+|Banishing Light|blb|1||||
 |Banishing Light|eoe|1|||Yes (2)|
 |Bard the Bowman|hob|1|||Yes (2)|
 |Bard the Bowman|hob|1|||Yes (2)|
@@ -94,8 +95,8 @@
 |Bear Cub|fdn|1|Foundations BeginnerBox|||
 |Beast-Kin Ranger|fdn|1|Foundations BeginnerBox|||
 |Beastmaster Ascension|blc|1|SquirreledAway|||
-|Bebop, Warthog Warrior|tmt|2|||Yes (2)|
 |Bebop, Warthog Warrior|tmt|1|||Yes (2)|
+|Bebop, Warthog Warrior|tmt|2|||Yes (2)|
 |Beledros Witherbloom|blc|1|SquirreledAway|||
 |Belladonna Took|hob|1|||Yes (2)|
 |Belladonna Took|hob|2|||Yes (2)|
@@ -121,17 +122,18 @@
 |Blood Curdle|plst|1||||
 |Bloodtithe Collector|fdn|1|Foundations BeginnerBox|||
 |Blooming Blast|blb|1||||
-|Blossoming Sands|blb|4|HareRaising|||
 |Blossoming Sands|iko|1|HareRaising|||
+|Blossoming Sands|blb|4|HareRaising|||
 |Bofur, Reliable Guardian // Concerted Care|hob|1||||
 |Bogslither's Embrace|ecl|1||||
 |Bogwater Lumaret|sos|1||||
 |Bojuka Bog|blc|1|SquirreledAway|||
+|Bolg of the North|hob|1||||
 |Bolg's Company|hob|1||||
 |Bombard|eoe|1||||
 |Bombur, Gentle Dreamer|hob|1||||
-|Bonebind Orator|blb|2|||Yes (2)|
 |Bonebind Orator|blb|1|||Yes (2)|
+|Bonebind Orator|blb|2|||Yes (2)|
 |Bonepicker Skirge|one|1||||
 |Boneyard Lurker|iko|1||||
 |Boon of the Wish-Giver|iko|1||||
@@ -139,8 +141,8 @@
 |Boughside Wanderers|hob|3||||
 |Brambleback Brute|ecl|1|||Yes (2)|
 |Brambleback Brute|ecl|1|||Yes (2)|
-|Brave-Kin Duo|blb|1|||Yes (2)|
 |Brave-Kin Duo|blb|2|||Yes (2)|
+|Brave-Kin Duo|blb|1|||Yes (2)|
 |Brazen Borrower // Petty Theft|soc|1|PrismariArtistry|||
 |Breakneck Rider // Neck Breaker|soi|1||||
 |Bria, Riptide Rogue|blb|1|OtterLimits|||
@@ -154,8 +156,8 @@
 |Bumbleflower's Sharepot|blb|1||||
 |Buried Ruin|eoc|1|CounterIntelligence|||
 |Burly Breaker // Dire-Strain Demolisher|mid|1||||
-|Burn, Burn, Tree and Fern|hob|2|||Yes (2)|
 |Burn, Burn, Tree and Fern|hob|1|||Yes (2)|
+|Burn, Burn, Tree and Fern|hob|2|||Yes (2)|
 |Burrog Befuddler|fdn|1|Foundations BeginnerBox|||
 |Burrowguard Mentor|blb|2|HareRaising|||
 |Burst Lightning|soa|1||||
@@ -170,11 +172,12 @@
 |Candlegrove Witch|mid|1|||Yes (2)|
 |Candlelit Cavalry|mid|1||||
 |Cankerbloom|one|1||||
+|Cantankerous Keepers|hob|1||||
 |Canyon Vaulter|dft|1||||
 |Carnelian Orb of Dragonkind|fdn|1|Foundations BeginnerBox|||
 |Carrot Cake|blb|2|HareRaising|||
-|Cascade Bluffs|soc|1|CounterIntelligence; PrismariArtistry|||
 |Cascade Bluffs|eoc|1|CounterIntelligence; PrismariArtistry|||
+|Cascade Bluffs|soc|1|CounterIntelligence; PrismariArtistry|||
 |Casualties of War|blc|1|SquirreledAway|||
 |Cavalier of Thorns|ecc|1|DanceOfTheElements|||
 |Cavern Whisperer|iko|1||||
@@ -183,8 +186,8 @@
 |Chain Reaction|soc|1|CounterIntelligence; PrismariArtistry|||
 |Chain Reaction|eoc|1|CounterIntelligence; PrismariArtistry|||
 |Chaos Spewer|ecl|1||||
-|Chaos Warp|plst|1|CounterIntelligence; PrismariArtistry; TheBarkAges|||
 |Chaos Warp|eoc|1|CounterIntelligence; PrismariArtistry; TheBarkAges|||
+|Chaos Warp|plst|1|CounterIntelligence; PrismariArtistry; TheBarkAges|||
 |Chaos Warp|soc|1|CounterIntelligence; PrismariArtistry; TheBarkAges|||
 |Charmed Sleep|blb|2|OtterLimits|||
 |Chatterfang, Squirrel General|blc|1|SquirreledAway|||
@@ -205,11 +208,11 @@
 |Cloud Key|eoc|1|CounterIntelligence|||
 |Coastal Peak|soc|1|PrismariArtistry|||
 |Colossification|blb|1|HareRaising|||
+|Command Tower|ecc|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; SquirreledAway; TheBarkAges|||
 |Command Tower|eoc|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; SquirreledAway; TheBarkAges|||
 |Command Tower|blc|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; SquirreledAway; TheBarkAges|||
-|Command Tower|ecc|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; SquirreledAway; TheBarkAges|||
-|Command Tower|scd|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; SquirreledAway; TheBarkAges|||
 |Command Tower|soc|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; SquirreledAway; TheBarkAges|||
+|Command Tower|scd|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; SquirreledAway; TheBarkAges|||
 |Conduct Electricity|blb|2||||
 |Conduit of Worlds|one|1||||
 |Copper Longlegs|one|1||||
@@ -253,8 +256,8 @@
 |Day // Night|tmid|1||||
 |Daybreak Ranger // Nightfall Predator|isd|1||||
 |Dazzling Angel|fdn|1|Foundations BeginnerBox|||
-|Deadly Dispute|blc|1|SquirreledAway; SonictheHedgehog ChasingAdventure|||
 |Deadly Dispute|sld|1|SquirreledAway; SonictheHedgehog ChasingAdventure|||
+|Deadly Dispute|blc|1|SquirreledAway; SonictheHedgehog ChasingAdventure|||
 |Deadly Plot|fdn|1|Foundations BeginnerBox|||
 |Deadly Riposte|fdn|1|Foundations BeginnerBox|||
 |Death Baron|fdn|1|Foundations BeginnerBox|||
@@ -279,9 +282,9 @@
 |Dinosaur Beast|tiko|1||||
 |Diplomatic Relations|eoe|1||||
 |Dire Downdraft|blb|1|||Yes (4)|
-|Dire Downdraft|blb|1|||Yes (4)|
-|Dire Downdraft|blb|1|||Yes (4)|
 |Dire Downdraft|blb|2|||Yes (4)|
+|Dire Downdraft|blb|1|||Yes (4)|
+|Dire Downdraft|blb|1|||Yes (4)|
 |Diregraf Ghoul|fdn|1|Foundations BeginnerBox|||
 |Diresight|blb|1||||
 |Dire-Strain Rampage|mid|1||||
@@ -305,18 +308,19 @@
 |Drone|teoe|1||||
 |Dropkick Bomber|fdn|1|Foundations BeginnerBox|||
 |Druid of the Cowl|fdn|1|Foundations BeginnerBox|||
-|Druid of the Spade|blb|1|HareRaising||Yes (2)|
 |Druid of the Spade|blb|3|HareRaising||Yes (2)|
+|Druid of the Spade|blb|1|HareRaising||Yes (2)|
 |Dubious Delicacy|eoe|1||||
 |Dúnedain Rangers|ltr|1||||
 |Duress|mid|1||||
 |Duskwatch Hunter|hob|2|TheBarkAges (ambiguous:0.80)|||
 |Duskwatch Recruiter // Krallenhorde Howler|soi|1||||
-|Dwarf|thob|2||||
+|Dwarf|thob|3||||
 |Dwarven Mattock|hob|1||||
 |Dwarven Provisioner|hob|2||||
 |Dwynen's Elite|fdn|1|Foundations BeginnerBox|||
-|Eagle of the Great Shelf|hob|2||||
+|Eagle of the Great Shelf|hob|1|||Yes (2)|
+|Eagle of the Great Shelf|hob|2|||Yes (2)|
 |Eagle's Rescue|hob|1||||
 |East Wind Avatar|tmt|2||||
 |Easterling Vanguard|ltr|1||||
@@ -351,13 +355,13 @@
 |Endrider Catalyzer|dft|1||||
 |Endurance|ecc|1|DanceOfTheElements|||
 |Enduring Angel // Angelic Enforcer|mid|1||||
-|Enduring Story|thob|1||||
+|Enduring Story|thob|2||||
 |Enthusiastic Mechanaut|eoc|1|CounterIntelligence|||
 |Entropic Battlecruiser|eoe|1||||
 |EPF Point Squad|tmt|1||||
 |Erudite Wizard|fdn|1|Foundations BeginnerBox|||
-|Escape Tunnel|tmt|2|||Yes (2)|
 |Escape Tunnel|tmt|1|||Yes (2)|
+|Escape Tunnel|tmt|2|||Yes (2)|
 |Esgaroth Garrison|hob|3||||
 |Essence Symbiote|iko|1||||
 |Etched Oracle|eoc|1|CounterIntelligence|||
@@ -367,13 +371,13 @@
 |Everflowing Chalice|eoc|1|CounterIntelligence|||
 |Evershrike's Gift|ecl|1||||
 |Everything Pizza|tmt|2||||
-|Evolving Wilds|vow|1|CounterIntelligence; SquirreledAway|||
-|Evolving Wilds|eoc|1|CounterIntelligence; SquirreledAway|||
 |Evolving Wilds|blc|1|CounterIntelligence; SquirreledAway|||
+|Evolving Wilds|eoc|1|CounterIntelligence; SquirreledAway|||
+|Evolving Wilds|vow|1|CounterIntelligence; SquirreledAway|||
 |Exclusion Mage|fdn|1|Foundations BeginnerBox|||
 |Exotic Orchard|blc|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; SquirreledAway|||
-|Exotic Orchard|ecc|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; SquirreledAway|||
 |Exotic Orchard|soc|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; SquirreledAway|||
+|Exotic Orchard|ecc|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; SquirreledAway|||
 |Exotic Orchard|eoc|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; SquirreledAway|||
 |Expand the Sphere|one|1||||
 |Experimental Augury|eoc|1|CounterIntelligence|||
@@ -427,31 +431,31 @@
 |Foot Mystic|tmt|1||||
 |Foot Ninjas|tmt|2||||
 |For the Common Good|pblb|1||||
-|Forest|ltr|1|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising|||
-|Forest|blb|1|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising||Yes (5)|
-|Forest|dft|1|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising|||
-|Forest|one|1|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising|||
-|Forest|blb|1|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising||Yes (5)|
-|Forest|hob|1|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising||Yes (5)|
-|Forest|hob|2|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising||Yes (5)|
-|Forest|eoe|1|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising|||
-|Forest|mid|1|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising|||
-|Forest|ecl|8|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising|||
-|Forest|j25|12|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising|||
-|Forest|hob|3|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising||Yes (5)|
-|Forest|fdn|15|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising|||
-|Forest|hob|1|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising||Yes (5)|
 |Forest|blb|9|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising||Yes (5)|
-|Forest|blb|1|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising||Yes (5)|
 |Forest|blb|11|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising||Yes (5)|
 |Forest|hob|2|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising||Yes (5)|
+|Forest|one|1|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising|||
+|Forest|hob|1|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising||Yes (5)|
+|Forest|hob|1|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising||Yes (5)|
+|Forest|hob|2|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising||Yes (5)|
+|Forest|ecl|8|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising|||
+|Forest|fdn|15|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising|||
+|Forest|eoe|1|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising|||
+|Forest|blb|1|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising||Yes (5)|
+|Forest|dft|1|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising|||
+|Forest|hob|3|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising||Yes (5)|
+|Forest|ltr|1|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising|||
+|Forest|blb|1|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising||Yes (5)|
+|Forest|mid|1|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising|||
+|Forest|blb|1|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising||Yes (5)|
+|Forest|j25|12|DanceOfTheElements; SquirreledAway; TheBarkAges; Foundations BeginnerBox; HareRaising|||
 |Foul Play|mid|1||||
 |Foundation Breaker|ecc|1|DanceOfTheElements|||
 |Fountainport Bell|blb|1|||Yes (2)|
 |Fountainport Bell|blb|1|||Yes (2)|
+|Fractal|tsos|1|||Yes (3)|
+|Fractal|tsos|1|||Yes (3)|
 |Fractal|tsos|2|||Yes (3)|
-|Fractal|tsos|1|||Yes (3)|
-|Fractal|tsos|1|||Yes (3)|
 |Fractal Tender|sos|1|||Yes (2)|
 |Fractal Tender|sos|1|||Yes (2)|
 |Frenzied Goblin|fdn|1|Foundations BeginnerBox|||
@@ -477,8 +481,9 @@
 |Galvanizing Sawship|eoe|1||||
 |Gandalf, Goblins' Bane // Flameshape|hob|1||||
 |Gandalf, Spark Starter|hob|1||||
-|Gandalf, Wandering Wizard|hob|1|||Yes (2)|
-|Gandalf, Wandering Wizard|hob|2|||Yes (2)|
+|Gandalf, Wandering Wizard|hob|1|||Yes (3)|
+|Gandalf, Wandering Wizard|hob|1|||Yes (3)|
+|Gandalf, Wandering Wizard|hob|2|||Yes (3)|
 |Garruk, Cursed Huntsman|blc|1|SquirreledAway|||
 |Garruk's Uprising|ecc|1|DanceOfTheElements|||
 |Gathering of Darkness|hob|1||||
@@ -495,8 +500,8 @@
 |Genghis Frog|tmt|1|||Yes (3)|
 |Getaway Barrel|hob|1||||
 |Giant Growth|soa|1|Foundations BeginnerBox; HareRaising|||
-|Giant Growth|blb|2|Foundations BeginnerBox; HareRaising|||
 |Giant Growth|fdn|1|Foundations BeginnerBox; HareRaising|||
+|Giant Growth|blb|2|Foundations BeginnerBox; HareRaising|||
 |Giant's Boulder|hob|1||||
 |Gigantic Big Bear|hob|1||||
 |Gigastorm Titan|eoe|1||||
@@ -514,8 +519,8 @@
 |Gnashing of Teeth|hob|2||||
 |Go Ninja Go|tmt|1||||
 |Goblin|tecl|1||||
-|Goblin Army|thob|3|||Yes (2)|
 |Goblin Army|thob|5|||Yes (2)|
+|Goblin Army|thob|3|||Yes (2)|
 |Goblin Firebomb|fdn|1|Foundations BeginnerBox|||
 |Goblin Glasswright // Craft with Pride|sos|1||||
 |Goblin Oriflamme|fdn|1|Foundations BeginnerBox|||
@@ -530,8 +535,9 @@
 |Goliath Daydreamer|ecl|1||||
 |Gollum the Abandoned|hob|1||||
 |Gollum, Riddle Master|hob|1||||
-|Gollum, Silent Slinker // Meager Meal|hob|2|||Yes (2)|
-|Gollum, Silent Slinker // Meager Meal|hob|1|||Yes (2)|
+|Gollum, Silent Slinker // Meager Meal|hob|2|||Yes (3)|
+|Gollum, Silent Slinker // Meager Meal|hob|1|||Yes (3)|
+|Gollum, Silent Slinker // Meager Meal|hob|1|||Yes (3)|
 |Gongaga, Reactor Town|fin|1|TheBarkAges|||
 |Gourmand's Talent|blc|1|SquirreledAway|||
 |Gravblade Heavy|eoe|1||||
@@ -546,12 +552,13 @@
 |Grounded for Life|tmt|2||||
 |Group Project|sos|1||||
 |Guac & Marshmallow Pizza|tmt|1||||
-|Guardian of the Halls|hob|2|||Yes (2)|
 |Guardian of the Halls|hob|1|||Yes (2)|
+|Guardian of the Halls|hob|2|||Yes (2)|
 |Guidelight Matrix|dft|1||||
 |Guidelight Optimizer|dft|1||||
 |Guidelight Synergist|dft|1||||
-|Gundabad Opportunist|hob|3||||
+|Gundabad Opportunist|hob|3|||Yes (2)|
+|Gundabad Opportunist|hob|1|||Yes (2)|
 |Hall of Oracles|soc|1|PrismariArtistry|||
 |Hallowed Respite|mid|1||||
 |Hamato Guardian Stance|tmt|1||||
@@ -601,9 +608,9 @@
 |Howlpack Piper // Wildsong Howler|vow|1||||
 |Howlpack Resurgence|soi|1|TheBarkAges|||
 |Human|tmid|1||||
-|Human Soldier|teoe|2||||
 |Human Soldier|thob|9||||
 |Human Soldier|tiko|1||||
+|Human Soldier|teoe|2||||
 |Hungry Ghoul|fdn|1|Foundations BeginnerBox|||
 |Hungry Graffalon|sos|1||||
 |Hunter's Talent|blb|1||||
@@ -645,32 +652,34 @@
 |Into the Night|vow|1|TheBarkAges|||
 |Into the Roil|fdn|1|Foundations BeginnerBox|||
 |Intrepid Tenderfoot|eoe|1||||
-|Iron Hills|hob|3||||
-|Iron Hills Stalwart|hob|1|||Yes (2)|
+|Iron Hills|hob|1|||Yes (2)|
+|Iron Hills|hob|3|||Yes (2)|
+|Iron Hills Blacksmith|hob|1||||
 |Iron Hills Stalwart|hob|4|||Yes (2)|
+|Iron Hills Stalwart|hob|1|||Yes (2)|
 |Irrigated Farmland|eoc|1|CounterIntelligence|||
-|Island|blb|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits||Yes (4)|
-|Island|ecl|2|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits||Yes (2)|
-|Island|fdn|14|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits|||
+|Island|ecl|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits||Yes (2)|
 |Island|hob|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits||Yes (4)|
-|Island|tmt|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits|||
+|Island|hob|2|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits||Yes (4)|
+|Island|hob|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits||Yes (4)|
 |Island|blb|5|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits||Yes (4)|
-|Island|blb|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits||Yes (4)|
-|Island|eoe|2|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits||Yes (3)|
-|Island|hob|2|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits||Yes (4)|
-|Island|eoe|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits||Yes (3)|
-|Island|eoe|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits||Yes (3)|
-|Island|hob|2|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits||Yes (4)|
-|Island|blb|6|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits||Yes (4)|
+|Island|ecl|2|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits||Yes (2)|
 |Island|sos|8|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits||Yes (2)|
 |Island|mid|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits|||
-|Island|hob|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits||Yes (4)|
+|Island|blb|6|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits||Yes (4)|
+|Island|blb|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits||Yes (4)|
 |Island|sos|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits||Yes (2)|
-|Island|ecl|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits||Yes (2)|
+|Island|eoe|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits||Yes (3)|
+|Island|blb|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits||Yes (4)|
+|Island|fdn|14|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits|||
+|Island|eoe|2|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits||Yes (3)|
+|Island|eoe|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits||Yes (3)|
+|Island|tmt|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits|||
+|Island|hob|2|CounterIntelligence; DanceOfTheElements; PrismariArtistry; Foundations BeginnerBox; OtterLimits||Yes (4)|
 |Jack-o'-Lantern|mid|1||||
 |Jazal Goldmane|fdn|1|Foundations BeginnerBox|||
-|Jegantha, the Wellspring|iko|1|DanceOfTheElements|||
 |Jegantha, the Wellspring|ecc|1|DanceOfTheElements|||
+|Jegantha, the Wellspring|iko|1|DanceOfTheElements|||
 |Jennika, Bad Apple Big Sister|tmt|1|||Yes (2)|
 |Jennika, Bad Apple Big Sister|tmt|1|||Yes (2)|
 |Jhoira, Weatherlight Captain|eoc|1|CounterIntelligence|||
@@ -711,9 +720,9 @@
 |Lake-town Mariners // Gone Fishing|hob|1|||Yes (2)|
 |Lambholt Harrier|mid|1||||
 |Lamentation|ecc|1|DanceOfTheElements|||
+|Lander|teoe|1|||Yes (3)|
+|Lander|teoe|1|||Yes (3)|
 |Lander|teoe|2|||Yes (3)|
-|Lander|teoe|1|||Yes (3)|
-|Lander|teoe|1|||Yes (3)|
 |Lasting Tarfire|ecl|1||||
 |Lattice-Blade Mantis|one|1||||
 |Lava Serpent|iko|1||||
@@ -771,6 +780,7 @@
 |Manhole Missile|tmt|1||||
 |Maskwood Nexus|blc|1|SquirreledAway|||
 |Mass of Mysteries|ecc|1|DanceOfTheElements|||
+|Master of the Wild Hunt|a25|1||||
 |Master's Councillors|hob|2||||
 |Mayor of Avabruck // Howlpack Alpha|inr|1||||
 |Mechan Navigator|eoe|1||||
@@ -791,14 +801,13 @@
 |Mind Roots|sos|1||||
 |Mind Spiral|blb|1||||
 |Mind Spring|blb|1|OtterLimits|||
-|Mind Stone|clb|1||||
 |Mind Transfer Protocol|tmt|1||||
 |Mindless Automaton|eoc|1|CounterIntelligence|||
 |Mirkwood|hob|2||||
 |Mirkwood Meditator|hob|3||||
 |Mirkwood Nurturer|hob|1||||
-|Mirkwood Pathmaker|hob|2|||Yes (2)|
 |Mirkwood Pathmaker|hob|1|||Yes (2)|
+|Mirkwood Pathmaker|hob|2|||Yes (2)|
 |Mirrorwing Dragon|soc|1|PrismariArtistry|||
 |Mischievous Mystic|fdn|1|Foundations BeginnerBox|||
 |Misty Mountains Raider|hob|2||||
@@ -818,24 +827,24 @@
 |Moonrager's Slash|mid|1||||
 |Moonstone Eulogist|blc|1|SquirreledAway|||
 |Morbid Opportunist|blc|1|SquirreledAway|||
-|Mountain|eoe|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits||Yes (3)|
 |Mountain|hob|2|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits||Yes (4)|
-|Mountain|sos|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits||Yes (2)|
+|Mountain|blb|6|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits||Yes (3)|
+|Mountain|hob|2|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits||Yes (4)|
 |Mountain|j25|12|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits|||
-|Mountain|ecl|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits||Yes (2)|
-|Mountain|fdn|15|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits|||
 |Mountain|eoe|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits||Yes (3)|
+|Mountain|fdn|15|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits|||
+|Mountain|sos|7|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits||Yes (2)|
+|Mountain|hob|3|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits||Yes (4)|
+|Mountain|blb|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits||Yes (3)|
+|Mountain|sos|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits||Yes (2)|
 |Mountain|hob|2|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits||Yes (4)|
 |Mountain|one|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits|||
 |Mountain|mid|2|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits|||
-|Mountain|blb|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits||Yes (3)|
 |Mountain|ecl|2|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits||Yes (2)|
-|Mountain|sos|7|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits||Yes (2)|
+|Mountain|blb|6|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits||Yes (3)|
+|Mountain|eoe|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits||Yes (3)|
+|Mountain|ecl|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits||Yes (2)|
 |Mountain|eoe|2|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits||Yes (3)|
-|Mountain|blb|6|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits||Yes (3)|
-|Mountain|hob|2|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits||Yes (4)|
-|Mountain|blb|6|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits||Yes (3)|
-|Mountain|hob|3|CounterIntelligence; DanceOfTheElements; PrismariArtistry; TheBarkAges; Foundations BeginnerBox; OtterLimits||Yes (4)|
 |Mourning Patrol // Morning Apparition|mid|1||||
 |Mouser Attack!|tmt|1||||
 |Mouser Foundry|tmt|2||||
@@ -873,16 +882,19 @@
 |Ninja Teen|tmt|1||||
 |Nobody|tmt|2||||
 |Nocturnal Hunger|blb|1||||
-|Nori, Teller of Tales|hob|3||||
+|Nori, Teller of Tales|hob|3|||Yes (2)|
+|Nori, Teller of Tales|hob|1|||Yes (2)|
 |Noxious Assault|one|1||||
 |Noxious Newt|sos|1||||
 |Null Group Biological Assets|tmt|1||||
 |Nut Collector|ody|1||||
 |Oakhollow Village|blb|1||||
 |Offer Immortality|fdn|1|Foundations BeginnerBox|||
+|Ogre Sentry|cn2|1||||
 |Ogre Slumlord|blc|1|SquirreledAway|||
 |Óin the Brave|hob|1|||Yes (2)|
 |Óin the Brave|hob|2|||Yes (2)|
+|Old Fat Spider Can't See Me|hob|1||||
 |Old Stickfingers|mid|1||||
 |Old Thrush|hob|3||||
 |Ominous Cemetery|who|1|TheBarkAges|||
@@ -929,8 +941,8 @@
 |Path to Exile|ecc|1|DanceOfTheElements|||
 |Patient Instructor|hob|3||||
 |Patrolling Peacemaker|eoc|1|CounterIntelligence|||
-|Pearl of Wisdom|blb|1|OtterLimits||Yes (2)|
 |Pearl of Wisdom|blb|3|OtterLimits||Yes (2)|
+|Pearl of Wisdom|blb|1|OtterLimits||Yes (2)|
 |Pentad Prism|eoc|1|CounterIntelligence|||
 |Perimeter Sergeant|iko|1||||
 |Pest|tsos|2||||
@@ -943,27 +955,27 @@
 |Pinnacle Kill-Ship|eoe|1||||
 |Pirate's Cutlass|fdn|1|Foundations BeginnerBox|||
 |Plaguecrafter|blc|1|SquirreledAway|||
+|Plains|iko|1|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising|||
+|Plains|fdn|6|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (2)|
 |Plains|hob|1|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (8)|
-|Plains|eoe|2|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (2)|
-|Plains|blb|6|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (3)|
-|Plains|blb|1|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (3)|
+|Plains|hob|3|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (8)|
+|Plains|hob|1|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (8)|
 |Plains|hob|1|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (8)|
 |Plains|fdn|8|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (2)|
-|Plains|blb|6|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (3)|
-|Plains|sos|1|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising|||
-|Plains|hob|1|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (8)|
-|Plains|hob|3|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (8)|
-|Plains|hob|2|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (8)|
-|Plains|hob|3|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (8)|
-|Plains|hob|1|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (8)|
 |Plains|mh3|10|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (2)|
 |Plains|mh3|1|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (2)|
-|Plains|mid|1|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising|||
-|Plains|iko|1|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising|||
-|Plains|eoe|1|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (2)|
-|Plains|ecl|2|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising|||
-|Plains|fdn|6|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (2)|
+|Plains|hob|2|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (8)|
 |Plains|hob|3|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (8)|
+|Plains|blb|6|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (3)|
+|Plains|blb|6|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (3)|
+|Plains|blb|1|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (3)|
+|Plains|eoe|2|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (2)|
+|Plains|hob|3|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (8)|
+|Plains|sos|1|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising|||
+|Plains|ecl|2|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising|||
+|Plains|hob|1|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (8)|
+|Plains|mid|1|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising|||
+|Plains|eoe|1|CounterIntelligence; DanceOfTheElements; Foundations BeginnerBox; HareRaising||Yes (2)|
 |Plargg and Nassari|soc|1|PrismariArtistry|||
 |Playful Shove|blb|1||||
 |Plumb the Forbidden|blc|1|SquirreledAway|||
@@ -987,8 +999,8 @@
 |Prosperous Innkeeper|blc|1|SquirreledAway|||
 |Psychic Whorl|blb|1||||
 |Pterafractyl|sos|2||||
-|Pull from the Grave|sos|1|||Yes (2)|
 |Pull from the Grave|sos|3|||Yes (2)|
+|Pull from the Grave|sos|1|||Yes (2)|
 |Pull from Tomorrow|eoc|1|CounterIntelligence|||
 |Pulsar Squadron Ace|eoe|1||||
 |Pummeler for Hire|ecl|1||||
@@ -1025,7 +1037,8 @@
 |Rapier Wit|sos|1||||
 |Rat King, Verminister|tmt|1||||
 |Raugrin Triome|iko|1||||
-|Ravening Warg|hob|3||||
+|Ravening Warg|hob|3|||Yes (2)|
+|Ravening Warg|hob|1|||Yes (2)|
 |Ravenous Rotbelly|mic|1||||
 |Ravenous Squirrel|blc|1|SquirreledAway|||
 |Ravine Raider|blb|1||||
@@ -1067,9 +1080,9 @@
 |Rite of Harmony|mid|1|||Yes (2)|
 |Rite of Replication|soc|1|PrismariArtistry|||
 |Riveteers Requisitioner|snc|1||||
-|Robot|teoe|1|||Yes (2)|
-|Robot|teoe|2|||Yes (2)|
 |Robot|ttmt|1||||
+|Robot|teoe|2|||Yes (2)|
+|Robot|teoe|1|||Yes (2)|
 |Rock Soldiers|tmt|1||||
 |Rocksteady, Crash Courser|tmt|2||||
 |Rohirrim Lancer|ltr|1||||
@@ -1101,8 +1114,8 @@
 |Scorched Geyser|soc|1|PrismariArtistry|||
 |Scorching Dragonfire|fdn|1|Foundations BeginnerBox|||
 |Scorned Villager // Moonscarred Werewolf|dka|1||||
-|Scroll of Fate|dsc|1|TheBarkAges|||
 |Scroll of Fate|c19|1|TheBarkAges|||
+|Scroll of Fate|dsc|1|TheBarkAges|||
 |Scrounge for Eternity|eoe|1||||
 |Scurry of Squirrels|blc|1|SquirreledAway|||
 |Seachrome Coast|one|1||||
@@ -1130,8 +1143,8 @@
 |Shatter the Sky|ecc|1|DanceOfTheElements|||
 |Sheltered Thicket|cmm|1|TheBarkAges|||
 |Shimmercreep|ecl|1|DanceOfTheElements|||
-|Shivan Reef|eoc|1|CounterIntelligence; PrismariArtistry|||
 |Shivan Reef|soc|1|CounterIntelligence; PrismariArtistry|||
+|Shivan Reef|eoc|1|CounterIntelligence; PrismariArtistry|||
 |Shore Lurker|ecl|1||||
 |Shore Up|blb|1|||Yes (2)|
 |Shore Up|blb|1|||Yes (2)|
@@ -1174,12 +1187,12 @@
 |Sneering Shadewriter|sos|1||||
 |Snowslope Hunter|hob|2||||
 |Sodden Verdure|ecc|1|DanceOfTheElements|||
-|Sol Ring|eoc|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; SquirreledAway; TheBarkAges; SonictheHedgehog ChasingAdventure|||
-|Sol Ring|tdc|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; SquirreledAway; TheBarkAges; SonictheHedgehog ChasingAdventure|||
+|Sol Ring|blc|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; SquirreledAway; TheBarkAges; SonictheHedgehog ChasingAdventure|||
 |Sol Ring|ecc|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; SquirreledAway; TheBarkAges; SonictheHedgehog ChasingAdventure|||
 |Sol Ring|soc|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; SquirreledAway; TheBarkAges; SonictheHedgehog ChasingAdventure|||
 |Sol Ring|sld|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; SquirreledAway; TheBarkAges; SonictheHedgehog ChasingAdventure|||
-|Sol Ring|blc|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; SquirreledAway; TheBarkAges; SonictheHedgehog ChasingAdventure|||
+|Sol Ring|eoc|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; SquirreledAway; TheBarkAges; SonictheHedgehog ChasingAdventure|||
+|Sol Ring|tdc|1|CounterIntelligence; DanceOfTheElements; PrismariArtistry; SquirreledAway; TheBarkAges; SonictheHedgehog ChasingAdventure|||
 |Solar Array|eoc|1|CounterIntelligence|||
 |Solemn Simulacrum|soc|1|PrismariArtistry|||
 |Sonic the Hedgehog|sld|1|SonictheHedgehog FriendsandFoes|||
@@ -1228,8 +1241,8 @@
 |Stone Boulder|thob|2||||
 |Stone by Sunlight|hob|1||||
 |Stone Docent|sos|1||||
-|Stony-Voiced Goblins|hob|3|||Yes (2)|
 |Stony-Voiced Goblins|hob|1|||Yes (2)|
+|Stony-Voiced Goblins|hob|3|||Yes (2)|
 |Storm Fleet Spy|fdn|1|Foundations BeginnerBox|||
 |Storm Skreelix|mid|1||||
 |Stormcarved Coast|sos|1||||
@@ -1244,8 +1257,8 @@
 |Study Hall|soc|2|PrismariArtistry; TheBarkAges|||
 |Stuffed Bear|mid|1||||
 |Subterfuge|ecc|1|DanceOfTheElements|||
-|Sulfur Falls|soc|1|CounterIntelligence; PrismariArtistry|||
 |Sulfur Falls|eoc|1|CounterIntelligence; PrismariArtistry|||
+|Sulfur Falls|soc|1|CounterIntelligence; PrismariArtistry|||
 |Sundown Pass|sos|1||||
 |Sunshower Druid|blb|1||||
 |Super State|sld|1|SonictheHedgehog FriendsandFoes|||
@@ -1255,28 +1268,28 @@
 |Suspicious Shambler|fdn|1|Foundations BeginnerBox|||
 |Suspicious Stowaway // Seafaring Werewolf|mid|1||||
 |Swab Goblin|fdn|1|Foundations BeginnerBox|||
-|Swamp|iko|1|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox|||
+|Swamp|hob|2|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (4)|
+|Swamp|eoe|1|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox|||
+|Swamp|hob|3|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (4)|
 |Swamp|blb|1|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (4)|
-|Swamp|ecl|2|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (3)|
-|Swamp|hob|2|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (4)|
-|Swamp|hob|2|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (4)|
-|Swamp|ddk|9|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox|||
+|Swamp|snc|1|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox|||
+|Swamp|tmt|1|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (2)|
+|Swamp|blb|4|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (4)|
 |Swamp|ecl|1|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (3)|
 |Swamp|mid|1|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox|||
 |Swamp|ecl|1|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (3)|
-|Swamp|hob|3|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (4)|
-|Swamp|one|1|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (2)|
-|Swamp|eoe|1|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox|||
-|Swamp|one|1|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (2)|
-|Swamp|fdn|3|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (2)|
+|Swamp|ecl|2|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (3)|
 |Swamp|blb|1|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (4)|
-|Swamp|tmt|1|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (2)|
-|Swamp|snc|1|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox|||
-|Swamp|hob|1|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (4)|
+|Swamp|iko|1|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox|||
 |Swamp|blb|4|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (4)|
+|Swamp|fdn|3|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (2)|
 |Swamp|tmt|1|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (2)|
-|Swamp|blb|4|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (4)|
+|Swamp|one|1|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (2)|
+|Swamp|ddk|9|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox|||
+|Swamp|one|1|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (2)|
 |Swamp|fdn|11|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (2)|
+|Swamp|hob|2|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (4)|
+|Swamp|hob|1|DanceOfTheElements; SquirreledAway; Foundations BeginnerBox||Yes (4)|
 |Swan Song|eoc|1|CounterIntelligence|||
 |Swarm Culler|eoe|1||||
 |Swarmyard|blc|1|SquirreledAway|||
@@ -1303,8 +1316,8 @@
 |Tekuthal, Inquiry Dominus|eoc|1|CounterIntelligence|||
 |Temple of Abandon|scd|1|TheBarkAges|||
 |Temple of Enlightenment|eoc|1|CounterIntelligence|||
-|Temple of Epiphany|soc|1|CounterIntelligence; PrismariArtistry|||
 |Temple of Epiphany|eoc|1|CounterIntelligence; PrismariArtistry|||
+|Temple of Epiphany|soc|1|CounterIntelligence; PrismariArtistry|||
 |Temple of Malady|blc|1|SquirreledAway|||
 |Temple of the False God|soc|1|PrismariArtistry; TheBarkAges|||
 |Temple of the False God|plst|1|PrismariArtistry; TheBarkAges|||
@@ -1312,8 +1325,8 @@
 |Temporal Intervention|eoe|1||||
 |Tend the Sprigs|ecl|1||||
 |Tenderize|tmt|1||||
-|Terramorphic Expanse|blc|1|PrismariArtistry; SquirreledAway|||
 |Terramorphic Expanse|sos|1|PrismariArtistry; SquirreledAway||Yes (2)|
+|Terramorphic Expanse|blc|1|PrismariArtistry; SquirreledAway|||
 |Terramorphic Expanse|sos|1|PrismariArtistry; SquirreledAway||Yes (2)|
 |Terrasymbiosis|eoe|1||||
 |Terror of Mount Velus|fdn|1|Foundations BeginnerBox|||
@@ -1350,9 +1363,9 @@
 |Thorin Oakenshield|hob|1||||
 |Thorin, Mountain-king|hob|1|||Yes (2)|
 |Thorin, Mountain-king|hob|1|||Yes (2)|
-|Thorin's Last Stand|hob|1|||Yes (3)|
-|Thorin's Last Stand|hob|1|||Yes (3)|
 |Thorin's Last Stand|hob|2|||Yes (3)|
+|Thorin's Last Stand|hob|1|||Yes (3)|
+|Thorin's Last Stand|hob|1|||Yes (3)|
 |Thornplate Intimidator|blb|1|||Yes (2)|
 |Thornplate Intimidator|blb|1|||Yes (2)|
 |Thornvault Forager|blb|1||||
@@ -1399,10 +1412,10 @@
 |Tragedy Feaster|sos|1||||
 |Tranquil Thicket|blc|1|SquirreledAway|||
 |Transcendent Archaic|sos|1||||
-|Treasure|sld|1|SonictheHedgehog ChasingAdventure|||
 |Treasure|thob|3|SonictheHedgehog ChasingAdventure||Yes (2)|
-|Treasure|tsos|1|SonictheHedgehog ChasingAdventure|||
 |Treasure|thob|2|SonictheHedgehog ChasingAdventure||Yes (2)|
+|Treasure|tsos|1|SonictheHedgehog ChasingAdventure|||
+|Treasure|sld|1|SonictheHedgehog ChasingAdventure|||
 |Treasure Cruise|soc|1|PrismariArtistry|||
 |Treeguard Duo|blb|1|HareRaising||Yes (2)|
 |Treeguard Duo|blb|3|HareRaising||Yes (2)|
@@ -1421,13 +1434,14 @@
 |Twinning Staff|c20|1||||
 |Twitching Doll|dsk|1||||
 |Tyrranax Atrocity|one|1||||
+|Ulrich of the Krallenhorde // Ulrich, Uncontested Alpha|emn|1||||
 |Uncaged Fury|plst|1|TheBarkAges|||
 |Uncharted Haven|fdn|10|Foundations BeginnerBox|||
 |Unclaimed Territory|ecc|1|DanceOfTheElements|||
 |Undying Malice|fdn|1|Foundations BeginnerBox|||
 |Uneasy Alliance|tmt|3||||
-|Uneasy Partings|hob|1|||Yes (2)|
 |Uneasy Partings|hob|2|||Yes (2)|
+|Uneasy Partings|hob|1|||Yes (2)|
 |Unexpected Windfall|sld|1|SonictheHedgehog ChasingAdventure|||
 |Universal Surveillance|eoc|1|CounterIntelligence|||
 |Unnatural Growth|inr|2||||
@@ -1461,19 +1475,21 @@
 |Volcanic Torrent|soc|1|PrismariArtistry|||
 |Voldaren Stinger|mid|1||||
 |Volley Veteran|fdn|1|Foundations BeginnerBox|||
-|Vow to Erebor|hob|3|||Yes (2)|
-|Vow to Erebor|hob|2|||Yes (2)|
+|Vow to Erebor|hob|3|||Yes (3)|
+|Vow to Erebor|hob|1|||Yes (3)|
+|Vow to Erebor|hob|2|||Yes (3)|
 |Vulpikeet|iko|1||||
 |Wake the Past|eoc|1|CounterIntelligence|||
 |Wake to Slaughter|mid|1||||
 |Walking Sarcophagus|dft|1||||
 |Wanderbrine Trapper|ecl|1||||
-|Warg Tactics|hob|2||||
+|Warg Tactics|hob|2|||Yes (2)|
+|Warg Tactics|hob|1|||Yes (2)|
 |Wargling|hob|3||||
 |Warren Elder|blb|3|HareRaising|||
 |Wary Farmer|ecl|1||||
-|Waterspout Warden|blb|3|OtterLimits||Yes (2)|
 |Waterspout Warden|blb|1|OtterLimits||Yes (2)|
+|Waterspout Warden|blb|3|OtterLimits||Yes (2)|
 |Wax-Wane Witness|blb|1||||
 |Wear Down|blb|1||||
 |Weatherlight|sld|1|SonictheHedgehog TurboGear (alt)|Tornado, Sonic's Biplane (SonictheHedgehog TurboGear)||
@@ -1499,7 +1515,8 @@
 |Wolf Strike|vow|1|TheBarkAges|||
 |Wolfkin Outcast // Wedding Crasher|vow|1||||
 |Wolfwillow Haven|blc|1|SquirreledAway|||
-|Wood Elves|hob|3||||
+|Wood Elves|hob|3|||Yes (2)|
+|Wood Elves|hob|1|||Yes (2)|
 |Woodland Cemetery|blc|1|SquirreledAway|||
 |Worm|tecl|1||||
 |Yarok, the Desecrated|ecc|1|DanceOfTheElements|||
@@ -1527,6 +1544,7 @@
 - Ajani's Response — Edition: sos
 - All-Fates Scroll — Edition: eoe
 - Alpharael, Dreaming Acolyte — Edition: eoe
+- An Unexpected Party // At the Door — Edition: hob
 - Anchovy & Banana Pizza — Edition: tmt
 - Anticipate — Edition: iko
 - Apostle of Invasion — Edition: one
@@ -1553,8 +1571,8 @@
 - Bakersbane Duo — Edition: blb
 - Bakersbane Duo — Edition: blb
 - Baneblade Scoundrel // Baneclaw Marauder — Edition: mid
-- Banishing Light — Edition: blb
 - Banishing Light — Edition: eoe
+- Banishing Light — Edition: blb
 - Banishing Light — Edition: eoe
 - Bard the Bowman — Edition: hob
 - Bard the Bowman — Edition: hob
@@ -1581,6 +1599,7 @@
 - Bofur, Reliable Guardian // Concerted Care — Edition: hob
 - Bogslither's Embrace — Edition: ecl
 - Bogwater Lumaret — Edition: sos
+- Bolg of the North — Edition: hob
 - Bolg's Company — Edition: hob
 - Bombard — Edition: eoe
 - Bombur, Gentle Dreamer — Edition: hob
@@ -1612,6 +1631,7 @@
 - Candlegrove Witch — Edition: mid
 - Candlelit Cavalry — Edition: mid
 - Cankerbloom — Edition: one
+- Cantankerous Keepers — Edition: hob
 - Canyon Vaulter — Edition: dft
 - Cavern Whisperer — Edition: iko
 - Celestus Sanctifier — Edition: mid
@@ -1683,6 +1703,7 @@
 - Dwarf — Edition: thob
 - Dwarven Mattock — Edition: hob
 - Dwarven Provisioner — Edition: hob
+- Eagle of the Great Shelf — Edition: hob
 - Eagle of the Great Shelf — Edition: hob
 - Eagle's Rescue — Edition: hob
 - East Wind Avatar — Edition: tmt
@@ -1772,6 +1793,7 @@
 - Gandalf, Spark Starter — Edition: hob
 - Gandalf, Wandering Wizard — Edition: hob
 - Gandalf, Wandering Wizard — Edition: hob
+- Gandalf, Wandering Wizard — Edition: hob
 - Gathering of Darkness — Edition: hob
 - Gavony Trapper — Edition: mid
 - Geier Reach Bandit // Vildin-Pack Alpha — Edition: inr
@@ -1808,6 +1830,7 @@
 - Gollum, Riddle Master — Edition: hob
 - Gollum, Silent Slinker // Meager Meal — Edition: hob
 - Gollum, Silent Slinker // Meager Meal — Edition: hob
+- Gollum, Silent Slinker // Meager Meal — Edition: hob
 - Gravblade Heavy — Edition: eoe
 - Grave Researcher // Reanimate — Edition: sos
 - Great Fierce Bee — Edition: hob
@@ -1822,6 +1845,7 @@
 - Guidelight Matrix — Edition: dft
 - Guidelight Optimizer — Edition: dft
 - Guidelight Synergist — Edition: dft
+- Gundabad Opportunist — Edition: hob
 - Gundabad Opportunist — Edition: hob
 - Hallowed Respite — Edition: mid
 - Hamato Guardian Stance — Edition: tmt
@@ -1849,9 +1873,9 @@
 - Hound Tamer // Untamed Pup — Edition: mid
 - Howlpack Piper // Wildsong Howler — Edition: vow
 - Human — Edition: tmid
-- Human Soldier — Edition: teoe
 - Human Soldier — Edition: thob
 - Human Soldier — Edition: tiko
+- Human Soldier — Edition: teoe
 - Hungry Graffalon — Edition: sos
 - Hunter's Talent — Edition: blb
 - Huntmaster of the Fells // Ravager of the Fells — Edition: inr
@@ -1878,6 +1902,8 @@
 - Interjection — Edition: sos
 - Intrepid Tenderfoot — Edition: eoe
 - Iron Hills — Edition: hob
+- Iron Hills — Edition: hob
+- Iron Hills Blacksmith — Edition: hob
 - Iron Hills Stalwart — Edition: hob
 - Iron Hills Stalwart — Edition: hob
 - Jack-o'-Lantern — Edition: mid
@@ -1945,6 +1971,7 @@
 - Majestic Auricorn — Edition: iko
 - Make Your Move — Edition: tmt
 - Manhole Missile — Edition: tmt
+- Master of the Wild Hunt — Edition: a25
 - Master's Councillors — Edition: hob
 - Mayor of Avabruck // Howlpack Alpha — Edition: inr
 - Mechan Navigator — Edition: eoe
@@ -1962,7 +1989,6 @@
 - Mind Drill Assailant — Edition: blb
 - Mind Roots — Edition: sos
 - Mind Spiral — Edition: blb
-- Mind Stone — Edition: clb
 - Mind Transfer Protocol — Edition: tmt
 - Mirkwood — Edition: hob
 - Mirkwood Meditator — Edition: hob
@@ -2001,13 +2027,16 @@
 - Nobody — Edition: tmt
 - Nocturnal Hunger — Edition: blb
 - Nori, Teller of Tales — Edition: hob
+- Nori, Teller of Tales — Edition: hob
 - Noxious Assault — Edition: one
 - Noxious Newt — Edition: sos
 - Null Group Biological Assets — Edition: tmt
 - Nut Collector — Edition: ody
 - Oakhollow Village — Edition: blb
+- Ogre Sentry — Edition: cn2
 - Óin the Brave — Edition: hob
 - Óin the Brave — Edition: hob
+- Old Fat Spider Can't See Me — Edition: hob
 - Old Stickfingers — Edition: mid
 - Old Thrush — Edition: hob
 - Omni-Cheese Pizza — Edition: tmt
@@ -2078,6 +2107,7 @@
 - Rat King, Verminister — Edition: tmt
 - Raugrin Triome — Edition: iko
 - Ravening Warg — Edition: hob
+- Ravening Warg — Edition: hob
 - Ravenous Rotbelly — Edition: mic
 - Ravine Raider — Edition: blb
 - Reckless Stormseeker // Storm-Charged Slasher — Edition: mid
@@ -2100,9 +2130,9 @@
 - Rite of Harmony — Edition: mid
 - Rite of Harmony — Edition: mid
 - Riveteers Requisitioner — Edition: snc
-- Robot — Edition: teoe
-- Robot — Edition: teoe
 - Robot — Edition: ttmt
+- Robot — Edition: teoe
+- Robot — Edition: teoe
 - Rock Soldiers — Edition: tmt
 - Rocksteady, Crash Courser — Edition: tmt
 - Rohirrim Lancer — Edition: ltr
@@ -2283,6 +2313,7 @@
 - Twinning Staff — Edition: c20
 - Twitching Doll — Edition: dsk
 - Tyrranax Atrocity — Edition: one
+- Ulrich of the Krallenhorde // Ulrich, Uncontested Alpha — Edition: emn
 - Uneasy Alliance — Edition: tmt
 - Uneasy Partings — Edition: hob
 - Uneasy Partings — Edition: hob
@@ -2306,10 +2337,12 @@
 - Voldaren Stinger — Edition: mid
 - Vow to Erebor — Edition: hob
 - Vow to Erebor — Edition: hob
+- Vow to Erebor — Edition: hob
 - Vulpikeet — Edition: iko
 - Wake to Slaughter — Edition: mid
 - Walking Sarcophagus — Edition: dft
 - Wanderbrine Trapper — Edition: ecl
+- Warg Tactics — Edition: hob
 - Warg Tactics — Edition: hob
 - Wargling — Edition: hob
 - Wary Farmer — Edition: ecl
@@ -2330,6 +2363,7 @@
 - Wistfulness — Edition: ecl
 - Wolf — Edition: thob
 - Wolfkin Outcast // Wedding Crasher — Edition: vow
+- Wood Elves — Edition: hob
 - Wood Elves — Edition: hob
 - Worm — Edition: tecl
 - Ygra, Eater of All — Edition: blb

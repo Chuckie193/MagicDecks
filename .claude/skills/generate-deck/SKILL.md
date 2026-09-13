@@ -69,7 +69,13 @@ The skill uses a versioning system to preserve approved decks while allowing ite
    - A specific commander card name
    - Or any combination of these
 
-3. **Ask Setup Questions**: Before building the deck, ask the user both of the following questions at the same time (combine into a single message):
+   **RULE — Never invent the deck request.** The commander, theme, and colours are the user's call, always. If the request is empty (e.g. a bare `/generate-deck` with no arguments) or too vague to identify a commander or theme, **stop and ask what they want to build**. Do not pick a commander or theme yourself, and do not offer "you pick" / "surprise me" / "I'll choose a commander that the collection supports" as an option — offering it invites the model to build something unprompted, which is exactly what this rule forbids.
+
+   When the request is missing, ask an open question: what commander, theme/strategy, or colour identity do they want? It is fine to *support* their decision with information — for example, listing a handful of available legendary creatures from `commanders.md` (cross-checked against `moxfield_latest.csv`), or naming which archetypes the collection has the most depth in — as long as the final choice is theirs. Suggestions are offered as prompts to choose from, never applied on the user's behalf.
+
+   Only proceed past this step once the user has actually named a commander, theme, or colour identity.
+
+3. **Ask Setup Questions**: Before building the deck, ask the user both of the following questions at the same time (combine into a single message). If the deck request itself is missing (see step 2), ask *that* alongside these two so the user answers everything in one round — but never substitute your own answer for the deck request if they leave it blank:
 
    **a) Opponent count** — How they expect to use the deck:
    - **Single opponent (1v1 / duel)** — Optimise for efficiency: lower mana curve, more targeted removal, fast win conditions, and cards that shine head-to-head.
@@ -342,9 +348,9 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
 
 ## Card Collection Origin
 
-| Card | Category | Precon(s) |
-|------|----------|-----------|
-| [Card Name] | [All card types from type_line, e.g., "Creature", "Artifact Creature", "Artifact Enchantment", "Legendary Artifact", "Artifact Vehicle"] | [Precon name(s) or "—" if not from a precon] |
+| Card | Mana Cost | Category | Precon(s) |
+|------|-----------|----------|-----------|
+| [Card Name] | [Casting cost in symbols, e.g. "{3}{B}{G}"; "—" for lands] | [All card types from type_line, e.g., "Creature", "Artifact Creature", "Artifact Enchantment", "Legendary Artifact", "Artifact Vehicle"] | [Precon name(s) or "—" if not from a precon] |
 ...
 
 ```
@@ -362,14 +368,23 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
    ```
    ## Card Collection Origin
 
-   | Card | Category | Precon(s) |
-   |------|----------|-----------|
-   | Bria, Riptide Rogue | Commander | Otter Limits |
-   | Archmage Emeritus | Creature | Prismari Artistry |
-   | Hangarback Walker | Artifact Creature | Counter Intelligence |
-   | Sol Ring | Artifact | Counter Intelligence; Prismari Artistry; Squirreled Away |
-   | Island (x7) | Land | Counter Intelligence; Foundations Beginner Box; Otter Limits; Prismari Artistry |
+   | Card | Mana Cost | Category | Precon(s) |
+   |------|-----------|----------|-----------|
+   | Bria, Riptide Rogue | {2}{U}{R} | Commander | Otter Limits |
+   | Archmage Emeritus | {2}{U}{U} | Creature | Prismari Artistry |
+   | Hangarback Walker | {X}{X} | Artifact Creature | Counter Intelligence |
+   | Sol Ring | {1} | Artifact | Counter Intelligence; Prismari Artistry; Squirreled Away |
+   | Island (x7) | — | Land | Counter Intelligence; Foundations Beginner Box; Otter Limits; Prismari Artistry |
    ```
+
+   **Mana Cost column**: the card's full casting cost in standard symbol notation, so the colours spent are visible without cross-referencing. Convert the plain-English `mana_cost` in `card_details.md`:
+   - `3 generic, Black, Green` → `{3}{B}{G}`; `Green` → `{G}`; `1 generic` → `{1}`
+   - Colours are `{W} {U} {B} {R} {G}`, colourless `{C}`, variable `{X}`
+   - Hybrid and Phyrexian keep the slash: `Black/Green` → `{B/G}`, `Blue/Phyrexian` → `{U/P}`
+   - Repeat a pip per coloured mana: `1 generic, Green, Green, Green, Green` → `{1}{G}{G}{G}{G}`
+   - **Lands** (basics included) have no casting cost — use `—`
+   - **Double-faced cards** read `0 (no mana cost)` in `card_details.md` because the cost sits on the front face. Take the front face's cost from `scripts/cache/cards_cache.json` (`card_faces[0].mana_cost`) — Ecstatic Awakener // Awoken Demon is `{B}`, not `—`. Writing `—` for a DFC is an error.
+   - Casting cost only — never an activated-ability cost.
 
    **Category column**: Show ALL card types the card has, derived from its `type_line` in `card_details.md`. Include supertypes and types but omit subtypes (the part after the em-dash `—`). Examples:
    - A card with type_line `Artifact Creature — Thopter` → Category: `Artifact Creature`
@@ -406,7 +421,8 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
    2. Build a set of card names from the table rows (strip the copy-count suffix, e.g., "Island (x7)" → "Island").
    3. Check: every card in the decklist must appear in the table — report any missing cards.
    4. Check: every card in the table must appear in the decklist — report any extra cards.
-   5. Check: each card's Category in the table shows all of its card types (supertypes + types, no subtypes) from `type_line`. A card in the Creatures section may have Category "Artifact Creature" — that is correct. What matters is that the section placement follows the priority rules in check #6 below.
+   5. Check: every table row has exactly four columns, and each card's Mana Cost matches the converted `mana_cost` from `card_details.md` (front face for DFCs, `—` for lands).
+   5a. Check: each card's Category in the table shows all of its card types (supertypes + types, no subtypes) from `type_line`. A card in the Creatures section may have Category "Artifact Creature" — that is correct. What matters is that the section placement follows the priority rules in check #6 below.
    6. **Type-line check**: For every non-land card in the decklist, look up its `type_line` in `card_details.md` and confirm the section it was placed in follows the section placement priority:
       - Creatures section → type_line must contain "Creature", "Vehicle", or "Space Station" (priority 1; artifact creatures and Vehicles belong here, not under Artifacts)
       - Enchantments section → type_line must contain "Enchantment" but NOT "Creature" (priority 2; artifact enchantments belong here, not under Artifacts)

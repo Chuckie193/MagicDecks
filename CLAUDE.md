@@ -35,6 +35,7 @@ Whenever you make any change to a file in `Custom Decks/*.md` (adding, removing,
 
 - Build the full card set from the decklist (Commander + all sections). Basic lands count as one entry (e.g., "Island", not "Island ×2").
 - Build the card set from the Card Collection Origin table rows (strip copy-count suffixes, e.g., "Island (×2)" → "Island").
+- The table has four columns: `| Card | Mana Cost | Category | Precon(s) |`. Any row with a different column count is a formatting error — fix it.
 - Every card in the decklist must have a row in the table. Report and fix any missing.
 - Every row in the table must correspond to a card in the decklist. Report and fix any extras.
 
@@ -44,6 +45,18 @@ Each card's **Category** in the table must show all supertypes and types from it
 - `Artifact Creature — Thopter` → `Artifact Creature`
 - `Legendary Artifact` → `Legendary Artifact`
 - `Artifact — Vehicle` → `Artifact Vehicle`
+
+### 2a. Mana Cost Column Accuracy
+
+The table has a **Mana Cost** column between Card and Category, showing the card's full casting cost in standard symbol notation so the colours spent are visible at a glance.
+
+- Convert the plain-English `mana_cost` in `card_details.md` into symbols: `3 generic, Black, Green` → `{3}{B}{G}`; `Green` → `{G}`; `1 generic` → `{1}`.
+- Colour letters are `{W} {U} {B} {R} {G}`, colourless `{C}`, variable `{X}`.
+- **Hybrid and Phyrexian** keep the slash: `Black/Green` → `{B/G}`, `Blue/Phyrexian` → `{U/P}`.
+- **Lands** have no casting cost — use `—` (em-dash), including basic lands.
+- **Double-faced cards** show `0 (no mana cost)` in `card_details.md` because the cost lives on the front face. Use the **front face's** cost from `scripts/cache/cards_cache.json` (`card_faces[0].mana_cost`) — e.g. Ecstatic Awakener // Awoken Demon is `{B}`, not `—`. Never write `—` for a DFC.
+- Repeat the pip for each coloured mana: `1 generic, Green, Green, Green, Green` → `{1}{G}{G}{G}{G}`.
+- This is the **casting cost only**. Do not put activated-ability costs here.
 
 ### 3. Section Placement
 

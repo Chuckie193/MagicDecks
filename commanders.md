@@ -1,6 +1,6 @@
 # Potential Commanders
 
-All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **128 cards**.
+All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **130 cards**.
 
 > Generated from `moxfield_latest.csv`, the source of truth for ownership. Every card listed here is owned. Cards from `Commander Staples/` are deliberately excluded — that folder is a want-list, not a collection.
 
@@ -99,6 +99,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 
 | Card | Name | Type | Precon |
 |------|------|------|--------|
+| <img src="images/commanders/Bolg_of_the_North.jpg" alt="Bolg of the North" width="200"> | **Bolg of the North** | Legendary Creature — Goblin Soldier |  |
 | <img src="images/commanders/Shadow_the_Hedgehog.jpg" alt="Shadow the Hedgehog" width="200"> | **Shadow the Hedgehog** | Legendary Creature — Hedgehog Mercenary | SonictheHedgehog FriendsandFoes |
 | <img src="images/commanders/Smaug_the_Impenetrable.jpg" alt="Smaug the Impenetrable" width="200"> | **Smaug the Impenetrable** | Legendary Creature — Dragon |  |
 | <img src="images/commanders/Smaug_Wicked_Worm.jpg" alt="Smaug, Wicked Worm" width="200"> | **Smaug, Wicked Worm** | Legendary Creature — Dragon |  |
@@ -190,6 +191,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Muerra_Trash_Tactician.jpg" alt="Muerra, Trash Tactician" width="200"> | **Muerra, Trash Tactician** | Legendary Creature — Raccoon Warrior |  |
 | <img src="images/commanders/Omnath_Locus_of_Rage.jpg" alt="Omnath, Locus of Rage" width="200"> | **Omnath, Locus of Rage** | Legendary Creature — Elemental | DanceOfTheElements |
 | <img src="images/commanders/Tovolar_Dire_Overlord_Tovolar_the_Midnight_Scourge.jpg" alt="Tovolar, Dire Overlord // Tovolar, the Midnight Scourge" width="200"> | **Tovolar, Dire Overlord // Tovolar, the Midnight Scourge** | Legendary Creature — Human Werewolf // Legendary Creature — Werewolf |  |
+| <img src="images/commanders/Ulrich_of_the_Krallenhorde_Ulrich_Uncontested_Alpha.jpg" alt="Ulrich of the Krallenhorde // Ulrich, Uncontested Alpha" width="200"> | **Ulrich of the Krallenhorde // Ulrich, Uncontested Alpha** | Legendary Creature — Human Werewolf // Legendary Creature — Werewolf |  |
 
 ## Green, Red, Blue
 
