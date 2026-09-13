@@ -7,7 +7,6 @@
 1 Barkform Harvester
 1 Beorn the Fierce
 1 Bite Down
-1 Breakneck Rider // Neck Breaker
 1 Broken Wings
 1 Burly Breaker // Dire-Strain Demolisher
 1 Chaos Warp
@@ -16,7 +15,6 @@
 1 Duskwatch Recruiter // Krallenhorde Howler
 1 Elvish Regrower
 1 Fangblade Brigand // Fangblade Eviscerator
-1 Geier Reach Bandit // Vildin-Pack Alpha
 1 Hermit of the Natterknolls // Lone Wolf of the Natterknolls
 1 Hound Tamer // Untamed Pup
 1 Howlpack Piper // Wildsong Howler
@@ -28,6 +26,7 @@
 1 Instigator Gang // Wildblood Pack
 1 Kessig Naturalist // Lord of the Ulvenwald
 1 Kruin Outlaw // Terror of Kruin Pass
+1 Lasting Tarfire
 1 Llanowar Elves
 1 Mayor of Avabruck // Howlpack Alpha
 1 Migloz, Maze Crusher
@@ -40,35 +39,37 @@
 1 Power Sneakers
 1 Ranger Class
 1 Reckless Stormseeker // Storm-Charged Slasher
-1 Runebound Wolf
 1 Sage of Ancient Lore // Werewolf of Ancient Hunger
 1 Scorned Villager // Moonscarred Werewolf
+1 Scurry of Squirrels
+1 Second Harvest
+1 Shamanic Revelation
 1 Silverfur Partisan
 1 Snakeskin Veil
 1 Sol Ring
 1 Terrasymbiosis
-1 The Celestus
+1 Toski, Bearer of Secrets
 1 Tovolar's Huntmaster // Tovolar's Packleader
 1 Unnatural Growth
 1 Unnatural Moonrise
 1 Village Messenger // Moonrise Intruder
 1 Village Watch // Village Reavers
 1 Volatile Arsonist // Dire-Strain Anarchist
+1 Volcanic Torrent
 1 Warg Tactics
 1 Wargling
 1 Weaver of Blossoms // Blossom-Clad Werewolf
-1 Werewolf Pack Leader
 1 Wilderland Scrounger
 1 Wolf Strike
 1 Wolfkin Outcast // Wedding Crasher
 1 Zopandrel, Hunger Dominus
-1 Bristling Backwoods
 1 Command Tower
 1 Exotic Orchard
 13 Forest
 1 Gongaga, Reactor Town
 1 Kessig Wolf Run
-13 Mountain
+12 Mountain
+1 Oran-Rief, the Vastwood
 1 Path of Ancestry
 1 Raging Ravine
 1 Rugged Highlands
