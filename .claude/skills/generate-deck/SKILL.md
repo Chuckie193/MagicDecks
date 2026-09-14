@@ -375,7 +375,14 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
    | Hangarback Walker | {X}{X} | Artifact Creature | Counter Intelligence |
    | Sol Ring | {1} | Artifact | Counter Intelligence; Prismari Artistry; Squirreled Away |
    | Island (x7) | — | Land | Counter Intelligence; Foundations Beginner Box; Otter Limits; Prismari Artistry |
+   | Ponder | {U} | Sorcery | — |
+   | Shock | {R} | Instant | Foundations Beginner Box |
+   | Arcane Signet | {2} | Artifact | — |
+   | Mountain (x7) | — | Land | Foundations Beginner Box |
+   | Electrolyze | {1}{U}{R} | Instant | — |
    ```
+
+   The first five rows are the Commander-precon block (grouped by precon, type then A–Z). The last five are the colour-sorted block: Blue, then Red, then Colourless (`Arcane Signet` and the `Mountain` land, alphabetical), then Multicolour. `Shock` and `Mountain` sit here rather than in a "Foundations Beginner Box" group because Foundations is not a Commander precon.
 
    **Mana Cost column**: the card's full casting cost in standard symbol notation, so the colours spent are visible without cross-referencing. Convert the plain-English `mana_cost` in `card_details.md`:
    - `3 generic, Black, Green` → `{3}{B}{G}`; `Green` → `{G}`; `1 generic` → `{1}`
@@ -393,11 +400,27 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
    - A card with type_line `Artifact — Vehicle` → Category: `Artifact Vehicle` (Vehicle is a subtype but treat it as a type for this column since it affects section placement)
    - A card with type_line containing `Space Station` → include it similarly
 
-   **Guidelines**:
-   - **Commander row is always first.**
-   - **Sort by precon group**: Group all remaining cards by which precon they came from. Order the groups by how many deck cards each precon contributes — largest first. Break ties by alphabetising the precon name. Cards with no precon (`—`) form a final group after all named precon groups.
-   - **Cards in multiple precons**: A card listed under several precons belongs to the group of whichever precon contributes the most cards to the deck. If tied, use the first precon name listed in its Precon(s) column.
-   - **Within each precon group, sort by card type**: Use the card's **primary type** (see section placement priority below) to determine its sort group. Order: Creature → Enchantment → Artifact → Instant → Sorcery → Planeswalker → Land. Within the same type group, sort alphabetically (by alt name where one exists, otherwise by card name).
+   **Sort order** — the table has exactly **three** parts, in this order:
+
+   **1. Commander row** — always first, before everything else.
+
+   **2. The Commander-precon block** — every card available from a deck in `Precons/Commander Precons/` (currently Counter Intelligence, Dance of the Elements, Prismari Artistry, Squirreled Away, The Bark Ages; check the folder rather than trusting this list). Cards whose precons are all *non*-Commander precons do **not** belong here.
+   - **Group by precon**: order the groups by how many deck cards each Commander precon contributes — largest first. Break ties by alphabetising the precon name.
+   - **Cards in multiple precons**: a card listed under several Commander precons belongs to the group of whichever contributes the most cards to the deck; if tied, use the first such precon listed in its Precon(s) column. A card listed under both a Commander precon and a non-Commander precon belongs **here**, in the Commander-precon block.
+   - **Within each group, sort by card type**: use the card's **primary type** (see section placement priority below). Order: Creature → Enchantment → Artifact → Instant → Sorcery → Planeswalker → Land. Within the same type group, sort alphabetically (by alt name where one exists, otherwise by card name).
+
+   **3. The colour-sorted block** — every remaining card, in one single block with **no precon grouping**: cards from non-Commander precons (`Precons/*.txt` — Foundations Beginner Box, Hare Raising, Otter Limits, the Secret Lair drops) and cards with no precon (`—`), mixed together. Never give Foundations or any other non-Commander precon its own group at the top of the table.
+   - **Sort by the colours of the casting cost**: White → Blue → Black → Red → Green → Colourless → Multicolour.
+   - A card's group comes from the coloured pips in its **Mana Cost** column, not from its colour identity:
+     - Pips of exactly one colour, however many → that colour's group (`{3}{B}{B}` → Black; `{1}{G}{G}{G}{G}` → Green).
+     - Pips of two or more different colours → **Multicolour**, the final group (`{1}{B}{G}` → Multicolour; a hybrid `{B/G}` contains two colours → Multicolour).
+     - Hybrid and Phyrexian count as the colours they contain: `{U/P}` is mono-blue, `{2/W}` is mono-white.
+     - No coloured pips at all → **Colourless**: generic-only costs (`{1}`, `{2}`, `{X}{X}`) and every **land**, whose cost is `—`.
+     - For a DFC, use the front-face cost already in the Mana Cost column.
+   - **Within each colour group, sort alphabetically only** (by alt name where one exists, otherwise by card name). No type sorting inside this block.
+   - The Precon(s) column still shows each card's precons as normal — it just no longer drives the ordering here.
+
+   **Other guidelines**:
 
    **Section placement priority** (determines which deck section a card goes into AND its sort group in the table):
    1. **Creatures** — type_line contains "Creature", "Vehicle", or "Space Station" (artifact creatures, Vehicle artifacts, and Space Station artifacts all go here)
@@ -423,6 +446,7 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
    4. Check: every card in the table must appear in the decklist — report any extra cards.
    5. Check: every table row has exactly four columns, and each card's Mana Cost matches the converted `mana_cost` from `card_details.md` (front face for DFCs, `—` for lands).
    5a. Check: each card's Category in the table shows all of its card types (supertypes + types, no subtypes) from `type_line`. A card in the Creatures section may have Category "Artifact Creature" — that is correct. What matters is that the section placement follows the priority rules in check #6 below.
+   5b. **Sort-order check**: confirm the table is in the three parts described above — Commander row, then the Commander-precon block grouped by precon, then one colour-sorted block (W → U → B → R → G → Colourless → Multicolour, alphabetical within each). The two most common errors are a non-Commander precon (Foundations Beginner Box, Hare Raising, Otter Limits, a Secret Lair drop) given its own group near the top, and a card that is in both a Commander and a non-Commander precon dropped into the colour block instead of the Commander-precon block.
    6. **Type-line check**: For every non-land card in the decklist, look up its `type_line` in `card_details.md` and confirm the section it was placed in follows the section placement priority:
       - Creatures section → type_line must contain "Creature", "Vehicle", or "Space Station" (priority 1; artifact creatures and Vehicles belong here, not under Artifacts)
       - Enchantments section → type_line must contain "Enchantment" but NOT "Creature" (priority 2; artifact enchantments belong here, not under Artifacts)
@@ -433,7 +457,7 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
 
       Report any card whose section contradicts its type_line priority and correct the placement before continuing. (This catches errors like Treasure Cruise appearing under Instants when it is a Sorcery, or an Artifact Creature appearing under Artifacts instead of Creatures.)
    7. **Availability check** (skip only in Full collection mode): every card in the decklist must have `available >= copies used` in the eligible pool computed in step 4. Report and fix any over-allocation — this is the check that catches a card that is physically sitting in a reserved deck.
-   8. Only write the deck file once checks 3–7 pass. If any mismatch is found, fix it before writing.
+   8. Only write the deck file once checks 3–7 (including 5a and 5b) pass. If any mismatch is found, fix it before writing.
 
 13. **Cards Removed Table** (improvement mode only):
 

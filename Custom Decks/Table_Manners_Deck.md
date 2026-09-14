@@ -306,33 +306,33 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
 | Twilight Mire | — | Land | Squirreled Away |
 | Viridescent Bog | — | Land | Squirreled Away |
 | Woodland Cemetery | — | Land | Squirreled Away |
-| Aggressive Mammoth | {3}{G}{G}{G} | Creature | Foundations Beginner Box |
-| Llanowar Elves | {G} | Creature | Foundations Beginner Box |
-| Reassembling Skeleton | {1}{B} | Creature | Foundations Beginner Box |
-| Thrashing Brontodon | {1}{G}{G} | Creature | Foundations Beginner Box |
-| Snakeskin Veil | {G} | Instant | Foundations Beginner Box; The Bark Ages |
-| Undying Malice | {B} | Instant | Foundations Beginner Box |
-| Hall of Oracles | — | Land | Prismari Artistry |
 | Horrid Vigor | {1}{G} | Instant | The Bark Ages |
-| Cankerbloom | {1}{G} | Creature | — |
+| Snakeskin Veil | {G} | Instant | Foundations Beginner Box; The Bark Ages |
+| Hall of Oracles | — | Land | Prismari Artistry |
 | Ecstatic Awakener // Awoken Demon | {B} | Creature | — |
-| Outland Liberator // Frenzied Trapbreaker | {1}{G} | Creature | — |
-| Rat King, Verminister | {1}{B} | Legendary Creature | — |
-| The Sackville-Bagginses | {1}{B} | Legendary Creature | — |
-| Thornvault Forager | {1}{G} | Creature | — |
-| Twitching Doll | {1}{G} | Artifact Creature | — |
-| Vinereap Mentor | {B}{G} | Creature | — |
-| Wood Elves | {2}{G} | Creature | — |
-| Zopandrel, Hunger Dominus | {5}{G}{G} | Legendary Creature | — |
-| Ninja Teen | {2}{B} | Enchantment | — |
-| Terrasymbiosis | {2}{G} | Enchantment | — |
-| Unnatural Growth | {1}{G}{G}{G}{G} | Enchantment | — |
+| Fell | {1}{B} | Sorcery | — |
 | Hazel's Nocturne | {3}{B} | Instant | — |
 | Infernal Grasp | {1}{B} | Instant | — |
-| Overprotect | {1}{G} | Instant | — |
+| Ninja Teen | {2}{B} | Enchantment | — |
+| Rat King, Verminister | {1}{B} | Legendary Creature | — |
+| Reassembling Skeleton | {1}{B} | Creature | Foundations Beginner Box |
 | Supper for Spiders | {1}{B} | Instant | — |
-| Fell | {1}{B} | Sorcery | — |
+| The Sackville-Bagginses | {1}{B} | Legendary Creature | — |
+| Undying Malice | {B} | Instant | Foundations Beginner Box |
+| Aggressive Mammoth | {3}{G}{G}{G} | Creature | Foundations Beginner Box |
+| Cankerbloom | {1}{G} | Creature | — |
+| Llanowar Elves | {G} | Creature | Foundations Beginner Box |
+| Outland Liberator // Frenzied Trapbreaker | {1}{G} | Creature | — |
+| Overprotect | {1}{G} | Instant | — |
+| Terrasymbiosis | {2}{G} | Enchantment | — |
+| Thornvault Forager | {1}{G} | Creature | — |
+| Thrashing Brontodon | {1}{G}{G} | Creature | Foundations Beginner Box |
+| Twitching Doll | {1}{G} | Artifact Creature | — |
+| Unnatural Growth | {1}{G}{G}{G}{G} | Enchantment | — |
 | Wear Down | {1}{G} | Sorcery | — |
+| Wood Elves | {2}{G} | Creature | — |
+| Zopandrel, Hunger Dominus | {5}{G}{G} | Legendary Creature | — |
 | Illegitimate Business | — | Land | — |
 | Mirkwood | — | Land | — |
 | Titan's Grave | — | Land | — |
+| Vinereap Mentor | {B}{G} | Creature | — |

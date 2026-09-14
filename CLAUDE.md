@@ -87,11 +87,25 @@ After every change to a `Custom Decks/*.md` file, update the corresponding `Cust
 
 ### 6. Card Collection Origin Table Sort Order
 
-The table must remain sorted correctly after any change:
-- **Group by precon**: order groups by how many deck cards each precon contributes (largest first). Cards with no precon (`—`) form the final group.
+The table must remain sorted correctly after any change. It has exactly **three** parts, in this order:
+
+**1. The Commander row** — always first, before everything else.
+
+**2. The Commander-precon block** — every card available from a deck in `Precons/Commander Precons/` (currently Counter Intelligence, Dance of the Elements, Prismari Artistry, Squirreled Away, The Bark Ages).
+- **Group by precon**: order the groups by how many deck cards each Commander precon contributes (largest first; break ties by alphabetising the precon name).
+- A card listed under several Commander precons belongs to whichever of them contributes the most cards to the deck. A card listed under both a Commander precon and a non-Commander precon belongs **here**, in the Commander-precon block.
 - **Within each group, sort by card type** in this order: Creature → Enchantment → Artifact → Instant → Sorcery → Planeswalker → Land.
 - **Within the same type, sort alphabetically** (by alt name if one exists, otherwise by card name).
-- The Commander row is always first, before all groups.
+
+**3. The colour-sorted block** — every remaining card, in one single block with **no precon grouping**. This is where cards from non-Commander precons (Foundations Beginner Box, Hare Raising, Otter Limits, the Secret Lair drops) and cards with no precon (`—`) go, mixed together. Never give Foundations or any other non-Commander precon its own group at the top.
+- **Sort by the colours of the casting cost**, in this order: White → Blue → Black → Red → Green → Colourless → Multicolour.
+- A card's group is decided by the coloured pips in its **Mana Cost** column, not by its colour identity:
+  - Pips of exactly one colour, however many → that colour's group (`{3}{B}{B}` → Black; `{1}{G}{G}{G}{G}` → Green).
+  - Pips of two or more different colours → **Multicolour**, the final group (`{1}{B}{G}` → Multicolour; a hybrid `{B/G}` is two colours → Multicolour).
+  - Hybrid and Phyrexian count as the colours they contain: `{U/P}` is mono-blue, `{2/W}` is mono-white.
+  - No coloured pips at all → **Colourless**. This covers generic-only costs (`{1}`, `{2}`, `{X}{X}`) and every **land**, which has `—` for a cost.
+- **Within each colour group, sort alphabetically only** (by alt name if one exists, otherwise by card name). No type sorting inside this block.
+- The Precon(s) column still shows each card's precons as normal — it just no longer drives the ordering here.
 
 ### 7. Versioning
 
