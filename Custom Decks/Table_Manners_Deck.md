@@ -1,4 +1,4 @@
-# Ygra, Eater of All — Golgari Food Aristocrats Commander
+# Table Manners — Golgari Food Aristocrats Commander
 
 Commander: Ygra, Eater of All (3 generic, Black, Green — Black/Green)
 
@@ -231,12 +231,15 @@ Ygra yawns, and the battlefield becomes a buffet. Heroes, horrors, whole armies 
 
 ---
 
-## Suggested Deck Names
+## Deck Name
+
+**Table Manners** — In Commander "the table" is the pod, and Ygra has none of these.
+
+*Other candidates considered:*
 
 - **Food Chain** — Punchy two-worder and a double meaning: the deck literally runs on Food tokens, and Ygra sits at the top of the food chain eating everything below her.
 - **Bone Appétit** — A pun that captures both halves of the deck: fine dining and a graveyard full of the guests.
 - **Clean Plate Club** — She does not stop until the board is empty, which is exactly how the sacrifice-everything turn plays out.
-- **Table Manners** — In Commander "the table" is the pod, and Ygra has none of these.
 
 ---
 Deck created from cards in your moxfield collection (moxfield_latest.csv & card_details.md), excluding cards reserved by Full Deployment and Dance of the Elements. Squirreled Away was released from the reserved list at your request.
