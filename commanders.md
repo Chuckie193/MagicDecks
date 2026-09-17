@@ -1,6 +1,6 @@
 # Potential Commanders
 
-All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **130 cards**.
+All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **150 cards**.
 
 > Generated from `moxfield_latest.csv`, the source of truth for ownership. Every card listed here is owned. Cards from `Commander Staples/` are deliberately excluded — that folder is a want-list, not a collection.
 
@@ -11,6 +11,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | Card | Name | Type | Precon |
 |------|------|------|--------|
 | <img src="images/commanders/April_ONeil_Kunoichi_Trainee.jpg" alt="April O'Neil, Kunoichi Trainee" width="200"> | **April O'Neil, Kunoichi Trainee** | Legendary Creature — Human Ninja |  |
+| <img src="images/commanders/Arahbo_the_First_Fang.jpg" alt="Arahbo, the First Fang" width="200"> | **Arahbo, the First Fang** | Legendary Creature — Cat Avatar |  |
 | <img src="images/commanders/Ashe_Princess_of_Dalmasca.jpg" alt="Ashe, Princess of Dalmasca" width="200"> | **Ashe, Princess of Dalmasca** | Legendary Creature — Human Rebel Noble |  |
 | <img src="images/commanders/Belladonna_Took.jpg" alt="Belladonna Took" width="200"> | **Belladonna Took** | Legendary Creature — Halfling Citizen |  |
 | <img src="images/commanders/Bofur_Reliable_Guardian_Concerted_Care.jpg" alt="Bofur, Reliable Guardian // Concerted Care" width="200"> | **Bofur, Reliable Guardian // Concerted Care** | Legendary Creature — Dwarf Scout // Instant — Adventure |  |
@@ -21,15 +22,20 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Jennika_Bad_Apple_Big_Sister.jpg" alt="Jennika, Bad Apple Big Sister" width="200"> | **Jennika, Bad Apple Big Sister** | Legendary Creature — Mutant Ninja Turtle |  |
 | <img src="images/commanders/Leonardo_Big_Brother.jpg" alt="Leonardo, Big Brother" width="200"> | **Leonardo, Big Brother** | Legendary Creature — Mutant Ninja Turtle |  |
 | <img src="images/commanders/Leonardo_Leader_in_Blue.jpg" alt="Leonardo, Leader in Blue" width="200"> | **Leonardo, Leader in Blue** | Legendary Creature — Mutant Ninja Turtle |  |
+| <img src="images/commanders/Linden_the_Steadfast_Queen.jpg" alt="Linden, the Steadfast Queen" width="200"> | **Linden, the Steadfast Queen** | Legendary Creature — Human Noble |  |
+| <img src="images/commanders/Lyra_Dawnbringer.jpg" alt="Lyra Dawnbringer" width="200"> | **Lyra Dawnbringer** | Legendary Creature — Angel |  |
 | <img src="images/commanders/Ori_Keeper_of_Songs.jpg" alt="Ori, Keeper of Songs" width="200"> | **Ori, Keeper of Songs** | Legendary Creature — Dwarf Bard |  |
 | <img src="images/commanders/Sally_Pride_Lioness_Leader.jpg" alt="Sally Pride, Lioness Leader" width="200"> | **Sally Pride, Lioness Leader** | Legendary Creature — Cat Mutant Rebel |  |
+| <img src="images/commanders/Syr_Alin_the_Lions_Claw.jpg" alt="Syr Alin, the Lion's Claw" width="200"> | **Syr Alin, the Lion's Claw** | Legendary Creature — Human Knight |  |
 | <img src="images/commanders/The_Seriema.jpg" alt="The Seriema" width="200"> | **The Seriema** | Legendary Artifact — Spacecraft |  |
+| <img src="images/commanders/Zetalpa_Primal_Dawn.jpg" alt="Zetalpa, Primal Dawn" width="200"> | **Zetalpa, Primal Dawn** | Legendary Creature — Elder Dinosaur |  |
 
 ## Blue
 
 | Card | Name | Type | Precon |
 |------|------|------|--------|
 | <img src="images/commanders/April_Reporter_of_the_Weird.jpg" alt="April, Reporter of the Weird" width="200"> | **April, Reporter of the Weird** | Legendary Creature — Human Detective |  |
+| <img src="images/commanders/Arcanis_the_Omnipotent.jpg" alt="Arcanis the Omnipotent" width="200"> | **Arcanis the Omnipotent** | Legendary Creature — Wizard |  |
 | <img src="images/commanders/Bilbo_Baggins_Burglar_Take_a_Glance.jpg" alt="Bilbo Baggins, Burglar // Take a Glance" width="200"> | **Bilbo Baggins, Burglar // Take a Glance** | Legendary Creature — Halfling Rogue // Sorcery — Adventure |  |
 | <img src="images/commanders/Caelorna_Coral_Tyrant.jpg" alt="Caelorna, Coral Tyrant" width="200"> | **Caelorna, Coral Tyrant** | Legendary Creature — Octopus |  |
 | <img src="images/commanders/Donatello_Turtle_Techie.jpg" alt="Donatello, Turtle Techie" width="200"> | **Donatello, Turtle Techie** | Legendary Creature — Mutant Ninja Turtle |  |
@@ -52,6 +58,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Gollum_Silent_Slinker_Meager_Meal.jpg" alt="Gollum, Silent Slinker // Meager Meal" width="200"> | **Gollum, Silent Slinker // Meager Meal** | Legendary Creature — Halfling Horror // Sorcery — Adventure |  |
 | <img src="images/commanders/Kalakscion_Hunger_Tyrant.jpg" alt="Kalakscion, Hunger Tyrant" width="200"> | **Kalakscion, Hunger Tyrant** | Legendary Creature — Crocodile |  |
 | <img src="images/commanders/Madame_Null_Power_Broker.jpg" alt="Madame Null, Power Broker" width="200"> | **Madame Null, Power Broker** | Legendary Creature — Demon Advisor |  |
+| <img src="images/commanders/Myojin_of_Nights_Reach.jpg" alt="Myojin of Night's Reach" width="200"> | **Myojin of Night's Reach** | Legendary Creature — Spirit |  |
 | <img src="images/commanders/Oroku_Saki_Shredder_Rising.jpg" alt="Oroku Saki, Shredder Rising" width="200"> | **Oroku Saki, Shredder Rising** | Legendary Creature — Human Ninja |  |
 | <img src="images/commanders/Rat_King_Verminister.jpg" alt="Rat King, Verminister" width="200"> | **Rat King, Verminister** | Legendary Creature — Rat Avatar |  |
 | <img src="images/commanders/Shredder_Unrelenting.jpg" alt="Shredder, Unrelenting" width="200"> | **Shredder, Unrelenting** | Legendary Creature — Human Ninja |  |
@@ -71,6 +78,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/General_Traag_Heart_of_Stone.jpg" alt="General Traag, Heart of Stone" width="200"> | **General Traag, Heart of Stone** | Legendary Artifact Creature — Elemental Soldier |  |
 | <img src="images/commanders/Glóin_the_Mighty_Easy_Pickings.jpg" alt="Glóin the Mighty // Easy Pickings" width="200"> | **Glóin the Mighty // Easy Pickings** | Legendary Creature — Dwarf Warrior // Sorcery — Adventure |  |
 | <img src="images/commanders/Knuckles_the_Echidna.jpg" alt="Knuckles the Echidna" width="200"> | **Knuckles the Echidna** | Legendary Creature — Echidna Warrior | SonictheHedgehog FriendsandFoes |
+| <img src="images/commanders/Lathliss_Dragon_Queen.jpg" alt="Lathliss, Dragon Queen" width="200"> | **Lathliss, Dragon Queen** | Legendary Creature — Dragon |  |
 | <img src="images/commanders/Plargg_and_Nassari.jpg" alt="Plargg and Nassari" width="200"> | **Plargg and Nassari** | Legendary Creature — Orc Efreet | PrismariArtistry |
 | <img src="images/commanders/Raphael_Tough_Turtle.jpg" alt="Raphael, Tough Turtle" width="200"> | **Raphael, Tough Turtle** | Legendary Creature — Mutant Ninja Turtle |  |
 | <img src="images/commanders/Rionya_Fire_Dancer.jpg" alt="Rionya, Fire Dancer" width="200"> | **Rionya, Fire Dancer** | Legendary Creature — Human Wizard | PrismariArtistry |
@@ -87,10 +95,13 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Arasta_of_the_Endless_Web.jpg" alt="Arasta of the Endless Web" width="200"> | **Arasta of the Endless Web** | Legendary Enchantment Creature — Spider | SquirreledAway |
 | <img src="images/commanders/Beorn_the_Fierce.jpg" alt="Beorn the Fierce" width="200"> | **Beorn the Fierce** | Legendary Creature — Bear Shapeshifter Warrior |  |
 | <img src="images/commanders/Beorn_Reluctant_Host_Till_and_Tend.jpg" alt="Beorn, Reluctant Host // Till and Tend" width="200"> | **Beorn, Reluctant Host // Till and Tend** | Legendary Creature — Human Bear Shapeshifter // Sorcery — Adventure |  |
+| <img src="images/commanders/Fynn_the_Fangbearer.jpg" alt="Fynn, the Fangbearer" width="200"> | **Fynn, the Fangbearer** | Legendary Creature — Human Warrior |  |
 | <img src="images/commanders/Galion_Elvenkings_Butler.jpg" alt="Galion, Elvenking's Butler" width="200"> | **Galion, Elvenking's Butler** | Legendary Creature — Elf Advisor |  |
+| <img src="images/commanders/Loot_Exuberant_Explorer.jpg" alt="Loot, Exuberant Explorer" width="200"> | **Loot, Exuberant Explorer** | Legendary Creature — Beast Noble |  |
 | <img src="images/commanders/Michelangelo_Game_Master.jpg" alt="Michelangelo, Game Master" width="200"> | **Michelangelo, Game Master** | Legendary Creature — Mutant Ninja Turtle |  |
 | <img src="images/commanders/Rocksteady_Crash_Courser.jpg" alt="Rocksteady, Crash Courser" width="200"> | **Rocksteady, Crash Courser** | Legendary Creature — Rhino Mutant |  |
 | <img src="images/commanders/Selvala_Heart_of_the_Wilds.jpg" alt="Selvala, Heart of the Wilds" width="200"> | **Selvala, Heart of the Wilds** | Legendary Creature — Elf Scout | DanceOfTheElements |
+| <img src="images/commanders/Surrak_the_Hunt_Caller.jpg" alt="Surrak, the Hunt Caller" width="200"> | **Surrak, the Hunt Caller** | Legendary Creature — Human Warrior |  |
 | <img src="images/commanders/The_Notary_Hobbits.jpg" alt="The Notary Hobbits" width="200"> | **The Notary Hobbits** | Legendary Creature — Halfling Advisor |  |
 | <img src="images/commanders/Toski_Bearer_of_Secrets.jpg" alt="Toski, Bearer of Secrets" width="200"> | **Toski, Bearer of Secrets** | Legendary Creature — Squirrel | SquirreledAway |
 | <img src="images/commanders/Zopandrel_Hunger_Dominus.jpg" alt="Zopandrel, Hunger Dominus" width="200"> | **Zopandrel, Hunger Dominus** | Legendary Creature — Phyrexian Horror |  |
@@ -100,6 +111,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | Card | Name | Type | Precon |
 |------|------|------|--------|
 | <img src="images/commanders/Bolg_of_the_North.jpg" alt="Bolg of the North" width="200"> | **Bolg of the North** | Legendary Creature — Goblin Soldier |  |
+| <img src="images/commanders/Garna_Bloodfist_of_Keld.jpg" alt="Garna, Bloodfist of Keld" width="200"> | **Garna, Bloodfist of Keld** | Legendary Creature — Human Berserker |  |
 | <img src="images/commanders/Shadow_the_Hedgehog.jpg" alt="Shadow the Hedgehog" width="200"> | **Shadow the Hedgehog** | Legendary Creature — Hedgehog Mercenary | SonictheHedgehog FriendsandFoes |
 | <img src="images/commanders/Smaug_the_Impenetrable.jpg" alt="Smaug the Impenetrable" width="200"> | **Smaug the Impenetrable** | Legendary Creature — Dragon |  |
 | <img src="images/commanders/Smaug_Wicked_Worm.jpg" alt="Smaug, Wicked Worm" width="200"> | **Smaug, Wicked Worm** | Legendary Creature — Dragon |  |
@@ -146,6 +158,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Horde_of_Notions.jpg" alt="Horde of Notions" width="200"> | **Horde of Notions** | Legendary Creature — Elemental | DanceOfTheElements |
 | <img src="images/commanders/Jegantha_the_Wellspring.jpg" alt="Jegantha, the Wellspring" width="200"> | **Jegantha, the Wellspring** | Legendary Creature — Elemental Elk | DanceOfTheElements |
 | <img src="images/commanders/Mass_of_Mysteries.jpg" alt="Mass of Mysteries" width="200"> | **Mass of Mysteries** | Legendary Creature — Elemental | DanceOfTheElements |
+| <img src="images/commanders/Ramos_Dragon_Engine.jpg" alt="Ramos, Dragon Engine" width="200"> | **Ramos, Dragon Engine** | Legendary Artifact Creature — Dragon |  |
 
 ## Black, Red, Blue
 
@@ -157,6 +170,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 
 | Card | Name | Type | Precon |
 |------|------|------|--------|
+| <img src="images/commanders/Ayli_Eternal_Pilgrim.jpg" alt="Ayli, Eternal Pilgrim" width="200"> | **Ayli, Eternal Pilgrim** | Legendary Creature — Kor Cleric |  |
 | <img src="images/commanders/Karai_Future_of_the_Foot.jpg" alt="Karai, Future of the Foot" width="200"> | **Karai, Future of the Foot** | Legendary Creature — Human Ninja |  |
 | <img src="images/commanders/Koya_Death_from_Above.jpg" alt="Koya, Death from Above" width="200"> | **Koya, Death from Above** | Legendary Creature — Mutant Ninja Bird |  |
 
@@ -175,6 +189,8 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Berta_Wise_Extrapolator.jpg" alt="Berta, Wise Extrapolator" width="200"> | **Berta, Wise Extrapolator** | Legendary Creature — Frog Druid |  |
 | <img src="images/commanders/Genghis_Frog.jpg" alt="Genghis Frog" width="200"> | **Genghis Frog** | Legendary Creature — Frog Mutant Rogue |  |
 | <img src="images/commanders/Keruga_the_Macrosage.jpg" alt="Keruga, the Macrosage" width="200"> | **Keruga, the Macrosage** | Legendary Creature — Dinosaur Hippo |  |
+| <img src="images/commanders/Prime_Speaker_Zegana.jpg" alt="Prime Speaker Zegana" width="200"> | **Prime Speaker Zegana** | Legendary Creature — Merfolk Wizard |  |
+| <img src="images/commanders/Tatyova_Benthic_Druid.jpg" alt="Tatyova, Benthic Druid" width="200"> | **Tatyova, Benthic Druid** | Legendary Creature — Merfolk Druid |  |
 | <img src="images/commanders/Thranduil_Sindarin_Liege_Silvan_Rally.jpg" alt="Thranduil, Sindarin Liege // Silvan Rally" width="200"> | **Thranduil, Sindarin Liege // Silvan Rally** | Legendary Creature — Elf Noble // Sorcery — Adventure |  |
 
 ## Green, Blue, White
@@ -187,9 +203,11 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 
 | Card | Name | Type | Precon |
 |------|------|------|--------|
+| <img src="images/commanders/Halana_and_Alena_Partners.jpg" alt="Halana and Alena, Partners" width="200"> | **Halana and Alena, Partners** | Legendary Creature — Human Ranger |  |
 | <img src="images/commanders/Migloz_Maze_Crusher.jpg" alt="Migloz, Maze Crusher" width="200"> | **Migloz, Maze Crusher** | Legendary Creature — Phyrexian Beast |  |
 | <img src="images/commanders/Muerra_Trash_Tactician.jpg" alt="Muerra, Trash Tactician" width="200"> | **Muerra, Trash Tactician** | Legendary Creature — Raccoon Warrior |  |
 | <img src="images/commanders/Omnath_Locus_of_Rage.jpg" alt="Omnath, Locus of Rage" width="200"> | **Omnath, Locus of Rage** | Legendary Creature — Elemental | DanceOfTheElements |
+| <img src="images/commanders/Ruby_Daring_Tracker.jpg" alt="Ruby, Daring Tracker" width="200"> | **Ruby, Daring Tracker** | Legendary Creature — Human Scout |  |
 | <img src="images/commanders/Tovolar_Dire_Overlord_Tovolar_the_Midnight_Scourge.jpg" alt="Tovolar, Dire Overlord // Tovolar, the Midnight Scourge" width="200"> | **Tovolar, Dire Overlord // Tovolar, the Midnight Scourge** | Legendary Creature — Human Werewolf // Legendary Creature — Werewolf |  |
 | <img src="images/commanders/Ulrich_of_the_Krallenhorde_Ulrich_Uncontested_Alpha.jpg" alt="Ulrich of the Krallenhorde // Ulrich, Uncontested Alpha" width="200"> | **Ulrich of the Krallenhorde // Ulrich, Uncontested Alpha** | Legendary Creature — Human Werewolf // Legendary Creature — Werewolf |  |
 
@@ -219,6 +237,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Jhoira_Weatherlight_Captain.jpg" alt="Jhoira, Weatherlight Captain" width="200"> | **Jhoira, Weatherlight Captain** | Legendary Creature — Human Artificer | CounterIntelligence |
 | <img src="images/commanders/Metalhead.jpg" alt="Metalhead" width="200"> | **Metalhead** | Legendary Artifact Creature — Robot Turtle |  |
 | <img src="images/commanders/Muddle_the_Ever_Changing.jpg" alt="Muddle, the Ever-Changing" width="200"> | **Muddle, the Ever-Changing** | Legendary Creature — Elemental Otter Shapeshifter | PrismariArtistry |
+| <img src="images/commanders/Ovika_Enigma_Goliath.jpg" alt="Ovika, Enigma Goliath" width="200"> | **Ovika, Enigma Goliath** | Legendary Creature — Phyrexian Nightmare |  |
 | <img src="images/commanders/Rootha_Mastering_the_Moment.jpg" alt="Rootha, Mastering the Moment" width="200"> | **Rootha, Mastering the Moment** | Legendary Creature — Orc Sorcerer | PrismariArtistry |
 | <img src="images/commanders/Rootha_Mercurial_Artist.jpg" alt="Rootha, Mercurial Artist" width="200"> | **Rootha, Mercurial Artist** | Legendary Creature — Orc Shaman | PrismariArtistry |
 | <img src="images/commanders/Veyran_Voice_of_Duality.jpg" alt="Veyran, Voice of Duality" width="200"> | **Veyran, Voice of Duality** | Legendary Creature — Efreet Wizard | PrismariArtistry |
@@ -239,6 +258,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Aisha_of_Sparks_and_Smoke.jpg" alt="Aisha of Sparks and Smoke" width="200"> | **Aisha of Sparks and Smoke** | Legendary Creature — Human Warrior |  |
 | <img src="images/commanders/Alibou_Ancient_Witness.jpg" alt="Alibou, Ancient Witness" width="200"> | **Alibou, Ancient Witness** | Legendary Artifact Creature — Golem | CounterIntelligence |
 | <img src="images/commanders/Amy_Rose.jpg" alt="Amy Rose" width="200"> | **Amy Rose** | Legendary Creature — Hedgehog Warrior | SonictheHedgehog FriendsandFoes |
+| <img src="images/commanders/Aurelia_the_Warleader.jpg" alt="Aurelia, the Warleader" width="200"> | **Aurelia, the Warleader** | Legendary Creature — Angel |  |
 | <img src="images/commanders/Mabel_Heir_to_Cragflame.jpg" alt="Mabel, Heir to Cragflame" width="200"> | **Mabel, Heir to Cragflame** | Legendary Creature — Mouse Soldier |  |
 | <img src="images/commanders/Nori_Teller_of_Tales.jpg" alt="Nori, Teller of Tales" width="200"> | **Nori, Teller of Tales** | Legendary Creature — Dwarf Bard |  |
 | <img src="images/commanders/Sami_Ships_Engineer.jpg" alt="Sami, Ship's Engineer" width="200"> | **Sami, Ship's Engineer** | Legendary Creature — Human Artificer |  |
