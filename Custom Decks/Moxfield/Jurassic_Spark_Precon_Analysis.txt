@@ -1,0 +1,85 @@
+1 Xenagos, God of Revels
+1 Ancient Tomb
+1 Apex Altisaur
+1 Arcane Signet
+1 Atarka, World Render
+1 Balefire Dragon
+1 Beast Within
+1 Bogardan Hellkite
+1 Bonehoard Dracosaur
+1 Boseiju, Who Endures
+1 Chandra's Ignition
+1 Chaos Warp
+1 Cinder Glade
+1 Command Tower
+1 Copperline Gorge
+1 Cultivate
+1 Decimate
+1 Dragon Tempest
+1 Dragonlord Atarka
+1 Dragonspeaker Shaman
+1 Drover of the Mighty
+1 Elemental Bond
+1 Etali, Primal Conqueror
+1 Etali, Primal Storm
+1 Game Trail
+1 Garruk's Uprising
+1 Ghalta, Primal Hunger
+1 Ghalta, Stampede Tyrant
+1 Glorybringer
+1 Goldspan Dragon
+1 Goreclaw, Terror of Qal Sisma
+1 Green Sun's Zenith
+1 Gruul Turf
+1 Guardian Project
+1 Haven of the Spirit Dragon
+1 Hellkite Courser
+1 Hellkite Tyrant
+1 Heroic Intervention
+1 Hull Breach
+1 Karplusan Forest
+1 Kessig Wolf Run
+1 Klauth, Unrivaled Ancient
+1 Kodama's Reach
+1 Lathliss, Dragon Queen
+1 Marauding Raptor
+1 Mossfire Valley
+1 Nature's Lore
+1 Old Gnawbone
+1 Otepec Huntmaster
+1 Path of Ancestry
+1 Quicksilver Amulet
+1 Regisaur Alpha
+1 Return of the Wildspeaker
+1 Rhythm of the Wild
+1 Ripjaw Raptor
+1 Rishkar's Expertise
+1 Rockfall Vale
+1 Rogue's Passage
+1 Rootbound Crag
+1 Ryusei, the Falling Star
+1 Sakura-Tribe Elder
+1 Sarkhan's Unsealing
+1 Savage Ventmaw
+1 Scourge of Valkas
+1 Sheltered Thicket
+1 Sneak Attack
+1 Sol Ring
+1 Spire Garden
+1 Stomping Ground
+1 Terror of the Peaks
+1 The Great Henge
+1 Three Visits
+1 Thunderbreak Regent
+1 Topiary Stomper
+1 Trumpeting Carnosaur
+1 Utvara Hellkite
+1 Vandalblast
+1 Warstorm Surge
+1 Wayward Swordtooth
+1 Wooded Foothills
+1 Wrathful Raptors
+1 Xenagos, the Reveler
+1 Yavimaya, Cradle of Growth
+9 Mountain
+8 Forest
