@@ -1,0 +1,83 @@
+1 Amy Rose *CMDR*
+1 Abrade
+1 Air Shoes
+1 Ajani, Outland Chaperone
+1 Angelic Destiny
+1 Arcane Signet
+1 Ashe, Princess of Dalmasca
+1 Aurelia, the Warleader
+1 Auxiliary Boosters
+1 Banishing Light
+1 Basilisk Collar
+1 Big Score
+1 Blasphemous Act
+1 Bofur, Reliable Guardian // Concerted Care
+1 Boros Charm
+1 Burnished Hart
+1 Chaos Warp
+1 Dwarven Mattock
+1 Dáin Ironfoot
+1 Explosive Getaway
+1 Fellwar Stone
+1 Fiery Annihilation
+1 Fireshrieker
+1 Flamewake Phoenix
+1 Frontier Warmonger
+1 Fumigate
+1 Gavel of the Righteous
+1 Generous Gift
+1 Goldspan Dragon
+1 Heirloom Blade
+1 Heraldic Banner
+1 Heroic Reinforcements
+1 Hoarding Dragon
+1 Inspiring Overseer
+1 Instigator Gang // Wildblood Pack
+1 Iron Hills Blacksmith
+1 Iron Hills Stalwart
+1 Jazal Goldmane
+1 Knuckles the Echidna
+1 Knuckles's Gloves
+1 Lyra Dawnbringer
+1 Mabel, Heir to Cragflame
+1 Make a Stand
+1 Mazemind Tome
+1 Open the Armory
+1 Path to Exile
+1 Piko Piko Hammer
+1 Quick-Draw Katana
+1 Ride's End
+1 Seize the Spoils
+1 Skullclamp
+1 Smaug the Magnificent
+1 Sol Ring
+1 Solemn Simulacrum
+1 Stasis Snare
+1 Sting, Bilbo's Sword
+1 Super State
+1 Sword of Vengeance
+1 Swords to Plowshares
+1 The Arkenstone // Seek the Heart
+1 Thorin Oakenshield
+1 Thorin, Mountain-king
+1 Thrór's Map
+1 Valorous Stance
+1 Ancient Den
+1 Battlefield Forge
+1 Buried Ruin
+1 Clifftop Retreat
+1 Command Tower
+1 Exotic Orchard
+1 Glittering Massif
+1 Great Furnace
+1 Opal Palace
+1 Radiant Summit
+1 Rogue's Passage
+1 Rugged Prairie
+1 Rustvale Bridge
+1 Spire of Industry
+1 Sundown Pass
+1 Temple of Triumph
+1 The Lonely Mountain
+10 Mountain
+9 Plains

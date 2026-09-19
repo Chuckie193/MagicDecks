@@ -1,0 +1,80 @@
+1 Shadow the Hedgehog *CMDR*
+1 Abrade
+1 Air Shoes
+1 Arcane Signet
+1 Ball Lightning
+1 Bastion of Remembrance
+1 Big Score
+1 Bilbo's Deadly Slice
+1 Blasphemous Act
+1 Bloodfell Caves
+1 Bojuka Bog
+1 Chaos Warp
+1 Command Tower
+1 Cursed Mirror
+1 Deadly Dispute
+1 Determined Iteration
+1 Dragon Fodder
+1 Everflowing Chalice
+1 Evolving Wilds
+1 Exotic Orchard
+1 Exsanguinate
+1 Fanatical Firebrand
+1 Feed the Swarm
+1 Fell
+1 Fellwar Stone
+1 Fiery Annihilation
+1 Flamekin Village
+1 Flamewake Phoenix
+1 Garna, Bloodfist of Keld
+1 Goldspan Dragon
+1 Great Furnace
+1 Hero's Downfall
+1 Hungry Ghoul
+1 Immersturm Predator
+1 Impolite Entrance
+1 Infernal Grasp
+1 Knuckles the Echidna
+1 Long-Bodied Grey Dog
+1 Midnight Reaper
+1 Morbid Opportunist
+1 Obliterating Bolt
+1 Opal Palace
+1 Pentad Prism
+1 Perforating Artist
+1 Plaguecrafter
+1 Plumb the Forbidden
+1 Power Sneakers
+1 Prophetic Prism
+1 Quaketusk Boar
+1 Reassembling Skeleton
+1 Reckless Stormseeker // Storm-Charged Slasher
+1 Redcap Gutter-Dweller
+1 Riveteers Requisitioner
+1 Rogue's Passage
+1 Scorching Dragonfire
+1 Seize the Spoils
+1 Shriekmaw
+1 Skateboard
+1 Skullclamp
+1 Smaug the Impenetrable
+1 Smaug the Magnificent
+1 Sol Ring
+1 Solemn Simulacrum
+1 Spire of Industry
+1 Storm-Kiln Artist
+1 Sword of Vengeance
+1 Temple of Malice
+1 Terramorphic Expanse
+1 The Lonely Mountain
+1 Thornplate Intimidator
+1 Thrill of Possibility
+1 Undying Malice
+1 Vampiric Rites
+1 Vengeful Bloodwitch
+1 Wake to Slaughter
+1 Woe Strider
+1 Zombify
+1 Zulaport Cutthroat
+11 Mountain
+11 Swamp
