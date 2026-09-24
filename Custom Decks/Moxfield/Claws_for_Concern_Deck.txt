@@ -31,13 +31,13 @@
 1 Llanowar Elves
 1 Mayor of Avabruck // Howlpack Alpha
 1 Migloz, Maze Crusher
-1 Mind Stone
 1 Moonlight Hunt
 1 Moonmist
 1 Nightpack Ambusher
 1 Outland Liberator // Frenzied Trapbreaker
 1 Packsong Pup
 1 Power Sneakers
+1 Rampant Growth
 1 Ranger Class
 1 Reckless Stormseeker // Storm-Charged Slasher
 1 Runebound Wolf

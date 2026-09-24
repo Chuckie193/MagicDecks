@@ -1,6 +1,6 @@
 # Claws for Concern — Gruul Werewolf Tribal Commander
 
-Commander: Tovolar, Dire Overlord // Tovolar, the Midnight Scourge (2RG, Red/Green)
+Commander: Tovolar, Dire Overlord // Tovolar, the Midnight Scourge (1RG, Red/Green)
 
 ## Overview
 - **Strategy**: A werewolf/wolf tribal aggro deck. Cheap creatures flood the board and transform into bigger night-side threats; anthem effects (Immerwolf, Nightpack Ambusher, Howlpack Resurgence, and the night sides of Mayor of Avabruck and Kessig Naturalist) pump the team, and Tovolar rewards every werewolf/wolf connection with a card. **Tovolar's upkeep trigger is the engine**: it forces night — which auto-flips all 14 daybound werewolves — *and* separately transforms your old-border Human Werewolves, so one trigger can flip the whole board at once. Immerwolf then locks the non-Humans on their bigger side, and Village Watch's night side lets every Wolf token attack the turn it arrives. Wilderland Scrounger and Beorn the Fierce grow the board permanently, and either half of the Zopandrel / Unnatural Growth pair doubles it at every combat.
@@ -68,9 +68,8 @@ Tovolar howls and the treeline answers — bark splits into limbs, a bear-king s
 - **Terrasymbiosis** — Draws a card whenever you put +1/+1 counters on a creature, once each turn. Nearly every enabler is **repeatable**: Packsong Pup (every combat, free), Ranger Class L2 (every attack), Wilderland Scrounger (every attack), Ascendant Packleader (every one of the deck's twenty MV-4-plus spells), Hound Tamer's `{3}{G}` (unlimited activations), Arlinn the Pack's Hope's +1 (every creature that enters, for a turn) and an animated Raging Ravine (a counter every time it attacks). Only Snakeskin Veil and Warg Tactics are genuine one-shots. **Beorn's trample counter is a keyword counter, not a +1/+1 counter, and does not trigger it.**
 - **Unnatural Growth** *(new)* — `{1}{G}{G}{G}{G}`: **doubles the power and toughness of each creature you control at the beginning of each combat** — the exact text on Zopandrel, on an enchantment, for two less mana. Two things make it worth a slot alongside Zopandrel rather than instead of it: it is **not a creature**, so it survives the board wipes this deck otherwise folds to and immediately makes the rebuilt board lethal; and if both resolve, the doublings stack for **quadruple** power. The real cost is `{G}{G}{G}{G}` — only **21** of the 36 lands produce green (plus a conditional Exotic Orchard), rising to **26 green producers** once Arcane Signet, Llanowar Elves, Scorned Villager, The Celestus and Weaver of Blossoms are counted. Even so it is a turn-six card in practice, not a turn-five one, and it is the single hardest cast in the deck.
 
-### Artifacts & Mana (5)
+### Artifacts & Mana (4)
 - **Arcane Signet** — Untapped two-mana fixing that always produces exactly the colour you need.
-- **Mind Stone** — Two-mana ramp that cracks for a card once mana is no longer needed.
 - **Power Sneakers (Lightning Greaves)** — Haste and shroud for {2} with a **{0} equip**. It is the only protection in the pool for the deck's single point of failure, so it is worth the cost — but the cost is large. **Shroud stops your own targeting too**, and this deck targets its own creatures constantly: Bite Down, Wolf Strike, Snakeskin Veil, Warg Tactics, Unnatural Moonrise, Hunter's Talent, Beorn's combat trigger, Ranger Class L2, Hound Tamer's {3}{G}, Reckless Stormseeker's combat trigger, Arlinn Kord's +1, Tovolar's own {X}{R}{G}, and Kessig Wolf Run all fail on the equipped creature. Equip is sorcery-speed, so you cannot dodge this at instant speed. Its real job is carrying Tovolar safely to your next upkeep trigger — he draws off *any* wolf connecting, so he doesn't need to attack himself.
 - **Sol Ring** — The best ramp piece in Commander; accelerates into Tovolar and the rest of the curve.
 - **The Celestus** — Ramps and fixes, and can manually push the day/night cycle — though at `{3}` plus a tap it's a four-mana turn that produces no net mana, so it's a backup night-forcer, not a primary one.
@@ -86,7 +85,8 @@ Tovolar howls and the treeline answers — bark splits into limbs, a bear-king s
 - **Warg Tactics** *(new)* — Modal: **destroy a creature with flying**, or +1/+1 counter plus trample and hexproof on your own creature. Either mode is live in almost every game — it's flier removal when you need it and a protection trick that triggers both Terrasymbiosis and Silverfur when you don't.
 - **Wolf Strike** — Pumps a creature (more at night) then fights — removal and a trick in one, and it targets your own Wolf for Silverfur Partisan.
 
-### Sorceries (1)
+### Sorceries (2)
+- **Rampant Growth** — Two-mana ramp from The Bark Ages that fetches whichever basic you're short of, fixing the heavy green demand as well as accelerating. The land enters tapped, but you still have four mana on turn three — the same jump Mind Stone gave — and a land survives the artifact removal and creature wipes that hit rocks and dorks.
 - **Unnatural Moonrise** — Forces night, and turns a creature into a trampling card-draw threat; target your own Wolf and it also mints a Silverfur token. Flashback makes it a two-for-one, and it is the deck's only *proactive* night-forcer besides Tovolar.
 
 ### Planeswalkers (2)
@@ -133,7 +133,7 @@ Tovolar howls and the treeline answers — bark splits into limbs, a bear-king s
 
 Base deck: the previous **Claws for Concern** draft (2026-08-19), which was built from the **full** collection.
 
-**Fourteen of the seventeen cuts below were forced by card availability, not by card quality.** Since that draft was written, `reserved_decks.md` gained Squirreled Away and Dance of the Elements, and those two precons plus Full Deployment physically hold the only copy of fourteen cards in the list. The three exceptions are Arlinn, Voice of the Pack (cut on merit for a card that only became visible after the collection was re-synced), and Cult of the Waxing Moon and Full Moon's Rise, both cut on merit to make room for two Werewolves after comparing this list against the wider field — see below.
+**Fifteen of the eighteen cuts below were forced by card availability, not by card quality** — fourteen by reserved decks, and Mind Stone because it is no longer in the collection. Since that draft was written, `reserved_decks.md` gained Squirreled Away and Dance of the Elements, and those two precons plus Full Deployment physically hold the only copy of fourteen cards in the list. The three exceptions are Arlinn, Voice of the Pack (cut on merit for a card that only became visible after the collection was re-synced), and Cult of the Waxing Moon and Full Moon's Rise, both cut on merit to make room for two Werewolves after comparing this list against the wider field — see below.
 
 | Card Removed | Reason | Replaced By |
 |-------------|--------|-------------|
@@ -145,6 +145,7 @@ Base deck: the previous **Claws for Concern** draft (2026-08-19), which was buil
 | Beastmaster Ascension | **Reserved** — Squirreled Away | Zopandrel, Hunger Dominus |
 | Cavalier of Thorns | **Reserved** — Dance of the Elements | Elvish Regrower |
 | Cultivate | **Reserved** — Dance of the Elements | Warg Tactics (ramp slot converted to interaction) |
+| Mind Stone | **Not owned** — no longer in the collection (it left the Moxfield export on 2026-09-13). Fellwar Stone and Everflowing Chalice are both owned but every copy is in a reserved deck | Rampant Growth |
 | Garruk's Uprising | **Reserved** — Dance of the Elements | Terrasymbiosis |
 | Oran-Rief, the Vastwood | **Reserved** — Squirreled Away | Mountain (13th basic) |
 | Realmwalker | **Reserved** — Dance of the Elements | Barkform Harvester |
@@ -175,7 +176,7 @@ Cut in the 2026-08-19 revision, on card quality, from the full collection:
 | Thrill of Possibility | Card filtering, not card advantage | Toski, Bearer of Secrets |
 | Village Watch // Village Reavers | Five mana for haste the deck already supplies more cheaply | Cavalier of Thorns |
 
-*(Rugged Highlands has returned — the card that displaced it is reserved. Rampant Growth briefly returned this revision and was cut again for the same reason it was cut originally.)*
+*(Rugged Highlands has returned — the card that displaced it is reserved. Rampant Growth has also returned, replacing Mind Stone once Mind Stone left the collection: it is the only free two-mana ramp piece that also fixes colours.)*
 
 Cut in the original build, from the user-supplied werewolf list:
 
@@ -240,7 +241,7 @@ Average CMC (non-land, exc. commander): ~3.06 — 25 of 63 spells cost one or tw
 - **Every change this revision was forced by the reserved pool.** Fourteen cards from the previous draft are physically in Full Deployment, Squirreled Away or Dance of the Elements. No card was cut for being weak, and where a downgrade was unavoidable it is named as such.
 - **The card-advantage suite was the biggest casualty and was rebuilt from scratch**: Toski, Shamanic Revelation, Return of the Wildspeaker and Garruk's Uprising were all reserved. Beorn the Fierce and Terrasymbiosis replace them as repeatable engines rather than one-shot refuels.
 - **Pump was the deck's most over-served role, so pump slots became permanents.** Between Zopandrel, Instigator Gang, Neck Breaker, Savage Packmate, Howlpack Resurgence, Kessig Wolf Run, Hunter's Talent and Tovolar's own ability, a one-shot sorcery-speed +2/+2 was the least valuable copy of an effect the deck already had eight of — so that slot became Wilderland Scrounger, which does the same thing permanently on a tribal body.
-- **Ramp was over-built for the curve and got trimmed.** At avg CMC 3.05 with 36 lands, four rocks and three dorks, three-mana ramp accelerates into nothing. New Horizons became Llanowar Elves (turn-1 acceleration, and a body) and Rampant Growth became Warg Tactics (interaction the deck was short on).
+- **Ramp was over-built for the curve and got trimmed.** At avg CMC 3.05 with 36 lands, four rocks and three dorks at the time, three-mana ramp accelerates into nothing. New Horizons became Llanowar Elves (turn-1 acceleration, and a body) and Rampant Growth became Warg Tactics (interaction the deck was short on).
 - **The colourless slots did the heavy lifting.** Barkform Harvester covers Realmwalker's tribal-count role and Cavalier's reach for three generic mana — though its graveyard ability is bottom-of-library and is *not* real recursion.
 - **The mana base got worse and there was no way around it.** The three untapped tribal lands are all in Dance of the Elements, and the free pool has no untapped Gruul dual. Two slots became basics and one became Exotic Orchard; 7 of 10 nonbasics enter tapped.
 - **Every card is verified available**: all 100 checked against `owned − reserved`, with alt names (Air Shoes, Power Sneakers) resolved before subtracting.
@@ -254,7 +255,7 @@ Average CMC (non-land, exc. commander): ~3.06 — 25 of 63 spells cost one or tw
 - Three independent permanent-based engines (Beorn, Wilderland Scrounger, Terrasymbiosis) that convert combat into permanent board growth
 - Trample spread across five sources (Wargling, Beorn's counters, Howlpack Resurgence, Untamed Pup, Kessig Wolf Run) rather than one enchantment, so it survives targeted removal
 - Reach on Barkform Harvester and Zopandrel, plus Daybreak Ranger, Broken Wings and Warg Tactics — flying defence is genuinely covered now
-- Low curve (26 of 63 spells at 1–2 mana) with 36 lands, four rocks and three dorks: it almost never stumbles on mana
+- Low curve (26 of 63 spells at 1–2 mana) with 36 lands, three rocks, three dorks and Rampant Growth: it almost never stumbles on mana
 
 **Weaknesses/Missing Staples**:
 - **The night plan is almost entirely commander-dependent — this is the deck's defining weakness.** Of the four routes to night, casting zero spells is something a 40-creature deck never volunteers for, and The Celestus costs four effective mana for no net mana that turn. That leaves Tovolar's upkeep trigger and one Unnatural Moonrise as routes you'd actually plan around. Without Tovolar you are a pile of below-rate day-side 2/2s and 3/3s, and Immerwolf — the only "stay at night" card — is a singleton whose lock costs you the Cult and Huntmaster loops.
@@ -298,81 +299,81 @@ Deck upgraded from the previous draft using cards in your Moxfield collection (m
 
 ## Card Collection Origin
 
-| Card | Category | Precon(s) |
-|------|----------|-----------|
-| Tovolar, Dire Overlord // Tovolar, the Midnight Scourge | Commander | The Bark Ages |
-| Ascendant Packleader | Creature | The Bark Ages |
-| Breakneck Rider // Neck Breaker | Creature | The Bark Ages |
-| Child of the Pack // Savage Packmate | Creature | The Bark Ages |
-| Daybreak Ranger // Nightfall Predator | Creature | The Bark Ages |
-| Duskwatch Recruiter // Krallenhorde Howler | Creature | The Bark Ages |
-| Fangblade Brigand // Fangblade Eviscerator | Creature | The Bark Ages |
-| Geier Reach Bandit // Vildin-Pack Alpha | Creature | The Bark Ages |
-| Hermit of the Natterknolls // Lone Wolf of the Natterknolls | Creature | The Bark Ages |
-| Hound Tamer // Untamed Pup | Creature | The Bark Ages |
-| Howlpack Piper // Wildsong Howler | Creature | The Bark Ages |
-| Huntmaster of the Fells // Ravager of the Fells | Creature | The Bark Ages |
-| Ill-Tempered Loner // Howlpack Avenger | Creature | The Bark Ages |
-| Immerwolf | Creature | The Bark Ages |
-| Instigator Gang // Wildblood Pack | Creature | The Bark Ages |
-| Kessig Naturalist // Lord of the Ulvenwald | Creature | The Bark Ages |
-| Kruin Outlaw // Terror of Kruin Pass | Creature | The Bark Ages |
-| Mayor of Avabruck // Howlpack Alpha | Creature | The Bark Ages |
-| Nightpack Ambusher | Creature | The Bark Ages |
-| Outland Liberator // Frenzied Trapbreaker | Creature | The Bark Ages |
-| Packsong Pup | Creature | The Bark Ages |
-| Reckless Stormseeker // Storm-Charged Slasher | Creature | The Bark Ages |
-| Runebound Wolf | Creature | The Bark Ages |
-| Sage of Ancient Lore // Werewolf of Ancient Hunger | Creature | The Bark Ages |
-| Scorned Villager // Moonscarred Werewolf | Creature | The Bark Ages |
-| Silverfur Partisan | Creature | The Bark Ages |
-| Tovolar's Huntmaster // Tovolar's Packleader | Creature | The Bark Ages |
-| Village Messenger // Moonrise Intruder | Creature | The Bark Ages |
-| Village Watch // Village Reavers | Creature | The Bark Ages |
-| Volatile Arsonist // Dire-Strain Anarchist | Creature | The Bark Ages |
-| Weaver of Blossoms // Blossom-Clad Werewolf | Creature | The Bark Ages |
-| Werewolf Pack Leader | Creature | The Bark Ages |
-| Wolfkin Outcast // Wedding Crasher | Creature | The Bark Ages |
-| Howlpack Resurgence | Enchantment | The Bark Ages |
-| Ranger Class | Enchantment | The Bark Ages |
-| Sol Ring | Artifact | Counter Intelligence; Dance of the Elements; Prismari Artistry; Sonic the Hedgehog: Chasing Adventure; Squirreled Away; The Bark Ages |
-| The Celestus | Legendary Artifact | The Bark Ages |
-| Abrade | Instant | Prismari Artistry; The Bark Ages |
-| Bite Down | Instant | Foundations Beginner Box; The Bark Ages |
-| Chaos Warp | Instant | Counter Intelligence; Prismari Artistry; The Bark Ages |
-| Moonlight Hunt | Instant | The Bark Ages |
-| Moonmist | Instant | The Bark Ages |
-| Snakeskin Veil | Instant | Foundations Beginner Box; The Bark Ages |
-| Wolf Strike | Instant | The Bark Ages |
-| Unnatural Moonrise | Sorcery | The Bark Ages |
-| Arlinn Kord // Arlinn, Embraced by the Moon | Legendary Planeswalker | The Bark Ages |
-| Arlinn, the Pack's Hope // Arlinn, the Moon's Fury | Legendary Planeswalker | The Bark Ages |
-| Bristling Backwoods | Land | The Bark Ages |
-| Command Tower | Land | Counter Intelligence; Dance of the Elements; Prismari Artistry; Squirreled Away; The Bark Ages |
-| Forest (x13) | Basic Land | Dance of the Elements; Foundations Beginner Box; Hare Raising; Squirreled Away; The Bark Ages |
-| Gongaga, Reactor Town | Land | The Bark Ages |
-| Kessig Wolf Run | Land | The Bark Ages |
-| Mountain (x13) | Basic Land | Counter Intelligence; Dance of the Elements; Foundations Beginner Box; Otter Limits; Prismari Artistry; The Bark Ages |
-| Path of Ancestry | Land | Dance of the Elements; Prismari Artistry; Squirreled Away; The Bark Ages |
-| Raging Ravine | Land | Dance of the Elements; The Bark Ages |
-| Rugged Highlands | Land | The Bark Ages |
-| Sheltered Thicket | Land | The Bark Ages |
-| Temple of Abandon | Land | The Bark Ages |
-| Elvish Regrower | Creature | Foundations Beginner Box |
-| Llanowar Elves | Creature | Foundations Beginner Box |
-| Broken Wings | Instant | Foundations Beginner Box |
-| Arcane Signet | Artifact | Counter Intelligence; Dance of the Elements; Prismari Artistry; Squirreled Away |
-| Power Sneakers (Lightning Greaves) | Artifact | Prismari Artistry; Sonic the Hedgehog: Turbo Gear |
-| Exotic Orchard | Land | Counter Intelligence; Dance of the Elements; Prismari Artistry; Squirreled Away |
-| Barkform Harvester | Artifact Creature | — |
-| Beorn the Fierce | Legendary Creature | — |
-| Burly Breaker // Dire-Strain Demolisher | Creature | — |
-| Migloz, Maze Crusher | Legendary Creature | — |
-| Wargling | Creature | — |
-| Wilderland Scrounger | Creature | — |
-| Zopandrel, Hunger Dominus | Legendary Creature | — |
-| Hunter's Talent | Enchantment | — |
-| Terrasymbiosis | Enchantment | — |
-| Unnatural Growth | Enchantment | — |
-| Mind Stone | Artifact | — |
-| Warg Tactics | Instant | — |
+| Card | Mana Cost | Category | Precon(s) |
+|------|-----------|----------|-----------|
+| Tovolar, Dire Overlord // Tovolar, the Midnight Scourge | {1}{R}{G} | Commander | The Bark Ages |
+| Ascendant Packleader | {G} | Creature | The Bark Ages |
+| Breakneck Rider // Neck Breaker | {1}{R}{R} | Creature | The Bark Ages |
+| Child of the Pack // Savage Packmate | {2}{R}{G} | Creature | The Bark Ages |
+| Daybreak Ranger // Nightfall Predator | {2}{G} | Creature | The Bark Ages |
+| Duskwatch Recruiter // Krallenhorde Howler | {1}{G} | Creature | The Bark Ages |
+| Fangblade Brigand // Fangblade Eviscerator | {3}{R} | Creature | The Bark Ages |
+| Geier Reach Bandit // Vildin-Pack Alpha | {2}{R} | Creature | The Bark Ages |
+| Hermit of the Natterknolls // Lone Wolf of the Natterknolls | {2}{G} | Creature | The Bark Ages |
+| Hound Tamer // Untamed Pup | {2}{G} | Creature | The Bark Ages |
+| Howlpack Piper // Wildsong Howler | {3}{G} | Creature | The Bark Ages |
+| Huntmaster of the Fells // Ravager of the Fells | {2}{R}{G} | Creature | The Bark Ages |
+| Ill-Tempered Loner // Howlpack Avenger | {2}{R}{R} | Creature | The Bark Ages |
+| Immerwolf | {1}{R}{G} | Creature | The Bark Ages |
+| Instigator Gang // Wildblood Pack | {3}{R} | Creature | The Bark Ages |
+| Kessig Naturalist // Lord of the Ulvenwald | {R}{G} | Creature | The Bark Ages |
+| Kruin Outlaw // Terror of Kruin Pass | {1}{R}{R} | Creature | The Bark Ages |
+| Mayor of Avabruck // Howlpack Alpha | {1}{G} | Creature | The Bark Ages |
+| Nightpack Ambusher | {2}{G}{G} | Creature | The Bark Ages |
+| Outland Liberator // Frenzied Trapbreaker | {1}{G} | Creature | The Bark Ages |
+| Packsong Pup | {1}{G} | Creature | The Bark Ages |
+| Reckless Stormseeker // Storm-Charged Slasher | {2}{R} | Creature | The Bark Ages |
+| Runebound Wolf | {1}{R} | Creature | The Bark Ages |
+| Sage of Ancient Lore // Werewolf of Ancient Hunger | {4}{G} | Creature | The Bark Ages |
+| Scorned Villager // Moonscarred Werewolf | {1}{G} | Creature | The Bark Ages |
+| Silverfur Partisan | {2}{G} | Creature | The Bark Ages |
+| Tovolar's Huntmaster // Tovolar's Packleader | {4}{G}{G} | Creature | The Bark Ages |
+| Village Messenger // Moonrise Intruder | {R} | Creature | The Bark Ages |
+| Village Watch // Village Reavers | {4}{R} | Creature | The Bark Ages |
+| Volatile Arsonist // Dire-Strain Anarchist | {3}{R}{R} | Creature | The Bark Ages |
+| Weaver of Blossoms // Blossom-Clad Werewolf | {2}{G} | Creature | The Bark Ages |
+| Werewolf Pack Leader | {G}{G} | Creature | The Bark Ages |
+| Wolfkin Outcast // Wedding Crasher | {5}{G} | Creature | The Bark Ages |
+| Howlpack Resurgence | {2}{G} | Enchantment | The Bark Ages |
+| Ranger Class | {1}{G} | Enchantment | The Bark Ages |
+| Sol Ring | {1} | Artifact | Counter Intelligence; Dance of the Elements; Prismari Artistry; Sonic the Hedgehog: Chasing Adventure; Squirreled Away; The Bark Ages |
+| The Celestus | {3} | Legendary Artifact | The Bark Ages |
+| Abrade | {1}{R} | Instant | Prismari Artistry; The Bark Ages |
+| Bite Down | {1}{G} | Instant | Foundations Beginner Box; The Bark Ages |
+| Chaos Warp | {2}{R} | Instant | Counter Intelligence; Prismari Artistry; The Bark Ages |
+| Moonlight Hunt | {1}{G} | Instant | The Bark Ages |
+| Moonmist | {1}{G} | Instant | The Bark Ages |
+| Snakeskin Veil | {G} | Instant | Foundations Beginner Box; The Bark Ages |
+| Wolf Strike | {2}{G} | Instant | The Bark Ages |
+| Rampant Growth | {1}{G} | Sorcery | The Bark Ages |
+| Unnatural Moonrise | {R}{G} | Sorcery | The Bark Ages |
+| Arlinn Kord // Arlinn, Embraced by the Moon | {2}{R}{G} | Legendary Planeswalker | The Bark Ages |
+| Arlinn, the Pack's Hope // Arlinn, the Moon's Fury | {2}{R}{G} | Legendary Planeswalker | The Bark Ages |
+| Bristling Backwoods | — | Land | The Bark Ages |
+| Command Tower | — | Land | Counter Intelligence; Dance of the Elements; Prismari Artistry; Squirreled Away; The Bark Ages |
+| Forest (x13) | — | Basic Land | Dance of the Elements; Foundations Beginner Box; Hare Raising; Squirreled Away; The Bark Ages |
+| Gongaga, Reactor Town | — | Land | The Bark Ages |
+| Kessig Wolf Run | — | Land | The Bark Ages |
+| Mountain (x13) | — | Basic Land | Counter Intelligence; Dance of the Elements; Foundations Beginner Box; Otter Limits; Prismari Artistry; The Bark Ages |
+| Path of Ancestry | — | Land | Dance of the Elements; Prismari Artistry; Squirreled Away; The Bark Ages |
+| Raging Ravine | — | Land | Dance of the Elements; The Bark Ages |
+| Rugged Highlands | — | Land | The Bark Ages |
+| Sheltered Thicket | — | Land | The Bark Ages |
+| Temple of Abandon | — | Land | The Bark Ages |
+| Arcane Signet | {2} | Artifact | Counter Intelligence; Dance of the Elements; Prismari Artistry; Squirreled Away |
+| Power Sneakers (Lightning Greaves) | {2} | Artifact | Prismari Artistry; Sonic the Hedgehog: Turbo Gear |
+| Exotic Orchard | — | Land | Counter Intelligence; Dance of the Elements; Prismari Artistry; Squirreled Away |
+| Beorn the Fierce | {3}{G}{G} | Legendary Creature | — |
+| Broken Wings | {2}{G} | Instant | Foundations Beginner Box |
+| Burly Breaker // Dire-Strain Demolisher | {3}{G}{G} | Creature | — |
+| Elvish Regrower | {2}{G}{G} | Creature | Foundations Beginner Box |
+| Hunter's Talent | {1}{G} | Enchantment | — |
+| Llanowar Elves | {G} | Creature | Foundations Beginner Box |
+| Terrasymbiosis | {2}{G} | Enchantment | — |
+| Unnatural Growth | {1}{G}{G}{G}{G} | Enchantment | — |
+| Warg Tactics | {1}{G} | Instant | — |
+| Wargling | {1}{G} | Creature | — |
+| Wilderland Scrounger | {4}{G} | Creature | — |
+| Zopandrel, Hunger Dominus | {5}{G}{G} | Legendary Creature | — |
+| Barkform Harvester | {3} | Artifact Creature | — |
+| Migloz, Maze Crusher | {1}{R}{G} | Legendary Creature | — |
