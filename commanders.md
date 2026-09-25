@@ -1,10 +1,16 @@
 # Potential Commanders
 
-All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **150 cards**.
+All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **151 cards**.
 
 > Generated from `moxfield_latest.csv`, the source of truth for ownership. Every card listed here is owned. Cards from `Commander Staples/` are deliberately excluded — that folder is a want-list, not a collection.
 
 ---
+
+## Colorless
+
+| Card | Name | Type | Precon |
+|------|------|------|--------|
+| <img src="https://cards.scryfall.io/normal/front/6/1/6133355c-3dcf-466a-b771-fe6c44d4fa4d.jpg?1783905921" alt="Dawnsire, Sunstar Dreadnought" width="200"> | **Dawnsire, Sunstar Dreadnought** | Legendary Artifact — Spacecraft |  |
 
 ## White
 
