@@ -92,7 +92,6 @@
 | Battlefield Forge | https://api.scryfall.com/cards/c47c1bf5-f11e-4f86-b20b-5d899a11dc56 | https://scryfall.com/card/soc/362/battlefield-forge?utm_source=api | 0 (no mana cost) | Land | [Tap]: Add [Colorless]. [Tap]: Add [Red] or [White]. This land deals 1 damage to you. |  |  | Colorless or None | Red, White |  | https://api.scryfall.com/cards/named?fuzzy=Battlefield%20Forge (OK 200) |
 | Bear | https://api.scryfall.com/cards/31661af9-a40a-418c-82e3-b74aa14cc7c4 | https://scryfall.com/card/thob/7/bear?utm_source=api | 0 (no mana cost) | Token Creature — Bear |  | 2 | 2 | Green | Green |  | https://api.scryfall.com/cards/named?fuzzy=Bear (OK 200) |
 | Bear Cub | https://api.scryfall.com/cards/d8662ebb-068b-41d2-b504-4b5854e4d4aa | https://scryfall.com/card/fdn/552/bear-cub?utm_source=api | 1 generic, Green | Creature — Bear |  | 2 | 2 | Green | Green |  | https://api.scryfall.com/cards/named?fuzzy=Bear%20Cub (OK 200) |
-| Beast Within | https://api.scryfall.com/cards/400b43aa-c1d2-4435-b863-061f43889422 | https://scryfall.com/card/msc/169/beast-within?utm_source=api | 2 generic, Green | Instant | Destroy target permanent. Its controller creates a 3/3 green Beast creature token. |  |  | Green | Green |  |  |
 | Beast-Kin Ranger | https://api.scryfall.com/cards/0102e0be-5783-4825-9489-713b1b1df0b2 | https://scryfall.com/card/fdn/100/beast-kin-ranger?utm_source=api | 2 generic, Green | Creature — Elf Ranger | Trample (This creature can deal excess combat damage to the player or planeswalker it's attacking.) Whenever another creature you control enters, this creature gets +1/+0 until end of turn. | 3 | 3 | Green | Green |  | https://api.scryfall.com/cards/named?fuzzy=Beast-Kin%20Ranger (OK 200) |
 | Beastmaster Ascension | https://api.scryfall.com/cards/f404d133-fc1a-4751-ac72-554e6553e486 | https://scryfall.com/card/ncc/283/beastmaster-ascension?utm_source=api | 2 generic, Green | Enchantment | Whenever a creature you control attacks, you may put a quest counter on this enchantment. As long as this enchantment has seven or more quest counters on it, creatures you control get +5/+5. |  |  | Green | Green |  | https://api.scryfall.com/cards/named?fuzzy=Beastmaster%20Ascension (OK 200) |
 | Bebop, Warthog Warrior | https://api.scryfall.com/cards/371ba16d-73f7-450c-8b1f-c05012a4ca93 | https://scryfall.com/card/tmt/59/bebop-warthog-warrior?utm_source=api | 4 generic, Black | Legendary Creature — Boar Mutant Warrior | Menace (This creature can't be blocked except by two or more creatures.) Rhinos you control have menace. Swampcycling [2] ([2], Discard this card: Search your library for a Swamp card, reveal it, put it into your hand, then shuffle.) | 5 | 4 | Black | Black |  | https://api.scryfall.com/cards/named?fuzzy=Bebop%2C%20Warthog%20Warrior (OK 200) |
@@ -438,7 +437,6 @@
 | Flamekin Village | https://api.scryfall.com/cards/df0affe7-92d8-422f-833d-74089626b829 | https://scryfall.com/card/ecc/149/flamekin-village?utm_source=api | 0 (no mana cost) | Land | As this land enters, you may reveal an Elemental card from your hand. If you don't, this land enters tapped. [Tap]: Add [Red]. [Red], [Tap]: Target creature gains haste until end of turn. |  |  | Colorless or None | Red |  | https://api.scryfall.com/cards/named?fuzzy=Flamekin%20Village (OK 200) |
 | Flamewake Phoenix | https://api.scryfall.com/cards/a94f008e-48a0-406b-83fa-99cd396831f8 | https://scryfall.com/card/fdn/198/flamewake-phoenix?utm_source=api | 1 generic, Red, Red | Creature — Phoenix | Flying, haste This creature attacks each combat if able. Ferocious — At the beginning of combat on your turn, if you control a creature with power 4 or greater, you may pay [Red]. If you do, return this card from your graveyard to the battlefield. | 2 | 2 | Red | Red |  | https://api.scryfall.com/cards/named?fuzzy=Flamewake%20Phoenix (OK 200) |
 | Flashfreeze | https://api.scryfall.com/cards/91e37a7e-6093-4ef5-b6e4-4aa800ddfc1b | https://scryfall.com/card/fdn/590/flashfreeze?utm_source=api | 1 generic, Blue | Instant | Counter target red or green spell. |  |  | Blue | Blue |  | https://api.scryfall.com/cards/named?fuzzy=Flashfreeze (OK 200) |
-| Flawless Maneuver | https://api.scryfall.com/cards/ab12f69e-1491-47a8-8c46-d85bbf637ff6 | https://scryfall.com/card/cmm/24/flawless-maneuver?utm_source=api | 2 generic, White | Instant | If you control a commander, you may cast this spell without paying its mana cost. Creatures you control gain indestructible until end of turn. |  |  | White | White |  |  |
 | Fleeting Distraction | https://api.scryfall.com/cards/c0b86a7b-4912-43a7-ab89-c3432385baa1 | https://scryfall.com/card/fdn/155/fleeting-distraction?utm_source=api | Blue | Instant | Target creature gets -1/-0 until end of turn. Draw a card. |  |  | Blue | Blue |  | https://api.scryfall.com/cards/named?fuzzy=Fleeting%20Distraction (OK 200) |
 | Fleeting Flight | https://api.scryfall.com/cards/55139100-9342-41fd-b10a-8e9932e605d4 | https://scryfall.com/card/fdn/13/fleeting-flight?utm_source=api | White | Instant | Put a +1/+1 counter on target creature. It gains flying until end of turn. Prevent all combat damage that would be dealt to it this turn. |  |  | White | White |  | https://api.scryfall.com/cards/named?fuzzy=Fleeting%20Flight (OK 200) |
 | Flensing Raptor | https://api.scryfall.com/cards/134aecf0-dc48-4fb3-8c8b-4e5272077856 | https://scryfall.com/card/one/12/flensing-raptor?utm_source=api | 2 generic, White | Creature — Phyrexian Bird | Flying Toxic 1 (Players dealt combat damage by this creature also get a poison counter.) When this creature enters, another target creature you control with toxic gets +1/+1 and gains flying until end of turn. | 2 | 2 | White | White |  | https://api.scryfall.com/cards/named?fuzzy=Flensing%20Raptor (OK 200) |
@@ -595,7 +593,6 @@
 | Hermit of the Natterknolls // Lone Wolf of the Natterknolls | https://api.scryfall.com/cards/d5e84d80-b5a6-4cd1-9f31-f6ca46bf2c0c | https://scryfall.com/card/soi/209/hermit-of-the-natterknolls-lone-wolf-of-the-natterknolls?utm_source=api | 0 (no mana cost) | Creature — Human Werewolf // Creature — Werewolf |  |  |  | Colorless or None | Green |  | https://api.scryfall.com/cards/named?fuzzy=Hermit%20of%20the%20Natterknolls%20%2F%2F%20Lone%20Wolf%20of%20the%20Natterknolls (OK 200) |
 | Hero's Downfall | https://api.scryfall.com/cards/ad2c01d9-8f54-46c0-9dc9-d4d4764ce1c9 | https://scryfall.com/card/fdn/175/heros-downfall?utm_source=api | 1 generic, Black, Black | Instant | Destroy target creature or planeswalker. |  |  | Black | Black |  | https://api.scryfall.com/cards/named?fuzzy=Hero%27s%20Downfall (OK 200) |
 | Heroes' Bane | https://api.scryfall.com/cards/7f83195c-5150-4763-a2e1-5b109d185d55 | https://scryfall.com/card/fdn/639/heroes-bane?utm_source=api | 3 generic, Green, Green | Creature — Hydra | This creature enters with four +1/+1 counters on it. [2][Green][Green]: Put X +1/+1 counters on this creature, where X is its power. | 0 | 0 | Green | Green |  | https://api.scryfall.com/cards/named?fuzzy=Heroes%27%20Bane (OK 200) |
-| Heroic Intervention | https://api.scryfall.com/cards/e32c67d1-187f-40df-b3b3-6036f5c92834 | https://scryfall.com/card/cmm/295/heroic-intervention?utm_source=api | 1 generic, Green | Instant | Permanents you control gain hexproof and indestructible until end of turn. |  |  | Green | Green |  |  |
 | Heroic Reinforcements | https://api.scryfall.com/cards/6a05e8d5-c2ad-489a-888d-22622886b620 | https://scryfall.com/card/fdn/241/heroic-reinforcements?utm_source=api | 2 generic, Red, White | Sorcery | Create two 1/1 white Soldier creature tokens. Until end of turn, creatures you control get +1/+1 and gain haste. (They can attack and [Tap] this turn.) |  |  | Red, White | Red, White |  | https://api.scryfall.com/cards/named?fuzzy=Heroic%20Reinforcements (OK 200) |
 | Hidden Blade | https://api.scryfall.com/cards/a07a488f-cb64-4f4c-9c2e-6cdb5d563f13 | https://scryfall.com/card/acr/73/hidden-blade?utm_source=api | 2 generic | Artifact — Equipment | Flash When this Equipment enters, attach it to target creature you control. If that creature is an Assassin, it gains deathtouch until end of turn. Equipped creature gets +1/+0 and has first strike. Equip [2] |  |  | Colorless or None | Colorless or None |  | https://api.scryfall.com/cards/named?fuzzy=Hidden%20Blade (OK 200) |
 | Hidetsugu's Second Rite | https://api.scryfall.com/cards/609421da-8d89-4365-b18b-778832d91482 | https://scryfall.com/card/fdn/202/hidetsugus-second-rite?utm_source=api | 3 generic, Red | Instant | If target player has exactly 10 life, Hidetsugu's Second Rite deals 10 damage to that player. |  |  | Red | Red |  | https://api.scryfall.com/cards/named?fuzzy=Hidetsugu%27s%20Second%20Rite (OK 200) |
@@ -1036,7 +1033,6 @@
 | Return to the Sewers | https://api.scryfall.com/cards/52e99505-17dc-4051-99f6-e23559fc6c95 | https://scryfall.com/card/tmt/52/return-to-the-sewers?utm_source=api | 3 generic, Blue | Instant | Target creature's owner puts it on their choice of the top or bottom of their library. You create a Mutagen token. (It's an artifact with "[1], [Tap], Sacrifice this token: Put a +1/+1 counter on target creature. Activate only as a sorcery.") |  |  | Blue | Blue |  | https://api.scryfall.com/cards/named?fuzzy=Return%20to%20the%20Sewers (OK 200) |
 | Revenge of the Drowned | https://api.scryfall.com/cards/93be7d72-927a-40ce-8de4-04a3f21c134b | https://scryfall.com/card/mid/72/revenge-of-the-drowned?utm_source=api | 3 generic, Blue | Instant | Target creature's owner puts it on their choice of the top or bottom of their library. You create a 2/2 black Zombie creature token with decayed. (It can't block. When it attacks, sacrifice it at end of combat.) |  |  | Blue | Blue |  | https://api.scryfall.com/cards/named?fuzzy=Revenge%20of%20the%20Drowned (OK 200) |
 | Reverent Howl | https://api.scryfall.com/cards/16765eb2-d497-4cd6-b683-20eac2f10bbf | https://scryfall.com/card/hob/81/reverent-howl?utm_source=api | 2 generic, Black | Instant | Choose one — • Target player draws two cards and loses 2 life. • Target creature gets +2/+2 and gains lifelink until end of turn. |  |  | Black | Black |  | https://api.scryfall.com/cards/named?fuzzy=Reverent%20Howl (OK 200) |
-| Rhythm of the Wild | https://api.scryfall.com/cards/c2a6453e-a373-44ec-807a-15c0c8b1af57 | https://scryfall.com/card/rvr/217/rhythm-of-the-wild?utm_source=api | 1 generic, Red, Green | Enchantment | Creature spells you control can't be countered. Nontoken creatures you control have riot. (They enter with your choice of a +1/+1 counter or haste.) |  |  | Green, Red | Green, Red |  |  |
 | Ride's End | https://api.scryfall.com/cards/2f96b33b-c952-45ac-9626-40169b2bd4ef | https://scryfall.com/card/dft/25/rides-end?utm_source=api | 4 generic, White | Instant | This spell costs [3] less to cast if it targets a tapped permanent. Exile target creature or Vehicle. |  |  | White | White |  | https://api.scryfall.com/cards/named?fuzzy=Ride%27s%20End (OK 200) |
 | Rigo, Streetwise Mentor | https://api.scryfall.com/cards/67c6aef6-d846-4e02-a5f9-6eb0b2212208 | https://scryfall.com/card/snc/215/rigo-streetwise-mentor?utm_source=api | Green/White, White, White/Blue | Legendary Creature — Cat Citizen | Rigo enters with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.) Whenever you attack a player or planeswalker with one or more creatures with power 1 or less, draw a card. | 2 | 2 | Green, Blue, White | Green, Blue, White |  | https://api.scryfall.com/cards/named?fuzzy=Rigo%2C%20Streetwise%20Mentor (OK 200) |
 | Rimekin Recluse | https://api.scryfall.com/cards/ba6b5368-3262-4002-bf1e-fce62f7f7901 | https://scryfall.com/card/ecl/66/rimekin-recluse?utm_source=api | 2 generic, Blue | Creature — Elemental Wizard | When this creature enters, return up to one other target creature to its owner's hand. | 3 | 2 | Blue | Blue |  | https://api.scryfall.com/cards/named?fuzzy=Rimekin%20Recluse (OK 200) |
@@ -1476,33 +1472,6 @@
 | Zopandrel, Hunger Dominus | https://api.scryfall.com/cards/fb419d9d-e06f-48c8-a4f8-a57f9be39e50 | https://scryfall.com/card/one/195/zopandrel-hunger-dominus?utm_source=api | 5 generic, Green, Green | Legendary Creature — Phyrexian Horror | Reach At the beginning of each combat, double the power and toughness of each creature you control until end of turn. [Green/Phyrexian][Green/Phyrexian], Sacrifice two other creatures: Put an indestructible counter on Zopandrel. ([Green/Phyrexian] can be paid with either [Green] or 2 life.) | 4 | 6 | Green | Green |  | https://api.scryfall.com/cards/named?fuzzy=Zopandrel%2C%20Hunger%20Dominus (OK 200) |
 | Zulaport Cutthroat | https://api.scryfall.com/cards/c43609fb-3cee-44e0-98d0-3ecaba1d5767 | https://scryfall.com/card/soc/233/zulaport-cutthroat?utm_source=api | 1 generic, Black | Creature — Human Rogue Ally | Whenever this creature or another creature you control dies, each opponent loses 1 life and you gain 1 life. | 1 | 1 | Black | Black |  | https://api.scryfall.com/cards/named?fuzzy=Zulaport%20Cutthroat (OK 200) |
 | Óin the Brave | https://api.scryfall.com/cards/9984b9ef-e81c-48f4-aa33-0504171a2d3c | https://scryfall.com/card/hob/106/%C3%B3in-the-brave?utm_source=api | 1 generic, Red | Legendary Creature — Dwarf Warrior | Storied (If you control three or more artifacts, legendaries, and/or Sagas, you have an enduring story for the rest of the game.) As long as you have an enduring story, Óin gets +1/+0 and has haste. [1], [Tap], Discard a card: Draw a card. | 1 | 3 | Red | Red |  | https://api.scryfall.com/cards/named?fuzzy=%C3%93in%20the%20Brave (OK 200) |
-
-# Not found or errors
-
-- Adventurous Impulse
-- Avabruck Caretaker // Hollowhenge Huntmaster
-- Champion of Wits
-- Chaplain of Alms // Chapel Shieldgeist
-- Cinder Glade
-- Dawnsire, Sunstar Dreadnought
-- Food
-- Game Trail
-- Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun
-- Hollowhenge Overlord
-- Hungry Ridgewolf
-- Igneous Elemental
-- Karplusan Forest
-- Lavakin Brawler
-- Metastatic Evangel
-- Odric's Outrider
-- Pyreheart Wolf
-- Rootbound Crag
-- Scampering Scorcher
-- Search Party Captain
-- Skittering Surveyor
-- Tenacious Hunter
-- Thopter Engineer
-
 ## Abrade
 
 - uri: https://api.scryfall.com/cards/1add1757-c1f8-448a-b279-c6940fb7ad5f
@@ -1726,19 +1695,6 @@ Equip [1] ([1]: Attach to target creature you control. Equip only as a sorcery.)
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Adventuring%20Gear -> success (HTTP 200)
-
-## Adventurous Impulse
-
-- Not found on Scryfall or error occurred.
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Adventurous%20Impulse
-- https://api.scryfall.com/cards/named?fuzzy=Adventurous%20Impulse
-
-### Tried URLs (results)
-
-- https://api.scryfall.com/cards/named?fuzzy=Adventurous%20Impulse -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Aegis Turtle
 
@@ -2902,19 +2858,6 @@ Equip [3] ([3]: Attach to target creature you control. Equip only as a sorcery.)
 
 - https://api.scryfall.com/cards/named?fuzzy=Auxiliary%20Boosters -> success (HTTP 200)
 
-## Avabruck Caretaker // Hollowhenge Huntmaster
-
-- Not found on Scryfall or error occurred.
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Avabruck%20Caretaker%20%2F%2F%20Hollowhenge%20Huntmaster
-- https://api.scryfall.com/cards/named?fuzzy=Avabruck%20Caretaker%20%2F%2F%20Hollowhenge%20Huntmaster
-
-### Tried URLs (results)
-
-- https://api.scryfall.com/cards/named?fuzzy=Avabruck%20Caretaker%20%2F%2F%20Hollowhenge%20Huntmaster -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
-
 ## Avenger of Zendikar
 
 - uri: https://api.scryfall.com/cards/c6f1e60f-a195-4590-80b0-86767de6c423
@@ -3363,21 +3306,6 @@ Whenever a creature you control dies, each opponent loses 1 life and you gain 1 
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Bear%20Cub -> success (HTTP 200)
-
-## Beast Within
-
-- uri: https://api.scryfall.com/cards/400b43aa-c1d2-4435-b863-061f43889422
-- scryfall_uri: https://scryfall.com/card/msc/169/beast-within?utm_source=api
-- mana_cost: 2 generic, Green
-- type_line: Instant
-- oracle_text: Destroy target permanent. Its controller creates a 3/3 green Beast creature token.
-- colors: Green
-- color_identity: Green
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Beast%20Within
-- https://api.scryfall.com/cards/named?fuzzy=Beast%20Within
 
 ## Beast-Kin Ranger
 
@@ -5139,19 +5067,6 @@ Whenever day becomes night or night becomes day, look at the top two cards of yo
 
 - https://api.scryfall.com/cards/named?fuzzy=Chain%20Reaction -> success (HTTP 200)
 
-## Champion of Wits
-
-- Not found on Scryfall or error occurred.
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Champion%20of%20Wits
-- https://api.scryfall.com/cards/named?fuzzy=Champion%20of%20Wits
-
-### Tried URLs (results)
-
-- https://api.scryfall.com/cards/named?fuzzy=Champion%20of%20Wits -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
-
 ## Chaos Spewer
 
 - uri: https://api.scryfall.com/cards/b5918fa5-1d13-447b-8838-633b6b61e791
@@ -5190,19 +5105,6 @@ Whenever day becomes night or night becomes day, look at the top two cards of yo
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Chaos%20Warp -> success (HTTP 200)
-
-## Chaplain of Alms // Chapel Shieldgeist
-
-- Not found on Scryfall or error occurred.
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Chaplain%20of%20Alms%20%2F%2F%20Chapel%20Shieldgeist
-- https://api.scryfall.com/cards/named?fuzzy=Chaplain%20of%20Alms%20%2F%2F%20Chapel%20Shieldgeist
-
-### Tried URLs (results)
-
-- https://api.scryfall.com/cards/named?fuzzy=Chaplain%20of%20Alms%20%2F%2F%20Chapel%20Shieldgeist -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Charmed Sleep
 
@@ -5472,19 +5374,6 @@ Whenever you cast a noncreature spell, incubate X, where X is that spell's mana 
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Chrome%20Host%20Seedshark -> success (HTTP 200)
-
-## Cinder Glade
-
-- Not found on Scryfall or error occurred.
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Cinder%20Glade
-- https://api.scryfall.com/cards/named?fuzzy=Cinder%20Glade
-
-### Tried URLs (results)
-
-- https://api.scryfall.com/cards/named?fuzzy=Cinder%20Glade -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Cindering Cutthroat
 
@@ -6630,19 +6519,6 @@ Coven — At the beginning of combat on your turn, if you control three or more 
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Dawnhart%20Wardens -> success (HTTP 200)
-
-## Dawnsire, Sunstar Dreadnought
-
-- Not found on Scryfall or error occurred.
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Dawnsire%2C%20Sunstar%20Dreadnought
-- https://api.scryfall.com/cards/named?fuzzy=Dawnsire%2C%20Sunstar%20Dreadnought
-
-### Tried URLs (results)
-
-- https://api.scryfall.com/cards/named?fuzzy=Dawnsire%2C%20Sunstar%20Dreadnought -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Dawnwing Marshal
 
@@ -10434,22 +10310,6 @@ Ferocious — At the beginning of combat on your turn, if you control a creature
 
 - https://api.scryfall.com/cards/named?fuzzy=Flashfreeze -> success (HTTP 200)
 
-## Flawless Maneuver
-
-- uri: https://api.scryfall.com/cards/ab12f69e-1491-47a8-8c46-d85bbf637ff6
-- scryfall_uri: https://scryfall.com/card/cmm/24/flawless-maneuver?utm_source=api
-- mana_cost: 2 generic, White
-- type_line: Instant
-- oracle_text: If you control a commander, you may cast this spell without paying its mana cost.
-Creatures you control gain indestructible until end of turn.
-- colors: White
-- color_identity: White
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Flawless%20Maneuver
-- https://api.scryfall.com/cards/named?fuzzy=Flawless%20Maneuver
-
 ## Fleeting Distraction
 
 - uri: https://api.scryfall.com/cards/c0b86a7b-4912-43a7-ab89-c3432385baa1
@@ -10571,19 +10431,6 @@ Prevent all combat damage that would be dealt to and dealt by this creature.
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Follow%20the%20Lumarets -> success (HTTP 200)
-
-## Food
-
-- Not found on Scryfall or error occurred.
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Food
-- https://api.scryfall.com/cards/named?fuzzy=Food
-
-### Tried URLs (results)
-
-- https://api.scryfall.com/cards/named?fuzzy=Food -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Foot Elite
 
@@ -11255,19 +11102,6 @@ Artifacts you control have "[Tap]: Add one mana of any color. Spend this mana on
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Galvanizing%20Sawship -> success (HTTP 200)
-
-## Game Trail
-
-- Not found on Scryfall or error occurred.
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Game%20Trail
-- https://api.scryfall.com/cards/named?fuzzy=Game%20Trail
-
-### Tried URLs (results)
-
-- https://api.scryfall.com/cards/named?fuzzy=Game%20Trail -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Gandalf, Goblins' Bane // Flameshape
 
@@ -12816,19 +12650,6 @@ Flashback—Tap three untapped creatures you control. (You may cast this card fr
 
 - https://api.scryfall.com/cards/named?fuzzy=Group%20Project -> success (HTTP 200)
 
-## Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun
-
-- Not found on Scryfall or error occurred.
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Growing%20Rites%20of%20Itlimoc%20%2F%2F%20Itlimoc%2C%20Cradle%20of%20the%20Sun
-- https://api.scryfall.com/cards/named?fuzzy=Growing%20Rites%20of%20Itlimoc%20%2F%2F%20Itlimoc%2C%20Cradle%20of%20the%20Sun
-
-### Tried URLs (results)
-
-- https://api.scryfall.com/cards/named?fuzzy=Growing%20Rites%20of%20Itlimoc%20%2F%2F%20Itlimoc%2C%20Cradle%20of%20the%20Sun -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
-
 ## Gruul Guildgate
 
 - uri: https://api.scryfall.com/cards/3ab6c240-c97d-4a5c-bc39-860c2d9901c2
@@ -13685,21 +13506,6 @@ Creatures you control of the chosen color get +1/+0.
 
 - https://api.scryfall.com/cards/named?fuzzy=Heroes%27%20Bane -> success (HTTP 200)
 
-## Heroic Intervention
-
-- uri: https://api.scryfall.com/cards/e32c67d1-187f-40df-b3b3-6036f5c92834
-- scryfall_uri: https://scryfall.com/card/cmm/295/heroic-intervention?utm_source=api
-- mana_cost: 1 generic, Green
-- type_line: Instant
-- oracle_text: Permanents you control gain hexproof and indestructible until end of turn.
-- colors: Green
-- color_identity: Green
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Heroic%20Intervention
-- https://api.scryfall.com/cards/named?fuzzy=Heroic%20Intervention
-
 ## Heroic Reinforcements
 
 - uri: https://api.scryfall.com/cards/6a05e8d5-c2ad-489a-888d-22622886b620
@@ -13903,19 +13709,6 @@ Halflingcycling [4] ([4], Discard this card: Search your library for a Halfling 
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Hobbit%20Hole -> success (HTTP 200)
-
-## Hollowhenge Overlord
-
-- Not found on Scryfall or error occurred.
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Hollowhenge%20Overlord
-- https://api.scryfall.com/cards/named?fuzzy=Hollowhenge%20Overlord
-
-### Tried URLs (results)
-
-- https://api.scryfall.com/cards/named?fuzzy=Hollowhenge%20Overlord -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Homesickness
 
@@ -14217,19 +14010,6 @@ Increment (Whenever you cast a spell, if the amount of mana you spent is greater
 
 - https://api.scryfall.com/cards/named?fuzzy=Hungry%20Graffalon -> success (HTTP 200)
 
-## Hungry Ridgewolf
-
-- Not found on Scryfall or error occurred.
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Hungry%20Ridgewolf
-- https://api.scryfall.com/cards/named?fuzzy=Hungry%20Ridgewolf
-
-### Tried URLs (results)
-
-- https://api.scryfall.com/cards/named?fuzzy=Hungry%20Ridgewolf -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
-
 ## Hunter's Talent
 
 - uri: https://api.scryfall.com/cards/e9a31863-9649-4a4f-99e4-c93729938bd7
@@ -14376,19 +14156,6 @@ When this creature enters, draw a card, then discard a card.
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Idol%20of%20Oblivion -> success (HTTP 200)
-
-## Igneous Elemental
-
-- Not found on Scryfall or error occurred.
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Igneous%20Elemental
-- https://api.scryfall.com/cards/named?fuzzy=Igneous%20Elemental
-
-### Tried URLs (results)
-
-- https://api.scryfall.com/cards/named?fuzzy=Igneous%20Elemental -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Ill-Tempered Loner // Howlpack Avenger
 
@@ -15511,19 +15278,6 @@ Whenever Karai deals combat damage to a player, return target creature card from
 
 - https://api.scryfall.com/cards/named?fuzzy=Karn%27s%20Bastion -> success (HTTP 200)
 
-## Karplusan Forest
-
-- Not found on Scryfall or error occurred.
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Karplusan%20Forest
-- https://api.scryfall.com/cards/named?fuzzy=Karplusan%20Forest
-
-### Tried URLs (results)
-
-- https://api.scryfall.com/cards/named?fuzzy=Karplusan%20Forest -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
-
 ## Kav Landseeker
 
 - uri: https://api.scryfall.com/cards/7a5a7e89-50e3-43cb-af93-d7d80a630c11
@@ -16176,19 +15930,6 @@ Cycling [2] ([2], Discard this card: Draw a card.)
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Lava%20Serpent -> success (HTTP 200)
-
-## Lavakin Brawler
-
-- Not found on Scryfall or error occurred.
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Lavakin%20Brawler
-- https://api.scryfall.com/cards/named?fuzzy=Lavakin%20Brawler
-
-### Tried URLs (results)
-
-- https://api.scryfall.com/cards/named?fuzzy=Lavakin%20Brawler -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Leader's Talent
 
@@ -17604,19 +17345,6 @@ When this creature enters, create a 1/1 white and blue Merfolk creature token.
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Metalhead -> success (HTTP 200)
-
-## Metastatic Evangel
-
-- Not found on Scryfall or error occurred.
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Metastatic%20Evangel
-- https://api.scryfall.com/cards/named?fuzzy=Metastatic%20Evangel
-
-### Tried URLs (results)
-
-- https://api.scryfall.com/cards/named?fuzzy=Metastatic%20Evangel -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Meteor Golem
 
@@ -19374,19 +19102,6 @@ Threshold — All Squirrels get +2/+2 as long as there are seven or more cards i
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Obliterating%20Bolt -> success (HTTP 200)
-
-## Odric's Outrider
-
-- Not found on Scryfall or error occurred.
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Odric%27s%20Outrider
-- https://api.scryfall.com/cards/named?fuzzy=Odric%27s%20Outrider
-
-### Tried URLs (results)
-
-- https://api.scryfall.com/cards/named?fuzzy=Odric%27s%20Outrider -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Offer Immortality
 
@@ -21357,19 +21072,6 @@ Whenever this creature attacks, it deals 1 damage to target creature defending p
 
 - https://api.scryfall.com/cards/named?fuzzy=Putrefy -> success (HTTP 200)
 
-## Pyreheart Wolf
-
-- Not found on Scryfall or error occurred.
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Pyreheart%20Wolf
-- https://api.scryfall.com/cards/named?fuzzy=Pyreheart%20Wolf
-
-### Tried URLs (results)
-
-- https://api.scryfall.com/cards/named?fuzzy=Pyreheart%20Wolf -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
-
 ## Pyromancer's Goggles
 
 - uri: https://api.scryfall.com/cards/f340d8a4-196a-4433-807c-b7124e96e44f
@@ -22766,22 +22468,6 @@ Enchanted creature is a Turtle with base power and toughness 0/1. It can't attac
 
 - https://api.scryfall.com/cards/named?fuzzy=Reverent%20Howl -> success (HTTP 200)
 
-## Rhythm of the Wild
-
-- uri: https://api.scryfall.com/cards/c2a6453e-a373-44ec-807a-15c0c8b1af57
-- scryfall_uri: https://scryfall.com/card/rvr/217/rhythm-of-the-wild?utm_source=api
-- mana_cost: 1 generic, Red, Green
-- type_line: Enchantment
-- oracle_text: Creature spells you control can't be countered.
-Nontoken creatures you control have riot. (They enter with your choice of a +1/+1 counter or haste.)
-- colors: Green, Red
-- color_identity: Green, Red
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Rhythm%20of%20the%20Wild
-- https://api.scryfall.com/cards/named?fuzzy=Rhythm%20of%20the%20Wild
-
 ## Ride's End
 
 - uri: https://api.scryfall.com/cards/2f96b33b-c952-45ac-9626-40169b2bd4ef
@@ -23104,19 +22790,6 @@ I, II, III, IV — Exile up to one target creature or land you control. If you d
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Roll-Roll-Roll-Roll -> success (HTTP 200)
-
-## Rootbound Crag
-
-- Not found on Scryfall or error occurred.
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Rootbound%20Crag
-- https://api.scryfall.com/cards/named?fuzzy=Rootbound%20Crag
-
-### Tried URLs (results)
-
-- https://api.scryfall.com/cards/named?fuzzy=Rootbound%20Crag -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Rootcast Apprenticeship
 
@@ -23647,19 +23320,6 @@ Whenever this creature attacks, add [Red][Red][Red][Green][Green][Green]. Until 
 
 - https://api.scryfall.com/cards/named?fuzzy=Saw%20in%20Half -> success (HTTP 200)
 
-## Scampering Scorcher
-
-- Not found on Scryfall or error occurred.
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Scampering%20Scorcher
-- https://api.scryfall.com/cards/named?fuzzy=Scampering%20Scorcher
-
-### Tried URLs (results)
-
-- https://api.scryfall.com/cards/named?fuzzy=Scampering%20Scorcher -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
-
 ## Scorched Geyser
 
 - uri: https://api.scryfall.com/cards/5abdcad7-3b7a-43f6-a0ad-3aa99ee55c91
@@ -23818,19 +23478,6 @@ Whenever this creature deals combat damage to a player, put a +1/+1 counter on t
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Seachrome%20Coast -> success (HTTP 200)
-
-## Search Party Captain
-
-- Not found on Scryfall or error occurred.
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Search%20Party%20Captain
-- https://api.scryfall.com/cards/named?fuzzy=Search%20Party%20Captain
-
-### Tried URLs (results)
-
-- https://api.scryfall.com/cards/named?fuzzy=Search%20Party%20Captain -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Seaside Citadel
 
@@ -24734,19 +24381,6 @@ Equip [1] ([1]: Attach to target creature you control. Equip only as a sorcery.)
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Skeleton%20Archer -> success (HTTP 200)
-
-## Skittering Surveyor
-
-- Not found on Scryfall or error occurred.
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Skittering%20Surveyor
-- https://api.scryfall.com/cards/named?fuzzy=Skittering%20Surveyor
-
-### Tried URLs (results)
-
-- https://api.scryfall.com/cards/named?fuzzy=Skittering%20Surveyor -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Skullclamp
 
@@ -27582,19 +27216,6 @@ Target opponent reveals their hand. You choose a nonland card from it. That play
 
 - https://api.scryfall.com/cards/named?fuzzy=Temporal%20Intervention -> success (HTTP 200)
 
-## Tenacious Hunter
-
-- Not found on Scryfall or error occurred.
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Tenacious%20Hunter
-- https://api.scryfall.com/cards/named?fuzzy=Tenacious%20Hunter
-
-### Tried URLs (results)
-
-- https://api.scryfall.com/cards/named?fuzzy=Tenacious%20Hunter -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
-
 ## Tend the Sprigs
 
 - uri: https://api.scryfall.com/cards/388f6d9d-bb9a-4a3d-93c5-701db194863c
@@ -28254,19 +27875,6 @@ Flashback [2][Blue] (You may cast this card from your graveyard for its flashbac
 ### Tried URLs (results)
 
 - https://api.scryfall.com/cards/named?fuzzy=Thirst%20for%20Knowledge -> success (HTTP 200)
-
-## Thopter Engineer
-
-- Not found on Scryfall or error occurred.
-
-### Constructed request URLs
-
-- https://api.scryfall.com/cards/named?exact=Thopter%20Engineer
-- https://api.scryfall.com/cards/named?fuzzy=Thopter%20Engineer
-
-### Tried URLs (results)
-
-- https://api.scryfall.com/cards/named?fuzzy=Thopter%20Engineer -> failed (<urlopen error Tunnel connection failed: 403 Forbidden>)
 
 ## Thorin Oakenshield
 
