@@ -264780,5 +264780,258 @@
         "error": null
       }
     ]
+  },
+  "Adventurous Impulse": {
+    "data": null,
+    "urls": [
+      {
+        "url": "https://api.scryfall.com/cards/named?fuzzy=Adventurous%20Impulse",
+        "success": false,
+        "status_code": null,
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+      }
+    ]
+  },
+  "Avabruck Caretaker // Hollowhenge Huntmaster": {
+    "data": null,
+    "urls": [
+      {
+        "url": "https://api.scryfall.com/cards/named?fuzzy=Avabruck%20Caretaker%20%2F%2F%20Hollowhenge%20Huntmaster",
+        "success": false,
+        "status_code": null,
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+      }
+    ]
+  },
+  "Champion of Wits": {
+    "data": null,
+    "urls": [
+      {
+        "url": "https://api.scryfall.com/cards/named?fuzzy=Champion%20of%20Wits",
+        "success": false,
+        "status_code": null,
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+      }
+    ]
+  },
+  "Chaplain of Alms // Chapel Shieldgeist": {
+    "data": null,
+    "urls": [
+      {
+        "url": "https://api.scryfall.com/cards/named?fuzzy=Chaplain%20of%20Alms%20%2F%2F%20Chapel%20Shieldgeist",
+        "success": false,
+        "status_code": null,
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+      }
+    ]
+  },
+  "Cinder Glade": {
+    "data": null,
+    "urls": [
+      {
+        "url": "https://api.scryfall.com/cards/named?fuzzy=Cinder%20Glade",
+        "success": false,
+        "status_code": null,
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+      }
+    ]
+  },
+  "Dawnsire, Sunstar Dreadnought": {
+    "data": null,
+    "urls": [
+      {
+        "url": "https://api.scryfall.com/cards/named?fuzzy=Dawnsire%2C%20Sunstar%20Dreadnought",
+        "success": false,
+        "status_code": null,
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+      }
+    ]
+  },
+  "Food": {
+    "data": null,
+    "urls": [
+      {
+        "url": "https://api.scryfall.com/cards/named?fuzzy=Food",
+        "success": false,
+        "status_code": null,
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+      }
+    ]
+  },
+  "Game Trail": {
+    "data": null,
+    "urls": [
+      {
+        "url": "https://api.scryfall.com/cards/named?fuzzy=Game%20Trail",
+        "success": false,
+        "status_code": null,
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+      }
+    ]
+  },
+  "Growing Rites of Itlimoc // Itlimoc, Cradle of the Sun": {
+    "data": null,
+    "urls": [
+      {
+        "url": "https://api.scryfall.com/cards/named?fuzzy=Growing%20Rites%20of%20Itlimoc%20%2F%2F%20Itlimoc%2C%20Cradle%20of%20the%20Sun",
+        "success": false,
+        "status_code": null,
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+      }
+    ]
+  },
+  "Hollowhenge Overlord": {
+    "data": null,
+    "urls": [
+      {
+        "url": "https://api.scryfall.com/cards/named?fuzzy=Hollowhenge%20Overlord",
+        "success": false,
+        "status_code": null,
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+      }
+    ]
+  },
+  "Hungry Ridgewolf": {
+    "data": null,
+    "urls": [
+      {
+        "url": "https://api.scryfall.com/cards/named?fuzzy=Hungry%20Ridgewolf",
+        "success": false,
+        "status_code": null,
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+      }
+    ]
+  },
+  "Igneous Elemental": {
+    "data": null,
+    "urls": [
+      {
+        "url": "https://api.scryfall.com/cards/named?fuzzy=Igneous%20Elemental",
+        "success": false,
+        "status_code": null,
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+      }
+    ]
+  },
+  "Karplusan Forest": {
+    "data": null,
+    "urls": [
+      {
+        "url": "https://api.scryfall.com/cards/named?fuzzy=Karplusan%20Forest",
+        "success": false,
+        "status_code": null,
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+      }
+    ]
+  },
+  "Lavakin Brawler": {
+    "data": null,
+    "urls": [
+      {
+        "url": "https://api.scryfall.com/cards/named?fuzzy=Lavakin%20Brawler",
+        "success": false,
+        "status_code": null,
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+      }
+    ]
+  },
+  "Metastatic Evangel": {
+    "data": null,
+    "urls": [
+      {
+        "url": "https://api.scryfall.com/cards/named?fuzzy=Metastatic%20Evangel",
+        "success": false,
+        "status_code": null,
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+      }
+    ]
+  },
+  "Odric's Outrider": {
+    "data": null,
+    "urls": [
+      {
+        "url": "https://api.scryfall.com/cards/named?fuzzy=Odric%27s%20Outrider",
+        "success": false,
+        "status_code": null,
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+      }
+    ]
+  },
+  "Pyreheart Wolf": {
+    "data": null,
+    "urls": [
+      {
+        "url": "https://api.scryfall.com/cards/named?fuzzy=Pyreheart%20Wolf",
+        "success": false,
+        "status_code": null,
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+      }
+    ]
+  },
+  "Rootbound Crag": {
+    "data": null,
+    "urls": [
+      {
+        "url": "https://api.scryfall.com/cards/named?fuzzy=Rootbound%20Crag",
+        "success": false,
+        "status_code": null,
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+      }
+    ]
+  },
+  "Scampering Scorcher": {
+    "data": null,
+    "urls": [
+      {
+        "url": "https://api.scryfall.com/cards/named?fuzzy=Scampering%20Scorcher",
+        "success": false,
+        "status_code": null,
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+      }
+    ]
+  },
+  "Search Party Captain": {
+    "data": null,
+    "urls": [
+      {
+        "url": "https://api.scryfall.com/cards/named?fuzzy=Search%20Party%20Captain",
+        "success": false,
+        "status_code": null,
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+      }
+    ]
+  },
+  "Skittering Surveyor": {
+    "data": null,
+    "urls": [
+      {
+        "url": "https://api.scryfall.com/cards/named?fuzzy=Skittering%20Surveyor",
+        "success": false,
+        "status_code": null,
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+      }
+    ]
+  },
+  "Tenacious Hunter": {
+    "data": null,
+    "urls": [
+      {
+        "url": "https://api.scryfall.com/cards/named?fuzzy=Tenacious%20Hunter",
+        "success": false,
+        "status_code": null,
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+      }
+    ]
+  },
+  "Thopter Engineer": {
+    "data": null,
+    "urls": [
+      {
+        "url": "https://api.scryfall.com/cards/named?fuzzy=Thopter%20Engineer",
+        "success": false,
+        "status_code": null,
+        "error": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+      }
+    ]
   }
 }
