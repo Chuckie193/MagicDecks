@@ -22,18 +22,19 @@
 1 Gourmand's Talent
 1 Hall of Oracles
 1 Haunted Mire
+1 Hazel of the Rootbloom
 1 Hazel's Nocturne
 1 Hungry Ghoul
 1 Hunter's Talent
 1 Illegitimate Business
 1 Infernal Grasp
 1 Jungle Hollow
+1 Lich's Relic
 1 Llanowar Elves
 1 Llanowar Wastes
 1 Maelstrom Pulse
 1 Marauding Blight-Priest
 1 Massacre Wurm
-1 Master of the Wild Hunt
 1 Mirkwood
 1 Moldervine Reclamation
 1 Morbid Opportunist
@@ -57,7 +58,6 @@
 1 Snakeskin Veil
 1 Sol Ring
 1 Squirrel Nest
-1 Supper for Spiders
 1 Swiftfoot Boots
 1 Tainted Wood
 1 Talisman of Resilience

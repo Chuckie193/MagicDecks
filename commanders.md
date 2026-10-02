@@ -1,6 +1,6 @@
 # Potential Commanders
 
-All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **151 cards**.
+All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **181 cards**.
 
 > Generated from `moxfield_latest.csv`, the source of truth for ownership. Every card listed here is owned. Cards from `Commander Staples/` are deliberately excluded — that folder is a want-list, not a collection.
 
@@ -11,6 +11,10 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | Card | Name | Type | Precon |
 |------|------|------|--------|
 | <img src="images/commanders/Dawnsire_Sunstar_Dreadnought.jpg" alt="Dawnsire, Sunstar Dreadnought" width="200"> | **Dawnsire, Sunstar Dreadnought** | Legendary Artifact — Spacecraft |  |
+| <img src="images/commanders/Ginger_Queen_of_Sweets.jpg" alt="Ginger, Queen of Sweets" width="200"> | **Ginger, Queen of Sweets** | Legendary Artifact Creature — Food Noble |  |
+| <img src="images/commanders/Graaz_Unstoppable_Juggernaut.jpg" alt="Graaz, Unstoppable Juggernaut" width="200"> | **Graaz, Unstoppable Juggernaut** | Legendary Artifact Creature — Juggernaut |  |
+| <img src="images/commanders/Memnarch_the_Warden.jpg" alt="Memnarch, the Warden" width="200"> | **Memnarch, the Warden** | Legendary Artifact Creature — Wizard |  |
+| <img src="images/commanders/Omnath_Locus_of_the_Void.jpg" alt="Omnath, Locus of the Void" width="200"> | **Omnath, Locus of the Void** | Legendary Creature — Elemental |  |
 
 ## White
 
@@ -21,19 +25,24 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Ashe_Princess_of_Dalmasca.jpg" alt="Ashe, Princess of Dalmasca" width="200"> | **Ashe, Princess of Dalmasca** | Legendary Creature — Human Rebel Noble |  |
 | <img src="images/commanders/Belladonna_Took.jpg" alt="Belladonna Took" width="200"> | **Belladonna Took** | Legendary Creature — Halfling Citizen |  |
 | <img src="images/commanders/Bofur_Reliable_Guardian_Concerted_Care.jpg" alt="Bofur, Reliable Guardian // Concerted Care" width="200"> | **Bofur, Reliable Guardian // Concerted Care** | Legendary Creature — Dwarf Scout // Instant — Adventure |  |
+| <img src="images/commanders/Dack_Fayden_Helping_Hand.jpg" alt="Dack Fayden, Helping Hand" width="200"> | **Dack Fayden, Helping Hand** | Legendary Creature — Human Advisor |  |
 | <img src="images/commanders/Dáin_Lord_of_the_Iron_Hills.jpg" alt="Dáin, Lord of the Iron Hills" width="200"> | **Dáin, Lord of the Iron Hills** | Legendary Creature — Dwarf Noble |  |
 | <img src="images/commanders/Faramir_Field_Commander.jpg" alt="Faramir, Field Commander" width="200"> | **Faramir, Field Commander** | Legendary Creature — Human Soldier |  |
 | <img src="images/commanders/Fíli_the_Pathfinder.jpg" alt="Fíli the Pathfinder" width="200"> | **Fíli the Pathfinder** | Legendary Creature — Dwarf Scout |  |
+| <img src="images/commanders/Ghalta_the_Immovable.jpg" alt="Ghalta the Immovable" width="200"> | **Ghalta the Immovable** | Legendary Creature — Elder Dinosaur |  |
 | <img src="images/commanders/Jazal_Goldmane.jpg" alt="Jazal Goldmane" width="200"> | **Jazal Goldmane** | Legendary Creature — Cat Warrior | Foundations BeginnerBox |
 | <img src="images/commanders/Jennika_Bad_Apple_Big_Sister.jpg" alt="Jennika, Bad Apple Big Sister" width="200"> | **Jennika, Bad Apple Big Sister** | Legendary Creature — Mutant Ninja Turtle |  |
 | <img src="images/commanders/Leonardo_Big_Brother.jpg" alt="Leonardo, Big Brother" width="200"> | **Leonardo, Big Brother** | Legendary Creature — Mutant Ninja Turtle |  |
 | <img src="images/commanders/Leonardo_Leader_in_Blue.jpg" alt="Leonardo, Leader in Blue" width="200"> | **Leonardo, Leader in Blue** | Legendary Creature — Mutant Ninja Turtle |  |
 | <img src="images/commanders/Linden_the_Steadfast_Queen.jpg" alt="Linden, the Steadfast Queen" width="200"> | **Linden, the Steadfast Queen** | Legendary Creature — Human Noble |  |
 | <img src="images/commanders/Lyra_Dawnbringer.jpg" alt="Lyra Dawnbringer" width="200"> | **Lyra Dawnbringer** | Legendary Creature — Angel |  |
+| <img src="images/commanders/Ob_Nixilis_the_Ascended.jpg" alt="Ob Nixilis, the Ascended" width="200"> | **Ob Nixilis, the Ascended** | Legendary Creature — Angel |  |
 | <img src="images/commanders/Ori_Keeper_of_Songs.jpg" alt="Ori, Keeper of Songs" width="200"> | **Ori, Keeper of Songs** | Legendary Creature — Dwarf Bard |  |
 | <img src="images/commanders/Sally_Pride_Lioness_Leader.jpg" alt="Sally Pride, Lioness Leader" width="200"> | **Sally Pride, Lioness Leader** | Legendary Creature — Cat Mutant Rebel |  |
 | <img src="images/commanders/Syr_Alin_the_Lions_Claw.jpg" alt="Syr Alin, the Lion's Claw" width="200"> | **Syr Alin, the Lion's Claw** | Legendary Creature — Human Knight |  |
 | <img src="images/commanders/The_Seriema.jpg" alt="The Seriema" width="200"> | **The Seriema** | Legendary Artifact — Spacecraft |  |
+| <img src="images/commanders/Tomik_Orzhov_Lawmage.jpg" alt="Tomik, Orzhov Lawmage" width="200"> | **Tomik, Orzhov Lawmage** | Legendary Creature — Human Advisor |  |
+| <img src="images/commanders/Yoshimaru_Beloved_Companion.jpg" alt="Yoshimaru, Beloved Companion" width="200"> | **Yoshimaru, Beloved Companion** | Legendary Creature — Dog |  |
 | <img src="images/commanders/Zetalpa_Primal_Dawn.jpg" alt="Zetalpa, Primal Dawn" width="200"> | **Zetalpa, Primal Dawn** | Legendary Creature — Elder Dinosaur |  |
 
 ## Blue
@@ -47,22 +56,30 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Donatello_Turtle_Techie.jpg" alt="Donatello, Turtle Techie" width="200"> | **Donatello, Turtle Techie** | Legendary Creature — Mutant Ninja Turtle |  |
 | <img src="images/commanders/Emry_Lurker_of_the_Loch.jpg" alt="Emry, Lurker of the Loch" width="200"> | **Emry, Lurker of the Loch** | Legendary Creature — Merfolk Wizard | CounterIntelligence |
 | <img src="images/commanders/Gandalf_Wandering_Wizard.jpg" alt="Gandalf, Wandering Wizard" width="200"> | **Gandalf, Wandering Wizard** | Legendary Creature — Avatar Wizard |  |
+| <img src="images/commanders/Hapatra_the_Desert_Frost.jpg" alt="Hapatra, the Desert Frost" width="200"> | **Hapatra, the Desert Frost** | Legendary Creature — Human Wizard |  |
 | <img src="images/commanders/Mmmenon_the_Right_Hand.jpg" alt="Mm'menon, the Right Hand" width="200"> | **Mm'menon, the Right Hand** | Legendary Creature — Jellyfish Advisor |  |
+| <img src="images/commanders/Padeem_Consul_of_Innovation.jpg" alt="Padeem, Consul of Innovation" width="200"> | **Padeem, Consul of Innovation** | Legendary Creature — Vedalken Artificer |  |
+| <img src="images/commanders/Sai_Master_Thopterist.jpg" alt="Sai, Master Thopterist" width="200"> | **Sai, Master Thopterist** | Legendary Creature — Human Artificer |  |
 | <img src="images/commanders/Stockman_Mad_Fly_entist.jpg" alt="Stockman, Mad Fly-entist" width="200"> | **Stockman, Mad Fly-entist** | Legendary Creature — Insect Mutant Scientist |  |
 | <img src="images/commanders/Tekuthal_Inquiry_Dominus.jpg" alt="Tekuthal, Inquiry Dominus" width="200"> | **Tekuthal, Inquiry Dominus** | Legendary Creature — Phyrexian Horror | CounterIntelligence |
 | <img src="images/commanders/The_Lord_of_the_Eagles.jpg" alt="The Lord of the Eagles" width="200"> | **The Lord of the Eagles** | Legendary Creature — Bird Noble |  |
+| <img src="images/commanders/Yuriko_Hope_from_the_Shadows.jpg" alt="Yuriko, Hope from the Shadows" width="200"> | **Yuriko, Hope from the Shadows** | Legendary Creature — Human Ninja |  |
 
 ## Black
 
 | Card | Name | Type | Precon |
 |------|------|------|--------|
 | <img src="images/commanders/Arnyn_Deathbloom_Botanist.jpg" alt="Arnyn, Deathbloom Botanist" width="200"> | **Arnyn, Deathbloom Botanist** | Legendary Creature — Vampire Druid |  |
+| <img src="images/commanders/Avacyn_Angel_of_Horror.jpg" alt="Avacyn, Angel of Horror" width="200"> | **Avacyn, Angel of Horror** | Legendary Creature — Angel |  |
 | <img src="images/commanders/Azog_Morias_Ruin.jpg" alt="Azog, Moria's Ruin" width="200"> | **Azog, Moria's Ruin** | Legendary Creature — Goblin Soldier |  |
 | <img src="images/commanders/Bebop_Warthog_Warrior.jpg" alt="Bebop, Warthog Warrior" width="200"> | **Bebop, Warthog Warrior** | Legendary Creature — Boar Mutant Warrior |  |
 | <img src="images/commanders/Gollum_the_Abandoned.jpg" alt="Gollum the Abandoned" width="200"> | **Gollum the Abandoned** | Legendary Creature — Halfling Horror |  |
 | <img src="images/commanders/Gollum_Riddle_Master.jpg" alt="Gollum, Riddle Master" width="200"> | **Gollum, Riddle Master** | Legendary Creature — Halfling Horror |  |
 | <img src="images/commanders/Gollum_Silent_Slinker_Meager_Meal.jpg" alt="Gollum, Silent Slinker // Meager Meal" width="200"> | **Gollum, Silent Slinker // Meager Meal** | Legendary Creature — Halfling Horror // Sorcery — Adventure |  |
+| <img src="images/commanders/Jhoira_Weatherlight_Corsair.jpg" alt="Jhoira, Weatherlight Corsair" width="200"> | **Jhoira, Weatherlight Corsair** | Legendary Creature — Human Pirate |  |
 | <img src="images/commanders/Kalakscion_Hunger_Tyrant.jpg" alt="Kalakscion, Hunger Tyrant" width="200"> | **Kalakscion, Hunger Tyrant** | Legendary Creature — Crocodile |  |
+| <img src="images/commanders/Loot_the_Anomaly.jpg" alt="Loot, the Anomaly" width="200"> | **Loot, the Anomaly** | Legendary Creature — Beast Horror |  |
+| <img src="images/commanders/Mabel_Bitter_Recluse.jpg" alt="Mabel, Bitter Recluse" width="200"> | **Mabel, Bitter Recluse** | Legendary Creature — Mouse Warlock |  |
 | <img src="images/commanders/Madame_Null_Power_Broker.jpg" alt="Madame Null, Power Broker" width="200"> | **Madame Null, Power Broker** | Legendary Creature — Demon Advisor |  |
 | <img src="images/commanders/Myojin_of_Nights_Reach.jpg" alt="Myojin of Night's Reach" width="200"> | **Myojin of Night's Reach** | Legendary Creature — Spirit |  |
 | <img src="images/commanders/Oroku_Saki_Shredder_Rising.jpg" alt="Oroku Saki, Shredder Rising" width="200"> | **Oroku Saki, Shredder Rising** | Legendary Creature — Human Ninja |  |
@@ -76,9 +93,11 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 
 | Card | Name | Type | Precon |
 |------|------|------|--------|
+| <img src="images/commanders/Akroma_Angel_of_Fury.jpg" alt="Akroma, Angel of Fury" width="200"> | **Akroma, Angel of Fury** | Legendary Creature — Angel |  |
 | <img src="images/commanders/Bombur_Gentle_Dreamer.jpg" alt="Bombur, Gentle Dreamer" width="200"> | **Bombur, Gentle Dreamer** | Legendary Creature — Dwarf Bard |  |
 | <img src="images/commanders/Dori_Bearer_of_Friends.jpg" alt="Dori, Bearer of Friends" width="200"> | **Dori, Bearer of Friends** | Legendary Creature — Dwarf Warrior |  |
 | <img src="images/commanders/Dáin_Ironfoot.jpg" alt="Dáin Ironfoot" width="200"> | **Dáin Ironfoot** | Legendary Creature — Dwarf Warrior |  |
+| <img src="images/commanders/Gallia_the_Merrymaker.jpg" alt="Gallia, the Merrymaker" width="200"> | **Gallia, the Merrymaker** | Legendary Creature — Satyr |  |
 | <img src="images/commanders/Gandalf_Goblins_Bane_Flameshape.jpg" alt="Gandalf, Goblins' Bane // Flameshape" width="200"> | **Gandalf, Goblins' Bane // Flameshape** | Legendary Creature — Avatar Wizard // Sorcery — Adventure |  |
 | <img src="images/commanders/Gandalf_Spark_Starter.jpg" alt="Gandalf, Spark Starter" width="200"> | **Gandalf, Spark Starter** | Legendary Creature — Avatar Wizard |  |
 | <img src="images/commanders/General_Traag_Heart_of_Stone.jpg" alt="General Traag, Heart of Stone" width="200"> | **General Traag, Heart of Stone** | Legendary Artifact Creature — Elemental Soldier |  |
@@ -91,6 +110,8 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Smaug_the_Magnificent.jpg" alt="Smaug the Magnificent" width="200"> | **Smaug the Magnificent** | Legendary Creature — Dragon |  |
 | <img src="images/commanders/Smaug_the_Great_Calamity_Spew_Flame.jpg" alt="Smaug, the Great Calamity // Spew Flame" width="200"> | **Smaug, the Great Calamity // Spew Flame** | Legendary Creature — Dragon // Sorcery — Adventure |  |
 | <img src="images/commanders/Thorin_Mountain_king.jpg" alt="Thorin, Mountain-king" width="200"> | **Thorin, Mountain-king** | Legendary Creature — Dwarf Noble |  |
+| <img src="images/commanders/Tomik_Izzet_Sparkmage.jpg" alt="Tomik, Izzet Sparkmage" width="200"> | **Tomik, Izzet Sparkmage** | Legendary Creature — Human Wizard |  |
+| <img src="images/commanders/Venser_Fervent_Forger.jpg" alt="Venser, Fervent Forger" width="200"> | **Venser, Fervent Forger** | Legendary Creature — Human Sorcerer |  |
 | <img src="images/commanders/Zog_Triceraton_Castaway.jpg" alt="Zog, Triceraton Castaway" width="200"> | **Zog, Triceraton Castaway** | Legendary Creature — Dinosaur Soldier |  |
 | <img src="images/commanders/Óin_the_Brave.jpg" alt="Óin the Brave" width="200"> | **Óin the Brave** | Legendary Creature — Dwarf Warrior |  |
 
@@ -103,13 +124,16 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Beorn_Reluctant_Host_Till_and_Tend.jpg" alt="Beorn, Reluctant Host // Till and Tend" width="200"> | **Beorn, Reluctant Host // Till and Tend** | Legendary Creature — Human Bear Shapeshifter // Sorcery — Adventure |  |
 | <img src="images/commanders/Fynn_the_Fangbearer.jpg" alt="Fynn, the Fangbearer" width="200"> | **Fynn, the Fangbearer** | Legendary Creature — Human Warrior |  |
 | <img src="images/commanders/Galion_Elvenkings_Butler.jpg" alt="Galion, Elvenking's Butler" width="200"> | **Galion, Elvenking's Butler** | Legendary Creature — Elf Advisor |  |
+| <img src="images/commanders/Ghalta_the_Unstoppable.jpg" alt="Ghalta the Unstoppable" width="200"> | **Ghalta the Unstoppable** | Legendary Creature — Elder Dinosaur |  |
 | <img src="images/commanders/Loot_Exuberant_Explorer.jpg" alt="Loot, Exuberant Explorer" width="200"> | **Loot, Exuberant Explorer** | Legendary Creature — Beast Noble |  |
 | <img src="images/commanders/Michelangelo_Game_Master.jpg" alt="Michelangelo, Game Master" width="200"> | **Michelangelo, Game Master** | Legendary Creature — Mutant Ninja Turtle |  |
+| <img src="images/commanders/Pia_Aether_Ascetic.jpg" alt="Pia, Aether Ascetic" width="200"> | **Pia, Aether Ascetic** | Legendary Creature — Human Druid |  |
 | <img src="images/commanders/Rocksteady_Crash_Courser.jpg" alt="Rocksteady, Crash Courser" width="200"> | **Rocksteady, Crash Courser** | Legendary Creature — Rhino Mutant |  |
 | <img src="images/commanders/Selvala_Heart_of_the_Wilds.jpg" alt="Selvala, Heart of the Wilds" width="200"> | **Selvala, Heart of the Wilds** | Legendary Creature — Elf Scout | DanceOfTheElements |
 | <img src="images/commanders/Surrak_the_Hunt_Caller.jpg" alt="Surrak, the Hunt Caller" width="200"> | **Surrak, the Hunt Caller** | Legendary Creature — Human Warrior |  |
 | <img src="images/commanders/The_Notary_Hobbits.jpg" alt="The Notary Hobbits" width="200"> | **The Notary Hobbits** | Legendary Creature — Halfling Advisor |  |
 | <img src="images/commanders/Toski_Bearer_of_Secrets.jpg" alt="Toski, Bearer of Secrets" width="200"> | **Toski, Bearer of Secrets** | Legendary Creature — Squirrel | SquirreledAway |
+| <img src="images/commanders/Yoshimaru_Scrappy_Stray.jpg" alt="Yoshimaru, Scrappy Stray" width="200"> | **Yoshimaru, Scrappy Stray** | Legendary Creature — Dog |  |
 | <img src="images/commanders/Zopandrel_Hunger_Dominus.jpg" alt="Zopandrel, Hunger Dominus" width="200"> | **Zopandrel, Hunger Dominus** | Legendary Creature — Phyrexian Horror |  |
 
 ## Black, Red
@@ -128,6 +152,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 |------|------|------|--------|
 | <img src="images/commanders/Beledros_Witherbloom.jpg" alt="Beledros Witherbloom" width="200"> | **Beledros Witherbloom** | Legendary Creature — Elder Dragon | SquirreledAway |
 | <img src="images/commanders/Chatterfang_Squirrel_General.jpg" alt="Chatterfang, Squirrel General" width="200"> | **Chatterfang, Squirrel General** | Legendary Creature — Squirrel Warrior | SquirreledAway |
+| <img src="images/commanders/Hapatra_the_Desert_Fang.jpg" alt="Hapatra, the Desert Fang" width="200"> | **Hapatra, the Desert Fang** | Legendary Creature — Human Cleric |  |
 | <img src="images/commanders/Hazel_of_the_Rootbloom.jpg" alt="Hazel of the Rootbloom" width="200"> | **Hazel of the Rootbloom** | Legendary Creature — Squirrel Druid | SquirreledAway |
 | <img src="images/commanders/Lord_Dregg_Insect_Invader.jpg" alt="Lord Dregg, Insect Invader" width="200"> | **Lord Dregg, Insect Invader** | Legendary Creature — Insect Warrior |  |
 | <img src="images/commanders/Old_Stickfingers.jpg" alt="Old Stickfingers" width="200"> | **Old Stickfingers** | Legendary Creature — Horror |  |
@@ -147,6 +172,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | Card | Name | Type | Precon |
 |------|------|------|--------|
 | <img src="images/commanders/Queza_Augur_of_Agonies.jpg" alt="Queza, Augur of Agonies" width="200"> | **Queza, Augur of Agonies** | Legendary Creature — Octopus Advisor |  |
+| <img src="images/commanders/The_Ur_Sphinx.jpg" alt="The Ur-Sphinx" width="200"> | **The Ur-Sphinx** | Legendary Creature — Sphinx Avatar |  |
 
 ## Black, Green, Blue
 
@@ -172,6 +198,12 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 |------|------|------|--------|
 | <img src="images/commanders/Dr_Eggman.jpg" alt="Dr. Eggman" width="200"> | **Dr. Eggman** | Legendary Creature — Human Scientist | SonictheHedgehog FriendsandFoes |
 
+## Black, Red, Blue, White
+
+| Card | Name | Type | Precon |
+|------|------|------|--------|
+| <img src="images/commanders/Nissa_Leyline_Tamer.jpg" alt="Nissa, Leyline Tamer" width="200"> | **Nissa, Leyline Tamer** | Legendary Creature — Elf Wizard |  |
+
 ## Black, White
 
 | Card | Name | Type | Precon |
@@ -179,6 +211,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Ayli_Eternal_Pilgrim.jpg" alt="Ayli, Eternal Pilgrim" width="200"> | **Ayli, Eternal Pilgrim** | Legendary Creature — Kor Cleric |  |
 | <img src="images/commanders/Karai_Future_of_the_Foot.jpg" alt="Karai, Future of the Foot" width="200"> | **Karai, Future of the Foot** | Legendary Creature — Human Ninja |  |
 | <img src="images/commanders/Koya_Death_from_Above.jpg" alt="Koya, Death from Above" width="200"> | **Koya, Death from Above** | Legendary Creature — Mutant Ninja Bird |  |
+| <img src="images/commanders/Niv_Mizzet_Ghost_Counsel.jpg" alt="Niv-Mizzet, Ghost Counsel" width="200"> | **Niv-Mizzet, Ghost Counsel** | Legendary Creature — Spirit Dragon |  |
 
 ## Blue, White
 
@@ -266,8 +299,10 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Amy_Rose.jpg" alt="Amy Rose" width="200"> | **Amy Rose** | Legendary Creature — Hedgehog Warrior | SonictheHedgehog FriendsandFoes |
 | <img src="images/commanders/Aurelia_the_Warleader.jpg" alt="Aurelia, the Warleader" width="200"> | **Aurelia, the Warleader** | Legendary Creature — Angel |  |
 | <img src="images/commanders/Mabel_Heir_to_Cragflame.jpg" alt="Mabel, Heir to Cragflame" width="200"> | **Mabel, Heir to Cragflame** | Legendary Creature — Mouse Soldier |  |
+| <img src="images/commanders/Mabel_Valley_Hero.jpg" alt="Mabel, Valley Hero" width="200"> | **Mabel, Valley Hero** | Legendary Creature — Mouse Soldier |  |
 | <img src="images/commanders/Nori_Teller_of_Tales.jpg" alt="Nori, Teller of Tales" width="200"> | **Nori, Teller of Tales** | Legendary Creature — Dwarf Bard |  |
 | <img src="images/commanders/Sami_Ships_Engineer.jpg" alt="Sami, Ship's Engineer" width="200"> | **Sami, Ship's Engineer** | Legendary Creature — Human Artificer |  |
+| <img src="images/commanders/Tamiyo_Upriser_Crowned.jpg" alt="Tamiyo, Upriser Crowned" width="200"> | **Tamiyo, Upriser Crowned** | Legendary Creature — Moonfolk Warrior |  |
 | <img src="images/commanders/Thorin_Oakenshield.jpg" alt="Thorin Oakenshield" width="200"> | **Thorin Oakenshield** | Legendary Creature — Dwarf Noble |  |
 | <img src="images/commanders/Vikya_Scorching_Stalwart.jpg" alt="Vikya, Scorching Stalwart" width="200"> | **Vikya, Scorching Stalwart** | Legendary Creature — Human Warrior |  |
 | <img src="images/commanders/Winota_Joiner_of_Forces.jpg" alt="Winota, Joiner of Forces" width="200"> | **Winota, Joiner of Forces** | Legendary Creature — Human Warrior |  |

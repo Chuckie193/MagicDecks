@@ -9,7 +9,8 @@ This is the source of truth for the "Avoid reserved decks" card-pool option in t
 | Deck | List file | Notes |
 |------|-----------|-------|
 | Full Deployment | `Custom Decks/Moxfield/Full_Deployment_Deck.txt` | Custom deck — Inspirit, Flagship Vessel |
-| Squirreled Away | `Precons/Commander Precons/SquirreledAway.txt` | Commander precon — Hazel of the Rootbloom |
+| Claws for Concern | `Custom Decks/Moxfield/Claws_for_Concern_Deck.txt` | Custom deck — Tovolar, Dire Overlord |
+| Table Manners | `Custom Decks/Moxfield/Table_Manners_Deck.txt` | Custom deck — Ygra, Eater of All. This is the rebuilt Squirreled Away precon; it replaces that precon's row, so the original Squirreled Away list is not reserved |
 | Dance of the Elements | `Precons/Commander Precons/DanceOfTheElements.txt` | Commander precon — Ashling, the Limitless |
 
 ---
