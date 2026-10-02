@@ -479,8 +479,9 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
    - Use the **alt name** if one exists (check the `Alt Name(s)` column in `moxfield_cards.md`) — e.g., `Air Shoes` not `Swiftfoot Boots`; `Power Sneakers` not `Lightning Greaves`; if no alt name exists, use the real card name
    - Every non-basic card in a Commander deck is singleton: count is `1`
    - Basic lands use their actual quantity — e.g., `7 Island`, `7 Mountain`
-   - Order: commander first → remaining non-land cards (alphabetically) → basic lands (alphabetically)
-   - The file contains only the card list — no headings, no markdown, no other content
+   - Order: commander first → every other non-basic card, non-basic lands included (alphabetically) → basic lands (alphabetically)
+   - The file contains only the card list: **every line is `[count] [card name]`**. Do not add section headers or comments of any kind (`// Red`, `// Basic Lands`, `# Creatures`), and do not add blank lines or markdown. Moxfield treats each such line as a card name and fails the import with `Could not find card "// Red"`. The ` // ` inside a double-faced card's name (`1 Tovolar, Dire Overlord // Tovolar, the Midnight Scourge *CMDR*`) is fine because the line starts with a count.
+   - **Verify before finishing**: every line matches `^\d+ ` and the counts sum to exactly 100. This applies whenever an export is edited, not only when it is first created.
 
 15. **Versioning and Naming**:
 

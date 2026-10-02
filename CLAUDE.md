@@ -78,6 +78,9 @@ Fix any card whose section contradicts its type_line before finishing.
 After every change to a `Custom Decks/*.md` file, update the corresponding `Custom Decks/Moxfield/*.txt` file to match. The `.txt` file must reflect the exact same 100-card list.
 
 - Use the **alt name** for any card that has one (check the `Alt Name(s)` column in `moxfield_cards.md`) — e.g., use `Air Shoes` not `Swiftfoot Boots`. If no alt name exists, use the real card name.
+- **Every line must be `[count] [card name]`, with nothing else in the file.** No section headers, comments, blank lines or markdown. Moxfield reads a line such as `// Red` or `// Basic Lands` as a card name and rejects the import. (The ` // ` inside a double-faced card's name, such as `Tovolar, Dire Overlord // Tovolar, the Midnight Scourge`, is fine because it follows a count.)
+- **Order**: commander first, tagged `*CMDR*` → every other non-basic card (lands included) alphabetically → basic lands alphabetically.
+- Before finishing, confirm that every line matches `^\d+ ` and that the counts sum to 100.
 
 ### 5. Card Count and Format Rules
 
