@@ -187,7 +187,7 @@ Blasphemous Act is counted at its full printed value of 9 (it usually costs {R})
 
 ## Next Steps (Optional Suggestions)
 
-The full list of other eligible cards I reviewed is in `Smaug_Collection_Review.md`. The most interesting ones left out of this list:
+The most interesting eligible cards left out of this list:
 
 - **Breaching Dragonstorm** ({4}{R}): a free spell each time you replay it, and it returns to hand whenever a Dragon enters. High upside but random, so test it before committing.
 - **Chandra's Ignition** ({3}{R}{R}): Smaug deals 8 to each opponent and to every other creature. A finisher or reset, but it kills your own Dragons.
