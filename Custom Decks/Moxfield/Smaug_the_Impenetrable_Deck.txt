@@ -2,28 +2,27 @@
 1 Abrade
 1 Arcane Signet
 1 Atsushi, the Blazing Sky
-1 Awaken the Inferno
 1 Big Score
 1 Blasphemous Act
 1 Bloodfell Caves
 1 Breath Weapon
 1 Burn, Burn, Tree and Fern
-1 Burst Lightning
-1 Chain Reaction
+1 Castle Locthwain
 1 Chaos Warp
 1 Command Tower
 1 Crucible of Fire
+1 Dawnsire, Sunstar Dreadnought
 1 Dragon Tempest
 1 Dragon's Hoard
 1 Dragonhawk, Fate's Tempest
 1 Dragonlord's Servant
 1 Dragonmaster Outcast
 1 Dragonspeaker Shaman
-1 Dragonstorm Globe
 1 Drakuseth, Maw of Flames
 1 Evolving Wilds
 1 Exotic Orchard
 1 Exsanguinate
+1 Extended Absence
 1 Fabled Passage
 1 Fiery Annihilation
 1 Firespitter Whelp
@@ -38,13 +37,13 @@
 1 Leyline Tyrant
 1 Lightning Bolt
 1 Manaform Hellkite
-1 Midnight Reaper
 1 Mind Stone
-1 Night's Whisper
 1 Orb of Dragonkind
 1 Outpost Siege
 1 Parapet Thrasher
+1 Patchwork Banner
 1 Path of Ancestry
+1 Perforating Artist
 1 Rakdos Guildgate
 1 Rakdos Signet
 1 Rapacious Dragon
@@ -60,7 +59,7 @@
 1 Smaug, Wicked Worm
 1 Sol Ring
 1 Spicy Oatmeal Pizza
-1 Stingerquill Annex
+1 Spit Flame
 1 Stingerquill Charm
 1 Sulfurous Springs
 1 Swiftfoot Boots
@@ -73,8 +72,9 @@
 1 Thunderbreak Regent
 1 Thundermane Dragon
 1 Turbulent Crater
-1 Tweeze
 1 Tyrant's Familiar
 1 Unexpected Windfall
+1 Violent Echoes
+1 Withering Torment
 15 Mountain
 7 Swamp
