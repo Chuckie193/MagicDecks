@@ -1,80 +1,80 @@
 1 Smaug the Impenetrable *CMDR*
 1 Abrade
-1 Academy Manufactor
 1 Arcane Signet
-1 Bastion of Remembrance
+1 Atsushi, the Blazing Sky
 1 Big Score
 1 Blasphemous Act
+1 Bloodfell Caves
+1 Breath Weapon
 1 Burn, Burn, Tree and Fern
-1 Carnelian Orb of Dragonkind
-1 Chain Reaction
+1 Castle Locthwain
 1 Chaos Warp
-1 Chromatic Lantern
-1 Coretapper
+1 Command Tower
+1 Crucible of Fire
 1 Dawnsire, Sunstar Dreadnought
-1 Deadly Dispute
-1 Dori, Bearer of Friends
+1 Dragon Tempest
+1 Dragon's Hoard
+1 Dragonhawk, Fate's Tempest
 1 Dragonlord's Servant
 1 Dragonmaster Outcast
-1 Everflowing Chalice
+1 Dragonspeaker Shaman
+1 Drakuseth, Maw of Flames
+1 Evolving Wilds
+1 Exotic Orchard
 1 Exsanguinate
-1 Feed the Swarm
-1 Fellwar Stone
+1 Extended Absence
+1 Fabled Passage
 1 Fiery Annihilation
 1 Firespitter Whelp
-1 Fuel the Flames
-1 Gilded Lotus
-1 Goldspan Dragon
-1 Hedron Archive
-1 Hero's Downfall
+1 Go for the Throat
+1 Goldlust Triad
+1 Haven of the Spirit Dragon
+1 Hazoret's Monument
+1 Herald's Horn
 1 Hoarding Dragon
-1 Idol of Oblivion
-1 Ill-Tempered Loner // Howlpack Avenger
 1 Immersturm Predator
-1 Impact Tremors
-1 Infernal Grasp
-1 Knuckles's Gloves
 1 Lathliss, Dragon Queen
-1 Lux Cannon
+1 Leyline Tyrant
+1 Lightning Bolt
 1 Manaform Hellkite
-1 Mazemind Tome
-1 Midnight Reaper
-1 Morbid Opportunist
+1 Mind Stone
+1 Orb of Dragonkind
+1 Outpost Siege
+1 Parapet Thrasher
+1 Patchwork Banner
+1 Path of Ancestry
 1 Perforating Artist
-1 Pyromancer's Goggles
+1 Rakdos Guildgate
+1 Rakdos Signet
 1 Rapacious Dragon
-1 Scorching Dragonfire
-1 Season of the Bold
+1 Riveteers Requisitioner
+1 Sarkhan, Dragon Ascendant
+1 Scourge of the Throne
+1 Scourge of Valkas
+1 Seismic Rupture
 1 Seize the Spoils
+1 Shivan Devastator
+1 Skyline Despot
 1 Smaug the Magnificent
 1 Smaug, Wicked Worm
-1 Smaug, the Great Calamity // Spew Flame
 1 Sol Ring
-1 Solemn Simulacrum
-1 Steel Hellkite
-1 Storm-Kiln Artist
+1 Spicy Oatmeal Pizza
+1 Spit Flame
+1 Stingerquill Charm
+1 Sulfurous Springs
 1 Swiftfoot Boots
+1 Talisman of Indulgence
+1 Temple of Malice
+1 Terramorphic Expanse
 1 Terror of Mount Velus
 1 The Black Arrow
 1 The Misty Mountains Cold
-1 Thrór's Map
+1 Thunderbreak Regent
+1 Thundermane Dragon
+1 Turbulent Crater
+1 Tyrant's Familiar
 1 Unexpected Windfall
-1 Vampiric Rites
-1 Zombify
-1 Bloodfell Caves
-1 Bojuka Bog
-1 Command Tower
-1 Evolving Wilds
-1 Exotic Orchard
-1 Fabled Passage
-1 Great Furnace
-1 Path of Ancestry
-1 Rakdos Guildgate
-1 Rogue's Passage
-1 Secluded Courtyard
-1 Spire of Industry
-1 Temple of Malice
-1 The Lonely Mountain
-1 Thriving Bluff
-13 Mountain
-9 Swamp
+1 Violent Echoes
+1 Withering Torment
+15 Mountain
+7 Swamp
