@@ -6,7 +6,7 @@ Commander: Smaug the Impenetrable ({5}{B}{R}, Black/Red)
 - **Strategy**: Smaug is an 8/7 flying, **indestructible**, hasty Dragon who turns every point of *noncombat* damage he takes into a Treasure token. Because he survives damage that kills everything else, the deck aims damage at its own commander on purpose: **Blasphemous Act** deals 13 to every creature, wipes the pod's board, and hands you thirteen Treasures to rebuild with while everyone else is empty. Eleven cards can put noncombat damage on him, so this is the main line, not a lucky one. The Treasures cast the Dragons; **Exsanguinate** turns a surplus hoard into simultaneous damage to all three opponents; and **Perforating Artist** drains 9 a turn in the background as long as Smaug keeps attacking.
 - **Ceiling**: **Dawnsire, Sunstar Dreadnought** is the best-case upgrade rather than the plan — a 1-of you'll see in roughly 20–30% of games (Hoarding Dragon can tutor it). When it lands it converts the one-shot Treasure burst into a repeating one at 100 a combat. Only it and Coretapper care that it exists; nothing else in the deck is built around it.
 - **Intended for**: Multiplayer pod — three real sweepers, per-opponent drain, a repeatable edict, and a commander who survives damage-based wraths.
-- **Card pool**: Full collection (`moxfield_latest.csv`), **plus Dawnsire, Sunstar Dreadnought**, which the user is acquiring and which does not appear in the collection export.
+- **Card pool**: Full collection (`moxfield_latest.csv`). Dawnsire, Sunstar Dreadnought, once a planned purchase, is now in the collection.
 
 ## Lore
 
@@ -58,7 +58,7 @@ Spears glance off. Arrows shatter. The mountain's king barely stirs — every wo
 - **Fellwar Stone** — {2}. In a pod, somebody is producing your colours.
 - **Idol of Oblivion** — {2}. `{T}`: draw a card, if you created a token this turn. **One card per turn**, however many tokens you made — but it is live every turn here.
 - **Mazemind Tome** — {2}. Scry for `{T}` or draw for `{2},{T}`, four times, then it exiles itself and gains you **4 life**.
-- **Swiftfoot Boots** — {2}. Smaug already has haste and indestructible; **hexproof** is the gap — it stops a Swords to Plowshares or a Pongify. It does **not** stop an edict or a sacrifice effect, which don't target. *(You own three copies. The Secret Lair "Air Shoes" printing is the one sleeved in Full Deployment, so use one of the two plain printings.)*
+- **Swiftfoot Boots** — {2}. Smaug already has haste and indestructible; **hexproof** is the gap — it stops a Swords to Plowshares or a Pongify. It does **not** stop an edict or a sacrifice effect, which don't target. *(You own five copies, three of them sleeved in the reserved decks Full Deployment, Claws for Concern and Table Manners. If you build this deck while those stay assembled, use one of the two free printings.)*
 - **Thrór's Map** — {2}. Fetches a basic to **hand** (not the battlefield), then loots for `{2},{T}`.
 - **Carnelian Orb of Dragonkind** — {2}{R}. Taps for {R}; that mana gives a Dragon haste.
 - **Chromatic Lantern** — {3}. **Every land you control taps for any colour.** The best fixing available in the collection, and the fix for a deck whose pips run 3:1 red but which still needs {B}{B} on curve.
@@ -120,7 +120,7 @@ Spears glance off. Arrows shatter. The mountain's king barely stirs — every wo
 
 ## Changes in This Revision
 
-Applied after a five-angle review (synergy, rules accuracy, mana base, multiplayer viability, card-pool sweep). All additions verified owned and within Black/Red/colourless identity, except Dawnsire, which is user-supplied.
+Applied after a five-angle review (synergy, rules accuracy, mana base, multiplayer viability, card-pool sweep). All additions verified owned and within Black/Red/colourless identity (Dawnsire has since been added to the collection).
 
 | Cut | Reason | Added |
 |-----|--------|-------|
@@ -183,7 +183,7 @@ Blasphemous Act is counted at 9 but reliably costs {R} in a real pod. Exsanguina
 - **The engine is damage aimed inward**: ten-plus cards can put noncombat damage on your own commander, counting Abrade and Scorching Dragonfire. Dawnsire converts that from a one-shot trick into a repeating one.
 - **Sweepers are ramp here**, but only those that deal damage *and* can hit a flier — which is why Decree of Pain and Seismic Rupture were cut and the count settled at three.
 - **Treasures finally have somewhere to go.** The previous draft generated a hoard with nothing to spend it on. Exsanguinate, Lux Cannon, Steel Hellkite's {X} and Dawnsire's Station are the sinks.
-- **Fixing over raw land count**: pips run 3:1 red to black but the deck still needs {B}{B} on curve, and the collection contains **no untapped Rakdos dual at all**. Chromatic Lantern is the only real answer available.
+- **Fixing over raw land count**: pips run 3:1 red to black but the deck still needs {B}{B} on curve, and the deck's Rakdos duals all enter tapped. The collection now also holds **Sulfurous Springs** (untapped, 1 damage for coloured mana) and **Turbulent Crater** (untapped once opponents control eight or more lands), neither in this list yet. Chromatic Lantern remains the main fix in the meantime.
 
 ## Analysis
 
@@ -194,15 +194,15 @@ Blasphemous Act is counted at 9 but reliably costs {R} in a real pod. Exsanguina
 - A high ceiling when Dawnsire shows up — a repeatable mana engine the pod largely cannot interact with, since below 20 counters it is not a creature — without the deck depending on it.
 
 **Weaknesses/Missing Staples**:
-- **Dragon tribal support**: a full sweep of the eligible pool confirms the collection holds **no additional Dragon creatures and no Dragon tribal payoffs at all** — no Dragon Tempest, Scourge of Valkas, Herald's Horn, Dragon's Hoard or Vanquisher's Banner. Every playable Dragon you own is already here. A hard collection ceiling.
-- **Protection is one card.** Swiftfoot Boots is the only piece, and the pool contains no second hexproof or ward source and no answer to exile. Smaug is a single point of failure for roughly a dozen cards.
+- **Dragon tribal support is unused**: the collection now holds many Dragons and Dragon payoffs this list does not run — Dragon Tempest, Scourge of Valkas, Herald's Horn, Dragon's Hoard, Dragonspeaker Shaman, Thunderbreak Regent, Thundermane Dragon, Parapet Thrasher, Drakuseth and more. The `Smaug_the_Impenetrable_Deck.md` build is built around them; any of them could be tested in the Treasure slots here.
+- **Protection is one card.** Swiftfoot Boots is the only piece in this list. Thunderbreak Regent (owned, not included) punishes opponents for targeting any Dragon, but nothing in the collection answers exile. Smaug is a single point of failure for roughly a dozen cards.
 - **Mass artifact/enchantment removal does not exist in the pool** — no Vandalblast, no By Force. Lux Cannon and Chaos Warp answer one permanent at a time.
-- **Colour consistency**: roughly 22 red and 18 black sources against fourteen {R}{R} cards. Chromatic Lantern papers over this; a Rakdos dual would fix it, and none exists in the collection.
+- **Colour consistency**: roughly 22 red and 18 black sources against fourteen {R}{R} cards. Chromatic Lantern papers over this; Sulfurous Springs and Turbulent Crater, both owned, would help.
 - **Graveyard hate is thin**: Bojuka Bog hits one player once.
 
 ## Next Steps (Optional Suggestions)
 
-- **Massacre Wurm** ({3}{B}{B}{B}) is the biggest single upgrade left — a one-sided -2/-2 across three opponents plus 2 life drained per creature that dies. Held back only because triple black is unreliable off ~18 sources; revisit once Chromatic Lantern proves itself.
+- **Massacre Wurm** ({3}{B}{B}{B}, owned but currently sleeved in the reserved deck Table Manners) is the biggest single upgrade left — a one-sided -2/-2 across three opponents plus 2 life drained per creature that dies. Held back only because triple black is unreliable off ~18 sources; revisit once Chromatic Lantern proves itself.
 - **Mana Geyser** ({3}{R}{R}) routinely makes 9–15 mana in a developed pod — a candidate over Seize the Spoils.
 - **Meteor Golem** ({7}) destroys any nonland permanent an opponent controls and is an artifact, so Hoarding Dragon tutors it.
 - **Pinnacle Kill-Ship** ({7}, ETB 10 damage to a creature) is a second Spacecraft and a 10-Treasure burst if you want redundancy on the Dawnsire plan.
@@ -218,7 +218,7 @@ Blasphemous Act is counted at 9 but reliably costs {R} in a real pod. Exsanguina
 - **Sitting on It** — Two words, what dragons famously do with gold, and a fair description of a board nobody can profitably attack.
 
 ---
-Deck created from cards in your moxfield collection (moxfield_latest.csv & card_details.md), plus Dawnsire, Sunstar Dreadnought, which is not in the collection export.
+Deck created from cards in your moxfield collection (moxfield_latest.csv & card_details.md).
 
 **Version**: Draft | **Status**: Working version — revised after a five-angle review
 **Generated**: 2026-09-18
@@ -227,86 +227,86 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
 
 ## Card Collection Origin
 
-The **Precon(s)** column lists precon sources from `moxfield_cards.md`. Dawnsire shows `—` because it is not in the collection.
+The **Precon(s)** column lists precon sources from `moxfield_cards.md`. The table is sorted into the commander, the Commander-precon block (grouped by precon, then type, then A–Z), and the colour block (W/U/B/R/G/colourless/multicolour, A–Z). Dawnsire shows `—` because it comes from no precon.
 
 | Card | Mana Cost | Category | Precon(s) |
 |------|-----------|----------|-----------|
 | Smaug the Impenetrable | {5}{B}{R} | Commander | — |
-| Bastion of Remembrance | {2}{B} | Enchantment | — |
-| Deadly Dispute | {1}{B} | Instant | — |
+| Goldspan Dragon | {3}{R}{R} | Creature | Prismari Artistry |
+| Manaform Hellkite | {2}{R}{R} | Creature | Prismari Artistry |
+| Solemn Simulacrum | {4} | Artifact Creature | Prismari Artistry |
+| Storm-Kiln Artist | {3}{R} | Creature | Prismari Artistry |
+| Arcane Signet | {2} | Artifact | Counter Intelligence; Dance of the Elements; Prismari Artistry; Squirreled Away |
+| Fellwar Stone | {2} | Artifact | Dance of the Elements; Prismari Artistry |
+| Sol Ring | {1} | Artifact | Counter Intelligence; Dance of the Elements; Prismari Artistry; Sonic the Hedgehog: Chasing Adventure; Squirreled Away; The Bark Ages |
+| Abrade | {1}{R} | Instant | Prismari Artistry; The Bark Ages |
+| Big Score | {3}{R} | Instant | Prismari Artistry |
+| Chaos Warp | {2}{R} | Instant | Counter Intelligence; Prismari Artistry; The Bark Ages |
+| Blasphemous Act | {8}{R} | Sorcery | Dance of the Elements; Prismari Artistry |
+| Chain Reaction | {2}{R}{R} | Sorcery | Counter Intelligence; Prismari Artistry |
+| Command Tower | — | Land | Counter Intelligence; Dance of the Elements; Prismari Artistry; Squirreled Away; The Bark Ages |
+| Exotic Orchard | — | Land | Counter Intelligence; Dance of the Elements; Prismari Artistry; Squirreled Away |
+| Fabled Passage | — | Land | Prismari Artistry |
+| Mountain (×13) | — | Basic Land | Counter Intelligence; Dance of the Elements; Foundations Beginner Box; Otter Limits; Prismari Artistry; The Bark Ages |
+| Path of Ancestry | — | Land | Dance of the Elements; Prismari Artistry; Squirreled Away; The Bark Ages |
+| Coretapper | {2} | Artifact Creature | Counter Intelligence |
+| Everflowing Chalice | {0} | Artifact | Counter Intelligence |
+| Lux Cannon | {4} | Artifact | Counter Intelligence |
+| Evolving Wilds | — | Land | Counter Intelligence; Squirreled Away |
+| Great Furnace | — | Artifact Land | Counter Intelligence |
+| Spire of Industry | — | Land | Counter Intelligence |
+| Academy Manufactor | {3} | Artifact Creature | Squirreled Away |
+| Morbid Opportunist | {2}{B} | Creature | Squirreled Away |
+| Bastion of Remembrance | {2}{B} | Enchantment | Squirreled Away |
+| Idol of Oblivion | {2} | Artifact | Squirreled Away |
+| Deadly Dispute | {1}{B} | Instant | Sonic the Hedgehog: Chasing Adventure; Squirreled Away |
+| Bojuka Bog | — | Land | Squirreled Away |
+| Swamp (×9) | — | Basic Land | Dance of the Elements; Foundations Beginner Box; Squirreled Away |
+| Chromatic Lantern | {3} | Artifact | Dance of the Elements |
+| Secluded Courtyard | — | Land | Dance of the Elements |
+| Thriving Bluff | — | Land | Dance of the Elements |
 | Exsanguinate | {X}{B}{B} | Sorcery | — |
 | Feed the Swarm | {1}{B} | Sorcery | — |
-| Hero's Downfall | {1}{B}{B} | Instant | — |
+| Hero's Downfall | {1}{B}{B} | Instant | Foundations Beginner Box |
 | Infernal Grasp | {1}{B} | Instant | — |
 | Midnight Reaper | {2}{B} | Creature | — |
-| Morbid Opportunist | {2}{B} | Creature | — |
 | Vampiric Rites | {B} | Enchantment | — |
 | Zombify | {3}{B} | Sorcery | — |
-| Abrade | {1}{R} | Instant | — |
-| Big Score | {3}{R} | Instant | — |
-| Blasphemous Act | {8}{R} | Sorcery | — |
 | Burn, Burn, Tree and Fern | {3}{R} | Enchantment | — |
-| Carnelian Orb of Dragonkind | {2}{R} | Artifact | — |
-| Chain Reaction | {2}{R}{R} | Sorcery | — |
-| Chaos Warp | {2}{R} | Instant | — |
+| Carnelian Orb of Dragonkind | {2}{R} | Artifact | Foundations Beginner Box |
 | Dori, Bearer of Friends | {2}{R} | Legendary Creature | — |
-| Dragonlord's Servant | {1}{R} | Creature | — |
+| Dragonlord's Servant | {1}{R} | Creature | Foundations Beginner Box |
 | Dragonmaster Outcast | {R} | Creature | — |
-| Fiery Annihilation | {2}{R} | Instant | — |
+| Fiery Annihilation | {2}{R} | Instant | Foundations Beginner Box |
 | Firespitter Whelp | {2}{R} | Creature | Foundations Beginner Box |
 | Fuel the Flames | {2}{R} | Instant | — |
-| Goldspan Dragon | {3}{R}{R} | Creature | — |
 | Hoarding Dragon | {3}{R}{R} | Creature | — |
 | Ill-Tempered Loner // Howlpack Avenger | {2}{R}{R} | Creature | — |
 | Impact Tremors | {1}{R} | Enchantment | — |
 | Knuckles's Gloves (The Reaver Cleaver) | {2}{R} | Legendary Artifact | Sonic the Hedgehog: Turbo Gear |
 | Lathliss, Dragon Queen | {4}{R}{R} | Legendary Creature | — |
-| Manaform Hellkite | {2}{R}{R} | Creature | — |
-| Rapacious Dragon | {4}{R} | Creature | — |
-| Scorching Dragonfire | {1}{R} | Instant | — |
+| Rapacious Dragon | {4}{R} | Creature | Foundations Beginner Box |
+| Scorching Dragonfire | {1}{R} | Instant | Foundations Beginner Box |
 | Season of the Bold | {3}{R}{R} | Sorcery | — |
-| Seize the Spoils | {2}{R} | Sorcery | — |
+| Seize the Spoils | {2}{R} | Sorcery | Foundations Beginner Box |
 | Smaug the Magnificent | {2}{R}{R} | Legendary Creature | — |
-| Smaug, the Great Calamity // Spew Flame | {5}{R}{R} | Legendary Creature | — |
-| Storm-Kiln Artist | {3}{R} | Creature | — |
-| Terror of Mount Velus | {5}{R}{R} | Creature | — |
+| Smaug, the Great Calamity // Spew Flame | {5}{R}{R} | Legendary Creature // Sorcery | — |
+| Terror of Mount Velus | {5}{R}{R} | Creature | Foundations Beginner Box |
 | The Misty Mountains Cold | {2}{R} | Enchantment | — |
-| Unexpected Windfall | {2}{R}{R} | Instant | — |
-| Academy Manufactor | {3} | Artifact Creature | — |
-| Arcane Signet | {2} | Artifact | — |
+| Unexpected Windfall | {2}{R}{R} | Instant | Sonic the Hedgehog: Chasing Adventure |
 | Bloodfell Caves | — | Land | — |
-| Bojuka Bog | — | Land | — |
-| Chromatic Lantern | {3} | Artifact | — |
-| Command Tower | — | Land | — |
-| Coretapper | {2} | Artifact Creature | — |
 | Dawnsire, Sunstar Dreadnought | {5} | Legendary Artifact | — |
-| Everflowing Chalice | {0} | Artifact | — |
-| Evolving Wilds | — | Land | — |
-| Exotic Orchard | — | Land | — |
-| Fabled Passage | — | Land | — |
-| Fellwar Stone | {2} | Artifact | — |
 | Gilded Lotus | {5} | Artifact | — |
-| Great Furnace | — | Artifact Land | — |
 | Hedron Archive | {4} | Artifact | — |
-| Idol of Oblivion | {2} | Artifact | — |
-| Lux Cannon | {4} | Artifact | — |
 | Mazemind Tome | {2} | Artifact | — |
-| Mountain (×13) | — | Basic Land | — |
-| Path of Ancestry | — | Land | — |
 | Pyromancer's Goggles | {5} | Legendary Artifact | — |
 | Rakdos Guildgate | — | Land | — |
 | Rogue's Passage | — | Land | — |
-| Secluded Courtyard | — | Land | — |
-| Sol Ring | {1} | Artifact | — |
-| Solemn Simulacrum | {4} | Artifact Creature | — |
-| Spire of Industry | — | Land | — |
 | Steel Hellkite | {6} | Artifact Creature | — |
-| Swamp (×9) | — | Basic Land | — |
 | Swiftfoot Boots | {2} | Artifact | Sonic the Hedgehog: Turbo Gear |
 | Temple of Malice | — | Land | — |
 | The Black Arrow | {3} | Legendary Artifact | — |
 | The Lonely Mountain | — | Land | — |
-| Thriving Bluff | — | Land | — |
 | Thrór's Map | {2} | Legendary Artifact | — |
 | Immersturm Predator | {2}{B}{R} | Creature | — |
 | Perforating Artist | {1}{B}{R} | Creature | — |
