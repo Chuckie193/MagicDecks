@@ -90,25 +90,21 @@ After every change to a `Custom Decks/*.md` file, update the corresponding `Cust
 
 ### 6. Card Collection Origin Table Sort Order
 
-The table must remain sorted correctly after any change. It has exactly **three** parts, in this order:
+The table must remain sorted correctly after any change. Rows go in this order, and **every group is sorted alphabetically** (by alt name if one exists, otherwise by card name). There is no type sorting anywhere.
 
-**1. The Commander row** — always first, before everything else.
+**1. The Commander row** — always first.
 
-**2. The Commander-precon block** — every card available from a deck in `Precons/Commander Precons/` (currently Counter Intelligence, Dance of the Elements, Prismari Artistry, Squirreled Away, The Bark Ages).
-- **Group by precon**: order the groups by how many deck cards each Commander precon contributes (largest first; break ties by alphabetising the precon name).
-- A card listed under several Commander precons belongs to whichever of them contributes the most cards to the deck. A card listed under both a Commander precon and a non-Commander precon belongs **here**, in the Commander-precon block.
-- **Within each group, sort by card type** in this order: Creature → Enchantment → Artifact → Instant → Sorcery → Planeswalker → Land.
-- **Within the same type, sort alphabetically** (by alt name if one exists, otherwise by card name).
+**2. The main-precon block** — every card from the deck's **main Commander precon**: the deck in `Precons/Commander Precons/` that contributes the most cards to this deck (break ties by alphabetising the precon name). For Hoard Mentality this is Reign of Dragons. A card belongs here if that precon appears anywhere in its Precon(s) column, whatever else is listed with it. This includes lands and basic lands (e.g. Mountain, when the main precon lists Mountains). Only one precon gets this block; cards from every other precon, Commander or not, go into the groups below.
 
-**3. The colour-sorted block** — every remaining card, in one single block with **no precon grouping**. This is where cards from non-Commander precons (Foundations Beginner Box, Hare Raising, Otter Limits, the Secret Lair drops) and cards with no precon (`—`) go, mixed together. Never give Foundations or any other non-Commander precon its own group at the top.
-- **Sort by the colours of the casting cost**, in this order: White → Blue → Black → Red → Green → Colourless → Multicolour.
-- A card's group is decided by the coloured pips in its **Mana Cost** column, not by its colour identity:
-  - Pips of exactly one colour, however many → that colour's group (`{3}{B}{B}` → Black; `{1}{G}{G}{G}{G}` → Green).
-  - Pips of two or more different colours → **Multicolour**, the final group (`{1}{B}{G}` → Multicolour; a hybrid `{B/G}` is two colours → Multicolour).
-  - Hybrid and Phyrexian count as the colours they contain: `{U/P}` is mono-blue, `{2/W}` is mono-white.
-  - No coloured pips at all → **Colourless**. This covers generic-only costs (`{1}`, `{2}`, `{X}{X}`) and every **land**, which has `—` for a cost.
-- **Within each colour group, sort alphabetically only** (by alt name if one exists, otherwise by card name). No type sorting inside this block.
-- The Precon(s) column still shows each card's precons as normal — it just no longer drives the ordering here.
+**3. Everything else**, in these groups, in this order:
+1. **White** → 2. **Blue** → 3. **Black** → 4. **Red** → 5. **Green**: nonland cards whose casting-cost pips are all one colour, however many (`{3}{B}{B}` → Black; `{1}{G}{G}{G}{G}` → Green).
+6. **Multicolour**: nonland cards with pips of two or more different colours (`{1}{B}{G}`; a hybrid `{B/G}` is two colours).
+7. **Colourless**: nonland cards with no coloured pips (`{1}`, `{2}`, `{X}{X}`).
+8. **Nonbasic lands.**
+9. **Basic lands** (Category `Basic Land`).
+
+- A card's colour group comes from the coloured pips in its **Mana Cost** column, not its colour identity. Hybrid and Phyrexian count as the colours they contain: `{U/P}` is mono-blue, `{2/W}` is mono-white. For a DFC use the front-face cost.
+- The Precon(s) column still lists every precon for each card. Only the main precon drives ordering.
 
 ### 7. Versioning
 

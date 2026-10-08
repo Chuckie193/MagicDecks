@@ -12,6 +12,7 @@ This is the source of truth for the "Avoid reserved decks" card-pool option in t
 | Claws for Concern | `Custom Decks/Moxfield/Claws_for_Concern_Deck.txt` | Custom deck — Tovolar, Dire Overlord |
 | Table Manners | `Custom Decks/Moxfield/Table_Manners_Deck.txt` | Custom deck — Ygra, Eater of All. This is the rebuilt Squirreled Away precon; it replaces that precon's row, so the original Squirreled Away list is not reserved |
 | Dance of the Elements | `Precons/Commander Precons/DanceOfTheElements.txt` | Commander precon — Ashling, the Limitless |
+| Multiverse Reforged | `Precons/Commander Precons/MultiverseReforged.txt` | Commander precon — Jace, Multiverse Architect |
 
 ---
 

@@ -362,7 +362,7 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
 
 12. **Card Collection Origin Table**:
 
-   At the bottom of every generated deck file, append a "Card Collection Origin" table listing every card in the deck (all 100), sorted by category then alphabetically within category. Use `moxfield_cards.md` as the data source (the `Precon` column contains semicolon-separated precon names, or is blank if the card is not from a precon).
+   At the bottom of every generated deck file, append a "Card Collection Origin" table listing every card in the deck (all 100), in the sort order given below. Use `moxfield_cards.md` as the data source (the `Precon` column contains semicolon-separated precon names, or is blank if the card is not from a precon).
 
    **Table format**:
    ```
@@ -372,17 +372,18 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
    |------|-----------|----------|-----------|
    | Bria, Riptide Rogue | {2}{U}{R} | Commander | Otter Limits |
    | Archmage Emeritus | {2}{U}{U} | Creature | Prismari Artistry |
-   | Hangarback Walker | {X}{X} | Artifact Creature | Counter Intelligence |
-   | Sol Ring | {1} | Artifact | Counter Intelligence; Prismari Artistry; Squirreled Away |
-   | Island (x7) | — | Land | Counter Intelligence; Foundations Beginner Box; Otter Limits; Prismari Artistry |
+   | Island (x7) | — | Basic Land | Counter Intelligence; Foundations Beginner Box; Otter Limits; Prismari Artistry |
+   | Sol Ring | {1} | Artifact | Prismari Artistry; Squirreled Away |
    | Ponder | {U} | Sorcery | — |
    | Shock | {R} | Instant | Foundations Beginner Box |
-   | Arcane Signet | {2} | Artifact | — |
-   | Mountain (x7) | — | Land | Foundations Beginner Box |
    | Electrolyze | {1}{U}{R} | Instant | — |
+   | Arcane Signet | {2} | Artifact | — |
+   | Hangarback Walker | {X}{X} | Artifact Creature | Counter Intelligence |
+   | Shivan Reef | — | Land | — |
+   | Mountain (x7) | — | Basic Land | Foundations Beginner Box |
    ```
 
-   The first five rows are the Commander-precon block (grouped by precon, type then A–Z). The last five are the colour-sorted block: Blue, then Red, then Colourless (`Arcane Signet` and the `Mountain` land, alphabetical), then Multicolour. `Shock` and `Mountain` sit here rather than in a "Foundations Beginner Box" group because Foundations is not a Commander precon.
+   Prismari Artistry contributes the most cards (three, against Counter Intelligence's two), so it is the main precon. Its block (Archmage Emeritus, Island, Sol Ring) comes straight after the commander, A–Z; Island is there because Prismari lists Islands. Everything else follows by group: Blue (Ponder), Red (Shock), Multicolour (Electrolyze), Colourless (Arcane Signet, Hangarback Walker — a Counter Intelligence card, but Counter Intelligence is not the main precon), nonbasic lands (Shivan Reef), then basic lands (Mountain).
 
    **Mana Cost column**: the card's full casting cost in standard symbol notation, so the colours spent are visible without cross-referencing. Convert the plain-English `mana_cost` in `card_details.md`:
    - `3 generic, Black, Green` → `{3}{B}{G}`; `Green` → `{G}`; `1 generic` → `{1}`
@@ -400,29 +401,24 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
    - A card with type_line `Artifact — Vehicle` → Category: `Artifact Vehicle` (Vehicle is a subtype but treat it as a type for this column since it affects section placement)
    - A card with type_line containing `Space Station` → include it similarly
 
-   **Sort order** — the table has exactly **three** parts, in this order:
+   **Sort order** — every group is sorted **alphabetically** (by alt name where one exists, otherwise by card name). There is no type sorting anywhere in the table.
 
-   **1. Commander row** — always first, before everything else.
+   **1. Commander row** — always first.
 
-   **2. The Commander-precon block** — every card available from a deck in `Precons/Commander Precons/` (currently Counter Intelligence, Dance of the Elements, Prismari Artistry, Squirreled Away, The Bark Ages; check the folder rather than trusting this list). Cards whose precons are all *non*-Commander precons do **not** belong here.
-   - **Group by precon**: order the groups by how many deck cards each Commander precon contributes — largest first. Break ties by alphabetising the precon name.
-   - **Cards in multiple precons**: a card listed under several Commander precons belongs to the group of whichever contributes the most cards to the deck; if tied, use the first such precon listed in its Precon(s) column. A card listed under both a Commander precon and a non-Commander precon belongs **here**, in the Commander-precon block.
-   - **Within each group, sort by card type**: use the card's **primary type** (see section placement priority below). Order: Creature → Enchantment → Artifact → Instant → Sorcery → Planeswalker → Land. Within the same type group, sort alphabetically (by alt name where one exists, otherwise by card name).
+   **2. The main-precon block** — every card from the deck's **main Commander precon**: the deck in `Precons/Commander Precons/` that contributes the most cards to this deck (check the folder rather than trusting any list; break ties by alphabetising the precon name). A card belongs here if that precon appears anywhere in its Precon(s) column, whatever else is listed with it, and that includes lands and basic lands the precon lists. Only one precon gets a block; cards from every other precon, Commander or not, go into the groups below.
 
-   **3. The colour-sorted block** — every remaining card, in one single block with **no precon grouping**: cards from non-Commander precons (`Precons/*.txt` — Foundations Beginner Box, Hare Raising, Otter Limits, the Secret Lair drops) and cards with no precon (`—`), mixed together. Never give Foundations or any other non-Commander precon its own group at the top of the table.
-   - **Sort by the colours of the casting cost**: White → Blue → Black → Red → Green → Colourless → Multicolour.
-   - A card's group comes from the coloured pips in its **Mana Cost** column, not from its colour identity:
-     - Pips of exactly one colour, however many → that colour's group (`{3}{B}{B}` → Black; `{1}{G}{G}{G}{G}` → Green).
-     - Pips of two or more different colours → **Multicolour**, the final group (`{1}{B}{G}` → Multicolour; a hybrid `{B/G}` contains two colours → Multicolour).
-     - Hybrid and Phyrexian count as the colours they contain: `{U/P}` is mono-blue, `{2/W}` is mono-white.
-     - No coloured pips at all → **Colourless**: generic-only costs (`{1}`, `{2}`, `{X}{X}`) and every **land**, whose cost is `—`.
-     - For a DFC, use the front-face cost already in the Mana Cost column.
-   - **Within each colour group, sort alphabetically only** (by alt name where one exists, otherwise by card name). No type sorting inside this block.
-   - The Precon(s) column still shows each card's precons as normal — it just no longer drives the ordering here.
+   **3. Everything else**, in these groups, in this order:
+   1. **White** → 2. **Blue** → 3. **Black** → 4. **Red** → 5. **Green**: nonland cards whose casting-cost pips are all one colour, however many (`{3}{B}{B}` → Black; `{1}{G}{G}{G}{G}` → Green).
+   6. **Multicolour**: nonland cards with pips of two or more different colours (`{1}{B}{G}`; a hybrid `{B/G}` contains two colours).
+   7. **Colourless**: nonland cards with no coloured pips (`{1}`, `{2}`, `{X}{X}`).
+   8. **Nonbasic lands.**
+   9. **Basic lands** (Category `Basic Land`).
+   - A card's colour group comes from the coloured pips in its **Mana Cost** column, not from its colour identity. Hybrid and Phyrexian count as the colours they contain: `{U/P}` is mono-blue, `{2/W}` is mono-white. For a DFC, use the front-face cost already in the Mana Cost column.
+   - The Precon(s) column still shows each card's precons as normal. Only the main precon drives the ordering.
 
    **Other guidelines**:
 
-   **Section placement priority** (determines which deck section a card goes into AND its sort group in the table):
+   **Section placement priority** (determines which deck section a card goes into):
    1. **Creatures** — type_line contains "Creature", "Vehicle", or "Space Station" (artifact creatures, Vehicle artifacts, and Space Station artifacts all go here)
    2. **Enchantments** — type_line contains "Enchantment" but not "Creature" (artifact enchantments go here, not under Artifacts)
    3. **Artifacts & Mana** — type_line contains "Artifact" but not "Creature" or "Enchantment"
@@ -430,7 +426,7 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
    5. **Sorceries** — type_line contains "Sorcery"
    6. **Planeswalkers** — type_line contains "Planeswalker"
    7. **Lands** — type_line contains "Land"
-   - **Alt names**: Check the `Alt Name(s)` column in `moxfield_cards.md` for each card. If a non-empty value is present, display the card as `"Alt Name (Original Name)"` — e.g., `Air Shoes (Swiftfoot Boots)`. Sort alphabetically by the alt name within its type group. This lets the player match the physical card art to the list.
+   - **Alt names**: Check the `Alt Name(s)` column in `moxfield_cards.md` for each card. If a non-empty value is present, display the card as `"Alt Name (Original Name)"` — e.g., `Air Shoes (Swiftfoot Boots)`. Sort alphabetically by the alt name within its table group. This lets the player match the physical card art to the list.
    - For basic lands with multiple copies (e.g., `Island (x7)`), list as a single row
    - For multiple copies of the same nonbasic land (e.g., `Cascade Bluffs (x2)`), list as a single row
    - If a card appears in multiple precon rows in moxfield_cards.md (different editions), combine and deduplicate the precon names
@@ -446,7 +442,7 @@ Deck created from cards in your moxfield collection (moxfield_latest.csv & card_
    4. Check: every card in the table must appear in the decklist — report any extra cards.
    5. Check: every table row has exactly four columns, and each card's Mana Cost matches the converted `mana_cost` from `card_details.md` (front face for DFCs, `—` for lands).
    5a. Check: each card's Category in the table shows all of its card types (supertypes + types, no subtypes) from `type_line`. A card in the Creatures section may have Category "Artifact Creature" — that is correct. What matters is that the section placement follows the priority rules in check #6 below.
-   5b. **Sort-order check**: confirm the table is in the three parts described above — Commander row, then the Commander-precon block grouped by precon, then one colour-sorted block (W → U → B → R → G → Colourless → Multicolour, alphabetical within each). The two most common errors are a non-Commander precon (Foundations Beginner Box, Hare Raising, Otter Limits, a Secret Lair drop) given its own group near the top, and a card that is in both a Commander and a non-Commander precon dropped into the colour block instead of the Commander-precon block.
+   5b. **Sort-order check**: confirm the order described above: the Commander row, then the main-precon block (the Commander precon contributing the most cards, A–Z, its basic lands included), then White → Blue → Black → Red → Green → Multicolour → Colourless → nonbasic lands → basic lands, A–Z within each. The most common errors are giving a second precon its own block, sorting by card type inside a group, and leaving lands in the Colourless group.
    6. **Type-line check**: For every non-land card in the decklist, look up its `type_line` in `card_details.md` and confirm the section it was placed in follows the section placement priority:
       - Creatures section → type_line must contain "Creature", "Vehicle", or "Space Station" (priority 1; artifact creatures and Vehicles belong here, not under Artifacts)
       - Enchantments section → type_line must contain "Enchantment" but NOT "Creature" (priority 2; artifact enchantments belong here, not under Artifacts)
