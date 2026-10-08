@@ -3,7 +3,7 @@
 Commander: Smaug the Impenetrable ({5}{B}{R}, Black/Red)
 
 ## Overview
-- **Strategy**: Smaug is the biggest Dragon in a deck of 23 of them. Cost reducers and Dragon-only mana (Dragonspeaker Shaman, Dragonlord's Servant, Herald's Horn, Orb of Dragonkind) put 4- to 7-drops on the table early, and Treasures from Smaug's own trigger and a dozen other sources pay for the rest. Damage aimed at your own indestructible commander (Dragon Tempest, Scourge of Valkas, the burn suite, Leyline Tyrant) becomes still more Treasures, and the pod dies to flying Dragons, spread damage (Parapet Thrasher, Drakuseth, Firespitter Whelp, Goldlust Triad's myriad) Exsanguinate off the hoard, or Dawnsire's 100 damage at Smaug every attack.
+- **Strategy**: Smaug is the biggest Dragon in a deck of 24 of them. Cost reducers and Dragon-only mana (Dragonspeaker Shaman, Dragonlord's Servant, Herald's Horn, Orb of Dragonkind) put 4- to 7-drops on the table early, and Treasures from Smaug's own trigger and ten other sources pay for the rest. Damage aimed at your own indestructible commander (Dragon Tempest, Scourge of Valkas, the burn suite, Leyline Tyrant) becomes still more Treasures, and the pod dies to flying Dragons, spread damage (Parapet Thrasher, Drakuseth, Firespitter Whelp, Goldlust Triad's myriad) Exsanguinate off the hoard, or Dawnsire's 100 damage at Smaug every attack.
 - **Intended for**: Multiplayer pod — three sweepers (two of them, Seismic Rupture and Breath Weapon, leave your Dragons standing), hard exile in Extended Absence, group-scaling reach, a monarch engine, an answer to opposing Dragons, and removal that also hits artifacts and enchantments.
 - **Card pool**: Avoid reserved decks — nothing from Full Deployment, Claws for Concern, Table Manners or Dance of the Elements; spare copies of cards those decks use are still eligible (Swiftfoot Boots, for instance, has two free copies).
 
@@ -16,15 +16,15 @@ Heroes arrive daily to slay Smaug and leave daily as cautionary tales. He yawns,
 ## Decklist (100 cards)
 
 ### Commander (1)
-- **Smaug the Impenetrable** — {5}{B}{R} 8/7 flying, indestructible, haste Dragon. **Whenever he is dealt noncombat damage, create that many Treasure tokens.** Indestructible shrugs off lethal damage, so damage aimed at him pays out instead of hurting; -X/-X, exile and sacrifice effects still answer him. He is also one of 23 Dragons in the deck, so every Dragon payoff counts him too.
+- **Smaug the Impenetrable** — {5}{B}{R} 8/7 flying, indestructible, haste Dragon. **Whenever he is dealt noncombat damage, create that many Treasure tokens.** Indestructible shrugs off lethal damage, so damage aimed at him pays out instead of hurting; -X/-X, exile and sacrifice effects still answer him. He is also one of 24 Dragons in the deck, so every Dragon payoff counts him too.
 
-### Creatures (28)
+### Creatures (29)
 - **Dragonmaster Outcast** — {R} 1/1. From six lands on, every upkeep makes a 5/5 flying Dragon. A must-kill that costs one mana, and a threat in the late game.
 - **Sarkhan, Dragon Ascendant** — {1}{R} 2/2. Beholding a Dragon (control one or reveal one from hand) makes a **Treasure**, so he is turn-two ramp into a turn-three Dragon. He then grows and gains flying until end of turn whenever a Dragon enters.
 - **Dragonlord's Servant** — {1}{R} 1/3. Dragon spells cost {1} less.
 - **Dragonspeaker Shaman** — {1}{R}{R} 2/2. Dragon spells cost {2} less. With Dragonlord's Servant, Smaug himself costs {2}{B}{R}; stack Herald's Horn and Hazoret's Monument too and he costs {B}{R}.
 - **Riveteers Requisitioner** — {1}{R} 3/1. Dies into a Treasure, so every sweeper you cast pays one more Treasure. Blitz {2}{R} gives haste and a card on death.
-- **Firespitter Whelp** — {2}{R} 2/2 flying Dragon. Pings **each opponent** for 1 whenever you cast a noncreature *or* Dragon spell: 57 of the 64 nonland cards qualify, plus Smaug from the command zone.
+- **Firespitter Whelp** — {2}{R} 2/2 flying Dragon. Pings **each opponent** for 1 whenever you cast a noncreature *or* Dragon spell: 58 of the 65 nonland cards qualify, plus Smaug from the command zone.
 - **Perforating Artist** — {1}{B}{R} 3/2 deathtouch. **Raid**: at your end step, if you attacked, each opponent loses 3 life unless they sacrifice a nonland permanent or discard a card. Smaug attacks every turn, so it drains or taxes the whole pod every turn.
 - **Leyline Tyrant** — {2}{R}{R} 4/4 flier. Red mana doesn't empty between steps and phases, so Treasures and rocks can be banked across combat. When it dies, pay any amount of {R} and it deals that much damage to any target, which can be your own Smaug for that many Treasures.
 - **Thunderbreak Regent** — {2}{R}{R} 4/4 flier. Whenever an opponent targets a Dragon with a spell or ability, that player takes 3. It taxes every removal spell aimed at Smaug or any other Dragon.
@@ -32,7 +32,7 @@ Heroes arrive daily to slay Smaug and leave daily as cautionary tales. He yawns,
 - **Manaform Hellkite** — {2}{R}{R} 4/4 flier. Every noncreature spell makes an X/X flying, hasty Dragon Illusion (X = mana spent) that is exiled at the next end step. The tokens are Dragons, so they trigger Dragon Tempest and Scourge of Valkas, and they can attack the turn they appear.
 - **Smaug the Magnificent** — {2}{R}{R} 4/3 flying haste. A Treasure every upkeep, and each attack deals damage equal to your Treasures to **any target** — including your own Smaug for a refill.
 - **Atsushi, the Blazing Sky** — {2}{R}{R} 4/4 flying, trample. When it dies, either play the top two cards of your library or take three Treasures — insurance against your own sweepers.
-- **Thundermane Dragon** — {3}{R} 4/4 flier. You may cast creature spells with power 4 or greater from the top of your library, **with haste**. 17 other creatures here qualify (most of the Dragon suite, Lathliss and Skyline Despot among them), so it is a repeating card-advantage engine.
+- **Thundermane Dragon** — {3}{R} 4/4 flier. You may cast creature spells with power 4 or greater from the top of your library, **with haste**. 18 other creatures here qualify (most of the Dragon suite, Lathliss and Skyline Despot among them), so it is a repeating card-advantage engine.
 - **Immersturm Predator** — {2}{B}{R} 3/3 flying Vampire Dragon. Grows and exiles a graveyard card every time it becomes tapped; sacrificing **another** creature makes it indestructible and taps it, re-triggering itself. It survives your own wraths by eating a Requisitioner.
 - **Goldlust Triad** — {4}{R} 4/3 flier. **Myriad**: attacking makes a tapped-and-attacking copy for each *other* opponent, and each hit on a player makes a Treasure. In a three-opponent pod one swing is three Dragons (the copies trigger Dragon Tempest and Scourge of Valkas) and up to three Treasures.
 - **Smaug, Wicked Worm** — {3}{B}{R} 5/5 flier. Enters with X tapped Treasures (X = opposing artifacts), then draws a card and costs you 1 life whenever you cast a spell with Treasure mana. Treasure turns are card-advantage turns.
@@ -47,15 +47,15 @@ Heroes arrive daily to slay Smaug and leave daily as cautionary tales. He yawns,
 - **Drakuseth, Maw of Flames** — {4}{R}{R}{R} 7/7 flier. Each attack deals 4 damage to any target and 3 to each of up to two others. Spread it across the pod, or put 4 into Smaug for four Treasures.
 - **Skyline Despot** — {5}{R}{R} 5/5 flier. Makes you the **monarch** — an extra card each turn — and a 5/5 flying Dragon every upkeep you hold the crown. Your fliers are the best defence a monarch could ask for.
 - **Shivan Devastator** — {X}{R} flying, haste Dragon Hydra with X +1/+1 counters. The deck's Treasure sink: it turns a hoard into a hasty finisher, and it is a Dragon entering for every trigger above.
+- **Steel Hellkite** — {6} colourless 5/5 flying Dragon. `{X}` (once a turn): destroy each nonland permanent with mana value X controlled by a player it dealt combat damage to this turn, a scalable answer to artifacts and enchantments. `{2}`: +1/+0. It needs no red mana, and every Dragon reducer and Orb of Dragonkind applies.
 
-### Enchantments (5)
+### Enchantments (4)
 - **Dragon Tempest** — {1}{R}. Fliers you control gain haste when they enter, and every Dragon that enters deals X damage to any target, X being your Dragon count. Point it at Smaug for X Treasures.
 - **Outpost Siege** — {3}{R}. Choose **Khans**: exile the top card each upkeep and play it that turn, a steady stream of cards for the whole game. (Dragons mode, which pings whenever one of your creatures leaves, is the alternative if you plan a big sweeper turn.)
 - **The Misty Mountains Cold** — {2}{R} Saga. A Treasure each chapter, but it checks after each one: the moment you control four or more Treasures it sacrifices itself for a 6/6 flying Dragon.
-- **Crucible of Fire** — {3}{R}. Dragons you control get +3/+3: an 11/10 Smaug, and every token an 8/8 flier.
 - **Burn, Burn, Tree and Fern** — {3}{R} Saga. Six damage to an opposing creature, then destroy an opposing artifact, then two chapters of {R} mana. Both targets are opponents', so it never feeds Smaug.
 
-### Artifacts & Mana (14)
+### Artifacts & Mana (15)
 - **Sol Ring** — {1}. The fastest ramp in the format.
 - **Arcane Signet** — {2}. Taps for black or red, the whole of your commander's identity.
 - **Rakdos Signet** — {2}. `{1},{T}`: add {B}{R}. Net one mana and fixes both colours in one tap.
@@ -67,9 +67,10 @@ Heroes arrive daily to slay Smaug and leave daily as cautionary tales. He yawns,
 - **Herald's Horn** — {3}. Name **Dragon**: Dragon spells cost {1} less, and each upkeep you look at the top card and take it if it is a Dragon.
 - **Hazoret's Monument** — {3} legendary. Red creature spells cost {1} less (Smaug is red as well as black) and every creature spell lets you rummage a card away.
 - **Dawnsire, Sunstar Dreadnought** — {5} legendary Spacecraft. **Station** (tap another creature you control: put charge counters equal to its power on it; sorcery speed). At **10+** counters, whenever you attack it deals **100 damage** to up to one target creature or planeswalker. Aim it at your indestructible Smaug for **100 Treasures every combat**, which Exsanguinate or Shivan Devastator turns into a win. Tap other creatures to station it (Smaug has to attack), and **stop between 10 and 19 counters**: at 20 it becomes a creature that dies to removal and to your own Blasphemous Act. Hoarding Dragon can tutor it.
+- **Soul-Guide Lantern** — {1}. Exiles a card from a graveyard when it enters; sacrifice it to exile **each opponent's graveyard** (the deck's answer to reanimator) or pay {1} and sacrifice it to draw a card.
 - **Spicy Oatmeal Pizza** — {2}{R} Food. Enters dealing 4 damage to any target and 3 to you: aimed at Smaug it is **four Treasures for three mana**. The Food afterwards gains you 3 life, a catch-up for the pod.
 - **The Black Arrow** — {3} flash Equipment. Deals 1 damage to any target when it enters and **destroys a Dragon** it damages — instant-speed answer to an opposing Dragon. Aimed at indestructible Smaug it just makes a Treasure. Equipped creature gets +1/+1 and reach.
-- **Swiftfoot Boots** — {2} Equipment, equip {1}. Smaug already has haste and indestructible; **hexproof** is the missing piece against targeted removal. It does not stop sweepers or edicts. *(Five owned, three sleeved in reserved decks, so two copies are free.)*
+- **Air Shoes (Swiftfoot Boots)** — {2} Equipment, equip {1}. Smaug already has haste and indestructible; **hexproof** is the missing piece against targeted removal. It does not stop sweepers or edicts. *(Five owned, three sleeved in reserved decks, so two copies are free.)*
 
 ### Instants (13)
 - **Lightning Bolt** — {R}. 3 damage to any target: a face, a creature, or three Treasures at instant speed.
@@ -82,8 +83,8 @@ Heroes arrive daily to slay Smaug and leave daily as cautionary tales. He yawns,
 - **Go for the Throat** — {1}{B}. Cheap instant-speed kill, with the usual exception of artifact creatures.
 - **Extended Absence** — {3}{B}. Exile target creature or planeswalker, deal 1 damage to each opponent and gain 1 life. The deck's hard answer to threats that damage and destroy effects can't handle.
 - **Violent Echoes** — {2}{R}{R}. 6 damage to target creature or planeswalker at instant speed: premium removal, or six Treasures aimed at Smaug. Excess damage also makes a small Jace token, a bonus rather than a plan.
+- **Break Under Pressure** — {2}{B} instant. Target opponent sacrifices the creature or planeswalker with the greatest mana value among those they control, and you gain 2 life. An edict gets past hexproof, ward and indestructible.
 - **Big Score** — {3}{R}. Discard a card, draw two, and make two Treasures.
-- **Unexpected Windfall** — {2}{R}{R}. Discard a card, draw two, and make two Treasures.
 - **Breath Weapon** — {2}{R}. 2 damage to each **non-Dragon** creature. A one-sided sweep that spares nearly all of your team.
 
 ### Sorceries (4)
@@ -92,7 +93,7 @@ Heroes arrive daily to slay Smaug and leave daily as cautionary tales. He yawns,
 - **Seize the Spoils** — {2}{R}. Discard a card, draw two, make a Treasure.
 - **Exsanguinate** — {X}{B}{B}. Each opponent loses X and you gain that much. Treasures supply the black, and a hoard becomes a win with no combat at all.
 
-### Lands (35)
+### Lands (34)
 - **Command Tower** — Both of your colours.
 - **Path of Ancestry** — Both colours, and it scries on every Dragon you cast. Enters tapped.
 - **Temple of Malice** — Black/red dual with scry 1. Enters tapped.
@@ -106,7 +107,7 @@ Heroes arrive daily to slay Smaug and leave daily as cautionary tales. He yawns,
 - **Evolving Wilds** — Fixes to either basic.
 - **Terramorphic Expanse** — Fixes to either basic.
 - **Fabled Passage** — Fixes to either basic, and comes back untapped with four lands.
-- **Mountain (×15)** — Red-heavy base: the deck's pips run roughly 8:1 red to black.
+- **Mountain (×14)** — Red-heavy base: the deck's pips run roughly 8:1 red to black.
 - **Swamp (×7)** — Seven Swamps keep Smaug, Wicked Worm, Immersturm Predator and the black spells castable.
 
 ---
@@ -119,7 +120,7 @@ Heroes arrive daily to slay Smaug and leave daily as cautionary tales. He yawns,
 - **Dawnsire + Smaug**: Station it to 10 or more counters with creatures other than Smaug, attack, and its 100 damage lands on your indestructible commander for **100 Treasures** a combat. Exsanguinate or Shivan Devastator turns the hoard into the win. Stay at 19 counters or below so it isn't a creature, and Hoarding Dragon can tutor it.
 - **Perforating Artist + a hasty commander**: Smaug attacks every turn, so raid is always on: each opponent loses 3 life, sacrifices a nonland permanent or discards at your end step. Spread across three opponents it is a steady clock.
 - **Parapet Thrasher + Smaug**: any Dragon that connects lets Thrasher deal 4 damage to **each other** opponent (8 across a three-opponent pod), destroy an artifact, or impulse-draw. Goldlust Triad's myriad copies trigger it again for each opponent they hit.
-- **Thundermane Dragon + a top-heavy creature suite**: 17 of your creatures have power 4 or more, so Thundermane Dragon casts them off the top of the library with haste.
+- **Thundermane Dragon + a top-heavy creature suite**: 18 of your creatures have power 4 or more, so Thundermane Dragon casts them off the top of the library with haste.
 - **Seismic Rupture / Breath Weapon + a deck of fliers and Dragons**: both sweepers one-sidedly kill the ground game of an opposing pod. Of your six small non-flying, non-Dragon creatures, only Dragonlord's Servant (toughness 3) survives; the other five die.
 - **Treasure hoard + Exsanguinate / Shivan Devastator**: when the hoard gets large, Exsanguinate is a table-wide drain and Shivan Devastator is a hasty finisher, both sized by however many Treasures you made.
 
@@ -127,7 +128,7 @@ Heroes arrive daily to slay Smaug and leave daily as cautionary tales. He yawns,
 
 | Token | P/T | Color | Type | Abilities | Created By |
 |-------|-----|-------|------|-----------|------------|
-| Treasure | — | Colorless | Artifact — Treasure | "{T}, Sacrifice: Add one mana of any color" | Smaug the Impenetrable; Smaug the Magnificent; Smaug, Wicked Worm; Sarkhan, Dragon Ascendant; Riveteers Requisitioner; Atsushi, the Blazing Sky; Goldlust Triad; Rapacious Dragon; The Misty Mountains Cold; Big Score; Unexpected Windfall; Seize the Spoils |
+| Treasure | — | Colorless | Artifact — Treasure | "{T}, Sacrifice: Add one mana of any color" | Smaug the Impenetrable; Smaug the Magnificent; Smaug, Wicked Worm; Sarkhan, Dragon Ascendant; Riveteers Requisitioner; Atsushi, the Blazing Sky; Goldlust Triad; Rapacious Dragon; The Misty Mountains Cold; Big Score; Seize the Spoils |
 | Dragon | 5/5 | Red | Creature — Dragon | Flying | Dragonmaster Outcast; Lathliss, Dragon Queen; Skyline Despot |
 | Dragon | 6/6 | Red | Creature — Dragon | Flying | The Misty Mountains Cold |
 | Dragon Illusion | X/X | Red | Creature — Dragon Illusion | Flying, haste; exiled at the next end step | Manaform Hellkite |
@@ -137,15 +138,15 @@ Heroes arrive daily to slay Smaug and leave daily as cautionary tales. He yawns,
 
 ## Mana Curve
 
-64 non-land, non-commander spells. **Average mana value 3.55.**
+65 non-land, non-commander spells. **Average mana value 3.52.**
 
 - 0 CMC: 0 cards
-- 1 CMC: 4 cards — `████`
+- 1 CMC: 5 cards — `█████`
 - 2 CMC: 14 cards — `██████████████`
-- 3 CMC: 17 cards — `█████████████████`
-- 4 CMC: 15 cards — `███████████████`
+- 3 CMC: 18 cards — `██████████████████`
+- 4 CMC: 13 cards — `█████████████`
 - 5 CMC: 7 cards — `███████`
-- 6 CMC: 2 cards — `██`
+- 6 CMC: 3 cards — `███`
 - 7+ CMC: 5 cards — `█████`
 
 Blasphemous Act is counted at its full printed value of 9 (it usually costs {R}), Exsanguinate and Shivan Devastator at their base cost with X = 0, and Smaug the Impenetrable (the commander) is not counted. The Dragon cost reducers push the effective curve well below this.
@@ -164,9 +165,9 @@ Blasphemous Act is counted at its full printed value of 9 (it usually costs {R})
 
 ## Why These Choices (Summary)
 
-- **Tribal first, Treasure second**: with 23 Dragons, cost reducers and Dragon-only mana rocks do real work, and Dragon enter-triggers (Dragon Tempest, Scourge of Valkas, Lathliss) turn every Dragon into value.
-- **Ramp and fixing**: 8 mana rocks, four cost reducers (Dragonlord's Servant, Dragonspeaker Shaman, Herald's Horn, Hazoret's Monument) and a Treasure-making two-drop in Sarkhan sit on top of 35 lands. Red is the main colour (about 69 red pips to 10 black); black is limited to Smaug, Smaug, Wicked Worm, Immersturm Predator, Midnight Reaper and a few spells, and Treasures and Haven of the Spirit Dragon help fix it.
-- **Pod-ready interaction**: three sweepers (two of them one-sided), hard exile (Extended Absence), removal that also hits artifacts and enchantments (Abrade, Chaos Warp, Withering Torment, Burn, Burn, Tree and Fern, Parapet Thrasher), and The Black Arrow as a clean answer to an opposing Dragon.
+- **Tribal first, Treasure second**: with 24 Dragons, cost reducers and Dragon-only mana rocks do real work, and Dragon enter-triggers (Dragon Tempest, Scourge of Valkas, Lathliss) turn every Dragon into value.
+- **Ramp and fixing**: 8 mana rocks, four cost reducers (Dragonlord's Servant, Dragonspeaker Shaman, Herald's Horn, Hazoret's Monument) and a Treasure-making two-drop in Sarkhan sit on top of 34 lands. Red is the main colour (about 66 red pips to 11 black); black is limited to Smaug, Smaug, Wicked Worm, Immersturm Predator, Perforating Artist and a few spells, and Treasures and Haven of the Spirit Dragon help fix it.
+- **Pod-ready interaction**: three sweepers (two of them one-sided), hard exile (Extended Absence), an edict (Break Under Pressure), graveyard hate (Soul-Guide Lantern), removal that also hits artifacts and enchantments (Abrade, Chaos Warp, Withering Torment, Steel Hellkite, Burn, Burn, Tree and Fern, Parapet Thrasher), and The Black Arrow as a clean answer to an opposing Dragon.
 - **Group win conditions**: Parapet Thrasher, Drakuseth, Firespitter Whelp, Goldlust Triad's myriad, Exsanguinate and Dragonhawk all scale with the number of opponents, and the monarch engine of Skyline Despot keeps the cards coming.
 - **Notable omissions**: planeswalkers (none in the collection fit Black/Red), counterspells, mass artifact/enchantment removal and a second hexproof piece — see below.
 
@@ -182,8 +183,8 @@ Blasphemous Act is counted at its full printed value of 9 (it usually costs {R})
 - **Mana demands**: RR is everywhere and RRR shows up in Scourge of Valkas and Drakuseth, with BB in Exsanguinate. Counting fetchlands, roughly 26 red and 19 black sources, plus Treasures, are enough but not generous, and six lands enter tapped.
 - **Top-end weight**: four seven-drops (Terror of Mount Velus, Tyrant's Familiar, Drakuseth, Skyline Despot) plus Blasphemous Act. The reducers fix this only when you draw them.
 - **Protection is thin**: Swiftfoot Boots and Thunderbreak Regent are all there is. Exile, edicts and -X/-X still answer Smaug.
-- **Enchantment/artifact removal is spot-only**: Abrade, Chaos Warp, Withering Torment, Burn, Burn, Tree and Fern and Parapet Thrasher answer one permanent at a time. Nevinyrral's Disk is the only mass answer in the pool, and it kills your Dragons too.
-- **Graveyard hate and counters**: none included (Bojuka Bog and Soul-Guide Lantern are owned if the pod needs them), and there is little lifegain beyond Spicy Oatmeal Pizza and Exsanguinate.
+- **Enchantment/artifact removal is spot-only**: Abrade, Chaos Warp, Withering Torment, Burn, Burn, Tree and Fern and Parapet Thrasher answer one permanent at a time; Steel Hellkite is the only one that scales. Nevinyrral's Disk is the only mass answer in the pool, and it kills your Dragons too.
+- **Graveyard hate and counters**: Soul-Guide Lantern is the only graveyard answer (Bojuka Bog is owned if the pod needs more), there are no counters, and there is little lifegain beyond Spicy Oatmeal Pizza and Exsanguinate.
 
 ## Next Steps (Optional Suggestions)
 
@@ -230,11 +231,13 @@ The **Precon(s)** column lists precon sources from `moxfield_cards.md`. The deck
 | Command Tower | — | Land | Counter Intelligence; Dance of the Elements; Prismari Artistry; Squirreled Away; The Bark Ages |
 | Exotic Orchard | — | Land | Counter Intelligence; Dance of the Elements; Prismari Artistry; Squirreled Away |
 | Fabled Passage | — | Land | Prismari Artistry |
-| Mountain (×15) | — | Basic Land | Counter Intelligence; Dance of the Elements; Foundations Beginner Box; Otter Limits; Prismari Artistry; The Bark Ages |
+| Mountain (×14) | — | Basic Land | Counter Intelligence; Dance of the Elements; Foundations Beginner Box; Otter Limits; Prismari Artistry; The Bark Ages |
 | Path of Ancestry | — | Land | Dance of the Elements; Prismari Artistry; Squirreled Away; The Bark Ages |
 | Terramorphic Expanse | — | Land | Prismari Artistry; Squirreled Away |
-| Swamp (×7) | — | Basic Land | Dance of the Elements; Foundations Beginner Box; Squirreled Away |
+| Soul-Guide Lantern | {1} | Artifact | Counter Intelligence |
 | Evolving Wilds | — | Land | Counter Intelligence; Squirreled Away |
+| Swamp (×7) | — | Basic Land | Dance of the Elements; Foundations Beginner Box; Squirreled Away |
+| Break Under Pressure | {2}{B} | Instant | — |
 | Exsanguinate | {X}{B}{B} | Sorcery | — |
 | Extended Absence | {3}{B} | Instant | — |
 | Go for the Throat | {1}{B} | Instant | — |
@@ -242,7 +245,6 @@ The **Precon(s)** column lists precon sources from `moxfield_cards.md`. The deck
 | Atsushi, the Blazing Sky | {2}{R}{R} | Legendary Creature | — |
 | Breath Weapon | {2}{R} | Instant | — |
 | Burn, Burn, Tree and Fern | {3}{R} | Enchantment | — |
-| Crucible of Fire | {3}{R} | Enchantment | — |
 | Dragon Tempest | {1}{R} | Enchantment | — |
 | Dragonhawk, Fate's Tempest | {3}{R}{R} | Legendary Creature | — |
 | Dragonlord's Servant | {1}{R} | Creature | Foundations Beginner Box |
@@ -276,8 +278,8 @@ The **Precon(s)** column lists precon sources from `moxfield_cards.md`. The deck
 | Thunderbreak Regent | {2}{R}{R} | Creature | — |
 | Thundermane Dragon | {3}{R} | Creature | — |
 | Tyrant's Familiar | {5}{R}{R} | Creature | — |
-| Unexpected Windfall | {2}{R}{R} | Instant | Sonic the Hedgehog: Chasing Adventure |
 | Violent Echoes | {2}{R}{R} | Instant | — |
+| Air Shoes (Swiftfoot Boots) | {2} | Artifact | Sonic the Hedgehog: Turbo Gear |
 | Bloodfell Caves | — | Land | — |
 | Castle Locthwain | — | Land | — |
 | Dawnsire, Sunstar Dreadnought | {5} | Legendary Artifact | — |
@@ -289,8 +291,8 @@ The **Precon(s)** column lists precon sources from `moxfield_cards.md`. The deck
 | Patchwork Banner | {3} | Artifact | — |
 | Rakdos Guildgate | — | Land | — |
 | Rakdos Signet | {2} | Artifact | — |
+| Steel Hellkite | {6} | Artifact Creature | — |
 | Sulfurous Springs | — | Land | — |
-| Swiftfoot Boots | {2} | Artifact | Sonic the Hedgehog: Turbo Gear |
 | Talisman of Indulgence | {2} | Artifact | — |
 | Temple of Malice | — | Land | — |
 | The Black Arrow | {3} | Legendary Artifact | — |
