@@ -1,16 +1,17 @@
 1 Smaug the Impenetrable *CMDR*
 1 Abrade
+1 Air Shoes
 1 Arcane Signet
 1 Atsushi, the Blazing Sky
 1 Big Score
 1 Blasphemous Act
 1 Bloodfell Caves
+1 Break Under Pressure
 1 Breath Weapon
 1 Burn, Burn, Tree and Fern
 1 Castle Locthwain
 1 Chaos Warp
 1 Command Tower
-1 Crucible of Fire
 1 Dawnsire, Sunstar Dreadnought
 1 Dragon Tempest
 1 Dragon's Hoard
@@ -58,11 +59,12 @@
 1 Smaug the Magnificent
 1 Smaug, Wicked Worm
 1 Sol Ring
+1 Soul-Guide Lantern
 1 Spicy Oatmeal Pizza
 1 Spit Flame
+1 Steel Hellkite
 1 Stingerquill Charm
 1 Sulfurous Springs
-1 Swiftfoot Boots
 1 Talisman of Indulgence
 1 Temple of Malice
 1 Terramorphic Expanse
@@ -73,8 +75,7 @@
 1 Thundermane Dragon
 1 Turbulent Crater
 1 Tyrant's Familiar
-1 Unexpected Windfall
 1 Violent Echoes
 1 Withering Torment
-15 Mountain
+14 Mountain
 7 Swamp
