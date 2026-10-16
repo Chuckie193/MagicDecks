@@ -1,69 +1,93 @@
 1 Dr. Eggman *CMDR*
+1 Abrade
+1 Adaptive Automaton
 1 Air Shoes
+1 Anchovy & Banana Pizza
+1 Arcane Denial
+1 Arcane Signet
+1 Archon of Cruelty
 1 Barkform Harvester
-1 Bloodtithe Collector
-1 Bumbleflower's Sharepot
+1 Blasphemous Act
+1 Brilliance Unleashed
+1 Buried Ruin
 1 Buzz Bots
-1 Cancel
-1 Cemetery Recruitment
-1 Charmed Sleep
-1 Cindering Cutthroat
-1 Corsair Captain
-1 Dire Downdraft
-1 Diresight
-1 Dragon Fodder
-1 Easy Prey
-1 Eaten Alive
+1 Cascade Bluffs
+1 Chain Reaction
+1 Chief of the Foundry
+1 Command Tower
+1 Commander's Sphere
+1 Counterspell
+1 Crystalline Crawler
+1 Cultivator's Caravan
+1 Cyberdrive Awakener
+1 Deadly Dispute
+1 Decree of Pain
+1 Depthshaker Titan
+1 Drowned Catacomb
 1 Egg Hammer
-1 Erudite Wizard
+1 Etherium Sculptor
+1 Exotic Orchard
+1 Fabled Passage
 1 Fabricate
-1 Fiery Annihilation
-1 Goblin Firebomb
-1 Harmonized Crescendo
+1 Fateful Discovery
+1 Feed the Swarm
+1 Firdoch Core
+1 Foundry Inspector
+1 Frostboil Snarl
+1 Great Furnace
+1 Guidelight Optimizer
+1 Hangarback Walker
+1 Herald's Horn
 1 Hero's Downfall
-1 Hidden Blade
-1 Impolite Entrance
-1 Into the Roil
+1 Infernal Grasp
+1 Interceptor Mechan
+1 Jhoira, Weatherlight Captain
+1 Kappa Cannoneer
 1 Knuckles the Echidna
-1 Knuckles's Gloves
-1 Kulrath Mystic
-1 Mind Spring
-1 Mischievous Mystic
-1 Mouser Attack!
-1 Mouth of the Storm
-1 Negate
-1 Nightmare Sower
-1 Offer Immortality
-1 Opt
-1 Palladium Myr
-1 Pirate's Cutlass
+1 Lich's Relic
+1 Maskwood Nexus
+1 Master of Etherium
+1 Memory Guardian
+1 Metalhead
+1 Mind Stone
+1 Padeem, Consul of Innovation
+1 Path of Ancestry
 1 Power Sneakers
-1 Quick Study
-1 Quick-Draw Katana
-1 Rapacious Dragon
-1 Riveteers Requisitioner
-1 Rock Soldiers
-1 Run Away Together
+1 Prismari Command
+1 Reliquary Tower
+1 Sai, Master Thopterist
+1 Scorched Geyser
+1 Scrawling Crawler
+1 Seat of the Synod
+1 Selfcraft Mechan
+1 Shipwreck Marsh
+1 Shivan Reef
+1 Silverbluff Bridge
+1 Skysovereign, Consul Flagship
 1 Sol Ring
-1 Spectral Sailor
-1 Spellgyre
-1 Stargaze
-1 Starting Column
-1 Storm Fleet Spy
-1 Strangle
+1 Spire of Industry
+1 Steel Hellkite
+1 Steel Overseer
+1 Stormcarved Coast
+1 Sulfur Falls
+1 Sulfurous Springs
+1 Sunken Ruins
 1 Super State
-1 Sword of Vengeance
-1 The Ozolith
-1 Thieving Otter
-1 Tolarian Terror
+1 Talisman of Creativity
+1 Talisman of Dominance
+1 Talisman of Indulgence
+1 Taurean Mauler
+1 Temple of Deceit
+1 Temple of Malice
+1 Thirst for Knowledge
+1 Thopter Fabricator
+1 Thought Monitor
 1 Tornado, Sonic's Biplane
-1 Unexpected Windfall
-1 Vampire Neonate
-1 Vampire Spawn
-1 Walking Sarcophagus
-1 Escape Tunnel
-10 Island
-10 Mountain
-8 Swamp
-4 Swiftwater Cliffs
-4 Uncharted Haven
+1 Turbulent Crater
+1 Turbulent Springs
+1 Turbulent Wetlands
+1 Underground River
+1 Utrom Scientists
+4 Island
+3 Mountain
+3 Swamp
