@@ -1,6 +1,6 @@
 # Potential Commanders
 
-All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **247 cards**.
+All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your collection — **256 cards**.
 
 > Generated from `moxfield_latest.csv`, the source of truth for ownership. Every card listed here is owned. Cards from `Commander Staples/` are deliberately excluded — that folder is a want-list, not a collection.
 
@@ -162,6 +162,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Tomik_Izzet_Sparkmage.jpg" alt="Tomik, Izzet Sparkmage" width="200"> | **Tomik, Izzet Sparkmage** | Legendary Creature — Human Wizard |  |
 | <img src="images/commanders/Venser_Fervent_Forger.jpg" alt="Venser, Fervent Forger" width="200"> | **Venser, Fervent Forger** | Legendary Creature — Human Sorcerer | MultiverseReforged |
 | <img src="images/commanders/Winter_Team_Player.jpg" alt="Winter, Team Player" width="200"> | **Winter, Team Player** | Legendary Creature — Human Warrior |  |
+| <img src="images/commanders/Yidaro_Wandering_Monster.jpg" alt="Yidaro, Wandering Monster" width="200"> | **Yidaro, Wandering Monster** | Legendary Creature — Dinosaur Turtle |  |
 | <img src="images/commanders/Zog_Triceraton_Castaway.jpg" alt="Zog, Triceraton Castaway" width="200"> | **Zog, Triceraton Castaway** | Legendary Creature — Dinosaur Soldier |  |
 | <img src="images/commanders/Óin_the_Brave.jpg" alt="Óin the Brave" width="200"> | **Óin the Brave** | Legendary Creature — Dwarf Warrior |  |
 
@@ -225,6 +226,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | Card | Name | Type | Precon |
 |------|------|------|--------|
 | <img src="images/commanders/Alpharael_Dreaming_Acolyte.jpg" alt="Alpharael, Dreaming Acolyte" width="200"> | **Alpharael, Dreaming Acolyte** | Legendary Creature — Human Cleric |  |
+| <img src="images/commanders/Gyruda_Doom_of_Depths.jpg" alt="Gyruda, Doom of Depths" width="200"> | **Gyruda, Doom of Depths** | Legendary Creature — Demon Kraken |  |
 | <img src="images/commanders/Uldaros_Theorix.jpg" alt="Uldaros Theorix" width="200"> | **Uldaros Theorix** | Legendary Creature — Elder Sphinx |  |
 
 ## Black, Blue, White
@@ -238,9 +240,16 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 
 | Card | Name | Type | Precon |
 |------|------|------|--------|
+| <img src="images/commanders/Brokkos_Apex_of_Forever.jpg" alt="Brokkos, Apex of Forever" width="200"> | **Brokkos, Apex of Forever** | Legendary Creature — Nightmare Beast Elemental |  |
 | <img src="images/commanders/Muldrotha_the_Gravetide.jpg" alt="Muldrotha, the Gravetide" width="200"> | **Muldrotha, the Gravetide** | Legendary Creature — Elemental Avatar | DanceOfTheElements |
 | <img src="images/commanders/Thranduil_the_Elvenking.jpg" alt="Thranduil, the Elvenking" width="200"> | **Thranduil, the Elvenking** | Legendary Creature — Elf Noble |  |
 | <img src="images/commanders/Yarok_the_Desecrated.jpg" alt="Yarok, the Desecrated" width="200"> | **Yarok, the Desecrated** | Legendary Creature — Elemental Horror | DanceOfTheElements |
+
+## Black, Green, Red
+
+| Card | Name | Type | Precon |
+|------|------|------|--------|
+| <img src="images/commanders/Hearthhull_the_Worldseed.jpg" alt="Hearthhull, the Worldseed" width="200"> | **Hearthhull, the Worldseed** | Legendary Artifact — Spacecraft |  |
 
 ## Black, Green, Red, Blue, White
 
@@ -249,6 +258,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Ashling_the_Limitless.jpg" alt="Ashling, the Limitless" width="200"> | **Ashling, the Limitless** | Legendary Creature — Elemental Sorcerer | DanceOfTheElements |
 | <img src="images/commanders/Codie_Ravenous_Codex.jpg" alt="Codie, Ravenous Codex" width="200"> | **Codie, Ravenous Codex** | Legendary Artifact Creature — Book Construct |  |
 | <img src="images/commanders/Horde_of_Notions.jpg" alt="Horde of Notions" width="200"> | **Horde of Notions** | Legendary Creature — Elemental | DanceOfTheElements |
+| <img src="images/commanders/Infinite_Guideline_Station.jpg" alt="Infinite Guideline Station" width="200"> | **Infinite Guideline Station** | Legendary Artifact — Spacecraft |  |
 | <img src="images/commanders/Jegantha_the_Wellspring.jpg" alt="Jegantha, the Wellspring" width="200"> | **Jegantha, the Wellspring** | Legendary Creature — Elemental Elk | DanceOfTheElements |
 | <img src="images/commanders/Mass_of_Mysteries.jpg" alt="Mass of Mysteries" width="200"> | **Mass of Mysteries** | Legendary Creature — Elemental | DanceOfTheElements |
 | <img src="images/commanders/Ramos_Dragon_Engine.jpg" alt="Ramos, Dragon Engine" width="200"> | **Ramos, Dragon Engine** | Legendary Artifact Creature — Dragon |  |
@@ -265,6 +275,12 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | Card | Name | Type | Precon |
 |------|------|------|--------|
 | <img src="images/commanders/Nissa_Leyline_Tamer.jpg" alt="Nissa, Leyline Tamer" width="200"> | **Nissa, Leyline Tamer** | Legendary Creature — Elf Wizard | MultiverseReforged |
+
+## Black, Red, White
+
+| Card | Name | Type | Precon |
+|------|------|------|--------|
+| <img src="images/commanders/Snapdax_Apex_of_the_Hunt.jpg" alt="Snapdax, Apex of the Hunt" width="200"> | **Snapdax, Apex of the Hunt** | Legendary Creature — Dinosaur Cat Nightmare |  |
 
 ## Black, White
 
@@ -314,11 +330,13 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Ruby_Daring_Tracker.jpg" alt="Ruby, Daring Tracker" width="200"> | **Ruby, Daring Tracker** | Legendary Creature — Human Scout |  |
 | <img src="images/commanders/Tovolar_Dire_Overlord_Tovolar_the_Midnight_Scourge.jpg" alt="Tovolar, Dire Overlord // Tovolar, the Midnight Scourge" width="200"> | **Tovolar, Dire Overlord // Tovolar, the Midnight Scourge** | Legendary Creature — Human Werewolf // Legendary Creature — Werewolf |  |
 | <img src="images/commanders/Ulrich_of_the_Krallenhorde_Ulrich_Uncontested_Alpha.jpg" alt="Ulrich of the Krallenhorde // Ulrich, Uncontested Alpha" width="200"> | **Ulrich of the Krallenhorde // Ulrich, Uncontested Alpha** | Legendary Creature — Human Werewolf // Legendary Creature — Werewolf |  |
+| <img src="images/commanders/Zilortha_Strength_Incarnate.jpg" alt="Zilortha, Strength Incarnate" width="200"> | **Zilortha, Strength Incarnate** | Legendary Creature — Dinosaur |  |
 
 ## Green, Red, Blue
 
 | Card | Name | Type | Precon |
 |------|------|------|--------|
+| <img src="images/commanders/Illuna_Apex_of_Wishes.jpg" alt="Illuna, Apex of Wishes" width="200"> | **Illuna, Apex of Wishes** | Legendary Creature — Beast Elemental Dinosaur |  |
 | <img src="images/commanders/Maelstrom_Wanderer.jpg" alt="Maelstrom Wanderer" width="200"> | **Maelstrom Wanderer** | Legendary Creature — Elemental | DanceOfTheElements |
 | <img src="images/commanders/Omnath_Locus_of_the_Roil.jpg" alt="Omnath, Locus of the Roil" width="200"> | **Omnath, Locus of the Roil** | Legendary Creature — Elemental | DanceOfTheElements |
 
@@ -354,6 +372,7 @@ All Legendary Creatures and Legendary Spacecraft (Station mechanic) in your coll
 | <img src="images/commanders/Inspirit_Flagship_Vessel.jpg" alt="Inspirit, Flagship Vessel" width="200"> | **Inspirit, Flagship Vessel** | Legendary Artifact — Spacecraft | CounterIntelligence |
 | <img src="images/commanders/Kilo_Apogee_Mind.jpg" alt="Kilo, Apogee Mind" width="200"> | **Kilo, Apogee Mind** | Legendary Artifact Creature — Robot Artificer | CounterIntelligence |
 | <img src="images/commanders/Sonic_the_Hedgehog.jpg" alt="Sonic the Hedgehog" width="200"> | **Sonic the Hedgehog** | Legendary Creature — Hedgehog Warrior | SonictheHedgehog FriendsandFoes |
+| <img src="images/commanders/Vadrok_Apex_of_Thunder.jpg" alt="Vadrok, Apex of Thunder" width="200"> | **Vadrok, Apex of Thunder** | Legendary Creature — Elemental Dinosaur Cat |  |
 | <img src="images/commanders/Vraska_Soul_of_Stone.jpg" alt="Vraska, Soul of Stone" width="200"> | **Vraska, Soul of Stone** | Legendary Creature — Gorgon Wizard |  |
 
 ## Red, White
