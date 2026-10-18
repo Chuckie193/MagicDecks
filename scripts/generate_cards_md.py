@@ -396,6 +396,26 @@ def convert_oracle_text(oracle_text: str) -> str:
     return text
 
 
+def card_oracle_text(data: dict) -> str:
+    """
+    Raw oracle text for a card, including multi-faced cards.
+
+    Scryfall leaves the top-level oracle_text empty for transform, modal DFC,
+    adventure and prepare cards, and stores each face's text under card_faces.
+    Without this fallback ~90 owned cards (every werewolf, every adventure)
+    showed blank rules text in card_details.md and were invisible to text searches.
+    Faces are joined as "Face A: text // Face B: text".
+    """
+    if not data:
+        return ''
+    text = data.get('oracle_text') or ''
+    if text:
+        return text
+    faces = data.get('card_faces') or []
+    parts = [f"{f.get('name', '')}: {f['oracle_text']}" for f in faces if f.get('oracle_text')]
+    return ' // '.join(parts)
+
+
 def read_existing_card_details(path: str) -> set:
     names = set()
     if not os.path.isfile(path):
@@ -561,7 +581,7 @@ def append_card_details(path: str, cache_dict: dict, not_found: list, alt_name_m
             scryfall_uri = s(data.get('scryfall_uri'))
             mana_cost = s(mana_cost_to_text(data.get('mana_cost','')))
             type_line = s(data.get('type_line',''))
-            oracle_text = s(convert_oracle_text(data.get('oracle_text','')))
+            oracle_text = s(convert_oracle_text(card_oracle_text(data)))
             power = s(data.get('power') or '')
             toughness = s(data.get('toughness') or '')
             colors = s(colors_to_text(data.get('colors',[])))
@@ -607,7 +627,7 @@ def append_card_details(path: str, cache_dict: dict, not_found: list, alt_name_m
                 scryfall_uri = data.get('scryfall_uri')
                 mana_cost = mana_cost_to_text(data.get('mana_cost',''))
                 type_line = data.get('type_line','')
-                oracle_text = convert_oracle_text(data.get('oracle_text',''))
+                oracle_text = convert_oracle_text(card_oracle_text(data))
                 power = data.get('power') or ''
                 toughness = data.get('toughness') or ''
                 colors = colors_to_text(data.get('colors',[]))
@@ -917,10 +937,11 @@ def is_commander_candidate(data: dict) -> bool:
         return False
     if "Creature" in type_line:
         return True
+    # A legendary Spacecraft can lead a deck only if it has a power/toughness box
+    # (i.e. it becomes a creature once stationed). Pure mana Stations such as
+    # The Eternity Elevator never become creatures and are not legal commanders.
     if "Spacecraft" in type_line:
-        oracle = data.get("oracle_text", "") or ""
-        if "Station" in oracle:
-            return True
+        return bool(data.get("power")) and bool(data.get("toughness"))
     return False
 
 
