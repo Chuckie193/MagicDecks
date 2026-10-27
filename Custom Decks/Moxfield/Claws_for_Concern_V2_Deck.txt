@@ -13,10 +13,10 @@
 1 Child of the Pack // Savage Packmate
 1 Cinder Glade
 1 Command Tower
-1 Daybreak Ranger // Nightfall Predator
 1 Duskwatch Recruiter // Krallenhorde Howler
+1 Edgar, Moonlit Sovereign
 1 Elvish Regrower
-1 Fangblade Brigand // Fangblade Eviscerator
+1 Friendly Rivalry
 1 Full Moon's Rise
 1 Game Trail
 1 Garruk's Uprising
@@ -59,6 +59,7 @@
 1 Scorned Villager // Moonscarred Werewolf
 1 Sheltered Thicket
 1 Silverfur Partisan
+1 Skysovereign, Consul Flagship
 1 Sol Ring
 1 The Celestus
 1 Tovolar's Huntmaster // Tovolar's Packleader
@@ -69,7 +70,6 @@
 1 Weaver of Blossoms // Blossom-Clad Werewolf
 1 Werewolf Pack Leader
 1 Wilderland Scrounger
-1 Wolf Strike
 1 Wolfkin Outcast // Wedding Crasher
 1 Zopandrel, Hunger Dominus
 15 Forest
