@@ -174,7 +174,7 @@ Base deck: **Claws for Concern** (the draft in `Custom Decks/Claws_for_Concern_D
 - 6 CMC: 4 cards | ████ (4)
 - 7+ CMC: 1 card | █ (1)
 
-Average CMC (non-land, exc. commander): **~3.31**, up slightly from 3.27 — Edgar and Skysovereign add two five-drops, while Friendly Rivalry and Moonrager's Slash are cheaper than what they replace.
+Average CMC (non-land, exc. commander): **~3.31**, up slightly from 3.27 — Edgar and Skysovereign add two five-drops, while Friendly Rivalry and Konstrari Charm are cheaper than what they replace.
 
 ---
 
